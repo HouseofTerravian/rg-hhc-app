@@ -84,3 +84,24 @@ alter table public.scenario_submissions enable row level security;
 create policy "Insert own submission"
   on public.scenario_submissions for insert
   with check (true);
+
+-- =====================
+-- user_profiles
+-- =====================
+create table if not exists public.user_profiles (
+  user_id       uuid primary key references auth.users(id) on delete cascade,
+  full_name     text,
+  phone         text,
+  partner_name  text,
+  partner_email text,
+  partner_phone text,
+  nooworld_id   text,
+  created_at    timestamptz default now(),
+  updated_at    timestamptz default now()
+);
+
+alter table public.user_profiles enable row level security;
+create policy "Users manage own profile"
+  on public.user_profiles for all
+  using (auth.uid() = user_id)
+  with check (auth.uid() = user_id);

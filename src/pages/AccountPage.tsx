@@ -46,9 +46,10 @@ export default function AccountPage() {
         {/* Links */}
         <div className="card" style={{ marginBottom: 20, padding: 0 }}>
           {[
-            { icon: '📅', label: 'My Mission History',  path: '/history'  },
-            { icon: '🎁', label: 'My Coupons',          path: '/coupons'  },
-            { icon: '✈️', label: 'Vacation Credits',    path: '/credits'  },
+            { icon: '📅', label: 'My Mission History',  path: '/history'      },
+            { icon: '🎁', label: 'My Coupons',          path: '/coupons'      },
+            { icon: '✈️', label: 'Vacation Credits',    path: '/credits'      },
+            { icon: '🔗', label: 'Ecosystem',            path: '/integrations' },
           ].map(item => (
             <button
               key={item.path}

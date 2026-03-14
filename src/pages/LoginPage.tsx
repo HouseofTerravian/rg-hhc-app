@@ -28,8 +28,21 @@ export default function LoginPage() {
           Relationship Goals
         </div>
 
-        <h1>Welcome back</h1>
-        <p>Sign in to access your daily love missions, coupons, and vacation credits.</p>
+        {/* Noo World SSO */}
+        <a
+          href={'https://id.thenooworld.com?redirect=' + encodeURIComponent('https://app.rg.hhc.travel/auth/nooworld-callback')}
+          className="btn btn-full"
+          style={{
+            background: 'linear-gradient(135deg, #1A0A2E, #2D1A4A)',
+            color: 'white',
+            marginBottom: 16,
+            justifyContent: 'center',
+          }}
+        >
+          🌐 &nbsp;Sign in with Noo World ID
+        </a>
+
+        <div className="auth-divider">or sign in with email</div>
 
         <form onSubmit={handleSubmit}>
           <div className="form-group">

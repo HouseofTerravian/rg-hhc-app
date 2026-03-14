@@ -7,7 +7,9 @@ import TodayPage   from './pages/TodayPage'
 import HistoryPage from './pages/HistoryPage'
 import CouponsPage from './pages/CouponsPage'
 import CreditsPage from './pages/CreditsPage'
-import AccountPage from './pages/AccountPage'
+import AccountPage      from './pages/AccountPage'
+import IntegrationsPage from './pages/IntegrationsPage'
+import NooWorldCallbackPage from './pages/NooWorldCallbackPage'
 
 function ProtectedRoute({ children }: { children: JSX.Element }) {
   const { user, loading } = useAuth()
@@ -30,8 +32,10 @@ function AppRoutes() {
           <Route path="/history"  element={<ProtectedRoute><HistoryPage /></ProtectedRoute>} />
           <Route path="/coupons"  element={<ProtectedRoute><CouponsPage /></ProtectedRoute>} />
           <Route path="/credits"  element={<ProtectedRoute><CreditsPage /></ProtectedRoute>} />
-          <Route path="/account"  element={<ProtectedRoute><AccountPage /></ProtectedRoute>} />
-          <Route path="*"         element={<Navigate to="/" replace />} />
+          <Route path="/account"       element={<ProtectedRoute><AccountPage /></ProtectedRoute>} />
+          <Route path="/integrations"  element={<ProtectedRoute><IntegrationsPage /></ProtectedRoute>} />
+          <Route path="/auth/nooworld-callback" element={<NooWorldCallbackPage />} />
+          <Route path="*"              element={<Navigate to="/" replace />} />
         </Routes>
       </main>
     </div>
