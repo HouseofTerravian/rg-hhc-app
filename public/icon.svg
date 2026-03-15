@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
   <rect width="512" height="512" rx="112" fill="#085A59"/>
+  <path d="M256,410 C256,410 72,282 72,160 C72,96 120,50 188,50 C222,50 250,66 256,84 C262,66 290,50 324,50 C392,50 440,96 440,160 C440,282 256,410 256,410Z" fill="#E8603C"/>
   <text
-    x="256" y="310"
+    x="256" y="272"
     font-family="Georgia, serif"
-    font-size="220"
+    font-size="128"
     font-weight="700"
     fill="white"
     text-anchor="middle"
-    letter-spacing="-8"
+    letter-spacing="-4"
   >RG</text>
-  <circle cx="256" cy="148" r="28" fill="#E8603C" opacity="0.9"/>
 </svg>
