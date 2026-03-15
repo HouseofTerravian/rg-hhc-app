@@ -1,0 +1,20 @@
+{
+  "name": "Relationship Goals by HHC Travel",
+  "short_name": "Rel. Goals",
+  "description": "Daily love missions for couples. Unlock. Complete. Grow together.",
+  "start_url": "/today",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FDF6EC",
+  "theme_color": "#085A59",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["lifestyle", "health"]
+}
