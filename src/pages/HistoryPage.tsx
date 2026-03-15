@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { useAuth } from '../lib/AuthContext'
-import { supabase } from '../lib/supabaseClient'
+import { db } from '../lib/db'
 import DisclaimerStrip from '../components/DisclaimerStrip'
 
 interface HistoryEntry {
@@ -18,15 +18,10 @@ export default function HistoryPage() {
 
   useEffect(() => {
     if (!user) return
-    supabase
-      .from('mission_history')
-      .select('*')
-      .eq('user_id', user.id)
-      .order('completed_at', { ascending: false })
-      .then(({ data }) => {
-        setHistory(data ?? [])
-        setLoading(false)
-      })
+    db.getHistory(user.id).then(data => {
+      setHistory(data ?? [])
+      setLoading(false)
+    })
   }, [user])
 
   const formatDate = (iso: string) =>

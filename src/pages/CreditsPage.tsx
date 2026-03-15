@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { useAuth } from '../lib/AuthContext'
-import { supabase } from '../lib/supabaseClient'
+import { db } from '../lib/db'
 import DisclaimerStrip from '../components/DisclaimerStrip'
 
 export default function CreditsPage() {
@@ -10,15 +10,10 @@ export default function CreditsPage() {
 
   useEffect(() => {
     if (!user) return
-    supabase
-      .from('user_progress')
-      .select('vacation_credits')
-      .eq('user_id', user.id)
-      .single()
-      .then(({ data }) => {
-        setCredits(data?.vacation_credits ?? 0)
-        setLoading(false)
-      })
+    db.getProgress(user.id).then(data => {
+      setCredits(data?.vacation_credits ?? 0)
+      setLoading(false)
+    })
   }, [user])
 
   const milestones = [

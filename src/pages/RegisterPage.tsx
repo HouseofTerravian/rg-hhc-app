@@ -2,7 +2,7 @@ import { useState } from 'react'
 import type { FormEvent } from 'react'
 import { useNavigate, Link } from 'react-router-dom'
 import { useAuth } from '../lib/AuthContext'
-import { supabase } from '../lib/supabaseClient'
+import { db } from '../lib/db'
 
 const NWL_REDIRECT = 'https://id.thenooworld.com?redirect=' + encodeURIComponent('https://app.rg.hhc.travel/auth/nooworld-callback')
 
@@ -37,20 +37,17 @@ export default function RegisterPage() {
     setError('')
     setLoading(true)
 
-    const { error: err } = await signUp(email, password, name)
+    const { error: err, userId } = await signUp(email, password, name)
     if (err) { setError(err); setLoading(false); return }
 
-    // Save extended profile (phone + partner info)
-    const { data: { user } } = await supabase.auth.getUser()
-    if (user) {
-      await supabase.from('user_profiles').upsert({
-        user_id:       user.id,
+    if (userId) {
+      await db.upsertProfile(userId, {
         full_name:     name,
         phone,
         partner_name:  partnerName,
         partner_email: partnerEmail,
         partner_phone: partnerPhone,
-      }, { onConflict: 'user_id' })
+      })
     }
 
     setLoading(false)

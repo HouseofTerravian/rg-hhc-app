@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { useAuth } from '../lib/AuthContext'
-import { supabase } from '../lib/supabaseClient'
+import { db } from '../lib/db'
 import DisclaimerStrip from '../components/DisclaimerStrip'
 
 interface Coupon {
@@ -22,19 +22,14 @@ export default function CouponsPage() {
 
   useEffect(() => {
     if (!user) return
-    supabase
-      .from('user_coupons')
-      .select('*')
-      .eq('user_id', user.id)
-      .order('earned_at', { ascending: false })
-      .then(({ data }) => {
-        setCoupons(data ?? [])
-        setLoading(false)
-      })
+    db.getCoupons(user.id).then(data => {
+      setCoupons(data ?? [])
+      setLoading(false)
+    })
   }, [user])
 
   const handleMarkUsed = async (id: string) => {
-    await supabase.from('user_coupons').update({ used: true }).eq('id', id)
+    await db.markCouponUsed(id, user!.id)
     setCoupons(c => c.map(cp => cp.id === id ? { ...cp, used: true } : cp))
   }
 

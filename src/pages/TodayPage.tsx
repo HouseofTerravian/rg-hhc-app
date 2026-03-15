@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { useAuth } from '../lib/AuthContext'
-import { supabase } from '../lib/supabaseClient'
+import { db } from '../lib/db'
 import { MISSIONS } from '../data/missions'
 import type { Mission } from '../data/missions'
 import DisclaimerStrip from '../components/DisclaimerStrip'
@@ -29,19 +29,12 @@ export default function TodayPage() {
   }, [user])
 
   const loadProgress = async () => {
-    const { data } = await supabase
-      .from('user_progress')
-      .select('*')
-      .eq('user_id', user!.id)
-      .single()
-
+    const data = await db.getProgress(user!.id)
     if (data) {
       setDayIndex(data.current_day ?? 0)
       setStreak(data.streak ?? 0)
       setTotalDone(data.total_completed ?? 0)
       setCredits(data.vacation_credits ?? 0)
-
-      // Check if today already unlocked
       const today = new Date().toISOString().split('T')[0]
       setUnlocked(data.last_unlocked_date === today)
       setCompleted(data.last_completed_date === today)
@@ -60,18 +53,16 @@ export default function TodayPage() {
     const today = new Date().toISOString().split('T')[0]
     const newCredits = credits + 1
 
-    await supabase.from('user_progress').upsert({
-      user_id: user!.id,
+    await db.upsertProgress(user!.id, {
       current_day: dayIndex + 1,
       streak: streak + 1,
       total_completed: totalDone + 1,
       vacation_credits: newCredits,
       last_unlocked_date: today,
       last_completed_date: today,
-    }, { onConflict: 'user_id' })
+    })
 
-    // Log to history
-    await supabase.from('mission_history').insert({
+    await db.insertHistory({
       user_id: user!.id,
       mission_id: mission.id,
       mission_title: mission.title,
