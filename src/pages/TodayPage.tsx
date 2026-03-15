@@ -1,7 +1,8 @@
 import { useState, useEffect } from 'react'
 import { useAuth } from '../lib/AuthContext'
 import { supabase } from '../lib/supabaseClient'
-import { MISSIONS, Mission } from '../data/missions'
+import { MISSIONS } from '../data/missions'
+import type { Mission } from '../data/missions'
 import DisclaimerStrip from '../components/DisclaimerStrip'
 
 // Simulated: get today's mission based on user's progress day
@@ -170,7 +171,7 @@ export default function TodayPage() {
 
             {/* Mission body */}
             <div className="card" style={{ marginBottom: 16 }}>
-              <p style={{ fontSize: '0.9rem', color: 'var(--text-dim)', fontWeight: 600, letterSpacing: '0.08em', textTransform: 'uppercase', marginBottom: 10, fontSize: '0.72rem' }}>
+              <p style={{ fontSize: '0.72rem', color: 'var(--text-dim)', fontWeight: 600, letterSpacing: '0.08em', textTransform: 'uppercase', marginBottom: 10 }}>
                 Today's Mission
               </p>
               <p style={{ fontSize: '0.95rem', color: 'var(--text)', lineHeight: 1.75, marginBottom: 12 }}>

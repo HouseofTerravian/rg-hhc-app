@@ -1,3 +1,4 @@
+import React from 'react'
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 import { AuthProvider, useAuth } from './lib/AuthContext'
 import AppNav      from './components/AppNav'
@@ -11,7 +12,7 @@ import AccountPage      from './pages/AccountPage'
 import IntegrationsPage from './pages/IntegrationsPage'
 import NooWorldCallbackPage from './pages/NooWorldCallbackPage'
 
-function ProtectedRoute({ children }: { children: JSX.Element }) {
+function ProtectedRoute({ children }: { children: React.ReactElement }) {
   const { user, loading } = useAuth()
   if (loading) return <div style={{ padding: 40, textAlign: 'center', color: 'var(--text-dim)' }}>Loading…</div>
   return user ? children : <Navigate to="/login" replace />
