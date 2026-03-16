@@ -67,6 +67,21 @@ export default function AccountPage() {
             </button>
           ))}
           <a
+            href="https://buy.stripe.com/7sYbJ01T1d5n2bacKMbjW07"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              display: 'flex', alignItems: 'center', gap: 14,
+              padding: '16px 20px', borderBottom: '1px solid var(--border)',
+              color: 'var(--text)',
+              background: 'linear-gradient(135deg, rgba(14,124,123,0.06), rgba(14,124,123,0.02))',
+            }}
+          >
+            <span style={{ fontSize: '1.2rem' }}>🏆</span>
+            <span style={{ fontWeight: 600, color: 'var(--teal-dark)' }}>365-Day Pledge — $299</span>
+            <span style={{ marginLeft: 'auto', color: 'var(--teal)' }}>↗</span>
+          </a>
+          <a
             href="https://rg.hhc.travel"
             target="_blank"
             rel="noopener noreferrer"

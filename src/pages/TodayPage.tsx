@@ -321,6 +321,40 @@ export default function TodayPage() {
             </p>
           </>
         )}
+
+        {/* 365-Day Pledge upsell — show when on daily plan */}
+        {!completed && unlocked && (
+          <div style={{
+            marginTop: 24,
+            background: 'linear-gradient(135deg, var(--teal-dark), var(--teal))',
+            borderRadius: 16,
+            padding: '20px 18px',
+            textAlign: 'center',
+          }}>
+            <p style={{ fontSize: '0.75rem', fontWeight: 700, color: 'rgba(255,255,255,0.7)', letterSpacing: '0.08em', textTransform: 'uppercase', marginBottom: 6 }}>
+              Upgrade
+            </p>
+            <h4 style={{ color: 'white', fontSize: '1rem', marginBottom: 6 }}>
+              Skip the daily unlock. Commit for a full year.
+            </h4>
+            <p style={{ color: 'rgba(255,255,255,0.75)', fontSize: '0.8rem', lineHeight: 1.55, marginBottom: 14 }}>
+              The 365-Day Pledge — $299 one-time. You still unlock each day consciously, but the year is paid. 3× vacation credits. Coaching session included.
+            </p>
+            <a
+              href="https://buy.stripe.com/7sYbJ01T1d5n2bacKMbjW07"
+              target="_blank"
+              rel="noopener"
+              className="btn btn-sm"
+              style={{
+                background: 'white',
+                color: 'var(--teal-dark)',
+                fontWeight: 700,
+              }}
+            >
+              Make the 365-Day Pledge →
+            </a>
+          </div>
+        )}
       </div>
 
       <DisclaimerStrip />
