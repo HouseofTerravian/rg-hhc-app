@@ -3,6 +3,7 @@ import { useAuth } from '../lib/AuthContext'
 
 const NAV_ITEMS = [
   { path: '/today',    icon: '📅', label: 'Today'    },
+  { path: '/programs', icon: '📋', label: 'Programs' },
   { path: '/history',  icon: '📖', label: 'History'  },
   { path: '/coupons',  icon: '🎁', label: 'Coupons'  },
   { path: '/credits',  icon: '✈️',  label: 'Credits'  },

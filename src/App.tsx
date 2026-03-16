@@ -9,6 +9,7 @@ import HistoryPage from './pages/HistoryPage'
 import CouponsPage from './pages/CouponsPage'
 import CreditsPage from './pages/CreditsPage'
 import AccountPage      from './pages/AccountPage'
+import ProgramsPage     from './pages/ProgramsPage'
 import IntegrationsPage from './pages/IntegrationsPage'
 import NooWorldCallbackPage from './pages/NooWorldCallbackPage'
 
@@ -29,6 +30,7 @@ function AppRoutes() {
           <Route path="/"         element={<Navigate to={user ? '/today' : '/login'} replace />} />
           <Route path="/login"    element={user ? <Navigate to="/today" replace /> : <LoginPage />} />
           <Route path="/register" element={user ? <Navigate to="/today" replace /> : <RegisterPage />} />
+          <Route path="/programs" element={<ProtectedRoute><ProgramsPage /></ProtectedRoute>} />
           <Route path="/today"    element={<ProtectedRoute><TodayPage /></ProtectedRoute>} />
           <Route path="/history"  element={<ProtectedRoute><HistoryPage /></ProtectedRoute>} />
           <Route path="/coupons"  element={<ProtectedRoute><CouponsPage /></ProtectedRoute>} />

@@ -1,17 +1,25 @@
 import { useState, useEffect } from 'react'
+import { useNavigate } from 'react-router-dom'
 import { useAuth } from '../lib/AuthContext'
 import { db } from '../lib/db'
-import { MISSIONS } from '../data/missions'
+import { getProgramMissions } from '../data/missions'
 import type { Mission } from '../data/missions'
 import DisclaimerStrip from '../components/DisclaimerStrip'
 
-// Simulated: get today's mission based on user's progress day
-function getTodaysMission(dayIndex: number): Mission {
-  return MISSIONS[dayIndex % MISSIONS.length]
+const PROGRAM_LABELS: Record<string, string> = {
+  'reconnect': 'Reconnection Reset',
+  'communication-reset': 'Communication Reset',
+  'conflict-repair': 'Conflict Repair',
+  'emotional-safety': 'Emotional Safety Building',
+  'pre-marriage': 'Pre-Marriage Alignment',
+  'trust-rebuilding': 'Trust Rebuilding',
+  'infidelity-recovery': 'Infidelity Recovery',
+  'marriage-strengthening': 'Marriage Strengthening',
 }
 
 export default function TodayPage() {
   const { user } = useAuth()
+  const navigate = useNavigate()
   const [unlocked, setUnlocked]     = useState(false)
   const [completed, setCompleted]   = useState(false)
   const [dayIndex, setDayIndex]     = useState(0)
@@ -20,8 +28,10 @@ export default function TodayPage() {
   const [credits, setCredits]       = useState(0)
   const [loading, setLoading]       = useState(true)
   const [activePrompt, setActivePrompt] = useState<number | null>(null)
+  const [program, setProgram]       = useState<string>('reconnect')
+  const [missions, setMissions]     = useState<Mission[]>([])
 
-  const mission = getTodaysMission(dayIndex)
+  const mission: Mission | undefined = missions[dayIndex]
 
   useEffect(() => {
     if (!user) return
@@ -31,6 +41,14 @@ export default function TodayPage() {
   const loadProgress = async () => {
     const data = await db.getProgress(user!.id)
     if (data) {
+      if (!data.program) {
+        setLoading(false)
+        navigate('/programs', { replace: true })
+        return
+      }
+      setProgram(data.program)
+      const programMissions = getProgramMissions(data.program)
+      setMissions(programMissions)
       setDayIndex(data.current_day ?? 0)
       setStreak(data.streak ?? 0)
       setTotalDone(data.total_completed ?? 0)
@@ -38,6 +56,9 @@ export default function TodayPage() {
       const today = new Date().toISOString().split('T')[0]
       setUnlocked(data.last_unlocked_date === today)
       setCompleted(data.last_completed_date === today)
+    } else {
+      navigate('/programs', { replace: true })
+      return
     }
     setLoading(false)
   }
@@ -118,8 +139,52 @@ export default function TodayPage() {
           </div>
         </div>
 
+        {/* Program badge */}
+        <div style={{
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'space-between',
+          background: 'var(--teal-light)',
+          borderRadius: 10,
+          padding: '10px 14px',
+          marginBottom: 16,
+        }}>
+          <span style={{ fontSize: '0.8rem', color: 'var(--teal-dark)', fontWeight: 600 }}>
+            {PROGRAM_LABELS[program] ?? program} — Day {dayIndex + 1} of {missions.length}
+          </span>
+          <button
+            onClick={() => navigate('/programs')}
+            style={{
+              background: 'none',
+              border: 'none',
+              color: 'var(--teal)',
+              fontSize: '0.75rem',
+              fontWeight: 600,
+              cursor: 'pointer',
+              padding: 0,
+            }}
+          >
+            Switch ↗
+          </button>
+        </div>
+
         {/* Mission card */}
-        {!unlocked ? (
+        {dayIndex >= missions.length ? (
+          <div className="card" style={{ textAlign: 'center', padding: '36px 24px', marginBottom: 24 }}>
+            <div style={{ fontSize: '2.5rem', marginBottom: 12 }}>🎉</div>
+            <h3 style={{ color: 'var(--teal-dark)', marginBottom: 8 }}>Program Complete!</h3>
+            <p style={{ color: 'var(--text-mid)', fontSize: '0.875rem', marginBottom: 20 }}>
+              You finished every mission in {PROGRAM_LABELS[program] ?? program}. That is extraordinary.
+            </p>
+            <button className="btn btn-primary btn-lg" onClick={() => navigate('/programs')}>
+              Choose Your Next Program →
+            </button>
+          </div>
+        ) : !mission ? (
+          <div style={{ padding: '40px 20px', textAlign: 'center', color: 'var(--text-dim)' }}>
+            Loading mission…
+          </div>
+        ) : !unlocked ? (
           <div className="mission-locked">
             <div className="lock-icon">🔐</div>
             <h3>Today's Love Mission is ready</h3>
@@ -153,7 +218,7 @@ export default function TodayPage() {
             {/* Unlocked mission */}
             <div className="mission-hero">
               <div className="mission-day-label">
-                Day {dayIndex + 1} · {mission.program === 'reconnect' ? '7 Days to Reconnect' : mission.program}
+                Day {dayIndex + 1} · {PROGRAM_LABELS[program] ?? program}
               </div>
               <div style={{ fontSize: '1.8rem', marginBottom: 8 }}>{mission.emoji}</div>
               <div className="mission-title">{mission.title}</div>

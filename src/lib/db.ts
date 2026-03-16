@@ -51,7 +51,7 @@ export const db = {
       const raw = localStorage.getItem(progressKey(userId))
       return raw
         ? JSON.parse(raw)
-        : { current_day: 0, streak: 0, total_completed: 0, vacation_credits: 0, last_unlocked_date: null, last_completed_date: null }
+        : { current_day: 0, streak: 0, total_completed: 0, vacation_credits: 0, last_unlocked_date: null, last_completed_date: null, program: null }
     }
     const { data } = await supabase
       .from('user_progress')
