@@ -6,6 +6,7 @@ import { getProgramMissions } from '../data/missions'
 import type { Mission } from '../data/missions'
 import DisclaimerStrip from '../components/DisclaimerStrip'
 import { notifyPartner } from '../lib/sms'
+import { isMock } from '../lib/db'
 
 const PROGRAM_LABELS: Record<string, string> = {
   'reconnect': 'Reconnection Reset',
@@ -65,10 +66,12 @@ export default function TodayPage() {
   }
 
   const handleUnlock = () => {
-    // In production: trigger Stripe $0.99 checkout
-    // On success callback: mark unlocked in DB
-    // For now: simulate unlock
-    setUnlocked(true)
+    if (isMock) {
+      setUnlocked(true)
+      return
+    }
+    // Redirect to Stripe checkout — user returns to /today after payment
+    window.location.href = 'https://buy.stripe.com/cNi7sK8hp4yRcPOh12bjW08'
   }
 
   const handleComplete = async () => {
