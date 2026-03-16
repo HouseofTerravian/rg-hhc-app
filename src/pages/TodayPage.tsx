@@ -5,6 +5,7 @@ import { db } from '../lib/db'
 import { getProgramMissions } from '../data/missions'
 import type { Mission } from '../data/missions'
 import DisclaimerStrip from '../components/DisclaimerStrip'
+import { notifyPartner } from '../lib/sms'
 
 const PROGRAM_LABELS: Record<string, string> = {
   'reconnect': 'Reconnection Reset',
@@ -91,6 +92,20 @@ export default function TodayPage() {
       completed_at: new Date().toISOString(),
       credits_earned: 1,
     })
+
+    // Notify partner via SMS (fire-and-forget)
+    const profile = await db.getProfile(user!.id)
+    if (profile?.partner_phone) {
+      notifyPartner({
+        partnerPhone: profile.partner_phone,
+        partnerName: profile.partner_name,
+        userName: profile.full_name,
+        missionTitle: mission.title,
+        missionEmoji: mission.emoji,
+        day: dayIndex + 1,
+        program,
+      })
+    }
 
     setCompleted(true)
     setStreak(s => s + 1)

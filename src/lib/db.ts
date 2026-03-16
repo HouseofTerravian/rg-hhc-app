@@ -127,6 +127,26 @@ export const db = {
     await supabase.from('user_coupons').update({ used: true }).eq('id', id)
   },
 
+  async getProfile(userId: string) {
+    if (isMock) {
+      const raw = localStorage.getItem(profileKey(userId))
+      return raw ? JSON.parse(raw) as {
+        user_id: string
+        full_name?: string
+        phone?: string
+        partner_name?: string
+        partner_email?: string
+        partner_phone?: string
+      } : null
+    }
+    const { data } = await supabase
+      .from('user_profiles')
+      .select('*')
+      .eq('user_id', userId)
+      .single()
+    return data
+  },
+
   async upsertProfile(userId: string, data: object) {
     if (isMock) {
       localStorage.setItem(profileKey(userId), JSON.stringify({ user_id: userId, ...data }))

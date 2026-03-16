@@ -3,6 +3,7 @@ import type { FormEvent } from 'react'
 import { useNavigate, Link } from 'react-router-dom'
 import { useAuth } from '../lib/AuthContext'
 import { db } from '../lib/db'
+import { invitePartner } from '../lib/sms'
 
 const NWL_REDIRECT = 'https://id.thenooworld.com?redirect=' + encodeURIComponent('https://app.rg.hhc.travel/auth/nooworld-callback')
 
@@ -48,6 +49,11 @@ export default function RegisterPage() {
         partner_email: partnerEmail,
         partner_phone: partnerPhone,
       })
+    }
+
+    // Invite partner via SMS if phone provided (fire-and-forget)
+    if (partnerPhone) {
+      invitePartner({ partnerPhone, partnerName, userName: name })
     }
 
     setLoading(false)
