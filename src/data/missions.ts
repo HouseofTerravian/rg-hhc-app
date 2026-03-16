@@ -4098,6 +4098,2605 @@ export const MISSIONS: Mission[] = [
     ],
     reflection: "What does it feel like to arrive at a yes that was hard-won, chosen freely, and built on something real?",
   },
+
+  // INFIDELITY RECOVERY — Days 8–180
+  {
+    id: 291, day: 8, program: 'infidelity-recovery',
+    title: "The Weight of What Happened",
+    emoji: "🪨",
+    tagline: "Name the full weight of the betrayal together.",
+    body: "Betrayal doesn't just hurt — it reshapes everything you thought was real. Today you give language to the weight: not just what happened, but what it cost you. Peace of mind. Security. The version of your relationship you believed in. Before healing can begin, the wound must be fully named.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: Complete this sentence — 'The thing I lost that hurts the most is...'",
+      "Betrayed partner: What do you find yourself questioning now that you never questioned before?",
+      "Betraying partner: What do you believe this betrayal cost your partner? List at least 5 things.",
+      "Betraying partner: Read your list out loud. Do not defend. Do not explain. Just witness."
+    ],
+    reflection: "The betrayed partner sets the pace. The betraying partner's job today is to hear without shrinking."
+  },
+  {
+    id: 292, day: 9, program: 'infidelity-recovery',
+    title: "The Question You're Afraid to Ask",
+    emoji: "❓",
+    tagline: "Surface the questions that have been living in silence.",
+    body: "There are questions the betrayed partner is almost afraid to ask — not because they don't want the answer, but because they fear what the answer might do to them. Today those questions get to exist. The betraying partner commits to honesty, even when honesty is hard.",
+    duration: "45 min",
+    prompts: [
+      "Betrayed partner: Write down the 3 questions you most want answered. Then choose one to ask today.",
+      "Betraying partner: Answer with full honesty. No softening that becomes lying.",
+      "After the answer — betrayed partner: Does the answer change what you thought? How?",
+      "Both: What does it feel like to have hard truth spoken between you?"
+    ],
+    reflection: "Honesty after betrayal is not comfortable. But it is the only foundation for anything real."
+  },
+  {
+    id: 293, day: 10, program: 'infidelity-recovery',
+    title: "Mapping the Timeline",
+    emoji: "🗺️",
+    tagline: "Create a shared, honest timeline of the affair.",
+    body: "One of the most disorienting parts of betrayal is not knowing the full story. Gaps in the timeline become breeding grounds for the imagination to fill in the worst. Today, with care and honesty, you build a shared timeline — not to torture either of you, but to replace the unknown with the known.",
+    duration: "60 min",
+    prompts: [
+      "Betraying partner: Write a honest timeline — when it started, key events, when it ended.",
+      "Betrayed partner: As you hear this, note what surprises you. Note what you already suspected.",
+      "Betraying partner: Are there gaps you're still protecting? Consider whether those gaps serve healing.",
+      "Both: After the timeline — what did this exercise cost you? What, if anything, did it give you?"
+    ],
+    reflection: "The goal is not punishment. The goal is to end the fog."
+  },
+  {
+    id: 294, day: 11, program: 'infidelity-recovery',
+    title: "What the Body Remembers",
+    emoji: "🫀",
+    tagline: "Acknowledge the physical impact of betrayal.",
+    body: "Betrayal is not only emotional. It lives in the body — in sleeplessness, in tension, in the way your stomach drops when a notification comes through. Today you acknowledge the physical reality of what happened, because the body deserves recognition just as much as the mind.",
+    duration: "25 min",
+    prompts: [
+      "Betrayed partner: Where do you feel the betrayal in your body right now?",
+      "Betrayed partner: How has your body changed since you found out? Sleep, appetite, physical touch?",
+      "Betraying partner: What does it mean to you that your actions caused this in someone's body?",
+      "Both: Sit side by side, breathing at the same pace for 3 minutes. No words."
+    ],
+    reflection: "The body keeps the score. Honor what the body is carrying."
+  },
+  {
+    id: 295, day: 12, program: 'infidelity-recovery',
+    title: "The Story You've Been Telling Yourself",
+    emoji: "📖",
+    tagline: "Examine the narratives each of you has constructed.",
+    body: "After betrayal, both partners build stories to make sense of what happened. The betrayed partner tells a story about the relationship, the marriage, their own worth. The betraying partner tells a story about why it happened and what it means. Today you surface those stories — and interrogate them.",
+    duration: "35 min",
+    prompts: [
+      "Betrayed partner: What is the story you've been telling yourself about why this happened?",
+      "Betrayed partner: What does that story say about you? Is that story true?",
+      "Betraying partner: What story have you been telling yourself to explain your choices?",
+      "Both: Where are your stories in conflict? Where do they accidentally agree?"
+    ],
+    reflection: "The stories we tell ourselves become the architecture of our healing — or our stagnation."
+  },
+  {
+    id: 296, day: 13, program: 'infidelity-recovery',
+    title: "Radical Transparency Begins",
+    emoji: "🪟",
+    tagline: "Establish what full openness will look like going forward.",
+    body: "If trust is going to be rebuilt, there must be a new standard of transparency — not surveillance, but voluntary openness. Today you define what radical transparency looks like in your relationship: what is freely shared, what privacy remains, and what the rules are moving forward.",
+    duration: "40 min",
+    prompts: [
+      "Betraying partner: What forms of transparency are you willing to offer, freely and without resentment?",
+      "Betrayed partner: What transparency do you need in order to begin feeling safe again?",
+      "Both: Where do your needs and offers align? Where is there tension?",
+      "Both: Write a brief 'transparency agreement' — 3–5 commitments you both accept."
+    ],
+    reflection: "Transparency offered freely is evidence of commitment. Transparency demanded becomes surveillance. Aim for the first."
+  },
+  {
+    id: 297, day: 14, program: 'infidelity-recovery',
+    title: "Two Weeks In — Taking Stock",
+    emoji: "⚖️",
+    tagline: "A mid-point reflection on the first two weeks.",
+    body: "You've made it through two weeks of the hardest work in a relationship. That matters. Today you pause to take honest stock — not of whether you're 'healed' (you aren't, not yet), but of whether you're moving. Movement is what matters right now.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: What has been the hardest moment of these two weeks?",
+      "Each partner: What has surprised you about this process — or about your partner?",
+      "Each partner: On a scale of 1–10, where are you emotionally right now? Explain the number.",
+      "Both: What is one thing you want to carry forward into the next two weeks?"
+    ],
+    reflection: "Two weeks is not a milestone of healing. It's evidence you're both still showing up. That is not small."
+  },
+  {
+    id: 298, day: 15, program: 'infidelity-recovery',
+    title: "The Person Who Was Hurt",
+    emoji: "💔",
+    tagline: "The betrayed partner speaks fully — without interruption.",
+    body: "This mission belongs to the betrayed partner. You speak. Your partner listens — completely, without defending, explaining, or softening. The betraying partner's only job today is to receive. This is not a conversation. It is a witnessing.",
+    duration: "45 min",
+    prompts: [
+      "Betrayed partner: Speak — or write — for as long as you need. Begin with: 'When I found out, the first thing I felt was...'",
+      "Betrayed partner: Tell your partner what they took from you. Be specific.",
+      "Betrayed partner: Tell your partner what you need from them right now. Not tomorrow — right now.",
+      "Betraying partner: After your partner is finished — do not respond. Simply say: 'I hear you. I'm not going anywhere.'"
+    ],
+    reflection: "The betrayed partner should not have to fight to be heard in their own healing. Give them the floor completely."
+  },
+  {
+    id: 299, day: 16, program: 'infidelity-recovery',
+    title: "Full Accountability — No Deflection",
+    emoji: "🪞",
+    tagline: "The betraying partner takes complete ownership.",
+    body: "There is a version of accountability that looks like ownership but is actually deflection: 'I did this because the relationship was struggling' or 'I was going through something difficult.' Today the betraying partner practices accountability without the 'but.' No explanations that become excuses. Just full ownership.",
+    duration: "35 min",
+    prompts: [
+      "Betraying partner: Write a full statement of accountability — what you did, without the 'because.'",
+      "Betraying partner: Read it to your partner. No additions. No softening. No defenses.",
+      "Betrayed partner: Was there anything in that statement that felt true? Anything that felt incomplete?",
+      "Betraying partner: What would it mean to live as someone who fully owns this choice?"
+    ],
+    reflection: "Accountability without excuses is one of the rarest gifts you can give a person you've hurt."
+  },
+  {
+    id: 300, day: 17, program: 'infidelity-recovery',
+    title: "The Grief of the Relationship You Had",
+    emoji: "🕯️",
+    tagline: "Mourn the version of the relationship that no longer exists.",
+    body: "Whether you stay together or not, the relationship you had before the betrayal is gone. It will never return exactly as it was. This is a real loss, and it deserves to be grieved — not to cement the end, but because healing requires acknowledging what has genuinely been lost.",
+    duration: "30 min",
+    prompts: [
+      "Both partners: What was beautiful about the relationship before the betrayal?",
+      "Both partners: What can never be fully the same, even if you heal?",
+      "Both partners: What are you grieving most right now?",
+      "Both: Sit with the grief for a few minutes. Let it be present without trying to fix it."
+    ],
+    reflection: "Grief and hope can coexist. Grieving the old relationship does not mean you cannot build a new one."
+  },
+  {
+    id: 301, day: 18, program: 'infidelity-recovery',
+    title: "Why You're Still Here",
+    emoji: "🌿",
+    tagline: "Name the reasons — however fragile — that you're still in this.",
+    body: "Staying in a relationship after betrayal is not weakness, denial, or foolishness. It is a choice — sometimes a hard, confusing, and deeply personal one. Today you name the reasons you're still here. Not to justify them to anyone else. Just to see them clearly yourself.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: List the reasons — however small or uncertain — that you're still in this.",
+      "Each partner: Which of those reasons feels most honest to you right now?",
+      "Each partner: Which reason scares you to say out loud?",
+      "Both: Share your lists with each other. Receive them without judgment."
+    ],
+    reflection: "Knowing why you're staying helps you decide whether to keep staying — and with what kind of intention."
+  },
+  {
+    id: 302, day: 19, program: 'infidelity-recovery',
+    title: "The Other Person",
+    emoji: "👤",
+    tagline: "Address the presence of the third party without avoiding it.",
+    body: "There was another person involved. That person's presence — real or imagined — often lingers long after the affair ends. Today you address that presence directly: what it means, what questions it raises, and what needs to happen for the betrayed partner to feel the affair is truly over.",
+    duration: "40 min",
+    prompts: [
+      "Betrayed partner: What is your relationship to the thought of this other person? Rage? Fear? Curiosity?",
+      "Betraying partner: What do you want your partner to know about how that ended — or how it needs to end?",
+      "Betrayed partner: What would 'proof it's over' look like to you?",
+      "Betraying partner: Can you provide that proof? What would it take?"
+    ],
+    reflection: "The third party does not belong in your healing — but their existence must be fully addressed before they can be released."
+  },
+  {
+    id: 303, day: 20, program: 'infidelity-recovery',
+    title: "Contact Boundaries Going Forward",
+    emoji: "🚧",
+    tagline: "Establish clear, specific contact boundaries.",
+    body: "One of the most concrete things that can rebuild safety is clear agreement about contact with the person the affair was with. Not surveillance — clarity. Today you create specific, agreed-upon boundaries that the betrayed partner needs to feel safe, and that the betraying partner can genuinely commit to.",
+    duration: "35 min",
+    prompts: [
+      "Betrayed partner: What contact boundaries do you need in order to feel safe?",
+      "Betraying partner: Which of those can you commit to fully? Are there any you need to discuss?",
+      "Both: Write down the agreed boundaries in plain language. Both sign or initial.",
+      "Betraying partner: What will you do if you encounter the other person unexpectedly?"
+    ],
+    reflection: "Boundaries are not punishment. They are the container in which trust can be rebuilt."
+  },
+  {
+    id: 304, day: 21, program: 'infidelity-recovery',
+    title: "Three Weeks — What's Shifting",
+    emoji: "🔄",
+    tagline: "Notice what, if anything, is starting to shift.",
+    body: "Three weeks in. You are not healed. You may not even feel better. But something may be shifting — something subtle in how you sit together, how you speak, what you're willing to try. Today you look for those shifts, however small.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: Name one thing that has shifted, even slightly, since you started this program.",
+      "Each partner: Name one thing that still feels exactly as broken as Day 1.",
+      "Both: What would you want the next week to look like, if you could choose?",
+      "Both: What is one commitment you're making to your partner for this coming week?"
+    ],
+    reflection: "Healing moves in waves — not in a straight line. Look for the waves, not the destination."
+  },
+  {
+    id: 305, day: 22, program: 'infidelity-recovery',
+    title: "The Intimacy Question",
+    emoji: "🫶",
+    tagline: "Honestly address physical intimacy after betrayal.",
+    body: "Physical intimacy after an affair is one of the most complicated terrains a couple navigates. For many betrayed partners, physical touch becomes loaded with grief, comparison, or revulsion. For many betraying partners, wanting closeness feels inappropriate. Today you talk about this — without pressure, without timeline.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: What is your honest relationship to physical intimacy right now?",
+      "Betraying partner: What have you been assuming about what your partner needs physically? Have you asked?",
+      "Both: What would feel right and safe in terms of physical closeness today — not eventually, today?",
+      "Both: Is there one small physical gesture (a hand on the back, sitting together) that feels possible right now?"
+    ],
+    reflection: "No timeline is 'normal.' Your pace is the right pace."
+  },
+  {
+    id: 306, day: 23, program: 'infidelity-recovery',
+    title: "Triggers and Landmines",
+    emoji: "💣",
+    tagline: "Map the triggers that hijack your healing.",
+    body: "Triggers are not weakness. They are the nervous system doing exactly what it was designed to do after a threat. The problem is that triggers fire long after the threat is gone — and if they go unnamed, they can derail everything. Today you name your triggers so they can be navigated rather than detonated.",
+    duration: "35 min",
+    prompts: [
+      "Betrayed partner: List your top triggers — specific things that instantly send you back to the moment of discovery.",
+      "Betrayed partner: What does your body do when triggered? What do you need when that happens?",
+      "Betraying partner: Now that you know these triggers — what will you do differently?",
+      "Both: Agree on a signal or phrase the betrayed partner can use when triggered that asks for support, not defense."
+    ],
+    reflection: "The goal is not to eliminate triggers. It's to respond to them with care instead of collision."
+  },
+  {
+    id: 307, day: 24, program: 'infidelity-recovery',
+    title: "What Trust Actually Looks Like Now",
+    emoji: "🏗️",
+    tagline: "Redefine what trust means in this new chapter.",
+    body: "The old trust — the kind that assumed the best without thinking about it — is gone. What replaces it won't be naive. It will be earned, witnessed, and chosen daily. Today you talk about what trust looks like now — more intentional, more honest, and ultimately potentially stronger than what was there before.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: What would rebuilt trust actually look like in daily life? Be specific.",
+      "Betraying partner: What concrete actions are you willing to take to build that kind of trust?",
+      "Both: What is one thing the betraying partner could do this week that would meaningfully rebuild trust?",
+      "Betraying partner: Make a commitment to do that one thing before the end of the week."
+    ],
+    reflection: "Rebuilt trust is not the same as original trust. It is harder won and often more solid."
+  },
+  {
+    id: 308, day: 25, program: 'infidelity-recovery',
+    title: "The Apology",
+    emoji: "🙏",
+    tagline: "Practice a full, complete apology — without reservation.",
+    body: "An apology is not 'I'm sorry you're hurt.' It is: acknowledgment of the specific harm, ownership without excuses, expression of remorse, and a commitment to change. Most people have never given or received this kind of apology. Today you try.",
+    duration: "40 min",
+    prompts: [
+      "Betraying partner: Write a full apology using the structure: what I did / what it cost you / I am sorry because / I commit to...",
+      "Betraying partner: Read this apology aloud, slowly, looking at your partner.",
+      "Betrayed partner: What, if anything, felt true and received in that apology?",
+      "Betrayed partner: What, if anything, still needs to be said or acknowledged?"
+    ],
+    reflection: "A real apology is not a transaction. It is a declaration of who you want to be."
+  },
+  {
+    id: 309, day: 26, program: 'infidelity-recovery',
+    title: "The Shame Beneath the Betrayal",
+    emoji: "🌑",
+    tagline: "Explore the shame each of you is carrying.",
+    body: "Both partners often carry shame after an affair — the betrayed partner for not knowing, for staying, for feeling humiliated. The betraying partner for what they did, for who they became. Unexamined shame poisons the healing process. Today you bring it into the light.",
+    duration: "35 min",
+    prompts: [
+      "Betrayed partner: What shame are you carrying? What are you embarrassed about in all of this?",
+      "Betraying partner: What shame are you carrying? Where do you feel most disgusted with yourself?",
+      "Both: Share with each other. Receive each other's shame with care, not judgment.",
+      "Both: What would it mean to release — even partially — the shame you're carrying?"
+    ],
+    reflection: "Shame thrives in silence. Speaking it often begins the process of dissolving it."
+  },
+  {
+    id: 310, day: 27, program: 'infidelity-recovery',
+    title: "What You Need to See Consistently",
+    emoji: "📆",
+    tagline: "The betrayed partner names the consistent behaviors they need.",
+    body: "Rebuilding trust is not about grand gestures. It is about small, consistent actions repeated over time. Today the betrayed partner names what they need to see consistently — not as a demand list, but as a map for the betraying partner to follow.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: Name 5 specific behaviors you need to see consistently from your partner.",
+      "Betraying partner: For each one, respond: 'Yes, I can do this' or 'Here's where I'll need help with this.'",
+      "Both: Which of these behaviors already exists, even occasionally? Start there.",
+      "Betraying partner: Choose one of these behaviors to focus on this week. Tell your partner which one."
+    ],
+    reflection: "Consistency over time is the currency of rebuilt trust."
+  },
+  {
+    id: 311, day: 28, program: 'infidelity-recovery',
+    title: "Four Weeks — What Have You Built?",
+    emoji: "🧱",
+    tagline: "Take full inventory of your first month.",
+    body: "One month. That is something. Whether you feel better or not, you have been doing the work — and work done under grief and betrayal is among the most courageous work there is. Today you take full inventory of what you've built in four weeks.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: What is one thing you've learned about yourself this month?",
+      "Each partner: What is one thing you've learned about your partner this month?",
+      "Each partner: What are you most proud of in how you've shown up?",
+      "Both: What does month two need to look like? Name one commitment each."
+    ],
+    reflection: "A month of showing up for the hardest conversation is a month of choosing love — even wounded, even uncertain."
+  },
+  {
+    id: 312, day: 29, program: 'infidelity-recovery',
+    title: "The Relationship Before the Affair",
+    emoji: "🔍",
+    tagline: "Examine what was present in the relationship before the betrayal.",
+    body: "Understanding what was happening in the relationship before the affair is not about excusing the betrayal. It never justifies it. But it may be necessary for understanding what needs to change to build something different. This conversation belongs to both partners — and must be handled carefully.",
+    duration: "45 min",
+    prompts: [
+      "Both: Without assigning blame — what was the state of the relationship before the affair came to light?",
+      "Betrayed partner: Were there things you wished were different? What were you not saying?",
+      "Betraying partner: Were there things you wished were different? Did you ever clearly communicate those needs?",
+      "Both: What would it mean to address those underlying things now — regardless of the affair?"
+    ],
+    reflection: "The affair is never the betrayed partner's fault. But healing fully sometimes means both partners examine what was true before."
+  },
+  {
+    id: 313, day: 30, program: 'infidelity-recovery',
+    title: "A Letter You May Never Send",
+    emoji: "✉️",
+    tagline: "Write to someone involved — and choose whether to share it.",
+    body: "Sometimes the most important letters are the ones that never get sent. Today each partner writes a letter — to the other, to the person the affair was with, or to the version of themselves they were before. The act of writing is what matters. Sending is optional.",
+    duration: "40 min",
+    prompts: [
+      "Each partner: Choose who to write to and write freely for 10–15 minutes.",
+      "After writing: Re-read your letter. What surprised you in it?",
+      "Both: Share your letters with each other — or choose one paragraph if sharing the full letter feels like too much.",
+      "Both: What did writing that letter surface that conversations haven't?"
+    ],
+    reflection: "Writing accesses things speech can't. Let the page hold what you're not yet ready to say out loud."
+  },
+  {
+    id: 314, day: 31, program: 'infidelity-recovery',
+    title: "Checking In With Your Nervous System",
+    emoji: "🧘",
+    tagline: "A day for regulation before going deeper.",
+    body: "You have now been doing intensive healing work for a month. Your nervous system is likely exhausted. Today is not about going deeper — it is about coming back to center. Healing requires recovery. This is your recovery day.",
+    duration: "20 min",
+    prompts: [
+      "Each partner: Rate your nervous system state today — dysregulated (1) to settled (10). What number, and why?",
+      "Both: Spend 10 minutes doing something that regulates you — walking, music, stillness, food.",
+      "Both: After the 10 minutes, check in with each other: 'How are you doing right now?'",
+      "Both: Name one thing you're grateful for today — no matter how small."
+    ],
+    reflection: "You cannot heal while dysregulated. Rest is not laziness. It's part of the work."
+  },
+  {
+    id: 315, day: 32, program: 'infidelity-recovery',
+    title: "What You Miss About Us",
+    emoji: "🌅",
+    tagline: "Name what you miss about the relationship at its best.",
+    body: "Amid the grief and the hard work, something often gets lost: the memory of what was good. What made you fall for each other. The version of the relationship that was full of ease. Today you go back there — not to pretend the betrayal didn't happen, but to remember what you're fighting for.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: What is one specific memory of when the relationship felt best?",
+      "Each partner: What do you miss most about who you were together before all of this?",
+      "Both: Is there anything from that earlier time that you could bring back — even a small piece?",
+      "Both: What would need to happen for that version of you — even an evolved version — to exist again?"
+    ],
+    reflection: "Memory is not denial. It is fuel for what you're trying to build."
+  },
+  {
+    id: 316, day: 33, program: 'infidelity-recovery',
+    title: "The Betraying Partner's Inner Life",
+    emoji: "🌀",
+    tagline: "Explore what was happening inside the betraying partner.",
+    body: "The betraying partner's inner life during the affair is rarely fully examined — not because it excuses anything, but because healing requires both partners to understand the full picture. What was the betraying partner running from? Running toward? What need was going unmet — or being met in the wrong way?",
+    duration: "40 min",
+    prompts: [
+      "Betraying partner: What was your emotional state in the months leading up to the affair?",
+      "Betraying partner: What need were you trying to meet? Did you consciously know that at the time?",
+      "Betraying partner: What could you have done differently to get that need met without betrayal?",
+      "Betrayed partner: What do you feel hearing this? Anger? Compassion? Both? Let yourself feel it without judgment."
+    ],
+    reflection: "Understanding is not absolution. But without understanding, change cannot be targeted or real."
+  },
+  {
+    id: 317, day: 34, program: 'infidelity-recovery',
+    title: "What You Will Not Negotiate",
+    emoji: "🛑",
+    tagline: "Each partner names their non-negotiables going forward.",
+    body: "Every relationship has things that are non-negotiable — lines that, if crossed again, mean the relationship ends. These are not ultimatums deployed in anger. They are honest declarations of who you are and what you need to live with integrity. Today you name them.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: What are your non-negotiables going forward? What would end the relationship if it happened again?",
+      "Each partner: Share your list. Receive your partner's list without argument.",
+      "Both: Do your non-negotiables conflict? Discuss calmly.",
+      "Both: Write them down and keep them visible as a shared agreement."
+    ],
+    reflection: "Non-negotiables are not threats. They are acts of self-respect that protect you both."
+  },
+  {
+    id: 318, day: 35, program: 'infidelity-recovery',
+    title: "Five Weeks — The Long Road Ahead",
+    emoji: "🛤️",
+    tagline: "Acknowledge the length of the road and your commitment to it.",
+    body: "You are five weeks in. Infidelity recovery takes time measured in months, sometimes years. Today you look honestly at the road ahead and ask yourselves: are we committed to staying on it? This is not a test. It is an honest conversation about what it means to continue.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: Are you committed to staying in this healing process for as long as it takes?",
+      "Each partner: What, honestly, would make you want to stop?",
+      "Both: What would it take to renew your commitment to this process right now?",
+      "Both: Make one statement of commitment to your partner for the next five weeks."
+    ],
+    reflection: "You don't have to be certain. You only have to be willing to keep showing up."
+  },
+  {
+    id: 319, day: 36, program: 'infidelity-recovery',
+    title: "Rewriting the Vow",
+    emoji: "📜",
+    tagline: "Write a new informal commitment to each other.",
+    body: "Whether or not you're married, at some point you made a commitment to this person. Today you have the chance to rewrite that commitment — not to pretend the betrayal didn't happen, but to acknowledge where you are now and what you're choosing from here. This vow is not performance. It is private, honest, and for you.",
+    duration: "40 min",
+    prompts: [
+      "Each partner: Write a short commitment to your partner — who you are to them now, and what you choose.",
+      "Both: Read your commitments to each other, uninterrupted.",
+      "Both: What felt true in what your partner said?",
+      "Both: Keep these writings somewhere you'll see them."
+    ],
+    reflection: "The vow you make after the breaking may be the most honest one you ever make."
+  },
+  {
+    id: 320, day: 37, program: 'infidelity-recovery',
+    title: "The Forgiveness Question",
+    emoji: "🌸",
+    tagline: "Explore where each of you stands on forgiveness.",
+    body: "Forgiveness is one of the most misunderstood concepts in infidelity recovery. It does not mean what happened was okay. It does not mean trust is restored. It does not have to happen fast. Today you explore what forgiveness means to each of you — and where you honestly are on that path.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: What does forgiveness mean to you? What does it NOT mean?",
+      "Betrayed partner: Are you anywhere near forgiveness yet? Where are you, honestly?",
+      "Betraying partner: What would it mean to you to be forgiven? What would change?",
+      "Both: Does forgiveness have to happen for you to heal and rebuild? Talk about this."
+    ],
+    reflection: "Forgiveness is a gift you give yourself — but it cannot be rushed or demanded."
+  },
+  {
+    id: 321, day: 38, program: 'infidelity-recovery',
+    title: "Letting the Grief Be Big",
+    emoji: "🌧️",
+    tagline: "Allow grief to be as large as it actually is.",
+    body: "We often try to manage our grief — contain it, make it smaller, get on with things. But grief that isn't allowed to be big enough eventually comes out sideways: as rage, as shutdown, as self-destruction. Today you give grief permission to be exactly as large as it needs to be.",
+    duration: "35 min",
+    prompts: [
+      "Betrayed partner: What are you grieving that you haven't let yourself fully feel yet?",
+      "Betraying partner: What grief are you carrying about what you did and what it has cost?",
+      "Both: Give each other 10 minutes of uninterrupted grief — tears, silence, or words. Just let it come.",
+      "Both: After — hold each other, if that feels possible. Or simply sit close."
+    ],
+    reflection: "Big grief is not a sign you can't recover. It is a sign you loved something real."
+  },
+  {
+    id: 322, day: 39, program: 'infidelity-recovery',
+    title: "The Kids, If There Are Any",
+    emoji: "👨‍👩‍👧",
+    tagline: "Address the impact of your healing process on children in the home.",
+    body: "If children are part of your family, they are affected by the tension in your home — even if they don't know why. Today you address this directly: how to protect them, what to tell them (if anything), and how to be present for them even while you heal.",
+    duration: "30 min",
+    prompts: [
+      "Both: How are the children being affected by what's happening in your home?",
+      "Both: What do you want to protect them from? What might be unavoidably seeping through?",
+      "Both: Are there specific things you need to do differently in how you're showing up for your kids right now?",
+      "Both: Who else in your support network can help take pressure off the kids during this time?"
+    ],
+    reflection: "Children need stability. They don't need you to pretend to be okay. They need you to not be in crisis in front of them."
+  },
+  {
+    id: 323, day: 40, program: 'infidelity-recovery',
+    title: "The Role of Outside Support",
+    emoji: "🤝",
+    tagline: "Assess whether you need outside professional support.",
+    body: "This program is a powerful tool — but it is not therapy. There are things that a skilled therapist, counselor, or clergy can offer that no digital program can. Today you assess honestly where you are and whether bringing in outside support would accelerate and deepen your healing.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: Have you considered couples therapy or individual therapy? What has stopped you if you haven't pursued it?",
+      "Both: Is there anything in this healing process that feels stuck — that outside help might unstick?",
+      "Both: What would it take to explore at least one session with a professional?",
+      "Both: Who in your personal life (pastor, mentor, trusted friend) could provide non-judgmental support?"
+    ],
+    reflection: "Using all available support is not weakness. It is strategy."
+  },
+  {
+    id: 324, day: 41, program: 'infidelity-recovery',
+    title: "Six Weeks — Choosing Again",
+    emoji: "🔁",
+    tagline: "Make a deliberate choice to continue or to acknowledge where you are.",
+    body: "Six weeks in. This is often the point where the initial crisis energy has ebbed and the ongoing drudgery of rebuilding sets in. It's also where couples sometimes drift — not away from the relationship, but away from the intentional work. Today you choose deliberately: to continue with intention.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: What has the last six weeks cost you?",
+      "Each partner: What has the last six weeks given you?",
+      "Both: Are you choosing to continue? Say it out loud, to each other.",
+      "Both: What one thing will you both commit to in the next six weeks?"
+    ],
+    reflection: "Choosing to stay is not enough. Choosing to stay and keep working — that is the thing."
+  },
+  {
+    id: 325, day: 42, program: 'infidelity-recovery',
+    title: "Small Acts of Care",
+    emoji: "🌼",
+    tagline: "Reintroduce daily acts of care into your rhythm.",
+    body: "Rebuilding a relationship is not only done in the heavy conversations. It is also done in the small moments: the glass of water brought without being asked, the check-in text, the hand on the shoulder. Today you deliberately reintroduce small acts of care — not to paper over the wounds, but to tend to the living parts of the relationship.",
+    duration: "20 min",
+    prompts: [
+      "Each partner: What is one small act of care that would mean something to you right now?",
+      "Each partner: Share that with your partner. Make it specific.",
+      "Both: Do that thing for each other today.",
+      "Both: How did it feel to give? How did it feel to receive?"
+    ],
+    reflection: "Love after betrayal must be rebuilt one small gesture at a time. Start now."
+  },
+  {
+    id: 326, day: 43, program: 'infidelity-recovery',
+    title: "What Your Body Needs to Feel Safe",
+    emoji: "🛡️",
+    tagline: "Physical safety as a component of relational safety.",
+    body: "For many betrayed partners, physical safety — the kind where you feel physically relaxed and at ease in your partner's presence — has been disrupted. You may not realize how much you've been bracing. Today you attend to what your body needs to begin feeling safe again.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: On a scale of 1–10, how physically relaxed do you feel in your partner's presence right now?",
+      "Betrayed partner: What would need to happen for that number to increase by 2 points?",
+      "Betraying partner: What can you do — physically, behaviorally — to help your partner's body feel safer?",
+      "Both: Sit together and do a 3-minute breathing exercise — inhale 4 counts, exhale 6 counts."
+    ],
+    reflection: "Safety is felt in the body before it is thought by the mind. Tend to the body."
+  },
+  {
+    id: 327, day: 44, program: 'infidelity-recovery',
+    title: "Your Support Network",
+    emoji: "🕸️",
+    tagline: "Map and strengthen your support beyond each other.",
+    body: "Leaning entirely on each other during infidelity recovery is a recipe for collapse. You need support that doesn't require the other person to provide it. Today you each look honestly at your support network — and make a plan to strengthen it.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: Who in your life knows what you're going through? Who is in your corner?",
+      "Each partner: Is there anyone you've been hiding this from who should know?",
+      "Each partner: Who drains you right now? Limit that where you can.",
+      "Both: Each reach out to one supportive person this week. Not to complain — just to stay connected."
+    ],
+    reflection: "You don't have to heal this alone. A strong outside network makes the inside work sustainable."
+  },
+  {
+    id: 328, day: 45, program: 'infidelity-recovery',
+    title: "Halfway Through — Forty-Five Days",
+    emoji: "🏁",
+    tagline: "Mark the halfway point with honesty and intention.",
+    body: "You are halfway through this 90-day intensive healing period. Not halfway through recovery — that takes much longer. But halfway through this intentional, daily commitment you made to each other. That is real. Take a moment to see that.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: What is the most honest sentence you can say about where you are right now?",
+      "Each partner: What has surprised you most about this process?",
+      "Both: What do you want the second half of this 90-day period to focus on?",
+      "Both: Write each other a short note — no longer than a paragraph — of acknowledgment for showing up."
+    ],
+    reflection: "Forty-five days of showing up for something this hard is not nothing. It is evidence."
+  },
+  {
+    id: 329, day: 46, program: 'infidelity-recovery',
+    title: "The Intimacy Inventory",
+    emoji: "💞",
+    tagline: "Assess all dimensions of intimacy, not only the physical.",
+    body: "Intimacy has many dimensions: emotional, intellectual, experiential, spiritual, physical. After betrayal, usually several of these dimensions have collapsed. Today you inventory each one — and identify which to begin rebuilding first.",
+    duration: "35 min",
+    prompts: [
+      "Both: Rate each dimension of intimacy (1–10): emotional closeness / intellectual connection / shared experiences / spiritual alignment / physical connection.",
+      "Both: Compare scores. Where do you agree? Where are you surprised by each other's answers?",
+      "Both: Choose the ONE dimension that feels most accessible to rebuild right now.",
+      "Both: What would one small step in that direction look like this week?"
+    ],
+    reflection: "You don't have to rebuild everything at once. Start where the door is already slightly open."
+  },
+  {
+    id: 330, day: 47, program: 'infidelity-recovery',
+    title: "The Anger Under the Sadness",
+    emoji: "🔥",
+    tagline: "Give space for the full depth of anger.",
+    body: "Grief often presents first because anger feels too dangerous. But the anger is there — burning under the surface. Unprocessed anger either implodes (depression, numbing) or explodes (destruction, cruelty). Today you give anger a contained, witnessed space to exist.",
+    duration: "40 min",
+    prompts: [
+      "Betrayed partner: What are you most angry about? Let yourself feel the full size of it before you speak it.",
+      "Betrayed partner: Say it out loud to your partner, fully and without softening.",
+      "Betraying partner: Receive the anger without defending, minimizing, or shutting down. Just witness it.",
+      "Betrayed partner: After speaking — what shifted? Do you feel different?"
+    ],
+    reflection: "Witnessed anger loses some of its power to destroy. Let it be seen."
+  },
+  {
+    id: 331, day: 48, program: 'infidelity-recovery',
+    title: "What Changed in You",
+    emoji: "🦋",
+    tagline: "Acknowledge who you've each become through this.",
+    body: "Betrayal changes people. It changes both people — the betrayed and the betraying. Not always in ways we'd choose. But sometimes in ways that, in time, we find ourselves grateful for. Today you look at who you have become through this — without romanticizing it.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: How have you changed since this began?",
+      "Each partner: What version of yourself has emerged that you want to keep?",
+      "Each partner: What version of yourself has emerged that you want to change?",
+      "Both: Who do you want to be — not for your partner, but for yourself — when this is over?"
+    ],
+    reflection: "The person you become on the other side of this can be someone you're proud of. That is worth working toward."
+  },
+  {
+    id: 332, day: 49, program: 'infidelity-recovery',
+    title: "Seven Weeks — Rhythm Check",
+    emoji: "🎵",
+    tagline: "Assess whether your healing has found a sustainable rhythm.",
+    body: "Seven weeks in. Sustainable healing has a rhythm — it's not a sprint, it's not a crawl. Today you look at whether your process has found that rhythm. Are you doing the work? Are you also recovering? Are you staying connected as partners while you heal?",
+    duration: "25 min",
+    prompts: [
+      "Each partner: Is the pace of this work sustainable for you? Too much, too little, about right?",
+      "Each partner: What adjustments would help you sustain this for the next several months?",
+      "Both: Are you having regular non-healing conversations — just being partners — or is everything recovery-focused right now?",
+      "Both: Plan one 'ordinary' couple moment this week — not healing work, just connection."
+    ],
+    reflection: "You are not only a couple in recovery. You are still a couple. Tend to both."
+  },
+  {
+    id: 333, day: 50, program: 'infidelity-recovery',
+    title: "Day 50 — Halfway Reflection",
+    emoji: "🌓",
+    tagline: "A dedicated reflection day at the 50-day mark.",
+    body: "Fifty days of intentional healing work. That is fifty days of choosing the hard thing. Today you don't tackle a new challenge — you reflect on the journey so far and affirm your commitment to what remains.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: What have been the three most significant moments in these 50 days?",
+      "Each partner: What is the one thing you know now that you didn't know on Day 1?",
+      "Both: Write down your top insight and share it with your partner.",
+      "Both: What does healing look like to you right now — in one image or metaphor?"
+    ],
+    reflection: "Fifty days. You showed up fifty times. That is not a small thing."
+  },
+  {
+    id: 334, day: 51, program: 'infidelity-recovery',
+    title: "The Other Person — Closing the Door",
+    emoji: "🚪",
+    tagline: "Take any final steps needed to close the door on the affair.",
+    body: "Healing cannot fully begin while the door is still open — literally or emotionally. Today you revisit whether the door is truly closed. Not to interrogate or punish, but because a truly closed door is a foundation that healing can be built on.",
+    duration: "35 min",
+    prompts: [
+      "Betraying partner: Is the affair truly over — in action AND in your internal life?",
+      "Betraying partner: Is there anything you haven't yet done to fully close this door?",
+      "Betrayed partner: What would help you believe the door is closed?",
+      "Both: Are there any final practical steps to take — blocking contact, changing routines? Do them."
+    ],
+    reflection: "A closed door is not a guarantee. It is a commitment. Renew it."
+  },
+  {
+    id: 335, day: 52, program: 'infidelity-recovery',
+    title: "New Rituals of Connection",
+    emoji: "🌀",
+    tagline: "Create 2–3 new daily or weekly connection rituals.",
+    body: "Your old relationship had rituals — some healthy, some not, some that became invisible. The relationship you are building needs new rituals that belong to this version of you. Today you create them together.",
+    duration: "30 min",
+    prompts: [
+      "Both: Brainstorm a list of 5–10 possible daily or weekly rituals (morning check-in, shared meal, evening walk).",
+      "Both: Choose 2–3 that feel meaningful and achievable.",
+      "Both: Commit to starting these rituals this week.",
+      "Both: After one week, check in: which ritual is working? Which needs adjustment?"
+    ],
+    reflection: "Rituals are how couples say 'we' in the ordinary moments of life. Build new ones."
+  },
+  {
+    id: 336, day: 53, program: 'infidelity-recovery',
+    title: "The Inner Child Under the Pain",
+    emoji: "🧒",
+    tagline: "Explore the childhood wounds that betrayal re-activates.",
+    body: "Betrayal in adult relationships often echoes earlier wounds — abandonment, rejection, not being enough. These echoes can amplify the pain of the current betrayal far beyond the event itself. Today you gently explore those echoes without collapsing the present into the past.",
+    duration: "35 min",
+    prompts: [
+      "Betrayed partner: Does this betrayal remind you of any earlier wound — from childhood or a previous relationship?",
+      "Betrayed partner: What did the child in you need that they didn't get? Does your partner know that need?",
+      "Betraying partner: Does your role in this echo any earlier pattern in your life?",
+      "Both: How can you tend to these older wounds — in yourself and in each other?"
+    ],
+    reflection: "You are not only healing the current betrayal. You may be healing something much older."
+  },
+  {
+    id: 337, day: 54, program: 'infidelity-recovery',
+    title: "The Language of Repair",
+    emoji: "🛠️",
+    tagline: "Learn and practice the language of repair after conflict.",
+    body: "In healthy relationships, partners know how to repair after a fight or a difficult moment. After betrayal, many couples lose access to repair — the conflict just compounds. Today you learn and practice specific language for repair.",
+    duration: "30 min",
+    prompts: [
+      "Both: Think of a recent conflict or difficult moment in the last few weeks.",
+      "Each partner: What repair attempt could have been made that would have helped?",
+      "Both: Practice saying: 'I'm not trying to fight with you. I'm trying to reach you.' Mean it.",
+      "Both: Identify your personal repair signal — a word, phrase, or gesture that means 'I want to come back to you.'"
+    ],
+    reflection: "Repair is a skill, not an instinct. Practice it until it becomes reflex."
+  },
+  {
+    id: 338, day: 55, program: 'infidelity-recovery',
+    title: "What You're Proud Of",
+    emoji: "🏆",
+    tagline: "Acknowledge your growth and courage.",
+    body: "Amid all the pain and work and uncertainty, there are things both of you have done that deserve acknowledgment. Not just endurance — but growth. Today you name what you're proud of — in yourself and in your partner.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: What are you most proud of in how you've handled these last two months?",
+      "Each partner: What is one thing your partner has done in this healing process that you respect?",
+      "Both: Share those words of respect with each other.",
+      "Both: Let those words land. Don't deflect them."
+    ],
+    reflection: "Pride in each other, earned in a crucible, is a kind of bond."
+  },
+  {
+    id: 339, day: 56, program: 'infidelity-recovery',
+    title: "Eight Weeks — Stabilization",
+    emoji: "⚓",
+    tagline: "Assess whether you've found ground beneath you.",
+    body: "Eight weeks in, many couples begin to find a kind of floor — not healed, not whole, but stabilized. The acute crisis may have softened. The work continues, but it's less emergency and more long-term construction. Have you found your floor? Today you check.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: Do you feel more stable than you did on Day 1? What does that feel like?",
+      "Each partner: What is still destabilizing you — the thing that hasn't settled?",
+      "Both: What does 'stable but not healed' mean to you right now?",
+      "Both: What is the most important work for the next month?"
+    ],
+    reflection: "Stabilization is not the end. It is the point where you can begin building instead of just surviving."
+  },
+  {
+    id: 340, day: 57, program: 'infidelity-recovery',
+    title: "The Healing Plan",
+    emoji: "📋",
+    tagline: "Build a shared healing plan for the next 30 days.",
+    body: "You've been moving day by day. Now take a wider view. Build a shared plan for the next 30 days — not rigid, but intentional. What will you do? What will you continue? What will you try that you haven't yet?",
+    duration: "35 min",
+    prompts: [
+      "Both: List 3 things you want to continue from what's been working.",
+      "Both: List 2 new things you want to try in the next 30 days.",
+      "Both: Identify one potential obstacle and name a plan to handle it.",
+      "Both: Write the plan. Put it somewhere you'll both see it."
+    ],
+    reflection: "Intentionality turns effort into progress. Plan the next phase."
+  },
+  {
+    id: 341, day: 58, program: 'infidelity-recovery',
+    title: "When You Want to Give Up",
+    emoji: "🌪️",
+    tagline: "Prepare for the days when you'll want to quit — together.",
+    body: "There will be days — maybe many of them — when you want to give up. Not because you don't love each other, but because you're exhausted and it's hard and the end still feels far away. Today you talk about those days in advance, and build a plan for them.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: What does the impulse to give up feel like for you? What triggers it?",
+      "Each partner: What helps you come back when you want to give up?",
+      "Both: Agree on a plan for the hard days — what you'll say, what you'll do, who you'll call.",
+      "Both: Write your 'hard day plan' somewhere accessible."
+    ],
+    reflection: "Planning for the hard days is not pessimism. It is how you protect the commitment you've made."
+  },
+  {
+    id: 342, day: 59, program: 'infidelity-recovery',
+    title: "Your Vision for the New Relationship",
+    emoji: "🔭",
+    tagline: "Build a shared vision for what you're healing toward.",
+    body: "You've been healing from something. Today you turn your face toward something. What is the relationship you want? Not the one you had — that is gone. The one you could build from here, if you both commit fully. What does it look like?",
+    duration: "40 min",
+    prompts: [
+      "Each partner: Describe your vision for this relationship in 3–5 years — if healing goes well.",
+      "Each partner: What does daily life look like in that vision?",
+      "Both: Share your visions. Where do they overlap? Where are there gaps?",
+      "Both: Identify 3 shared values that belong to the new relationship you're building."
+    ],
+    reflection: "Healing toward something is more powerful than healing away from something."
+  },
+  {
+    id: 343, day: 60, program: 'infidelity-recovery',
+    title: "Two Months — Full Accounting",
+    emoji: "📊",
+    tagline: "A full accounting of your two months of healing work.",
+    body: "Two months. Sixty days of choosing this, over and over. Today you do a full accounting — not a grade, but a genuine reckoning with where you've been, what you've done, and where you are.",
+    duration: "40 min",
+    prompts: [
+      "Each partner: What is the most honest sentence about where your relationship is today?",
+      "Each partner: What are you still grieving? What, if anything, have you put down?",
+      "Both: What is the single most important thing you've built in two months?",
+      "Both: Write a short letter to the couple you were on Day 1. What do you want them to know?"
+    ],
+    reflection: "Two months of hard work deserves to be witnessed. See what you've done."
+  },
+  {
+    id: 344, day: 61, program: 'infidelity-recovery',
+    title: "The Long Game",
+    emoji: "♟️",
+    tagline: "Shift from crisis mode to long-game thinking.",
+    body: "At two months in, the crisis energy should be fading. Now comes the long game: slow, consistent, unglamorous work that accumulates into something real. Today you shift your mindset from 'surviving this' to 'building toward something.'",
+    duration: "25 min",
+    prompts: [
+      "Each partner: What does long-game thinking feel like, compared to the crisis mode of the first weeks?",
+      "Both: What habits and practices do you want to maintain for the long haul?",
+      "Both: What aspects of healing still need focused, intensive attention?",
+      "Both: Set an intention — not for this week, but for this season."
+    ],
+    reflection: "Long-game thinking is what sustains the relationship after the program ends."
+  },
+  {
+    id: 345, day: 62, program: 'infidelity-recovery',
+    title: "Curiosity Over Interrogation",
+    emoji: "🔍",
+    tagline: "Replace interrogation with genuine curiosity about your partner.",
+    body: "After betrayal, the betrayed partner sometimes shifts into investigator mode — always searching for discrepancies, always looking for proof. This is understandable, but it cannot be the permanent posture of the relationship. Today you practice curiosity as an alternative to interrogation.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: What questions about your partner would you ask out of genuine curiosity — not suspicion?",
+      "Betraying partner: Answer those questions fully and openly.",
+      "Betrayed partner: Notice how it feels to receive information given freely, not extracted.",
+      "Both: What would it mean to approach your partner more often with curiosity than guardedness?"
+    ],
+    reflection: "Curiosity opens. Interrogation closes. You want a relationship that opens."
+  },
+  {
+    id: 346, day: 63, program: 'infidelity-recovery',
+    title: "Nine Weeks — Sustaining the Work",
+    emoji: "🌊",
+    tagline: "Check in on your stamina and sustainability.",
+    body: "Nine weeks in. This is often where the work gets harder in a different way: not the initial acute pain, but the slow, grinding exhaustion of sustained healing. Today you check your stamina and make adjustments.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: What is your energy level for this healing work right now — honestly?",
+      "Each partner: What would help you sustain this for the months ahead?",
+      "Both: Is there anything in the process that needs to change to be more sustainable?",
+      "Both: Identify one thing you can remove from your life to create more space for this work."
+    ],
+    reflection: "Sustainable healing is better than heroic healing that burns out."
+  },
+  {
+    id: 347, day: 64, program: 'infidelity-recovery',
+    title: "The Gratitude Practice",
+    emoji: "🙏",
+    tagline: "Introduce gratitude as a daily healing practice.",
+    body: "Gratitude may feel forced or inappropriate when you're in grief. But research consistently shows that deliberate gratitude practice changes the brain's orientation — over time, it makes resilience more accessible. Today you begin. Simply. Without pretending.",
+    duration: "20 min",
+    prompts: [
+      "Each partner: Name 3 things you're genuinely grateful for right now — even if they're small.",
+      "Each partner: Name one thing about your partner you're grateful for, even amid all of this.",
+      "Both: Share your gratitude lists with each other.",
+      "Both: Commit to one minute of gratitude practice each morning this week."
+    ],
+    reflection: "Gratitude is not denial of pain. It is training the mind to see what else is true."
+  },
+  {
+    id: 348, day: 65, program: 'infidelity-recovery',
+    title: "When You Spiral",
+    emoji: "🌀",
+    tagline: "Create an interruption plan for when your mind spirals.",
+    body: "Betrayed partners often experience intrusive thoughts and rumination spirals — the same images or memories replaying on loop. These spirals are exhausting and keep the wound fresh. Today you build a concrete plan to interrupt them.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: Describe your typical spiral. What triggers it? What does it look like?",
+      "Betrayed partner: What has helped interrupt it in the past, even briefly?",
+      "Both: Design a 3-step spiral interruption plan (example: name it / move your body / call someone).",
+      "Betraying partner: How can you help when you notice your partner spiraling?"
+    ],
+    reflection: "You cannot prevent the spirals. You can refuse to stay in them indefinitely."
+  },
+  {
+    id: 349, day: 66, program: 'infidelity-recovery',
+    title: "Words That Heal",
+    emoji: "💬",
+    tagline: "Identify and speak specific words that have healing power.",
+    body: "Words have wounded you. Words also have the power to begin healing. Today you identify the specific words and phrases your partner most needs to hear — not once, but regularly. These are not empty reassurances. They are true statements that need to be spoken more often.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: What words or phrases from your partner have felt most healing so far?",
+      "Betrayed partner: What words do you most need to hear — that you haven't heard yet?",
+      "Betraying partner: Can you say those words authentically? Say them now.",
+      "Betraying partner: Commit to saying them again, unprompted, within the next 48 hours."
+    ],
+    reflection: "Love spoken in words — real words, chosen carefully — is not less than love shown in action. It is its own form of evidence."
+  },
+  {
+    id: 350, day: 67, program: 'infidelity-recovery',
+    title: "Relearning Playfulness",
+    emoji: "🎈",
+    tagline: "Gently reintroduce play and lightness.",
+    body: "Grief is serious. Healing is serious. But relationships cannot survive on seriousness alone. Play — lightness, laughter, silliness — is not a distraction from healing. It is part of it. Today you take one small step toward relearning how to be playful with each other.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: When did you last genuinely laugh together? What was it?",
+      "Both: Think of something playful or light you used to do together. Can you do a version of it today?",
+      "Both: Spend 10 minutes doing something fun — no healing talk allowed.",
+      "Both: How did that feel? Was it possible to be in a lighter moment?"
+    ],
+    reflection: "Playfulness is not disrespect for the gravity of what happened. It is an act of hope."
+  },
+  {
+    id: 351, day: 68, program: 'infidelity-recovery',
+    title: "Ten Weeks — Mapping What Remains",
+    emoji: "🗺️",
+    tagline: "Honestly map what healing work remains.",
+    body: "Ten weeks. You have covered significant ground. Today you look ahead at what remains — not with dread, but with clear eyes. Knowing what's left is not discouraging. It is empowering.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: What feels genuinely more healed than it was on Day 1?",
+      "Each partner: What still feels raw or unresolved?",
+      "Both: Together, make a list of 5 things that still need work.",
+      "Both: Prioritize that list. Which 2–3 are most important to address in the next 30 days?"
+    ],
+    reflection: "Knowing what remains keeps you from pretending you're further along than you are — and gives you a target."
+  },
+  {
+    id: 352, day: 69, program: 'infidelity-recovery',
+    title: "The Honest State of Trust",
+    emoji: "🔐",
+    tagline: "Assess where trust actually stands right now.",
+    body: "Every few weeks, it's worth taking an honest inventory of where trust actually stands — not where you wish it stood, not where you think it should be by now. Today you look clearly at the real state of trust between you.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: On a scale of 1–10, where is your trust right now? What would move it up one point?",
+      "Betraying partner: What have you done in the last few weeks that you believe has built trust?",
+      "Betraying partner: What have you done — or not done — that you think has eroded trust?",
+      "Both: What is the most important trust-building action for this coming week?"
+    ],
+    reflection: "Trust is not a feeling that arrives. It is a record that accumulates."
+  },
+  {
+    id: 353, day: 70, program: 'infidelity-recovery',
+    title: "The Vulnerability Ladder",
+    emoji: "🪜",
+    tagline: "Practice incremental vulnerability to rebuild emotional intimacy.",
+    body: "Vulnerability, like trust, must be rebuilt in increments. You cannot leap to full emotional openness after betrayal — but you can climb one rung at a time. Today you identify where you are on the vulnerability ladder and take one deliberate step up.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: What is something you feel but haven't been able to say yet?",
+      "Each partner: What is stopping you from saying it? Fear of what response?",
+      "Each partner: Say it — just one true, vulnerable thing. Start small.",
+      "Both: Receive each other's vulnerability with care. No analysis, no correction."
+    ],
+    reflection: "Vulnerability is not weakness. It is the doorway through which intimacy re-enters."
+  },
+  {
+    id: 354, day: 71, program: 'infidelity-recovery',
+    title: "What You Admire",
+    emoji: "⭐",
+    tagline: "Reconnect with what you genuinely admire about your partner.",
+    body: "Admiration — that feeling of genuine respect and appreciation for who your partner is — often gets buried under betrayal's fallout. Today you dig for it deliberately. Not to ignore the wound. But because admiration is part of the architecture of love.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: Name 3 things you genuinely admire about your partner.",
+      "Each partner: Name one quality in your partner that has been visible during this healing process.",
+      "Both: Share your admiration with each other. Let it land.",
+      "Both: Does admiration feel available to you right now? What gets in the way?"
+    ],
+    reflection: "Admiration and hurt can coexist. Let them."
+  },
+  {
+    id: 355, day: 72, program: 'infidelity-recovery',
+    title: "The Silence Between You",
+    emoji: "🤫",
+    tagline: "Explore what lives in the silences.",
+    body: "Every couple has silences — comfortable ones, tense ones, the ones that speak more than words. After betrayal, silences often change character. Today you pay attention to the quality of silence between you and what it holds.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: What is your relationship to silence right now? Comfortable? Anxious? Loaded?",
+      "Both: Sit in silence together for 3 minutes. Just be present.",
+      "Both: After the silence — what was in it? Name it honestly.",
+      "Both: Is the silence between you getting easier or harder? What does that tell you?"
+    ],
+    reflection: "The quality of silence is diagnostic. Comfortable silence means something is healing."
+  },
+  {
+    id: 356, day: 73, program: 'infidelity-recovery',
+    title: "Comparing Before and After",
+    emoji: "🔄",
+    tagline: "Honestly compare who you were and who you are.",
+    body: "You are not the same people you were before this began. The betrayal, the grief, the work — it has changed you both. Today you do an honest comparison: who were you before, and who are you now?",
+    duration: "30 min",
+    prompts: [
+      "Each partner: Who were you in this relationship before the betrayal? Describe your role, your patterns.",
+      "Each partner: Who are you in this relationship now? What has changed?",
+      "Each partner: What changes do you want to keep? What do you want to shed?",
+      "Both: Share. Where have you each grown in ways the other can see?"
+    ],
+    reflection: "Change through crisis, chosen intentionally, can become character."
+  },
+  {
+    id: 357, day: 74, program: 'infidelity-recovery',
+    title: "Eleven Weeks — The Final Stretch Begins",
+    emoji: "🏃",
+    tagline: "Acknowledge that you're entering the final phase of this 90-day intensive.",
+    body: "You are entering the final stretch of this 90-day program. Eleven weeks in. Today is about gathering yourself for the final phase — not speeding up, but deepening and integrating.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: What do you want to have accomplished by the end of Day 90?",
+      "Each partner: What remains undone that you need to make time for?",
+      "Both: Identify 3 intentions for the final weeks.",
+      "Both: Make one commitment to each other for this final phase."
+    ],
+    reflection: "The final stretch is not the end of healing. It is the end of the beginning."
+  },
+  {
+    id: 358, day: 75, program: 'infidelity-recovery',
+    title: "The Meaning of It All",
+    emoji: "🌟",
+    tagline: "Begin searching for meaning in what you've been through.",
+    body: "Not every painful experience has meaning. But sometimes, through the act of looking, we find something worth keeping. Today you look — not to justify the betrayal, not to make it 'worth it' — but to see if anything of value has emerged from the rubble.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: Has anything valuable emerged from going through this? What?",
+      "Each partner: Has this experience taught you anything about yourself that you're grateful for?",
+      "Both: Is there any sense in which this crisis has brought you to a deeper level than you had before?",
+      "Both: What story do you want to tell about this — in five years?"
+    ],
+    reflection: "You don't have to find meaning. But if you can, it changes everything."
+  },
+  {
+    id: 359, day: 76, program: 'infidelity-recovery',
+    title: "Integration: Body, Mind, Spirit",
+    emoji: "🧩",
+    tagline: "Address healing at all three levels — not only cognitive.",
+    body: "Most of your healing work has been cognitive and emotional. But full healing integrates the body and, for those for whom it matters, the spirit. Today you tend to all three levels of yourself.",
+    duration: "35 min",
+    prompts: [
+      "Body: Do something physical together today — walk, stretch, cook, build. Use your bodies together.",
+      "Mind: Each share one insight you've had this week.",
+      "Spirit (if this resonates): What have you prayed for, meditated on, or sought beyond yourselves during this time?",
+      "Both: After tending to all three — what does your whole self feel like right now?"
+    ],
+    reflection: "Healing that reaches all the way through is healing that lasts."
+  },
+  {
+    id: 360, day: 77, program: 'infidelity-recovery',
+    title: "The Version of You at Your Best",
+    emoji: "🌠",
+    tagline: "Call forward the best version of yourself in this relationship.",
+    body: "Who are you at your best in this relationship? Not the reactive version, not the wounded version — the version that is wise, patient, generous, present. Today you call that version forward — not as a demand on yourself, but as an aspiration.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: Describe the version of you that shows up at your best in this relationship.",
+      "Each partner: What helps that version of you emerge? What blocks it?",
+      "Both: Share your best-version descriptions with each other.",
+      "Both: Agree to call each other toward that best version — not criticize the worst version."
+    ],
+    reflection: "Love at its best calls forward the best, not the worst."
+  },
+  {
+    id: 361, day: 78, program: 'infidelity-recovery',
+    title: "Forgiveness — Revisited",
+    emoji: "🌸",
+    tagline: "Revisit forgiveness with fresh eyes after nearly 80 days.",
+    body: "You explored forgiveness early in this process. Now, nearly 80 days in, it may look different. Not necessarily closer — but perhaps more textured, more understood. Today you return to it with all you've learned.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: Where are you on the forgiveness journey now? Has anything shifted?",
+      "Betrayed partner: What would need to happen — internally or externally — to move further toward forgiveness?",
+      "Betraying partner: What does your partner's forgiveness mean to you? What are you doing to be worthy of it?",
+      "Both: Is forgiveness the right goal — or is something else more important right now?"
+    ],
+    reflection: "Forgiveness is not a moment. It is a direction — and you can face it without having arrived."
+  },
+  {
+    id: 362, day: 79, program: 'infidelity-recovery',
+    title: "Twelve Weeks — Almost There",
+    emoji: "🎯",
+    tagline: "Recognize the milestone of nearly three months of healing work.",
+    body: "Twelve weeks. Eighty days of showing up. Today you recognize that milestone — without declaring victory, but with genuine acknowledgment of the distance you've traveled.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: What has been the single hardest day of the past twelve weeks?",
+      "Each partner: What has been the single most hopeful moment?",
+      "Both: How different do you feel from Day 1 — even if you're still far from healed?",
+      "Both: What do you want the next twelve weeks — after this program ends — to look like?"
+    ],
+    reflection: "Twelve weeks of intentional work is a foundation. What you build on it is yours."
+  },
+  {
+    id: 363, day: 80, program: 'infidelity-recovery',
+    title: "The Safety You've Built",
+    emoji: "🏠",
+    tagline: "Acknowledge the safety you've created together.",
+    body: "Safety is not the absence of threat. It is the presence of trust, care, and predictability. By now, you may have built some version of safety that didn't exist before. Today you name and acknowledge what you've built.",
+    duration: "25 min",
+    prompts: [
+      "Betrayed partner: Do you feel safer in this relationship than you did on Day 1? What created that?",
+      "Betraying partner: What have you done intentionally to create safety for your partner?",
+      "Both: What does safety look like in the daily texture of your relationship now?",
+      "Both: What is one more thing you could do to increase safety in the next ten days?"
+    ],
+    reflection: "Safety is built in small, consistent actions. Name the ones that have mattered."
+  },
+  {
+    id: 364, day: 81, program: 'infidelity-recovery',
+    title: "Your Relationship Manifesto",
+    emoji: "📣",
+    tagline: "Write a brief shared manifesto for your relationship going forward.",
+    body: "What do you stand for, together? What are the values, commitments, and intentions that define the relationship you are building? Today you write a short shared manifesto — five to ten sentences — that you will carry beyond this program.",
+    duration: "40 min",
+    prompts: [
+      "Both: Brainstorm the values you want to govern your relationship: honesty, safety, curiosity, play...",
+      "Both: Write a manifesto together — 5–10 sentences. Each sentence should start with 'We...'",
+      "Both: Read it aloud to each other.",
+      "Both: Keep it somewhere visible in your home."
+    ],
+    reflection: "A manifesto is a declaration of who you intend to be — not a record of who you've been."
+  },
+  {
+    id: 365, day: 82, program: 'infidelity-recovery',
+    title: "What Love Means to You Now",
+    emoji: "❤️",
+    tagline: "Redefine love from where you actually stand.",
+    body: "The naive, unexamined version of love may have been part of what broke. The love you're building now is something different — more honest, more costly, more deliberately chosen. Today you define what love means to you now — after all of this.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: How has your definition of love changed through this experience?",
+      "Each partner: What do you know about love now that you didn't know before?",
+      "Both: Share your definitions. Where do they resemble each other? Where are they different?",
+      "Both: What does this new definition demand of you?"
+    ],
+    reflection: "Love redefined through suffering has the quality of something earned — and is often the most durable kind."
+  },
+  {
+    id: 366, day: 83, program: 'infidelity-recovery',
+    title: "The Question You've Never Asked",
+    emoji: "❓",
+    tagline: "Surface and ask the one question you've been avoiding.",
+    body: "After nearly 90 days, there may still be a question you haven't asked — the one that felt too dangerous, too destabilizing, or too revealing. Today is its day. You have built enough ground to stand on.",
+    duration: "45 min",
+    prompts: [
+      "Each partner: What question have you been avoiding asking your partner?",
+      "Each partner: What are you afraid of in the answer?",
+      "Both: Ask the question. Answer it fully and honestly.",
+      "Both: After — how does it feel to have finally asked and answered it?"
+    ],
+    reflection: "The questions we avoid asking maintain their power. The questions we ask, we begin to heal."
+  },
+  {
+    id: 367, day: 84, program: 'infidelity-recovery',
+    title: "Twelve Weeks Complete — Review",
+    emoji: "🔖",
+    tagline: "A structured review of the full twelve-week journey.",
+    body: "Twelve complete weeks. Today you do a structured review of the entire journey — not just recent weeks, but the arc from Day 1 to now.",
+    duration: "40 min",
+    prompts: [
+      "Both: Think back to Week 1. What was the state of things? What were you most afraid of?",
+      "Both: Think through the phases — weeks 1–4, 5–8, 9–12. What characterized each?",
+      "Both: What has been the most significant turning point in your healing?",
+      "Both: Write a one-paragraph description of where your relationship stands today — to be read aloud to each other."
+    ],
+    reflection: "A full arc has meaning that individual days do not. See the whole shape of what you've done."
+  },
+  {
+    id: 368, day: 85, program: 'infidelity-recovery',
+    title: "Joy Is Not Betrayal",
+    emoji: "☀️",
+    tagline: "Give yourself permission to experience joy without guilt.",
+    body: "Many betrayed partners feel guilt when they experience joy — as if happiness is disloyal to their wound. Many betraying partners feel they don't deserve joy until they're forgiven. Today you challenge both of these beliefs. Joy is not a betrayal of your healing. It is evidence that healing is happening.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: Have you felt any genuine joy in the last few weeks? What was it?",
+      "Each partner: Did you feel guilty about that joy? Undeserving of it?",
+      "Both: Give each other explicit permission to experience joy — say it out loud.",
+      "Both: Plan one genuinely joyful thing to do together in the next week."
+    ],
+    reflection: "Joy in the midst of healing is not denial. It is the first evidence that you are going to make it."
+  },
+  {
+    id: 369, day: 86, program: 'infidelity-recovery',
+    title: "What You're Carrying That Isn't Yours",
+    emoji: "🎒",
+    tagline: "Identify and set down burdens that don't belong to you.",
+    body: "In the aftermath of betrayal, both partners often pick up weight that isn't theirs to carry. The betrayed partner may carry shame that belongs to the betraying partner. The betraying partner may carry the weight of trying to control the betrayed partner's healing. Today you identify what isn't yours.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: What are you carrying in this relationship that might not be yours to carry?",
+      "Each partner: What would happen if you set it down? What are you afraid would happen?",
+      "Both: Help each other identify what belongs to whom.",
+      "Both: Practice saying: 'That's not mine to carry.' How does it feel?"
+    ],
+    reflection: "You can't heal your partner. You can only heal yourself — and create conditions for their healing."
+  },
+  {
+    id: 370, day: 87, program: 'infidelity-recovery',
+    title: "After This Program Ends",
+    emoji: "🔮",
+    tagline: "Plan for life after the 90-day program.",
+    body: "Three days from the end of this program. Life will continue after it ends — healing will continue, triggers will still fire, progress will still be made. Today you plan for that continuation so that what you've built doesn't dissolve when the daily structure ends.",
+    duration: "35 min",
+    prompts: [
+      "Both: What daily or weekly practices will you keep after the program ends?",
+      "Both: What professional or community support will you maintain?",
+      "Both: How will you know if you're sliding backward? What's the signal?",
+      "Both: What is your agreement about what to do if things feel like they're deteriorating?"
+    ],
+    reflection: "A program can create a container. The work is yours to carry forward."
+  },
+  {
+    id: 371, day: 88, program: 'infidelity-recovery',
+    title: "The Last Hard Conversation",
+    emoji: "🗝️",
+    tagline: "Make space for any remaining unfinished business.",
+    body: "With two days left, there may be something unfinished — a conversation that never happened, a question still unanswered, something said that was never fully addressed. Today you make space for what remains. This is your chance.",
+    duration: "45 min",
+    prompts: [
+      "Each partner: Is there anything we haven't talked about that still needs to be said?",
+      "Each partner: Is there anything I did — or didn't do — in this healing process that I need to own?",
+      "Both: Have those conversations. Let them be as long as they need to be.",
+      "Both: After — have you cleared the air? What remains, if anything?"
+    ],
+    reflection: "Unfinished business does not disappear when the program ends. Finish as much as you can."
+  },
+  {
+    id: 372, day: 89, program: 'infidelity-recovery',
+    title: "Gratitude for the Journey",
+    emoji: "🌺",
+    tagline: "Express full gratitude for each other and for the journey.",
+    body: "Tomorrow is Day 90 — the formal close of this program. Today you practice gratitude for the journey itself: for what it cost, for what it gave, and for the person beside you who chose to walk it with you.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: What are you most grateful for in this journey?",
+      "Each partner: What are you most grateful for in your partner during this time?",
+      "Both: Write each other a full gratitude letter — not editing, just thanking.",
+      "Both: Read your letters to each other. Let the moment be what it is."
+    ],
+    reflection: "Gratitude for survival is real gratitude. You have survived something enormous."
+  },
+  {
+    id: 373, day: 90, program: 'infidelity-recovery',
+    title: "Day 90 — The Beginning of After",
+    emoji: "🌅",
+    tagline: "Close this 90-day chapter with honesty, dignity, and hope.",
+    body: "Ninety days. You have been doing this every day for ninety days. The wound is not healed — it may not be healed for years. But you are different. The relationship is different. You are not who you were on Day 1, and you are not where you were. That is everything. Today you close this chapter and open the next one.",
+    duration: "60 min",
+    prompts: [
+      "Each partner: Write the most honest statement you can about where you are today — your heart, your hope, your fear.",
+      "Each partner: What is your commitment to this person and this relationship for the next 90 days?",
+      "Both: Read your statements to each other. Take as long as you need.",
+      "Both: Choose one symbol, ritual, or action to mark this moment. Then do it."
+    ],
+    reflection: "The end of the program is the beginning of after. After is where your real life waits."
+  },
+  {
+    id: 374, day: 91, program: 'infidelity-recovery',
+    title: "After the Program — Continuing the Work",
+    emoji: "🌱",
+    tagline: "The work continues beyond the formal program.",
+    body: "You've completed the 90-day intensive. Now comes the sustained, long-term work of rebuilding — less structured, but no less important. Today you check in, maintain the practices, and keep moving forward.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: How do you feel one day after the program ended?",
+      "Both: Which practices from the program will you keep?",
+      "Both: Set a date in 30 days to do a formal check-in together.",
+      "Both: What is the first priority for this next chapter of healing?"
+    ],
+    reflection: "The program was the scaffolding. The building is yours."
+  },
+
+  // INFIDELITY RECOVERY — Days 92–180 (Ongoing Accountability, Deepening Intimacy, Forgiveness, New Normal)
+  {
+    id: 375, day: 92, program: 'infidelity-recovery',
+    title: "Accountability Check — Month Four Begins",
+    emoji: "📌",
+    tagline: "Open the next chapter with a full accountability review.",
+    body: "You are four months in. The crisis is behind you; the long work of sustained accountability is ahead. Today the betraying partner does a full accountability review — not because they are being policed, but because consistent accountability is the foundation everything else rests on.",
+    duration: "35 min",
+    prompts: [
+      "Betraying partner: In the last 30 days, have you honored every transparency commitment you made?",
+      "Betraying partner: Were there moments you were tempted to hide something? What did you do?",
+      "Betrayed partner: Has the accountability you've seen in the last month felt genuine? What would strengthen it?",
+      "Both: Update your transparency agreement if anything needs adjusting."
+    ],
+    reflection: "Accountability is not a one-time event. It is a daily practice that either grows or erodes."
+  },
+  {
+    id: 376, day: 93, program: 'infidelity-recovery',
+    title: "The Trust Ledger",
+    emoji: "📒",
+    tagline: "Review the record of trust-building actions over the past month.",
+    body: "Trust is built by a thousand small deposits — and eroded by even small withdrawals. Today you review the ledger together: what has been deposited, what has been withdrawn, and what the balance looks like right now.",
+    duration: "30 min",
+    prompts: [
+      "Betraying partner: List 5 specific trust-building actions you took in the last 30 days.",
+      "Betrayed partner: Which of those felt most meaningful? Which felt smallest?",
+      "Both: Was there any trust withdrawal — a broken promise, an evasion, a moment of deflection?",
+      "Both: What is the most important deposit to make in the next 30 days?"
+    ],
+    reflection: "The ledger doesn't lie. Keep adding to it."
+  },
+  {
+    id: 377, day: 94, program: 'infidelity-recovery',
+    title: "Proactive Reassurance",
+    emoji: "💡",
+    tagline: "The betraying partner gives reassurance before being asked.",
+    body: "One of the most powerful shifts in infidelity recovery happens when the betraying partner begins offering reassurance proactively — not waiting to be asked, but noticing and giving. Today you practice that shift.",
+    duration: "25 min",
+    prompts: [
+      "Betraying partner: What reassurance does your partner need that they haven't asked for recently?",
+      "Betraying partner: Give that reassurance now — unprompted, fully.",
+      "Betrayed partner: How does it feel to receive something before you had to ask for it?",
+      "Both: How can proactive reassurance become a regular practice in your relationship?"
+    ],
+    reflection: "Reassurance that comes without being demanded is among the most healing things a betraying partner can offer."
+  },
+  {
+    id: 378, day: 95, program: 'infidelity-recovery',
+    title: "Naming the Progress",
+    emoji: "📈",
+    tagline: "Explicitly name and celebrate the progress you've made.",
+    body: "Progress in infidelity recovery is often invisible — you're so focused on what remains that you don't see how far you've come. Today you stop and deliberately name the progress. Both partners deserve to see the distance they've traveled.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: Name 3 specific ways the relationship is better today than it was on Day 1.",
+      "Each partner: Name one thing about yourself that has genuinely improved through this process.",
+      "Both: Share your progress lists with each other.",
+      "Both: Acknowledge each other. Say: 'I see how hard you've worked.' Mean it."
+    ],
+    reflection: "Progress named is progress that compounds. See it clearly."
+  },
+  {
+    id: 379, day: 96, program: 'infidelity-recovery',
+    title: "Old Patterns, New Choices",
+    emoji: "🔀",
+    tagline: "Identify old relationship patterns and consciously choose differently.",
+    body: "Every relationship has patterns — ways of fighting, ways of going silent, ways of seeking comfort or distance. Some of those patterns may have contributed to the conditions in which the betrayal occurred. Today you name them and commit to new choices.",
+    duration: "40 min",
+    prompts: [
+      "Each partner: What was your most harmful pattern in this relationship before the betrayal?",
+      "Each partner: Have you broken that pattern, or do you still see it operating?",
+      "Both: Where have you both made new choices that break old patterns?",
+      "Both: What is one old pattern still alive in this relationship that needs a new choice?"
+    ],
+    reflection: "You cannot build a new relationship with all the same old patterns intact. Choose consciously."
+  },
+  {
+    id: 380, day: 97, program: 'infidelity-recovery',
+    title: "Staying Curious About Your Partner",
+    emoji: "🌐",
+    tagline: "Practice seeing your partner with fresh eyes.",
+    body: "Long relationships often develop a kind of perceptual ossification — we stop seeing our partner and start seeing our idea of them. After betrayal, that fossilized image has been shattered. Today you use that shattering as an opportunity: to actually see who your partner is now.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: What have you discovered about your partner during this healing process that genuinely surprised you?",
+      "Each partner: What aspect of your partner do you feel you still don't fully understand?",
+      "Both: Ask each other one genuine question — something you've always wanted to know but never asked.",
+      "Both: Answer fully. Let each other be seen."
+    ],
+    reflection: "A partner who is still capable of surprising you is a partner you are still genuinely seeing."
+  },
+  {
+    id: 381, day: 98, program: 'infidelity-recovery',
+    title: "Three Months — Where Are You?",
+    emoji: "🗓️",
+    tagline: "A full three-month check-in.",
+    body: "Three months since you began this intentional healing work. Not three months since the betrayal — that clock started earlier. But three months of daily, deliberate effort. Today you take an honest measure of where you actually are.",
+    duration: "40 min",
+    prompts: [
+      "Each partner: On a scale of 1–10, rate: your individual healing / the relationship's healing / your trust level.",
+      "Each partner: What score were you hoping to be at by now? How do you feel about the actual numbers?",
+      "Both: Compare your ratings. Where do they align? Where are you surprised by each other?",
+      "Both: What is the priority focus for the next three months?"
+    ],
+    reflection: "Three months in is not the finish line. It is the end of the beginning of the middle."
+  },
+  {
+    id: 382, day: 99, program: 'infidelity-recovery',
+    title: "The Accountability Habit",
+    emoji: "⚙️",
+    tagline: "Embed accountability into your daily and weekly rhythm.",
+    body: "Accountability should not feel like surveillance — it should feel like a shared practice that both partners have chosen. Today you review your accountability habits and ensure they are embedded into your rhythm in a way that is sustainable and freely given.",
+    duration: "30 min",
+    prompts: [
+      "Betraying partner: What is your current daily accountability practice? What does it look like?",
+      "Betrayed partner: Is the accountability you're receiving sufficient? Honest answer.",
+      "Both: Is there a weekly check-in for accountability? If not, design one.",
+      "Betraying partner: What accountability habit can you commit to for the next 30 days without being asked?"
+    ],
+    reflection: "Accountability that is habitual is accountability that becomes trustworthy."
+  },
+  {
+    id: 383, day: 100, program: 'infidelity-recovery',
+    title: "Day 100 — One Hundred Days",
+    emoji: "💯",
+    tagline: "Mark one hundred days of healing work.",
+    body: "One hundred days. That is one hundred choices to keep going. To keep showing up. To not walk away from the hardest work you've ever done together. That is not nothing. In fact, it is extraordinary. Today you mark it.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: What has been the single most important thing you've learned in 100 days?",
+      "Each partner: What does it mean to you that you've made it this far?",
+      "Both: Write each other a short message for this milestone — not a love letter, not a vow, just an honest note.",
+      "Both: Read your notes aloud. Then do something small to mark the day."
+    ],
+    reflection: "A hundred days. You showed up a hundred times. Remember that on the hard days ahead."
+  },
+  {
+    id: 384, day: 101, program: 'infidelity-recovery',
+    title: "Deepening Emotional Intimacy",
+    emoji: "🌊",
+    tagline: "Move from surface connection to genuine emotional depth.",
+    body: "In the months since the betrayal, much of your conversation has been about the betrayal itself — the facts, the feelings, the rebuilding. Now it is time to build emotional intimacy that is not only about the wound. Today you go deeper into each other as full human beings.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: What are you most afraid of in your life right now — beyond this relationship?",
+      "Each partner: What do you most want for yourself in the next five years — as an individual?",
+      "Both: Share these answers fully. Listen as if you're hearing them for the first time.",
+      "Both: What does knowing this about your partner change in how you see them?"
+    ],
+    reflection: "Emotional intimacy is built in the moments when you show your partner the full shape of who you are."
+  },
+  {
+    id: 385, day: 102, program: 'infidelity-recovery',
+    title: "The Way You Fight",
+    emoji: "⚡",
+    tagline: "Examine and improve how you handle conflict.",
+    body: "By now you have had many difficult conversations and likely some real fights. The way you fight — how you escalate, de-escalate, repair — matters enormously for your long-term future. Today you examine your conflict patterns honestly.",
+    duration: "40 min",
+    prompts: [
+      "Each partner: What do you do in a fight that you're not proud of?",
+      "Each partner: What does your partner do in a fight that is most harmful?",
+      "Both: Share these honestly. Receive them without defending.",
+      "Both: Agree on three 'rules of engagement' for future conflicts. Write them down."
+    ],
+    reflection: "Couples who fight well are not couples who don't fight. They are couples who know how to come back."
+  },
+  {
+    id: 386, day: 103, program: 'infidelity-recovery',
+    title: "Rebuilding Friendship",
+    emoji: "🤜🤛",
+    tagline: "Tend to the friendship at the core of the relationship.",
+    body: "Before you were partners, you were, in some way, friends — or at least drawn to each other as people. Romantic relationships that lose their friendship lose an essential layer of resilience. Today you tend deliberately to the friendship.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: What did you enjoy doing together as friends — before the relationship became heavy?",
+      "Both: Do one of those things today. Or plan to within the week.",
+      "Each partner: What is something you genuinely like about your partner as a person — not as a partner?",
+      "Both: Tell each other. Let it be playful if it can be."
+    ],
+    reflection: "Friendship is the floor beneath the romance. Keep it strong."
+  },
+  {
+    id: 387, day: 104, program: 'infidelity-recovery',
+    title: "The Commitment Renewed",
+    emoji: "🔗",
+    tagline: "Renew your commitment to each other with fresh intention.",
+    body: "Commitments that are never renewed become assumptions. Assumptions become invisible. What becomes invisible gets neglected. Today you bring your commitment into view again — fresh, deliberate, and with full knowledge of what you have both been through.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: In your own words — what are you committing to right now?",
+      "Each partner: What does 'choosing you' mean to you today, with all you now know?",
+      "Both: Say your commitments to each other, face to face.",
+      "Both: How often should you formally renew this commitment going forward?"
+    ],
+    reflection: "A commitment renewed with full knowledge is stronger than one made in innocence."
+  },
+  {
+    id: 388, day: 105, program: 'infidelity-recovery',
+    title: "Fifteen Weeks — Deepening",
+    emoji: "🌀",
+    tagline: "Use the fifteen-week mark to go deeper, not wider.",
+    body: "Fifteen weeks of healing work. The work now is not about covering more ground — it is about going deeper into the ground you've already covered. Deeper honesty. Deeper intimacy. Deeper accountability. Today you go deeper.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: What is one thing you've been holding back in this healing process that you could go deeper on?",
+      "Each partner: What topic or feeling have you been skating over rather than diving into?",
+      "Both: Choose one of those things and go into it together today.",
+      "Both: What did going deeper feel like? Was it worth it?"
+    ],
+    reflection: "Depth is not the same as intensity. Depth is sustained, patient, honest engagement."
+  },
+  {
+    id: 389, day: 106, program: 'infidelity-recovery',
+    title: "The Forgiveness Inventory",
+    emoji: "🧮",
+    tagline: "Take a detailed inventory of where forgiveness stands.",
+    body: "Forgiveness is not one thing. There are many layers: forgiving the act, forgiving the deception, forgiving specific lies, forgiving the loss of innocence, forgiving the violation of safety. Today you take inventory of each layer and where you honestly stand.",
+    duration: "40 min",
+    prompts: [
+      "Betrayed partner: List the specific things you need to forgive — not just 'the affair' but each layer.",
+      "Betrayed partner: For each item on your list — have you moved at all toward forgiveness on that particular thing?",
+      "Betraying partner: Which of those items do you sense is hardest for your partner?",
+      "Both: What would forward movement on forgiveness require right now?"
+    ],
+    reflection: "Forgiveness happens layer by layer, not all at once. Honor the layers."
+  },
+  {
+    id: 390, day: 107, program: 'infidelity-recovery',
+    title: "What Gets in the Way of Forgiveness",
+    emoji: "🧱",
+    tagline: "Examine the obstacles to forgiveness.",
+    body: "Forgiveness is not always blocked by lack of desire. Often it is blocked by fear, by unresolved questions, by insufficient accountability, or by a narrative that hasn't yet been updated. Today you examine what is actually blocking forgiveness for the betrayed partner.",
+    duration: "35 min",
+    prompts: [
+      "Betrayed partner: What is the biggest obstacle to forgiveness for you right now?",
+      "Betrayed partner: Is that obstacle something your partner can help remove? Or is it internal work?",
+      "Betraying partner: What, if anything, could you do to make forgiveness more possible?",
+      "Both: Is there a block that requires outside support — a therapist, a spiritual practice — to address?"
+    ],
+    reflection: "Every block to forgiveness is information. Follow it where it leads."
+  },
+  {
+    id: 391, day: 108, program: 'infidelity-recovery',
+    title: "Choosing Forgiveness — Not Yet",
+    emoji: "⏳",
+    tagline: "Normalize that forgiveness may not be here yet — and that's okay.",
+    body: "There is enormous cultural pressure to forgive quickly and move on. That pressure is not always helpful. Real forgiveness — the kind that is genuine, not performed — cannot be forced. Today you give yourself permission to be exactly where you are on the forgiveness path.",
+    duration: "25 min",
+    prompts: [
+      "Betrayed partner: Where are you on forgiveness honestly — without the pressure to be further along than you are?",
+      "Betraying partner: Can you be at peace with your partner being where they are — even if it's not forgiveness yet?",
+      "Both: What does the pressure to forgive 'by now' come from? Internal? External?",
+      "Both: Release the timeline. Forgiveness will come when it comes — or it won't. Either way, what matters is the truth."
+    ],
+    reflection: "Forgiveness on a forced timeline is not forgiveness. It is performance."
+  },
+  {
+    id: 392, day: 109, program: 'infidelity-recovery',
+    title: "The Radical Acceptance Practice",
+    emoji: "🫸",
+    tagline: "Practice accepting what cannot be changed.",
+    body: "There are things about this situation that cannot be undone. The betrayal happened. Time was lost. The innocent version of the relationship is gone. Radical acceptance does not mean approval — it means releasing the fight against what cannot be changed, so your energy can go toward what can.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: What are you still fighting against that cannot be changed?",
+      "Each partner: What would it mean to accept that thing — not approve of it, but stop fighting it?",
+      "Both: Sit together and each say out loud: 'This happened. I cannot change it. I accept that it is part of our story.'",
+      "Both: After saying it — what shifts, even slightly?"
+    ],
+    reflection: "Radical acceptance is not surrender. It is the releasing of a war you cannot win, so you can fight the ones you can."
+  },
+  {
+    id: 393, day: 110, program: 'infidelity-recovery',
+    title: "The Intimacy You've Rebuilt",
+    emoji: "🔥",
+    tagline: "Name and honor the intimacy you have actually rebuilt.",
+    body: "It is easy to focus on what intimacy is missing. Today you focus on what has been rebuilt. The small warmths, the moments of genuine connection, the closeness that has returned in any form. Name it. Honor it. Let it encourage you.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: Describe one moment in the last month where you felt genuinely close to your partner.",
+      "Both: What form of intimacy feels most restored right now?",
+      "Both: What form of intimacy still feels most distant?",
+      "Both: What would help the most distant form of intimacy begin to return?"
+    ],
+    reflection: "What you've rebuilt, you built. It belongs to you. Let it grow."
+  },
+  {
+    id: 394, day: 111, program: 'infidelity-recovery',
+    title: "Sixteen Weeks — The New Normal Begins",
+    emoji: "🏡",
+    tagline: "Notice the shape of your new relational normal.",
+    body: "Sixteen weeks. By now, a new normal is beginning to form — new rhythms, new patterns of communication, new rituals of connection. Today you observe and name what that new normal looks like, and whether it is the normal you want.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: Describe a typical week in your relationship right now. What does it look like?",
+      "Each partner: What about that typical week feels good and worth keeping?",
+      "Both: What still feels off or incomplete in the daily texture of your relationship?",
+      "Both: What is one intentional change to make in the next week to improve the everyday?"
+    ],
+    reflection: "The new normal is not fixed yet. You are still building it. Build deliberately."
+  },
+  {
+    id: 395, day: 112, program: 'infidelity-recovery',
+    title: "Shared Goals Beyond the Relationship",
+    emoji: "🎯",
+    tagline: "Build shared purpose that extends beyond healing.",
+    body: "A relationship that only exists to survive its own crisis is a fragile thing. Strong relationships have shared purpose beyond themselves — goals, projects, dreams, a contribution to the world. Today you begin to think together about what you're building beyond the healing.",
+    duration: "35 min",
+    prompts: [
+      "Both: What shared goals did you have before the betrayal? Are any of them still alive?",
+      "Both: What shared dream — financial, family, creative, community — do you want to pursue together?",
+      "Both: What would it mean to work toward something together that has nothing to do with the affair?",
+      "Both: Name one shared goal to begin moving toward in the next 90 days."
+    ],
+    reflection: "A couple with a shared future to build has a reason to keep building the relationship."
+  },
+  {
+    id: 396, day: 113, program: 'infidelity-recovery',
+    title: "Tracking the Triggers",
+    emoji: "📊",
+    tagline: "Review how triggers are being handled now vs. earlier.",
+    body: "You mapped your triggers months ago. By now, they may have changed — some resolved, some unchanged, some new ones appeared. Today you do a trigger review and assess how your response to them has evolved.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: Which triggers from your original list are less intense now?",
+      "Betrayed partner: Which remain just as powerful? Are there new ones?",
+      "Both: How has the betraying partner's response to triggers improved? Where is there still room to grow?",
+      "Both: Update your trigger response plan with what you know now."
+    ],
+    reflection: "Triggers evolve with healing. Keep updating your map."
+  },
+  {
+    id: 397, day: 114, program: 'infidelity-recovery',
+    title: "The Story of Us — Rewritten",
+    emoji: "📚",
+    tagline: "Rewrite your shared story to include and integrate the betrayal.",
+    body: "Every couple has a story of themselves. After betrayal, that story must be rewritten — not to erase the betrayal, but to integrate it into a larger arc. A story that includes the wound and the healing is more honest and ultimately more powerful than one that pretends neither happened.",
+    duration: "40 min",
+    prompts: [
+      "Both: What was your story of 'us' before the betrayal? How did you tell it?",
+      "Both: What does that story look like now, with the betrayal as part of it?",
+      "Both: Write a short 'story of us' together — honest, not sugar-coated, but not without hope.",
+      "Both: Read it aloud. Does it feel true?"
+    ],
+    reflection: "The truest love stories are not the ones without darkness. They are the ones that survive it."
+  },
+  {
+    id: 398, day: 115, program: 'infidelity-recovery',
+    title: "The Forgiveness Letter",
+    emoji: "📝",
+    tagline: "Write a forgiveness letter — whether you're ready to send it or not.",
+    body: "Writing a forgiveness letter does not mean forgiving. It is an exercise in exploring what forgiveness would look like and what it would contain. The act of writing often moves you further than you thought you could go — or clarifies what still needs to happen first.",
+    duration: "45 min",
+    prompts: [
+      "Betrayed partner: Write a forgiveness letter to your partner — from wherever you actually are. It can begin 'I am not fully there yet, but...'",
+      "Betrayed partner: Reread what you wrote. What surprised you?",
+      "Both: Share the letter, or share a paragraph from it, if the betrayed partner is willing.",
+      "Betraying partner: How does hearing any part of that letter land for you?"
+    ],
+    reflection: "Writing toward forgiveness moves you. The writing is not the destination — it is the walking."
+  },
+  {
+    id: 399, day: 116, program: 'infidelity-recovery',
+    title: "Empathy Across the Divide",
+    emoji: "🤲",
+    tagline: "Practice extending empathy to each other's experience.",
+    body: "True empathy across the betrayal divide is one of the most difficult — and most healing — things a couple can achieve. The betrayed partner empathizing with the betraying partner's shame does not excuse anything. The betraying partner empathizing with the betrayed partner's grief does not minimize anything. Empathy is not agreement. It is presence.",
+    duration: "35 min",
+    prompts: [
+      "Betraying partner: What do you believe your partner's experience has been like? Describe it in detail — their pain, their confusion, their grief.",
+      "Betrayed partner: Correct or affirm what your partner said. What did they get right? What did they miss?",
+      "Betrayed partner: What do you believe your partner's internal experience has been — their shame, their fear?",
+      "Betraying partner: Receive that. What did your partner get right?"
+    ],
+    reflection: "Empathy is not endorsement. It is the ability to feel alongside someone. Practice it."
+  },
+  {
+    id: 400, day: 117, program: 'infidelity-recovery',
+    title: "Day 117 — The Long Middle",
+    emoji: "🌁",
+    tagline: "Acknowledge and honor the long middle of the healing journey.",
+    body: "There was a beginning — the discovery, the crisis. There will be an end — whatever form it takes. And there is the long middle, which is where you are now. The long middle gets less attention than the dramatic beginning or the celebrated end. Today you honor it.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: What does the long middle feel like for you right now?",
+      "Each partner: What is sustaining you through it?",
+      "Both: What have you been doing consistently that deserves acknowledgment?",
+      "Both: Give that acknowledgment to each other — plainly, honestly."
+    ],
+    reflection: "The long middle is where character is built. You are building yours."
+  },
+  {
+    id: 401, day: 118, program: 'infidelity-recovery',
+    title: "Sexual Healing — Honest Inventory",
+    emoji: "💑",
+    tagline: "Take an honest, non-pressured inventory of sexual intimacy.",
+    body: "Sexual intimacy after infidelity is one of the most nuanced and sensitive dimensions of recovery. Some couples resume quickly; for others it takes years; for some it never fully returns in the same form. Today you talk about where you actually are — with honesty and without pressure.",
+    duration: "35 min",
+    prompts: [
+      "Betrayed partner: How do you feel about sexual intimacy with your partner right now — honestly?",
+      "Betrayed partner: What would need to be true for sexual intimacy to feel good and safe?",
+      "Betraying partner: What are you feeling about sexual intimacy — desire, guilt, fear, patience?",
+      "Both: What is a realistic, pressure-free step toward rebuilt sexual intimacy that respects where you both are?"
+    ],
+    reflection: "Sexual healing follows emotional healing. You cannot rush it, and pressuring it causes damage. Honor the pace."
+  },
+  {
+    id: 402, day: 119, program: 'infidelity-recovery',
+    title: "Rebuilding Desire",
+    emoji: "✨",
+    tagline: "Explore what rebuilding desire actually requires.",
+    body: "Desire after betrayal doesn't simply return when enough time passes. It requires specific conditions: emotional safety, authentic connection, a sense of being genuinely wanted, and freedom from comparison or fear. Today you talk about what creating those conditions looks like for both of you.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: What conditions need to be present for you to feel genuine desire again?",
+      "Betrayed partner: What currently blocks desire that your partner could help address?",
+      "Betraying partner: What do you need to feel about yourself in order to show up with genuine desire?",
+      "Both: What is one concrete thing each of you can do to cultivate the conditions for desire?"
+    ],
+    reflection: "Desire is not an accident that happens. It is an environment you can help create."
+  },
+  {
+    id: 403, day: 120, program: 'infidelity-recovery',
+    title: "Four Months — Accountability Sustained",
+    emoji: "🏅",
+    tagline: "Honor four months of sustained accountability.",
+    body: "Four months. If the betraying partner has maintained genuine, consistent accountability for four months — that is significant. It is not enough to end the healing work, but it is real and it matters. Today you acknowledge that sustained record and assess what it means for trust.",
+    duration: "35 min",
+    prompts: [
+      "Betraying partner: Over the last four months, what accountability commitments have you kept consistently?",
+      "Betrayed partner: How has four months of consistent accountability changed your felt sense of safety?",
+      "Both: What does sustained accountability look like going forward — month five and beyond?",
+      "Betrayed partner: Name one thing the four months of accountability has allowed you to begin to put down."
+    ],
+    reflection: "Accountability sustained over months is no longer just a commitment. It is becoming who you are."
+  },
+  {
+    id: 404, day: 121, program: 'infidelity-recovery',
+    title: "Deepening Intimacy — Emotional Disclosure",
+    emoji: "🗣️",
+    tagline: "Practice deeper emotional disclosure than you've attempted before.",
+    body: "Deepened intimacy requires deepened disclosure — being willing to share more of your inner life than feels comfortable. Today you each make one disclosure that you have not yet made in this healing process: something true, vulnerable, and significant.",
+    duration: "40 min",
+    prompts: [
+      "Each partner: Think of something true about yourself that you have not yet shared in this healing process.",
+      "Each partner: Share it. All of it. Without softening.",
+      "Both: Receive each other's disclosure with full presence — no problem-solving, no minimizing.",
+      "Both: After — what did it feel like to say it? What did it feel like to hear it?"
+    ],
+    reflection: "Each act of deeper disclosure is a brick laid in the foundation of genuine intimacy."
+  },
+  {
+    id: 405, day: 122, program: 'infidelity-recovery',
+    title: "The Freedom to Not Be Okay",
+    emoji: "🌧️",
+    tagline: "Give each other permission to not be okay without alarming each other.",
+    body: "In recovery, both partners can become hyper-attuned to each other's mood — a bad day feels like evidence that everything is falling apart. Today you practice giving each other permission to have a hard day without it being a crisis.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: What does a hard day look like for you in this relationship? What are the signs?",
+      "Each partner: What do you need from your partner on a hard day that isn't crisis management?",
+      "Both: Agree on a way to signal 'I'm having a hard day' that doesn't send the relationship into emergency mode.",
+      "Both: Practice saying 'I'm not okay today. I don't need you to fix it. I just need you to know.' to each other."
+    ],
+    reflection: "A relationship strong enough to hold hard days without treating them as catastrophes is a secure relationship."
+  },
+  {
+    id: 406, day: 123, program: 'infidelity-recovery',
+    title: "Re-establishing Shared Dreams",
+    emoji: "🌙",
+    tagline: "Return to shared dreams and map them forward.",
+    body: "Betrayal can suspend dreams — the trip you were going to take, the home you were going to buy, the life you were building toward. Today you ask: which dreams are still alive? Which need to be released? Which can be rebuilt in a new form?",
+    duration: "35 min",
+    prompts: [
+      "Both: What dreams were you building before the betrayal?",
+      "Both: Which of those dreams are still alive — maybe transformed, but still present?",
+      "Both: Which dreams need to be grieved and released?",
+      "Both: Is there a new dream — something that could only exist because of who you've become — worth building toward?"
+    ],
+    reflection: "Dreams deferred can return. Dreams updated often become better than the originals."
+  },
+  {
+    id: 407, day: 124, program: 'infidelity-recovery',
+    title: "The Body's Forgiveness",
+    emoji: "🫁",
+    tagline: "Work toward the body releasing what the mind has begun to process.",
+    body: "The mind may be further along the forgiveness path than the body. Many betrayed partners find that even when intellectually they have moved forward, the body still holds fear, aversion, or tension. Today you tend to the body's healing specifically.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: Where does your body still hold the betrayal? Tension, guardedness, aversion?",
+      "Both: Do a gentle physical grounding exercise together — feet on the floor, deep breathing, eyes open.",
+      "Betrayed partner: After the grounding — what, if anything, has softened?",
+      "Both: What regular physical practice (yoga, walks, breathwork) could help the body continue to release?"
+    ],
+    reflection: "The body heals on its own timeline. Honor it."
+  },
+  {
+    id: 408, day: 125, program: 'infidelity-recovery',
+    title: "Eighteen Weeks — Redefining the Relationship",
+    emoji: "🔭",
+    tagline: "Name what kind of relationship you are actively building.",
+    body: "Eighteen weeks. By now the relationship you are building is genuinely different from the one that was broken. Today you name it — not as the old relationship repaired, but as a new one, built on different foundations. What is this relationship?",
+    duration: "35 min",
+    prompts: [
+      "Each partner: In three words, describe the relationship you are building (not the one you lost).",
+      "Each partner: What is the defining characteristic of this new version of your relationship?",
+      "Both: What has this relationship become that the old one never was?",
+      "Both: Name the relationship. Give it a description that is yours."
+    ],
+    reflection: "Naming the new relationship gives it an identity distinct from the wound. That matters."
+  },
+  {
+    id: 409, day: 126, program: 'infidelity-recovery',
+    title: "Working Toward Forgiveness — Active Steps",
+    emoji: "🚶",
+    tagline: "Take concrete, active steps toward forgiveness.",
+    body: "Forgiveness is not only a feeling that arrives when the conditions are right. It can also be an active practice — deliberate choices to release resentment one layer at a time. Today you take active steps, however small.",
+    duration: "35 min",
+    prompts: [
+      "Betrayed partner: Choose one specific aspect of the betrayal you are willing to begin releasing — not all of it, just one thing.",
+      "Betrayed partner: Say out loud: 'I am choosing to begin releasing [this specific thing].' Notice how it feels.",
+      "Betraying partner: What would you do differently with the freedom of even partial forgiveness?",
+      "Both: What does active forgiveness practice look like for you going forward?"
+    ],
+    reflection: "Forgiveness practiced is forgiveness that grows. Start with one layer."
+  },
+  {
+    id: 410, day: 127, program: 'infidelity-recovery',
+    title: "The Resentment Audit",
+    emoji: "🔦",
+    tagline: "Surface and name any resentment still operating.",
+    body: "Resentment is like mold — it grows in the dark, unseen, undermining the structure. Today you bring your resentments into the light: name them fully, without softening. Not to fix them today, but to make them visible.",
+    duration: "35 min",
+    prompts: [
+      "Betrayed partner: What resentments are you still carrying? Name each one specifically.",
+      "Betraying partner: What resentments are you carrying — from this healing process, from the relationship, from the past?",
+      "Both: Share your resentment lists. Receive them without defense.",
+      "Both: For each resentment — is it blocking forgiveness? What would begin to dissolve it?"
+    ],
+    reflection: "Resentment named loses some of its power. Name everything."
+  },
+  {
+    id: 411, day: 128, program: 'infidelity-recovery',
+    title: "Forgiveness as a Gift to Yourself",
+    emoji: "🎁",
+    tagline: "Reframe forgiveness as self-liberation, not absolution.",
+    body: "The most powerful reframe of forgiveness is this: it is not primarily something you do for the person who hurt you. It is something you do for yourself — to free yourself from the chain that connects you to the wound. Today you sit with that reframe.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: What would it cost you to continue carrying unforgiveness for the next five years?",
+      "Betrayed partner: What would you gain — for yourself, not for your partner — by moving toward forgiveness?",
+      "Both: Discuss the difference between forgiving and excusing. Make sure you both understand it the same way.",
+      "Betrayed partner: Is there any part of you ready to forgive — not for them, but for yourself?"
+    ],
+    reflection: "Forgiveness releases the forgiver first. Let that be your reason."
+  },
+  {
+    id: 412, day: 129, program: 'infidelity-recovery',
+    title: "What Forgiveness Is Not",
+    emoji: "🚫",
+    tagline: "Clear up the misconceptions that block forgiveness.",
+    body: "Many betrayed partners resist forgiveness because they have been taught false versions of it. Forgiveness is not: saying it was okay. Forgetting. Restoring trust automatically. Staying in the relationship. Pretending. Today you clear out the false definitions and find the real one.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: What have you believed forgiveness means that has made it feel impossible or dangerous?",
+      "Both: Define together what forgiveness is NOT. Make a list.",
+      "Both: Define together what forgiveness IS in this context — your definition, not a cultural one.",
+      "Betrayed partner: With that definition — does forgiveness feel more accessible?"
+    ],
+    reflection: "The right definition of forgiveness makes it possible. Find yours."
+  },
+  {
+    id: 413, day: 130, program: 'infidelity-recovery',
+    title: "Five Months — The New Foundation",
+    emoji: "🪨",
+    tagline: "Assess the solidity of what you've built at the five-month mark.",
+    body: "Five months. What you have built over these months is a foundation — not complete, not perfect, but real. Today you test that foundation: stand on it together and see if it holds.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: What feels genuinely solid in your relationship right now?",
+      "Each partner: What still feels fragile or unfinished?",
+      "Both: Where has your relationship surprised you with its resilience?",
+      "Both: What is the single most important thing still being built?"
+    ],
+    reflection: "A foundation tested and found solid is more trustworthy than one never tested at all."
+  },
+  {
+    id: 414, day: 131, program: 'infidelity-recovery',
+    title: "Intimacy Without Performing",
+    emoji: "🎭",
+    tagline: "Practice authentic intimacy that doesn't perform healing.",
+    body: "Some couples begin to perform healing — to go through the motions of connection without genuine feeling behind them. Today you check: are you being authentic in your intimacy, or are you performing it? And if performing — what would authentic look like?",
+    duration: "30 min",
+    prompts: [
+      "Each partner: Be honest — have there been moments when you were going through the motions without genuine feeling?",
+      "Each partner: What does authentic connection feel like for you, vs. performed connection?",
+      "Both: Share one authentic feeling about the relationship right now — not curated, not softened.",
+      "Both: How can you hold each other accountable to authenticity over performance?"
+    ],
+    reflection: "Performed healing is not healing. Authentic struggle is more valuable than polished pretense."
+  },
+  {
+    id: 415, day: 132, program: 'infidelity-recovery',
+    title: "Twenty Weeks — The Long View",
+    emoji: "🔭",
+    tagline: "Take the long view at the twenty-week mark.",
+    body: "Twenty weeks. You are no longer in the early stages of recovery. You are in the sustained, long-term rebuilding phase. Today you take the long view: not this week's progress, but where you want to be in a year.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: Where do you want to be in your individual healing one year from now?",
+      "Each partner: Where do you want the relationship to be in one year?",
+      "Both: What needs to happen in the next six months to reach those goals?",
+      "Both: Set one concrete six-month goal for the relationship."
+    ],
+    reflection: "The long view protects you from being undone by the short-term hard days."
+  },
+  {
+    id: 416, day: 133, program: 'infidelity-recovery',
+    title: "Accountability Without Surveillance",
+    emoji: "👁️",
+    tagline: "Ensure accountability practices remain healthy and voluntary.",
+    body: "There is a fine line between accountability and surveillance — and crossing it damages both partners. Today you evaluate whether your current accountability practices are healthy, voluntary, and genuinely chosen rather than coerced.",
+    duration: "30 min",
+    prompts: [
+      "Betraying partner: Do your accountability practices feel freely chosen or coerced? Be honest.",
+      "Betrayed partner: Are any of your accountability requests crossing into surveillance? Be honest.",
+      "Both: Where is the line between the two for you specifically?",
+      "Both: Adjust any practices that have drifted toward unhealthy territory."
+    ],
+    reflection: "Healthy accountability is given freely. Surveillance extracts. Know the difference."
+  },
+  {
+    id: 417, day: 134, program: 'infidelity-recovery',
+    title: "The Trust Milestone",
+    emoji: "🏔️",
+    tagline: "Acknowledge a significant trust milestone.",
+    body: "By now, there may be a real, felt shift in trust — a point where the betrayed partner has internalized the changes and genuinely feels safer. This is not the end of healing, but it is a landmark worth naming. Today you look for and name that landmark.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: Has there been a moment — recent or earlier — where you felt a genuine shift in trust? What was it?",
+      "Betraying partner: What did you do, specifically, that you believe contributed to that shift?",
+      "Both: What does a 'trust milestone' mean — not full trust restored, but significant progress?",
+      "Both: Name the milestone. Celebrate it briefly. Then keep going."
+    ],
+    reflection: "Trust milestones deserve acknowledgment. They are evidence that the work is working."
+  },
+  {
+    id: 418, day: 135, program: 'infidelity-recovery',
+    title: "Forgiving the Deception",
+    emoji: "🕵️",
+    tagline: "Address forgiveness for the deception specifically.",
+    body: "For many betrayed partners, the affair itself is painful — but the sustained deception can be even harder to forgive. The lies, the cover stories, the gaslighting, the parallel life. Today you address forgiveness for the deception layer specifically.",
+    duration: "40 min",
+    prompts: [
+      "Betrayed partner: What aspect of the deception hurts most — the specific lies, the duration, the covering of tracks?",
+      "Betraying partner: Fully own the deception — not just the affair, but every lie told to maintain it.",
+      "Betrayed partner: What would beginning to forgive the deception require — separate from the affair?",
+      "Betraying partner: What ongoing transparency can you offer as evidence that the deception is permanently over?"
+    ],
+    reflection: "The affair and the deception are two separate wounds. Both deserve to be directly addressed."
+  },
+  {
+    id: 419, day: 136, program: 'infidelity-recovery',
+    title: "Rebuilding Sexual Trust",
+    emoji: "🌹",
+    tagline: "Address the specific work of rebuilding sexual trust.",
+    body: "Sexual trust after infidelity is its own distinct category — separate from general trust. The betrayed partner's body and mind must come to believe that physical intimacy with this person is again safe, wanted, and uncontaminated by comparison. Today you work on this layer specifically.",
+    duration: "35 min",
+    prompts: [
+      "Betrayed partner: What specifically makes sexual intimacy feel unsafe or complicated right now?",
+      "Betrayed partner: What would need to be true — emotionally, practically — for sexual safety to return?",
+      "Betraying partner: What can you do to consistently demonstrate that your partner is the person you choose — in every way?",
+      "Both: What is one specific thing that would help sexual safety rebuild in the next month?"
+    ],
+    reflection: "Sexual trust is rebuilt through emotional safety, consistent behavior, and patient presence. There are no shortcuts."
+  },
+  {
+    id: 420, day: 137, program: 'infidelity-recovery',
+    title: "Forgiving the Selfishness",
+    emoji: "🎭",
+    tagline: "Address forgiveness for the self-centered choice the affair represented.",
+    body: "At the core of most affairs is a profound act of selfishness: choosing one's own gratification over the safety and dignity of a partner. That selfishness — the choice to prioritize oneself regardless of the cost to another — is its own wound to forgive. Today you address it directly.",
+    duration: "35 min",
+    prompts: [
+      "Betrayed partner: What does it mean to you that your partner made that self-centered choice?",
+      "Betraying partner: Own the selfishness fully. Not just the action — the motivation behind it.",
+      "Betrayed partner: What would forgiving the selfishness — not the whole affair, just this — require?",
+      "Betraying partner: How are you demonstrating, concretely, that you are no longer that version of yourself?"
+    ],
+    reflection: "Forgiving the selfishness is forgiving the most human part of the wound. And it may be the most freeing."
+  },
+  {
+    id: 421, day: 138, program: 'infidelity-recovery',
+    title: "Twenty-Two Weeks — The Middle Distance",
+    emoji: "🌄",
+    tagline: "Acknowledge and assess the middle distance of healing.",
+    body: "Twenty-two weeks. You are neither in the crisis of the beginning nor the completion of the end. You are in the middle distance — which has its own particular quality of experience: familiar with the work, not yet free of it. Today you check in from that middle distance.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: How would you describe the quality of this phase of healing?",
+      "Each partner: What is the emotional texture of your relationship right now?",
+      "Both: What is the most important work of the next month?",
+      "Both: Name one thing that has genuinely lightened in the last few weeks."
+    ],
+    reflection: "The middle distance has its own beauty — if you look for it."
+  },
+  {
+    id: 422, day: 139, program: 'infidelity-recovery',
+    title: "The Moment of Real Forgiveness",
+    emoji: "🌤️",
+    tagline: "Recognize and honor any genuine forgiveness that has arrived.",
+    body: "Real forgiveness often arrives not as a grand gesture but as a quiet shift — a moment when you realize you are no longer carrying quite as much weight. Today you look for that shift. It may have already happened in some form. If so, name it. Honor it.",
+    duration: "35 min",
+    prompts: [
+      "Betrayed partner: Has there been any moment — however small — where you felt genuine release? Describe it.",
+      "Betrayed partner: What, if anything, have you actually forgiven — even partially?",
+      "Betraying partner: Has your partner's movement toward forgiveness changed anything in how you carry yourself?",
+      "Both: What does genuine forgiveness feel like, as opposed to performed forgiveness?"
+    ],
+    reflection: "Real forgiveness is felt in the body as a lightening. Trust what you feel."
+  },
+  {
+    id: 423, day: 140, program: 'infidelity-recovery',
+    title: "Six Months — The Halfway Point of the First Year",
+    emoji: "🌗",
+    tagline: "Mark six months with a full, honest accounting.",
+    body: "Six months. The halfway point of the first year of healing. Research on infidelity recovery consistently suggests that genuine rebuilding takes one to two years at minimum. You are halfway through the first of those years. Today you mark it honestly.",
+    duration: "45 min",
+    prompts: [
+      "Each partner: Write an honest one-page letter about where you are at six months. Not edited for the other person — honest.",
+      "Each partner: From your letter, choose the two most important sentences to share.",
+      "Both: Share those sentences. Then talk about them.",
+      "Both: What are you committing to for the second half of this first year?"
+    ],
+    reflection: "Six months is not halfway healed. It is halfway through the first year of choosing. That is something."
+  },
+  {
+    id: 424, day: 141, program: 'infidelity-recovery',
+    title: "Long-Term Security — What It Feels Like",
+    emoji: "🏛️",
+    tagline: "Begin to name what long-term security is starting to feel like.",
+    body: "Security in a relationship is not a switch that flips. It is a feeling that grows, gradually, as evidence accumulates and the nervous system slowly learns that the threat is gone. Today you check whether any form of long-term security is beginning to feel available.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: Do you experience any moments of genuine security in this relationship? Describe one.",
+      "Betrayed partner: What is still the biggest obstacle to feeling consistently secure?",
+      "Betraying partner: What are you doing consistently that you believe is building long-term security?",
+      "Both: What would full security look like for you? Describe it in detail."
+    ],
+    reflection: "Security is not the absence of threat. It is the felt presence of safety. Tend to both."
+  },
+  {
+    id: 425, day: 142, program: 'infidelity-recovery',
+    title: "The New Normal — Living It",
+    emoji: "🌻",
+    tagline: "Name what the new normal has become in daily life.",
+    body: "The new normal is no longer a plan — by now, it is actually being lived. The rituals, the communication patterns, the level of transparency, the shared goals. Today you observe and name what your new normal actually looks like from the inside.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: Describe one ordinary day in your relationship right now. Be specific.",
+      "Both: What parts of that ordinary day feel good and worth keeping?",
+      "Both: What parts of that ordinary day still feel incomplete or uncomfortable?",
+      "Both: Is the new normal you are living the one you wanted to build? What, if anything, needs adjusting?"
+    ],
+    reflection: "The new normal is not an accident. You built it. Keep building it intentionally."
+  },
+  {
+    id: 426, day: 143, program: 'infidelity-recovery',
+    title: "What You've Given Each Other",
+    emoji: "🎀",
+    tagline: "Name the gifts — however unexpected — of this healing journey.",
+    body: "You did not choose this. But you have been through it together, and there may be things — depth, honesty, resilience — that you have given each other through this that you wouldn't have given otherwise. Today you name them.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: What has your partner given you through this healing process that you are grateful for?",
+      "Each partner: What have you given yourself through this process?",
+      "Both: Share these things with each other.",
+      "Both: What unexpected gift has come from a process you never would have chosen?"
+    ],
+    reflection: "Gifts given in fire are among the most lasting."
+  },
+  {
+    id: 427, day: 144, program: 'infidelity-recovery',
+    title: "Twenty-Four Weeks — Half a Year",
+    emoji: "🎉",
+    tagline: "Acknowledge and honor six full months of intentional work.",
+    body: "Twenty-four weeks. Half a year of showing up, of doing the work, of choosing each other over and over even when it was hard. That is a record. Not proof that everything is healed — but proof that you are both committed to this. Today you honor that.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: What are you most proud of in how you've shown up over these six months?",
+      "Each partner: What do you want the next six months to focus on?",
+      "Both: Write each other a short acknowledgment — one paragraph — for six months of effort.",
+      "Both: Read them aloud. Then do something to mark the occasion."
+    ],
+    reflection: "Half a year of choosing. That is not nothing. That is everything."
+  },
+  {
+    id: 428, day: 145, program: 'infidelity-recovery',
+    title: "Trusting Your Own Judgment Again",
+    emoji: "🧭",
+    tagline: "Address the betrayed partner's loss of trust in their own perceptions.",
+    body: "One of the most devastating effects of betrayal is the loss of trust in one's own judgment — 'How did I not know? What else am I missing? Can I trust what I perceive?' Today the betrayed partner works on rebuilding trust in their own perceptions and instincts.",
+    duration: "35 min",
+    prompts: [
+      "Betrayed partner: In what ways have you stopped trusting your own judgment since the betrayal?",
+      "Betrayed partner: Were there times your instincts were actually right — even if you dismissed them?",
+      "Betrayed partner: What would rebuilding trust in your own perceptions look like?",
+      "Betraying partner: How can you support your partner in trusting themselves again — without undermining or gaslighting?"
+    ],
+    reflection: "Trust in yourself is as important as trust in your partner. Don't neglect it."
+  },
+  {
+    id: 429, day: 146, program: 'infidelity-recovery',
+    title: "The Future Relationship Agreement",
+    emoji: "📋",
+    tagline: "Build a formal future relationship agreement.",
+    body: "By now you have enough clarity about your needs, your non-negotiables, and your vision to build a formal future relationship agreement — the terms of the new relationship you are creating. Not a legal document. A shared living document of who you are to each other now.",
+    duration: "45 min",
+    prompts: [
+      "Both: Review your non-negotiables, transparency agreement, and shared values from earlier in this program.",
+      "Both: What needs updating? What still holds?",
+      "Both: Write a one-page future relationship agreement: values / commitments / non-negotiables / renewal process.",
+      "Both: Sign it. Put it somewhere you'll both see it."
+    ],
+    reflection: "A relationship built on explicit shared agreements is more resilient than one built on assumptions."
+  },
+  {
+    id: 430, day: 147, program: 'infidelity-recovery',
+    title: "Forgiving the Lie You Were Living",
+    emoji: "🎭",
+    tagline: "Address forgiveness for the false reality the affair created.",
+    body: "During the affair, the betrayed partner was living a lie — not their lie, but a reality that was being constructed around them. They made decisions, felt feelings, built expectations based on information that was false. That stolen reality is its own specific wound. Today you address forgiving it.",
+    duration: "40 min",
+    prompts: [
+      "Betrayed partner: What decisions did you make during the affair that you would have made differently if you'd known the truth?",
+      "Betrayed partner: What feelings did you have that were built on false information?",
+      "Betraying partner: Own the false reality you constructed. What did you actively do to maintain it?",
+      "Betrayed partner: What would beginning to forgive the stolen reality require?"
+    ],
+    reflection: "You lived in a reality that wasn't real. That is a specific wound that deserves specific healing."
+  },
+  {
+    id: 431, day: 148, program: 'infidelity-recovery',
+    title: "Joy Without Guilt — Month Six",
+    emoji: "🌈",
+    tagline: "Experience joy without guilt as a sign of healing.",
+    body: "At six months, joy without guilt should be more accessible than it was in month one. Not constant joy — but the capacity to have genuinely good moments without feeling that something is wrong because you're not suffering. Today you check and celebrate that capacity.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: Have you had genuinely joyful moments recently — without guilt attached?",
+      "Each partner: If guilt still attaches to joy — what is it saying? Is that true?",
+      "Both: Plan something genuinely joyful together for this week.",
+      "Both: When you experience joy this week — let it be full. You are allowed."
+    ],
+    reflection: "Joy that grows back after grief is joy that knows its own value."
+  },
+  {
+    id: 432, day: 149, program: 'infidelity-recovery',
+    title: "The Accountability Upgrade",
+    emoji: "⬆️",
+    tagline: "Elevate accountability to a higher, more intrinsic level.",
+    body: "Early accountability is often external — checks, agreements, transparency protocols. At six months in, accountability should be beginning to shift to something more intrinsic: the betraying partner holding themselves accountable because of who they want to be, not because of external monitoring. Today you assess that shift.",
+    duration: "30 min",
+    prompts: [
+      "Betraying partner: Is your accountability currently more intrinsic (chosen) or extrinsic (required)?",
+      "Betraying partner: What would fully intrinsic accountability look like — not because you're being watched, but because of who you want to be?",
+      "Betrayed partner: Can you tell the difference? When does your partner's accountability feel genuinely chosen?",
+      "Both: How can you move accountability from contract to character in the months ahead?"
+    ],
+    reflection: "Accountability that becomes character is the ultimate form. Work toward it."
+  },
+  {
+    id: 433, day: 150, program: 'infidelity-recovery',
+    title: "Day 150 — The Long Arc",
+    emoji: "🌠",
+    tagline: "Honor 150 days of healing work.",
+    body: "One hundred and fifty days. Five months of daily, intentional, often agonizing, often beautiful work. Today you stop and see the full arc from Day 1 to here. It is a significant arc. You are a different couple than you were. Honor that.",
+    duration: "40 min",
+    prompts: [
+      "Each partner: In one sentence — who were you as a couple on Day 1? Who are you now?",
+      "Each partner: What is the most significant transformation you have personally undergone?",
+      "Both: What has this journey asked of you that you didn't know you had to give?",
+      "Both: Write a joint statement of where you are. Read it together."
+    ],
+    reflection: "One hundred and fifty days. You are not who you were. That is the whole point."
+  },
+  {
+    id: 434, day: 151, program: 'infidelity-recovery',
+    title: "Working Toward Forgiveness — Full Review",
+    emoji: "🌿",
+    tagline: "A comprehensive review of the forgiveness journey.",
+    body: "At 150+ days, you are likely somewhere on the forgiveness journey — perhaps not at the destination, but moving. Today you do a comprehensive review: what has been forgiven, what is in process, and what still feels impossible.",
+    duration: "45 min",
+    prompts: [
+      "Betrayed partner: Make a list of everything that has been forgiven, even partially. What's on it?",
+      "Betrayed partner: What is still in process?",
+      "Betrayed partner: What still feels impossible to forgive? What would change that?",
+      "Both: Where has the forgiveness journey surprised you?"
+    ],
+    reflection: "Forgiveness is not an arrival. It is an ongoing practice of release. Keep practicing."
+  },
+  {
+    id: 435, day: 152, program: 'infidelity-recovery',
+    title: "The Compassion Practice",
+    emoji: "💗",
+    tagline: "Practice compassion for your partner — and for yourself.",
+    body: "Compassion — not sympathy, not pity, but genuine, warm, clear-eyed care for a suffering person — is one of the most healing things a person can offer or receive. Today you practice it: for your partner, and equally for yourself.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: What does your partner need compassion for right now that they might not be asking for?",
+      "Each partner: What do you need compassion for that you've been denying yourself?",
+      "Both: Offer compassion to each other explicitly — not pity, but real care.",
+      "Both: Offer yourself compassion. Say: 'I am going through something hard, and I am doing my best.' Mean it."
+    ],
+    reflection: "Compassion for yourself is not self-indulgence. It is the oxygen mask you must put on first."
+  },
+  {
+    id: 436, day: 153, program: 'infidelity-recovery',
+    title: "The Ongoing Choice",
+    emoji: "🔁",
+    tagline: "Affirm the ongoing daily choice to be in this relationship.",
+    body: "Every day of staying in a relationship after betrayal is a choice. Not a passive continuation — a deliberate, repeated choosing. Today you make that choice explicitly, with full awareness, and name why you are making it.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: Why are you choosing this relationship today — not originally, not in the future, but today?",
+      "Each partner: What specific things about your partner and this relationship make today's choice feel worth it?",
+      "Both: Say your today-choice to each other out loud.",
+      "Both: Make this a weekly practice — naming the choice and the reason."
+    ],
+    reflection: "A relationship is not something you stay in. It is something you choose, over and over. Keep choosing."
+  },
+  {
+    id: 437, day: 154, program: 'infidelity-recovery',
+    title: "Security Benchmarks",
+    emoji: "📏",
+    tagline: "Assess security using specific, measurable benchmarks.",
+    body: "Security is sometimes hard to measure because it feels like a general atmosphere rather than a specific thing. Today you get specific: what are the concrete benchmarks of security in your relationship, and which have been met?",
+    duration: "35 min",
+    prompts: [
+      "Betrayed partner: List 5 specific behaviors or conditions that would mean security to you.",
+      "Betrayed partner: Which of those benchmarks are currently being met?",
+      "Betraying partner: Which benchmarks do you know you're meeting? Which are you still working toward?",
+      "Both: What is the next benchmark to work toward together?"
+    ],
+    reflection: "What gets measured gets tended to. Name your benchmarks and track them."
+  },
+  {
+    id: 438, day: 155, program: 'infidelity-recovery',
+    title: "Twenty-Five Weeks — Deep Work",
+    emoji: "⛏️",
+    tagline: "Go deep rather than wide at the twenty-five-week mark.",
+    body: "Twenty-five weeks. By now the surface work has been done many times. What remains is depth — going into the places in yourself and in the relationship that you have been circling without fully entering. Today you name those places and choose to enter one.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: What is the one area of this healing journey where you have been going wide but not deep?",
+      "Each partner: What would going deep into that area require of you?",
+      "Both: Choose one deep area together. Go into it today.",
+      "Both: After — what did you find that you didn't expect?"
+    ],
+    reflection: "Depth is where the real transformation lives. Go there."
+  },
+  {
+    id: 439, day: 156, program: 'infidelity-recovery',
+    title: "The New Intimacy",
+    emoji: "🕯️",
+    tagline: "Name and celebrate the new form of intimacy you've built.",
+    body: "The intimacy you are building now is different from what you had before. It is more honest, more conscious, more earned. It may also be, in some ways, richer than what you had before — because it was built with full knowledge and deliberate choice. Today you name and honor that new intimacy.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: How would you describe the quality of your intimacy now — different from before?",
+      "Each partner: What is more authentic about your connection now than it was before the betrayal?",
+      "Both: What have you discovered about each other through this process that has deepened your intimacy?",
+      "Both: Name the new intimacy. Give it a description that is uniquely yours."
+    ],
+    reflection: "Intimacy built through fire has a quality that pre-fire intimacy often lacks. Honor what you've built."
+  },
+  {
+    id: 440, day: 157, program: 'infidelity-recovery',
+    title: "Forgiveness and Reconciliation — Are They the Same?",
+    emoji: "🤔",
+    tagline: "Understand the distinction between forgiveness and reconciliation.",
+    body: "Forgiveness and reconciliation are two separate things. Forgiveness is internal — releasing the person from the debt of the wound. Reconciliation is relational — rebuilding the actual relationship. You can have one without the other. Today you explore where you are on each path.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: Where are you on forgiveness — the internal release?",
+      "Each partner: Where are you on reconciliation — the relational rebuilding?",
+      "Both: How do these two paths relate in your specific situation?",
+      "Both: Do you need full forgiveness before full reconciliation? Or can they proceed simultaneously?"
+    ],
+    reflection: "You do not have to forgive before you reconcile. But both need tending to."
+  },
+  {
+    id: 441, day: 158, program: 'infidelity-recovery',
+    title: "Letting Go of the Why",
+    emoji: "🍃",
+    tagline: "Practice releasing the need to fully understand why.",
+    body: "For many betrayed partners, the 'why' becomes a preoccupation. If only they could fully understand why the affair happened, they could make sense of it and move on. But sometimes the 'why' is never fully available — and the obsession with it can become its own obstacle. Today you practice releasing the need for a complete explanation.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: Have you received enough of a 'why' to move forward? Or is it still a preoccupation?",
+      "Betrayed partner: What would you gain if you released the need for a complete explanation?",
+      "Betraying partner: Is there anything left to say about the 'why' that you haven't yet said?",
+      "Both: Practice saying: 'I may never fully understand why. I am choosing to heal anyway.'"
+    ],
+    reflection: "The 'why' may never be fully available. Healing does not require it."
+  },
+  {
+    id: 442, day: 159, program: 'infidelity-recovery',
+    title: "The Long-Term Security Picture",
+    emoji: "🏔️",
+    tagline: "Paint a clear picture of what long-term security looks like.",
+    body: "Long-term security in a relationship after infidelity is not the same as the pre-betrayal assumption of safety. It is conscious, chosen, evidenced security. Today you paint a vivid, detailed picture of what that looks like for your relationship.",
+    duration: "35 min",
+    prompts: [
+      "Betrayed partner: Describe in detail what long-term security in this relationship looks like. Be specific.",
+      "Betraying partner: What concrete behaviors, over the long term, would create that picture?",
+      "Both: Is the picture you're both painting the same? Where are the gaps?",
+      "Both: What is the most important thing to work toward in order to reach that security picture?"
+    ],
+    reflection: "A detailed, shared picture of security gives you both something concrete to build toward."
+  },
+  {
+    id: 443, day: 160, program: 'infidelity-recovery',
+    title: "The Kindness Practice",
+    emoji: "🌷",
+    tagline: "Deliberately practice daily kindness as a healing tool.",
+    body: "After betrayal, relationships can become transactional — focused on the work of healing at the expense of simple warmth and kindness. Today you reintroduce deliberate, daily kindness — not as performance, but as evidence that you still care about each other's daily experience.",
+    duration: "25 min",
+    prompts: [
+      "Each partner: Name one specific act of kindness your partner could do this week that would mean something to you.",
+      "Each partner: Share that with your partner directly.",
+      "Both: Do one act of kindness for each other today — chosen, not required.",
+      "Both: Commit to one act of unprompted kindness per day this week."
+    ],
+    reflection: "Kindness is not in competition with honesty or hard work. It is what makes both sustainable."
+  },
+  {
+    id: 444, day: 161, program: 'infidelity-recovery',
+    title: "Coming Home to Each Other",
+    emoji: "🏠",
+    tagline: "Practice the feeling of coming home — to each other, to safety.",
+    body: "One of the markers of genuine relational healing is the feeling of coming home — the felt sense that this person is where you belong, where you are safe, where you can be fully yourself. Today you explore whether any version of that feeling is returning.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: Do you ever feel, in moments, like your partner is home for you again? Describe one such moment.",
+      "Betraying partner: Do you feel like your partner is home for you? What does that feel like?",
+      "Both: What does 'home' mean to you in the context of a relationship?",
+      "Both: What would it take for this relationship to fully feel like home again?"
+    ],
+    reflection: "Home is not a place. It is a feeling of safety in another person's presence. Keep building it."
+  },
+  {
+    id: 445, day: 162, program: 'infidelity-recovery',
+    title: "Twenty-Seven Weeks — Toward Full Forgiveness",
+    emoji: "🌅",
+    tagline: "Assess how close you are to full, genuine forgiveness.",
+    body: "Twenty-seven weeks. For many couples, this is the zone where real forgiveness — not performed, not pressured — begins to become genuinely available. Today you assess honestly how close you are to that possibility.",
+    duration: "35 min",
+    prompts: [
+      "Betrayed partner: On a scale of 1–10, how close do you feel to genuine, full forgiveness?",
+      "Betrayed partner: What would move you one point higher on that scale?",
+      "Betraying partner: What are you doing — and what more could you do — to make full forgiveness more possible?",
+      "Both: What does full forgiveness feel like as a possibility — close, distant, or somewhere between?"
+    ],
+    reflection: "Full forgiveness may be closer than it feels. Or it may be further. Either way — keep walking."
+  },
+  {
+    id: 446, day: 163, program: 'infidelity-recovery',
+    title: "The Release — Practicing Full Forgiveness",
+    emoji: "🕊️",
+    tagline: "Practice the act of full forgiveness if it is available.",
+    body: "If genuine forgiveness has arrived — in whole or significant part — today you practice the act of releasing it. Not performing it. Not saying it before it's real. But if it is real, even partially, today you let it become explicit. If it is not yet real, today you practice moving toward it.",
+    duration: "45 min",
+    prompts: [
+      "Betrayed partner: Is any form of genuine forgiveness available to you today — real, not performed?",
+      "Betrayed partner: If yes — say it clearly and directly to your partner. Take as long as you need.",
+      "Betraying partner: Receive it. Do not dismiss it, minimize it, or rush to prove you deserve it. Just receive it.",
+      "Both: After — what has changed in the space between you?"
+    ],
+    reflection: "If forgiveness is real and available — let it be spoken. Spoken forgiveness changes the room."
+  },
+  {
+    id: 447, day: 164, program: 'infidelity-recovery',
+    title: "Forgiven But Not Forgotten",
+    emoji: "🧠",
+    tagline: "Understand that forgiveness does not require forgetting.",
+    body: "The phrase 'forgive and forget' is one of the most harmful pieces of conventional wisdom about healing. You do not have to forget. The betrayal is part of your story. It is part of what you've overcome. What changes with forgiveness is not memory but meaning — the wound no longer defines the relationship.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: What does it mean to you that forgiveness does not require forgetting?",
+      "Both: What do you want to remember about this journey — not as a wound, but as evidence of your resilience?",
+      "Both: How has the meaning of the betrayal changed from what it was on Day 1?",
+      "Both: What do you want the memory of this period to ultimately mean for your relationship?"
+    ],
+    reflection: "What you remember can become your power rather than your wound. Let the meaning shift."
+  },
+  {
+    id: 448, day: 165, program: 'infidelity-recovery',
+    title: "The Post-Forgiveness Relationship",
+    emoji: "🌱",
+    tagline: "Define what the relationship looks like on the other side of forgiveness.",
+    body: "Forgiveness does not end the work. But it does change its character. On the other side of forgiveness — even partial forgiveness — the relationship has a different texture. Today you explore what that texture is and how to live into it.",
+    duration: "35 min",
+    prompts: [
+      "Betrayed partner: What, if anything, has changed in how you experience the relationship since forgiveness began?",
+      "Both: What aspects of the relationship feel different — lighter, more open, more connected?",
+      "Both: What work remains, even in the post-forgiveness phase?",
+      "Both: What does the relationship look like from here — looking forward, not back?"
+    ],
+    reflection: "Forgiveness is not the end of the story. It is the opening of a new chapter."
+  },
+  {
+    id: 449, day: 166, program: 'infidelity-recovery',
+    title: "The New Security — Not Assumed, but Known",
+    emoji: "🔒",
+    tagline: "Experience security that is known, not assumed.",
+    body: "The security you have now — if you have built it — is fundamentally different from the security you had before. Before, you assumed safety. Now, you have evidence of it. Known security, earned through effort and honesty, is more durable than assumed security that was never tested.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: What evidence do you now have of security that you didn't have before?",
+      "Betrayed partner: How does known security feel different from the assumed security you had before?",
+      "Betraying partner: What is the most solid evidence you have given your partner of your changed behavior?",
+      "Both: What will you do to maintain and strengthen this security going forward?"
+    ],
+    reflection: "You have built something more durable than what was broken. Let that be acknowledged."
+  },
+  {
+    id: 450, day: 167, program: 'infidelity-recovery',
+    title: "Long-Term Accountability — The Character Check",
+    emoji: "🧭",
+    tagline: "Ensure accountability has become character, not just compliance.",
+    body: "At nearly six months of sustained accountability, the question shifts from 'are you doing it?' to 'who have you become?' Accountability as character means the betraying partner doesn't need to be monitored — they have become someone who is naturally transparent and honest. Today you assess that character shift.",
+    duration: "35 min",
+    prompts: [
+      "Betraying partner: Have you become more honest as a person — beyond the relationship? In what ways?",
+      "Betraying partner: How has the work of accountability changed you beyond this relationship?",
+      "Betrayed partner: Do you see genuine character change in your partner — not just behavioral compliance?",
+      "Both: What does the betraying partner need to continue to develop to become the person they want to be?"
+    ],
+    reflection: "The final test of accountability is not whether you kept the rules. It is whether you no longer need them."
+  },
+  {
+    id: 451, day: 168, program: 'infidelity-recovery',
+    title: "Twenty-Eight Weeks — The New Normal Is Real",
+    emoji: "🌄",
+    tagline: "Acknowledge that the new normal is now genuinely established.",
+    body: "Twenty-eight weeks. By now, the new normal is not a plan or an aspiration — it is the actual texture of your daily life. The rituals, the communication, the trust practices, the intimacy. Today you acknowledge that you have actually built something new.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: What is the most important element of your new normal?",
+      "Each partner: What about the new normal are you most grateful for?",
+      "Both: What in the new normal still needs refining?",
+      "Both: Name three things you will protect and maintain about the new normal, no matter what."
+    ],
+    reflection: "The new normal is not what you lost. It is what you built. Protect it."
+  },
+  {
+    id: 452, day: 169, program: 'infidelity-recovery',
+    title: "The Relationship as a Third Thing",
+    emoji: "🌐",
+    tagline: "Tend to the relationship as an entity distinct from both of you.",
+    body: "In strong, long-term relationships, partners often talk about 'the relationship' as a third thing — not you, not me, but the thing we've built between us. Today you tend to that third thing deliberately: what does it need, what has it become, and how do you care for it going forward?",
+    duration: "30 min",
+    prompts: [
+      "Both: If your relationship were a living thing — a plant, an animal, a building — what would it be right now?",
+      "Both: What does that living thing need to thrive?",
+      "Both: What has it survived that has made it stronger?",
+      "Both: Write a brief description of the relationship as a third entity. What is it?"
+    ],
+    reflection: "The relationship is more than the sum of its two people. Tend to it as its own living thing."
+  },
+  {
+    id: 453, day: 170, program: 'infidelity-recovery',
+    title: "What You Know About Love Now",
+    emoji: "❤️‍🔥",
+    tagline: "Share the deepest things you know about love after going through this.",
+    body: "You have been through one of the most intense relational experiences a couple can endure. On the other side of it, you know things about love that most people don't. Today you share those things — with each other, and for yourselves.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: What is the most important thing you've learned about love through this experience?",
+      "Each partner: What did you believe about love before that you no longer believe?",
+      "Each partner: What do you know about love now that you couldn't have known otherwise?",
+      "Both: Share your answers. Let what you know be spoken."
+    ],
+    reflection: "Wisdom about love earned in difficulty is wisdom worth passing on."
+  },
+  {
+    id: 454, day: 171, program: 'infidelity-recovery',
+    title: "The Ongoing Work — No End Date",
+    emoji: "♾️",
+    tagline: "Accept that healing is ongoing — and that ongoing is okay.",
+    body: "There is no finish line where healing is complete and all monitoring ends. Healthy relationships require ongoing attention, care, and intentional maintenance forever — not just after betrayal. Today you accept and embrace that the work is ongoing, and that is not a failure. It is what love looks like maintained.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: How do you feel about the idea that the work is ongoing — no finish line?",
+      "Each partner: What ongoing practices are you committed to maintaining indefinitely?",
+      "Both: What does 'maintenance mode' look like for your relationship going forward?",
+      "Both: How will you make sure the ongoing work stays alive without becoming burden?"
+    ],
+    reflection: "A maintained relationship is not a broken relationship still being fixed. It is a relationship being loved."
+  },
+  {
+    id: 455, day: 172, program: 'infidelity-recovery',
+    title: "Gratitude for the Hard Road",
+    emoji: "🙏",
+    tagline: "Express full gratitude for the hard road and what it has produced.",
+    body: "You did not choose this road. But you have walked it — both of you, for a long time, with everything it required. Today you express gratitude for the road itself: for what it cost, for who it made you, for what you built on it together.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: What are you most grateful for about this hard road?",
+      "Each partner: What has it produced in you that you would not want to give back?",
+      "Both: Write each other a final gratitude letter for the journey.",
+      "Both: Read your letters to each other. Let the moment be what it is."
+    ],
+    reflection: "Hard roads produce things smooth roads cannot. Honor the road."
+  },
+  {
+    id: 456, day: 173, program: 'infidelity-recovery',
+    title: "Thirty Weeks — The New Foundation Is Laid",
+    emoji: "🏛️",
+    tagline: "Mark thirty weeks with the recognition that a foundation has been laid.",
+    body: "Thirty weeks. The foundation is laid. Not the house — the foundation. The house is still being built. But beneath you, there is something solid: real, tested, chosen. Today you stand on it and recognize what it is.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: What is the foundation? Name the elements — specifically.",
+      "Each partner: When you stand on this foundation, how does it feel?",
+      "Both: What does the house you're building on this foundation look like?",
+      "Both: Name the most important architectural element still to build."
+    ],
+    reflection: "You built the foundation under your own feet, while standing on unstable ground. That is extraordinary."
+  },
+  {
+    id: 457, day: 174, program: 'infidelity-recovery',
+    title: "Security as a Way of Being",
+    emoji: "🌳",
+    tagline: "Experience security as a stable way of being, not a temporary state.",
+    body: "Security in a relationship can evolve from an occasional feeling to a stable way of being — a kind of relational ground tone that is always present, even in difficulty. Today you explore whether that ground tone has begun to establish itself.",
+    duration: "30 min",
+    prompts: [
+      "Betrayed partner: Is security in this relationship beginning to feel like a stable state rather than occasional moments?",
+      "Betrayed partner: What has created that stability?",
+      "Betraying partner: What is your most consistent contribution to your partner's felt security?",
+      "Both: How do you maintain this security as a way of being going forward?"
+    ],
+    reflection: "Security as a way of being is the destination. You may be arriving."
+  },
+  {
+    id: 458, day: 175, program: 'infidelity-recovery',
+    title: "The Post-Betrayal Identity",
+    emoji: "🦅",
+    tagline: "Claim a new identity forged through the healing journey.",
+    body: "You are not who you were before this began. The betrayal, the grief, the work, the growth — all of it has forged a new version of each of you. Today you name and claim those new identities — not despite what you've been through, but because of it.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: Who are you now — in this relationship and in your own life — that you couldn't have been before all of this?",
+      "Each partner: What qualities have you developed through this that you are keeping?",
+      "Both: Share your new identities with each other.",
+      "Both: Affirm each other's growth. Name what you see."
+    ],
+    reflection: "You have been forged. Own who you've become."
+  },
+  {
+    id: 459, day: 176, program: 'infidelity-recovery',
+    title: "The Relationship You've Earned",
+    emoji: "🏆",
+    tagline: "Acknowledge that this relationship has been earned.",
+    body: "Most relationships are built on assumption and hope. This one has been tested, broken, and rebuilt — deliberately, painfully, honestly. It has been earned in a way that few relationships ever are. Today you name that and let it mean something.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: What have you earned in this relationship that you couldn't have had otherwise?",
+      "Both: What makes this relationship more honest than it was before?",
+      "Both: What makes it more resilient?",
+      "Both: What makes it more yours — more genuinely yours — than it was?"
+    ],
+    reflection: "An earned relationship carries a weight and a richness that a naive one cannot. You have earned this."
+  },
+  {
+    id: 460, day: 177, program: 'infidelity-recovery',
+    title: "The Gifts of the Dark Season",
+    emoji: "🌑",
+    tagline: "Name the gifts that came only from the darkness.",
+    body: "There are things the dark season of betrayal and healing gave you that the light could not have. Depth. Honesty. Tested love. Knowledge of each other's real character. A more complete understanding of yourselves. Today you name those gifts — not to be grateful for the betrayal, but to be grateful for who you became despite it.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: What gift came to you from the dark season that the light could not have given you?",
+      "Each partner: What do you know about yourself now that you couldn't have known otherwise?",
+      "Both: Share your answers.",
+      "Both: Let the gifts be real. Don't minimize them to avoid seeming grateful for the pain."
+    ],
+    reflection: "The gifts of the dark season are real. You are allowed to receive them."
+  },
+  {
+    id: 461, day: 178, program: 'infidelity-recovery',
+    title: "The Relationship at Its Best",
+    emoji: "✨",
+    tagline: "Describe and celebrate the relationship at its current best.",
+    body: "You are near the end of this 180-day intensive program. Today you describe the relationship at its current best — not its ideal, not its worst, but its actual best: the moments and qualities that show what you've built.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: Describe a recent moment when the relationship was at its best. What made it so?",
+      "Each partner: What is the defining quality of this relationship at its best?",
+      "Both: Compare your descriptions. What do you both see?",
+      "Both: What will you do to make those best moments more frequent?"
+    ],
+    reflection: "The relationship at its best is a preview of what it can become consistently."
+  },
+  {
+    id: 462, day: 179, program: 'infidelity-recovery',
+    title: "The Eve of 180 — A Night to Remember",
+    emoji: "🌙",
+    tagline: "Mark the night before the final day with full presence.",
+    body: "Tomorrow is Day 180. Tonight you are here — together, having done something that many couples attempt and not all survive. Tonight you don't do work. Tonight you be together. Fully present. Whatever that looks like for you.",
+    duration: "45 min",
+    prompts: [
+      "Both: Spend this time together — not doing healing work, but being with each other.",
+      "Both: Do something that represents who you are as a couple now — a ritual, a meal, a walk, a conversation.",
+      "Both: Let yourself feel, fully, what it means to be here — on the eve of 180 days.",
+      "Both: Say one true thing to each other before the night is over."
+    ],
+    reflection: "One hundred and seventy-nine days have led to this night. Be here for it."
+  },
+  {
+    id: 463, day: 180, program: 'infidelity-recovery',
+    title: "Day 180 — What You Have Become",
+    emoji: "🌅",
+    tagline: "Close 180 days with the full recognition of who you have become.",
+    body: "One hundred and eighty days. Six months of intentional, agonizing, courageous, honest, daily work. You are not healed — healing is a long arc, and you are still on it. But you are fundamentally different from the people who started this journey. The betrayal is part of your story. So is this: the choosing, the showing up, the refusing to let the wound be the last word. Today you name who you have become — individually and together — and you step into the next chapter with everything you have built.",
+    duration: "75 min",
+    prompts: [
+      "Each partner: Write the most honest, complete statement you can about who you are now — as a person, as a partner, and as someone who has healed.",
+      "Each partner: What is your commitment to this person and this relationship for the next 180 days? For the next year? For the long arc?",
+      "Both: Read your statements to each other. Take as long as you need. Do not rush this.",
+      "Both: Choose one final act — a ritual, a symbol, a declaration — to close this chapter. Make it yours. Make it real."
+    ],
+    reflection: "The wound was real. The betrayal was real. The grief was real. And so is this: you are still here, together, having chosen each other through the hardest season of your lives. Whatever comes next, you did not quit. You did not let the worst moment define the whole story. Day 180 is not an ending. It is the first day of the relationship you spent 180 days building. Go live in it."
+  },
 ]
 
 export const getProgramMissions = (program: string) =>
