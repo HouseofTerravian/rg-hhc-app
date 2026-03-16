@@ -6697,6 +6697,5376 @@ export const MISSIONS: Mission[] = [
     ],
     reflection: "The wound was real. The betrayal was real. The grief was real. And so is this: you are still here, together, having chosen each other through the hardest season of your lives. Whatever comes next, you did not quit. You did not let the worst moment define the whole story. Day 180 is not an ending. It is the first day of the relationship you spent 180 days building. Go live in it."
   },
+  {
+    id: 464, day: 8, program: 'marriage-strengthening',
+    title: "The Morning You Choose",
+    emoji: "🌅",
+    tagline: "Start each day with a conscious, deliberate choice to love well.",
+    body: "Great marriages are not built by grand gestures alone — they are built in the ordinary mornings when you look at your partner and choose them again. Today you establish a morning ritual that signals: you are seen, you are chosen, you matter. It does not need to be long. It needs to be real. A moment of genuine presence before the day pulls you in its direction sets the tone for everything that follows.",
+    duration: "20 min",
+    prompts: [
+      "What does your current morning look like with your partner — is there a moment of real connection, or does the day begin in parallel?",
+      "What would a 2-minute morning ritual look like that feels true to who you both are — a phrase, a touch, a look, a question?",
+      "What is one thing your partner could say or do each morning that would make you feel deeply seen before 9am?",
+      "Design your ritual together. Write it down. Try it tomorrow and every morning this week."
+    ],
+    reflection: "The way you begin a day together quietly shapes the way you experience each other all day long."
+  },
+  {
+    id: 465, day: 9, program: 'marriage-strengthening',
+    title: "Love Language Inventory",
+    emoji: "💬",
+    tagline: "Know with precision how your partner feels most loved — and act on it.",
+    body: "Many couples assume they know each other's love languages, but assumption is where missed connection hides. Today you go deeper than a quiz result. You explore the specific, living, breathing expressions of love that make your partner feel genuinely cherished — not the category, but the texture. Knowing is not enough. Knowing and doing is the practice.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: Name the top 2 ways you feel most loved. Be specific — not just 'words of affirmation,' but which words, when, from whom, in what tone?",
+      "Each partner: What is one thing your partner does that makes you feel deeply loved without them even realizing it?",
+      "Each partner: What is one thing you wish your partner did more of — not as a complaint, but as an honest longing?",
+      "Together: Commit to one intentional act of love this week in your partner's primary language. Name it out loud."
+    ],
+    reflection: "Loving your partner in the language they actually speak is one of the highest forms of respect in a marriage."
+  },
+  {
+    id: 466, day: 10, program: 'marriage-strengthening',
+    title: "The Bid and the Answer",
+    emoji: "🤝",
+    tagline: "Learn to see every small bid for connection — and turn toward it.",
+    body: "Research on lasting marriages reveals a profound truth: couples who thrive are not the ones who never fight — they are the ones who turn toward each other's small bids for connection. A bid can be a glance, a comment, a joke, a sigh. How you respond in those micro-moments is quietly building or eroding your bond every single day. Today you get intentional about bidding and answering.",
+    duration: "25 min",
+    prompts: [
+      "Think of a recent moment when your partner made a small bid for your attention. How did you respond — and how did that feel to each of you?",
+      "What are 3 ways your partner typically bids for connection that you might sometimes miss or dismiss unintentionally?",
+      "What are 3 ways you bid for connection? Does your partner know these are bids, or do they look like something else?",
+      "Practice today: every time your partner makes a bid, turn toward it fully — even for 10 seconds. Notice what shifts."
+    ],
+    reflection: "Every bid turned toward is a brick in the foundation. Every bid turned away is a chip. Choose your bricks."
+  },
+  {
+    id: 467, day: 11, program: 'marriage-strengthening',
+    title: "Gratitude That Lands",
+    emoji: "🙏",
+    tagline: "Express gratitude so specifically that your partner feels genuinely seen.",
+    body: "Generic gratitude is kind. Specific gratitude is transformative. Telling your partner you appreciate them is good; telling them exactly what they did, why it mattered, and how it made you feel is the kind of recognition that changes how a person sees themselves in the relationship. Today you practice gratitude that lands — deep, specific, true.",
+    duration: "20 min",
+    prompts: [
+      "Name 5 things your partner has done in the last 7 days — not big things, the small invisible things — that made your life better.",
+      "For one of those 5, write out the full gratitude: what they did, why it mattered, and how it made you feel.",
+      "Share that full gratitude with your partner today. Do not rush it. Let them receive it.",
+      "Ask your partner: is there a way I express gratitude that lands best for you, or something I could do differently?"
+    ],
+    reflection: "The partner who feels truly seen does not need to look elsewhere for recognition."
+  },
+  {
+    id: 468, day: 12, program: 'marriage-strengthening',
+    title: "Who Are You Now?",
+    emoji: "🔍",
+    tagline: "Stay genuinely curious about who your partner is becoming.",
+    body: "One of the quiet dangers in long-term love is assuming you already know everything about your partner. But people evolve. Dreams shift. Fears change. New passions emerge. The partner who stays curious — who keeps asking, who keeps discovering — is the one who stays close. Today you ask questions you may have never asked, or have not asked in years.",
+    duration: "30 min",
+    prompts: [
+      "What is something your partner is genuinely excited about right now that you want to understand better?",
+      "Ask your partner: 'What is something about who you are now that you feel I might not fully see yet?'",
+      "Ask your partner: 'What is a dream or desire you have that we have never talked about seriously?'",
+      "What did you learn today that surprised you — and what does it make you want to explore together?"
+    ],
+    reflection: "Staying curious about your partner is an act of love that never goes out of style."
+  },
+  {
+    id: 469, day: 13, program: 'marriage-strengthening',
+    title: "The Evening Landing",
+    emoji: "🌙",
+    tagline: "Build an evening ritual that brings you back to each other after the day.",
+    body: "Just as a morning ritual sets the tone, an evening ritual creates a landing — a transition from the noise of the world back into the warmth of your partnership. Many couples spend their evenings physically present but emotionally elsewhere. Tonight you design something intentional, even small, that helps you both arrive back to each other at the end of the day.",
+    duration: "20 min",
+    prompts: [
+      "What does your current evening routine look like together — is there a moment of real decompression and connection, or does the day just end?",
+      "What would a 5-minute evening ritual look like that helps you both decompress and re-enter the relationship — a shared question, a walk, a no-screens rule?",
+      "What is one thing that would help you transition from 'work brain' or 'parent brain' back to 'partner brain' at the end of the day?",
+      "Design your evening ritual together and try it every night this week. Adjust as needed."
+    ],
+    reflection: "The couple that lands softly together at the end of each day builds something most couples only dream about."
+  },
+  {
+    id: 470, day: 14, program: 'marriage-strengthening',
+    title: "Celebrating the Small Wins",
+    emoji: "🎉",
+    tagline: "Learn to celebrate each other's small victories with genuine enthusiasm.",
+    body: "Research consistently shows that how a partner responds to good news matters as much as how they respond to bad news. Couples who thrive are those who celebrate each other's wins — even the quiet, everyday ones. A promotion is obvious. The courage it took to make a difficult call, finish a hard project, or navigate a tough conversation? That deserves celebrating too. Today you build the habit.",
+    duration: "25 min",
+    prompts: [
+      "Name a recent win — personal or shared — that did not get the recognition it deserved. How did that feel?",
+      "What is a win your partner has had this week, even a small one, that you have not fully celebrated yet?",
+      "How does your partner most like to be celebrated — privately, verbally, with quality time, with a gesture?",
+      "Celebrate that win together today. Make it real. Do not save it for later."
+    ],
+    reflection: "The partner who celebrates your wins becomes the partner you cannot wait to share every win with."
+  },
+  {
+    id: 471, day: 15, program: 'marriage-strengthening',
+    title: "The Appreciation Ritual",
+    emoji: "✨",
+    tagline: "Build a daily practice of naming what you love about your partner.",
+    body: "Appreciation, when practiced daily, does not become mundane — it becomes armor. The couple with an active appreciation practice has a reserve of goodwill that protects the relationship during conflict, stress, and hardship. Today you formalize appreciation — not as a one-time exercise, but as a standing practice you will carry forward.",
+    duration: "20 min",
+    prompts: [
+      "Name 3 qualities in your partner that you genuinely admire. Not what they do — who they are.",
+      "When was the last time you told your partner one of these things directly and explicitly? How did they receive it?",
+      "Design an appreciation practice: when will you do it, how often, in what form? Morning text, evening share, written note — what fits your life?",
+      "Start today. Share one real appreciation with your partner and let them fully receive it before responding."
+    ],
+    reflection: "The relationship where appreciation flows freely is the relationship where love has room to grow."
+  },
+  {
+    id: 472, day: 16, program: 'marriage-strengthening',
+    title: "Deep Knowing: Their Inner World",
+    emoji: "🧠",
+    tagline: "Map your partner's inner world with the care of someone who wants to understand.",
+    body: "Knowing your partner's surface preferences is one level of intimacy. Knowing their fears, their deep longings, their current sources of stress and joy, their dreams for the next decade — that is the deeper knowing that makes a marriage feel like home. Today you explore each other's inner world with the attention it deserves.",
+    duration: "35 min",
+    prompts: [
+      "Ask your partner: 'What is the biggest source of stress in your life right now that I might not fully understand?'",
+      "Ask your partner: 'What is something you are quietly hoping for — for yourself or for us — that you have not said out loud recently?'",
+      "Ask your partner: 'What is something you fear that you rarely talk about?'",
+      "What did you learn today? What do you want to do with what you learned?"
+    ],
+    reflection: "The marriage where both partners feel deeply known is the marriage built on real ground."
+  },
+  {
+    id: 473, day: 17, program: 'marriage-strengthening',
+    title: "The Stories You Tell Together",
+    emoji: "📖",
+    tagline: "Honor the shared narrative of your marriage — it is one of your greatest assets.",
+    body: "Every great marriage has a story. The way you narrate your history together — how you met, how you chose each other, how you have navigated hard seasons — shapes how you see your relationship now. Couples who tell their story with pride, humor, and warmth are more resilient during difficult times. Today you revisit and celebrate the story only you two share.",
+    duration: "30 min",
+    prompts: [
+      "Tell each other the story of how you met from your own perspective — what you noticed, what you felt, what you thought in those first moments.",
+      "What is a moment in your relationship that, when you think about it now, makes you feel genuinely proud of who you both were?",
+      "What is the funniest or most absurd thing that has happened to you as a couple? Tell it in full.",
+      "If you were writing the story of your marriage for someone else to read, what would the title of this current chapter be?"
+    ],
+    reflection: "The couple who knows their own story — and tells it well — is the couple who knows what they are protecting."
+  },
+  {
+    id: 474, day: 18, program: 'marriage-strengthening',
+    title: "Physical Presence, Full Presence",
+    emoji: "🤗",
+    tagline: "Reclaim the power of being fully, physically present with your partner.",
+    body: "Touch, proximity, and physical attentiveness are languages of love that do not require words. Many couples are physically present in the same room but energetically miles apart. Today is about reclaiming the body's role in connection — not just intimacy in the bedroom, but the daily touch, the casual closeness, the hand that reaches across the table. Presence is a gift you give with your whole self.",
+    duration: "25 min",
+    prompts: [
+      "How would you describe your current level of physical closeness outside of intimate moments — holding hands, sitting close, casual touch?",
+      "What form of physical affection makes you feel most connected to your partner — and does your partner know this?",
+      "Is there a way you have pulled back from physical closeness over time? What do you think drove that?",
+      "Choose one physical connection practice for this week: hold hands during a walk, sit closer on the couch, give a real hug every evening. Name it and do it."
+    ],
+    reflection: "The body remembers belonging. Small, consistent physical connection tells your nervous system: you are safe here."
+  },
+  {
+    id: 475, day: 19, program: 'marriage-strengthening',
+    title: "What Lights You Up",
+    emoji: "💡",
+    tagline: "Actively support what brings your partner alive — not just what keeps life running.",
+    body: "A thriving marriage is one where both partners feel that their aliveness is welcomed, not just their usefulness. When your partner has a passion, a project, a dream that lights them up — your response to that thing matters enormously. Today you explore what lights each of you up, and you make a commitment to actively nurture that spark in each other.",
+    duration: "30 min",
+    prompts: [
+      "What is something that makes you genuinely, deeply excited right now — in life, in work, in creative pursuit, in any arena?",
+      "How does your partner respond when you talk about the things that light you up? Do you feel encouraged, seen, energized?",
+      "Is there a passion or pursuit your partner has that you could support more actively or enthusiastically?",
+      "Name one concrete thing you will do this week to champion something that lights your partner up."
+    ],
+    reflection: "The partner who celebrates your aliveness becomes the partner whose presence makes you more alive."
+  },
+  {
+    id: 476, day: 20, program: 'marriage-strengthening',
+    title: "The Stress You Carry",
+    emoji: "⚖️",
+    tagline: "Understand each other's stressors so you can carry them together rather than apart.",
+    body: "Unacknowledged stress is one of the great silent separators in marriage. When you are carrying something heavy and your partner does not know it — or knows it but does not engage with it — you begin to feel alone in the marriage. Today you name what you are each carrying and practice the art of bearing it together.",
+    duration: "30 min",
+    prompts: [
+      "What is the heaviest thing you are carrying right now — work, family, health, finance, internal struggle?",
+      "Does your partner have a full picture of what this weight feels like for you? What do they not know?",
+      "What do you most need from your partner when you are under stress — presence, space, solutions, reassurance, distraction?",
+      "Ask your partner: 'When you are stressed, what is the most helpful thing I can do — and what makes it worse?'"
+    ],
+    reflection: "Stress shared is stress halved. Stress hidden is stress that quietly builds walls between you."
+  },
+  {
+    id: 477, day: 21, program: 'marriage-strengthening',
+    title: "Three Weeks In — The Inventory",
+    emoji: "📋",
+    tagline: "Pause, review, and appreciate what three weeks of intentional practice has already built.",
+    body: "You have been at this for three weeks — a genuine investment in the strength of your marriage. Before moving forward, it is worth pausing to take stock. What has shifted? What practices have taken root? What have you discovered about your partner and yourself? Progress that is not noticed tends to fade. Progress that is named and celebrated tends to compound.",
+    duration: "30 min",
+    prompts: [
+      "What is the most meaningful thing you have learned about your partner in the last 21 days?",
+      "What is one practice from the past three weeks that has already made a visible difference in how you connect?",
+      "What is something you have done for your partner in the last three weeks that you are proud of?",
+      "What is one intention you want to carry forward with more commitment into the next phase of this work?"
+    ],
+    reflection: "Three weeks of choosing each other intentionally is not a small thing. Name it, honor it, and let it carry you forward."
+  },
+  {
+    id: 478, day: 22, program: 'marriage-strengthening',
+    title: "The Vision You Share",
+    emoji: "🔭",
+    tagline: "Build a shared vision for your marriage that pulls you both toward something great.",
+    body: "Couples who thrive do not just manage the present — they are building toward something together. A shared vision gives your marriage direction, meaning, and a reason to keep choosing each other even when it is hard. Today you invest time in articulating what you are building — not just the life logistics, but the quality of love, partnership, and presence you are both committed to.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: Describe your dream marriage — not the fantasy version, but the real, lived, everyday version of the relationship you want to inhabit.",
+      "Where do your visions overlap? Where do they differ — and is there room to hold both?",
+      "What is one word or phrase that captures the quality of marriage you are both working toward?",
+      "Write a one-sentence vision statement for your marriage together. Something true, elevated, and yours."
+    ],
+    reflection: "A shared vision is not a contract. It is a compass — and the couple with a compass rarely stays lost for long."
+  },
+  {
+    id: 479, day: 23, program: 'marriage-strengthening',
+    title: "Friendship First",
+    emoji: "👫",
+    tagline: "Tend to the friendship at the core of your marriage with the same care as the romance.",
+    body: "The research is clear: couples who describe their partner as their best friend report the highest levels of long-term satisfaction. The romantic dimension of marriage gets a lot of attention, but the friendship — the enjoyment of each other's company, the laughter, the ease, the genuine liking — is the foundation everything else is built on. Today you invest in the friendship.",
+    duration: "25 min",
+    prompts: [
+      "What do you genuinely enjoy about spending time with your partner — not as a spouse, but as a person?",
+      "When was the last time you laughed together until it was uncontrollable? What was it?",
+      "What is something you and your partner would both enjoy doing together that is not a 'date' — just two friends hanging out?",
+      "Schedule something for this week that is pure enjoyment, no agenda, no relationship work — just being friends."
+    ],
+    reflection: "The couple who is also genuinely good friends has a resource that romance alone cannot provide."
+  },
+  {
+    id: 480, day: 24, program: 'marriage-strengthening',
+    title: "What I Admire in You",
+    emoji: "🌟",
+    tagline: "Name what you truly admire in your partner and let them hear it fully.",
+    body: "Admiration is one of the most powerful forces in a thriving marriage. It is deeper than gratitude, more enduring than attraction, and more stabilizing than any single act of love. When you genuinely admire your partner — their character, their courage, their mind, their way of moving through the world — and you tell them, you build something in them that lasts. Today you tell them.",
+    duration: "25 min",
+    prompts: [
+      "Name 3 qualities in your partner's character that you genuinely, deeply admire.",
+      "Name one thing you have watched your partner do in the last year that took real courage or strength.",
+      "Is there a dimension of your partner — their intelligence, their humor, their creativity, their values — that you do not voice admiration for enough?",
+      "Write a short admiration letter to your partner — 5 to 8 sentences — and read it to them today."
+    ],
+    reflection: "The partner who knows they are admired carries themselves differently — and so does the marriage."
+  },
+  {
+    id: 481, day: 25, program: 'marriage-strengthening',
+    title: "Your Individual Flourishing",
+    emoji: "🌱",
+    tagline: "Support each other's individual growth — a thriving partner makes a thriving marriage.",
+    body: "A strong marriage is not made by two people who disappear into each other — it is made by two people who become more fully themselves and bring that fullness to the partnership. When you actively invest in your partner's individual flourishing — their goals, their growth, their becoming — you are investing in the marriage. Today you explore how you can be each other's greatest champion.",
+    duration: "30 min",
+    prompts: [
+      "What is something you personally want to grow in, become, or achieve in the next 12 months?",
+      "Does your partner fully understand this aspiration? Do they know how to support it?",
+      "Is there something your partner is working toward that you could support more actively or meaningfully?",
+      "Name one concrete thing you will do in the next 30 days to champion your partner's individual growth."
+    ],
+    reflection: "The most romantic thing you can do for your marriage is help your partner become who they are meant to be."
+  },
+  {
+    id: 482, day: 26, program: 'marriage-strengthening',
+    title: "The Sacred No",
+    emoji: "🛡️",
+    tagline: "Protect your marriage by choosing what you will not let in.",
+    body: "A strong marriage requires not only additions — practices, rituals, conversations — but also conscious exclusions. What will you not let drain your energy, your time, your presence? The couples who protect their marriage intentionally — from overcommitment, from chronic negativity, from the slow erosion of devices and distraction — are the ones who still have something worth protecting. Today you build your fence.",
+    duration: "25 min",
+    prompts: [
+      "What is one thing in your current life that consistently pulls you away from your partner or drains the energy you bring to the marriage?",
+      "Are there any habits, obligations, or patterns that you both agree are working against the quality of your connection?",
+      "What is one thing you are willing to say no to — or say less to — in order to protect the quality of your marriage?",
+      "Together, name one boundary you want to set or reinforce as a couple to guard your time and energy."
+    ],
+    reflection: "What you protect grows. What you leave unguarded gets slowly taken."
+  },
+  {
+    id: 483, day: 27, program: 'marriage-strengthening',
+    title: "How You Fight",
+    emoji: "🥊",
+    tagline: "Understand your conflict patterns before they understand you.",
+    body: "Every couple has a conflict pattern — the way arguments typically start, escalate, stall, or resolve. Most couples have never explicitly studied their own pattern. When you can see it clearly, you can intervene early, exit harmful cycles, and return to each other faster. Today is not about having a fight — it is about understanding how you fight so you can fight cleaner.",
+    duration: "30 min",
+    prompts: [
+      "What does a typical argument look like for the two of you — what triggers it, how does it escalate, where does it usually go?",
+      "What is something you tend to do during conflict that you know does not help — withdraw, escalate, deflect, go silent?",
+      "What does your partner need from you when a disagreement starts — and do you currently give that?",
+      "Design a 'reset signal' together — a word, phrase, or gesture either of you can use to pause a conflict before it goes somewhere harmful."
+    ],
+    reflection: "The couple who understands how they fight can change how they fight. And that changes everything."
+  },
+  {
+    id: 484, day: 28, program: 'marriage-strengthening',
+    title: "Money, Values, and Alignment",
+    emoji: "💰",
+    tagline: "Get aligned on your financial values so money becomes a tool, not a tension.",
+    body: "Money is one of the most common sources of conflict in marriage — not because of dollars, but because of values, fears, and differing beliefs about security, freedom, and the future. Today you go beneath the budget and into the beliefs. When you understand why your partner relates to money the way they do, you stop fighting about money and start understanding each other.",
+    duration: "35 min",
+    prompts: [
+      "What did money mean in the home you grew up in — was it a source of security, stress, conflict, or freedom?",
+      "What does financial security mean to you personally — what number, what state, what feeling?",
+      "Where do you and your partner align on money values — and where do you genuinely differ?",
+      "What is one financial conversation you have been avoiding that would actually bring you closer if you had it honestly?"
+    ],
+    reflection: "Couples who can talk about money openly have removed one of the most common landmines from their path."
+  },
+  {
+    id: 485, day: 29, program: 'marriage-strengthening',
+    title: "The Future You Are Building",
+    emoji: "🏗️",
+    tagline: "Get specific about the life you are building and make sure you are building it together.",
+    body: "It is easy to get so caught up in the present demands of life that you lose sight of the future you are actually building. Where will you be in 5 years? 10? What does your life look like — your home, your work, your family, your finances, your health, your community? Today you bring your futures into alignment so you are pulling in the same direction.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: Paint a picture of the life you want 5 years from now — where you are, how you feel, what you are doing.",
+      "Where do your 5-year pictures align? Where do they diverge — and is this a tension point you have addressed?",
+      "What is one concrete step you could take together in the next 90 days that moves you toward the shared future you both want?",
+      "What is something you want to build in this marriage — a legacy, a tradition, a family culture — that you have not discussed in enough depth?"
+    ],
+    reflection: "The couple with aligned futures is not pulled apart by the tide — they are rowing in the same direction."
+  },
+  {
+    id: 486, day: 30, program: 'marriage-strengthening',
+    title: "30 Days of Foundation — A Celebration",
+    emoji: "🏆",
+    tagline: "Honor 30 days of intentional foundation-building with presence and pride.",
+    body: "You have spent 30 days going deeper — into gratitude, curiosity, presence, vision, and honest knowing of each other. That is not nothing. That is the kind of intentional investment that most couples never make. Today is not a practice day. Today is a celebration. You have built something real in the last month. Name it. Honor it. Let it fill you with confidence for everything ahead.",
+    duration: "45 min",
+    prompts: [
+      "Each partner: Name the single most important thing you have discovered about your marriage in the last 30 days.",
+      "Each partner: Name one thing you did in the last 30 days for this relationship that you are genuinely proud of.",
+      "Together: What is the one practice from this first month that you are committing to keep forever?",
+      "Do something tonight that marks the milestone — a meal, a toast, a letter, a ritual. Make it yours. Make it real."
+    ],
+    reflection: "Thirty days of choosing your marriage is thirty days of building the life most people only hope for. You did the work. Now receive the return."
+  },
+  {
+    id: 487, day: 31, program: 'marriage-strengthening',
+    title: "Speaking With Love and Precision",
+    emoji: "🎯",
+    tagline: "Say what you mean with clarity, and say it in a way your partner can actually receive.",
+    body: "Love without clarity is often love that misses. You can feel something deeply and still communicate it in a way that lands wrong — too vague, too sharp, too buried under indirection. Communication mastery is not about being more articulate; it is about being more honest, more specific, and more attuned to how your words land in your partner's body. Today you begin the art of speaking with both love and precision.",
+    duration: "25 min",
+    prompts: [
+      "Think of a recent conversation where you meant to express care or concern but it did not land well. What happened?",
+      "What is one thing you have been wanting to say to your partner that you have not said because you were not sure how to say it?",
+      "Practice the XYZ formula together: 'When you do X in situation Y, I feel Z.' Use a real, low-stakes example.",
+      "How can you make it easier for your partner to come to you with something hard — what tone, what posture, what response would help them feel safe speaking?"
+    ],
+    reflection: "The most loving thing you can do for your partner is tell them the truth in a way they can hear it."
+  },
+  {
+    id: 488, day: 32, program: 'marriage-strengthening',
+    title: "Listening Without Fixing",
+    emoji: "👂",
+    tagline: "Learn to give your partner the gift of being fully heard before being helped.",
+    body: "Most people in conflict or distress do not first want a solution — they want to feel understood. But partners who lead with logic and solutions often leave their loved one feeling dismissed. Listening without fixing is one of the hardest and most powerful communication skills you can develop. Today you practice hearing your partner all the way to the end before you respond with anything other than understanding.",
+    duration: "30 min",
+    prompts: [
+      "Think of a time you went to your partner with something heavy and they immediately went into fix-it mode. How did that feel?",
+      "Think of a time your partner came to you and you did the same. What were you feeling that made you want to fix it?",
+      "Practice right now: one partner shares something on their mind. The other can only ask questions or reflect back — no solutions, no advice — for 5 full minutes. Then switch.",
+      "What did it feel like to be listened to without being fixed? What did it feel like to hold back the fix?"
+    ],
+    reflection: "When your partner feels heard, they do not just feel better — they feel closer to you. That is the real fix."
+  },
+  {
+    id: 489, day: 33, program: 'marriage-strengthening',
+    title: "Expressing Needs Clearly",
+    emoji: "📣",
+    tagline: "Stop hinting and start asking — your partner deserves the chance to meet you.",
+    body: "Unspoken needs become unspoken resentments. Many couples cycle through frustration without ever having the direct conversation — not because they are dishonest, but because they were never taught that asking for what you need is an act of love, not weakness. Today you practice the courage and clarity of naming what you actually need — and making it possible for your partner to actually give it.",
+    duration: "30 min",
+    prompts: [
+      "Name one need you have in this marriage that you have been hinting at, hoping for, or silently waiting on your partner to fulfill.",
+      "Why have you not asked for it directly? Fear of rejection, feeling like they should just know, not wanting to seem needy?",
+      "Practice asking for it now, directly, using a request rather than a complaint: 'I need X. Would you be willing to Y?'",
+      "Ask your partner: 'Is there something you need from me that you have been afraid to ask for directly?'"
+    ],
+    reflection: "Asking for what you need is not demanding — it is respecting your partner enough to let them choose to give it."
+  },
+  {
+    id: 490, day: 34, program: 'marriage-strengthening',
+    title: "The Tone Underneath the Words",
+    emoji: "🎶",
+    tagline: "Recognize that how you say something shapes what your partner actually hears.",
+    body: "Words carry meaning, but tone carries feeling. You can say the same sentence in ten different tones and have ten entirely different conversations. When tone and words are misaligned, the tone always wins. Today you get honest about the tones that sometimes enter your communication — not to shame yourself, but to become so aware of them that you can choose differently.",
+    duration: "25 min",
+    prompts: [
+      "What tone of voice or energy do you sometimes bring to conversations with your partner that you know does not serve the connection you want?",
+      "What tends to put you in that tone — stress, tiredness, feeling unheard, something from earlier in the day?",
+      "How does your partner typically respond to that tone — and what does it do to the conversation?",
+      "What is a cue or practice you can use to check your tone before you enter an important conversation with your partner?"
+    ],
+    reflection: "Your partner hears the music before they process the lyrics. Choose music worth hearing."
+  },
+  {
+    id: 491, day: 35, program: 'marriage-strengthening',
+    title: "Navigating Disagreement Without Destruction",
+    emoji: "🧭",
+    tagline: "Disagree well — with truth, respect, and the relationship still intact at the end.",
+    body: "In every marriage there will be genuine disagreement — about parenting, money, time, priorities, values. The question is never whether you will disagree; it is whether you can disagree in a way that leaves both people feeling respected and the relationship feeling stronger rather than weaker. Today you build the skills to navigate disagreement without letting it become a battle for dominance.",
+    duration: "35 min",
+    prompts: [
+      "Name a recurring disagreement in your marriage that has never fully been resolved. What is it really about — beneath the surface argument?",
+      "What does 'winning' look like to each of you in a disagreement — and how does that goal sometimes work against resolution?",
+      "Practice the softened startup: instead of 'You always...' or 'You never...', try 'I feel... I need... I would love it if...' Use a real example.",
+      "What would it look like to disagree on this issue while still maintaining full respect for your partner's perspective?"
+    ],
+    reflection: "The goal of a disagreement in marriage is not to be right. It is to be understood — and to understand."
+  },
+  {
+    id: 492, day: 36, program: 'marriage-strengthening',
+    title: "The Art of the Apology",
+    emoji: "🙇",
+    tagline: "Learn to apologize in a way that truly repairs, not just closes the argument.",
+    body: "A weak apology — 'I am sorry you feel that way' or 'Sorry, but...' — is worse than no apology at all. It compounds the original wound. A real apology is a specific, accountable, repair-oriented act that names what happened, owns the impact, and offers a genuine commitment to do differently. Today you learn and practice the architecture of an apology that actually heals.",
+    duration: "30 min",
+    prompts: [
+      "Think of something you have done — recently or in the past — that you have not fully apologized for. What has kept you from doing so?",
+      "Practice the full apology structure: (1) Name what you did specifically, (2) Acknowledge the impact on your partner, (3) Take full ownership without deflecting, (4) Commit to a specific change.",
+      "Ask your partner: 'Is there something I have done that you felt my apology for was incomplete or insufficient?'",
+      "What does your partner most need to hear in an apology to feel truly repaired — words, actions, time, or something else?"
+    ],
+    reflection: "A real apology is not the closing of a chapter. It is the opening of a new one."
+  },
+  {
+    id: 493, day: 37, program: 'marriage-strengthening',
+    title: "Asking Better Questions",
+    emoji: "❓",
+    tagline: "The quality of your questions shapes the quality of your conversations.",
+    body: "Most couples have conversations that skim the surface — logistics, schedules, the news of the day. The depth of a relationship is determined in large part by the depth of its questions. Better questions create better conversations. Better conversations create deeper knowing. Deeper knowing creates the kind of intimacy that sustains a marriage through decades. Today you upgrade your questions.",
+    duration: "30 min",
+    prompts: [
+      "What is a question you have never asked your partner but have always wondered about — about their past, their inner life, their desires?",
+      "Ask your partner: 'What is the most underrated thing about being with you that most people — including me — do not fully appreciate?'",
+      "Ask your partner: 'If you could change one thing about the way we communicate, what would it be?'",
+      "Design 5 questions you want to ask each other over the next month — keep them on your phone, return to them in slow moments."
+    ],
+    reflection: "The partner who keeps asking becomes the partner who keeps knowing. And knowing is the soil in which love deepens."
+  },
+  {
+    id: 494, day: 38, program: 'marriage-strengthening',
+    title: "Repair After Tension",
+    emoji: "🔧",
+    tagline: "Master the move back toward each other after the distance of conflict.",
+    body: "All couples experience tension. What separates thriving marriages from struggling ones is not the absence of tension but the speed and quality of the repair. How quickly do you return to warmth after conflict? How do you signal that the fight is over and you are back on the same team? Today you develop your repair vocabulary and your return ritual.",
+    duration: "30 min",
+    prompts: [
+      "After a conflict, what does your current repair process look like — who typically initiates, and how?",
+      "What makes it hard to return to warmth after tension — pride, residual hurt, not knowing how to start?",
+      "Design a repair signal together: a phrase, a gesture, or a small act that says 'I am coming back — are you ready?'",
+      "Practice initiating repair for something small — a brief tightness from earlier in the week. Use your signal. Notice how it feels."
+    ],
+    reflection: "The speed of repair is a measure of how much the relationship matters to both of you."
+  },
+  {
+    id: 495, day: 39, program: 'marriage-strengthening',
+    title: "Speaking Truth With Kindness",
+    emoji: "🕊️",
+    tagline: "Deliver hard truths with enough love that they can actually be received.",
+    body: "There is a myth that honesty and kindness are in tension — that being truly honest requires harshness, and that being kind requires softening the truth to the point of uselessness. The truth is that the highest form of communication does both: it names what is real and it does so wrapped in enough love, care, and respect that the listener can genuinely receive it. Today you practice that art.",
+    duration: "30 min",
+    prompts: [
+      "Is there something honest you have been holding back from your partner because you were afraid of hurting them or being received poorly?",
+      "Practice the 'sandwich' frame: open with genuine care or appreciation, deliver the honest truth, close with confidence in the relationship. Try it with something real.",
+      "Ask your partner: 'Is there something true you have been wanting to say to me that you have held back? I want to hear it. I will listen without defending.'",
+      "What would it change in your communication if you trusted that your partner could handle your full honesty — and you could handle theirs?"
+    ],
+    reflection: "The marriage where truth flows freely, wrapped in love, is the marriage where nothing festers and nothing is hidden."
+  },
+  {
+    id: 496, day: 40, program: 'marriage-strengthening',
+    title: "When You Feel Unheard",
+    emoji: "📡",
+    tagline: "Learn to name the experience of not feeling heard without escalating into accusation.",
+    body: "Feeling unheard is one of the most corrosive experiences in a marriage — and one of the most common. The problem is that most people respond to feeling unheard by getting louder, shutting down, or attacking, none of which actually produces the hearing they need. Today you develop a clean, direct, non-accusatory way to name the experience and create the space to be heard.",
+    duration: "30 min",
+    prompts: [
+      "Describe the internal experience of feeling unheard by your partner — what does it feel like in your body, your chest, your mind?",
+      "What do you typically do when you feel unheard — get louder, shut down, deflect, repeat yourself?",
+      "Practice this phrase: 'I do not feel heard right now. I am not blaming you — I just need us to slow down so I can say what I mean and you can receive it.' How does that land?",
+      "Ask your partner: 'When do you feel most unheard by me — and what do you need in that moment?'"
+    ],
+    reflection: "Being heard is not about volume. It is about the quality of attention your partner brings to you."
+  },
+  {
+    id: 497, day: 41, program: 'marriage-strengthening',
+    title: "The Power of Pausing",
+    emoji: "⏸️",
+    tagline: "Learn to pause before responding — the space between stimulus and response is sacred.",
+    body: "The most damaging words in a marriage are often the ones spoken in the first 10 seconds of an emotionally charged moment. The pause — the deliberate, practiced beat between feeling something and acting on it — is one of the most powerful communication tools available. Today you build the pause muscle: the capacity to choose your response rather than react from your wound.",
+    duration: "25 min",
+    prompts: [
+      "Think of a moment when you said something in a heated instant that you later regretted. What were you feeling in that moment?",
+      "What is your body's signal that you are about to react rather than respond — tightness in the chest, heat in the face, a familiar thought pattern?",
+      "Design a personal pause practice: when you notice that signal, what will you do? Breathe, physically step back, say 'give me 60 seconds,' put a hand up?",
+      "Practice the pause with each other: recreate a low-stakes version of a typical trigger. One partner reacts. Stop. Reset. Try again with the pause. Notice the difference."
+    ],
+    reflection: "The pause is not avoidance. It is the choice to come back as your best self rather than your most reactive one."
+  },
+  {
+    id: 498, day: 42, program: 'marriage-strengthening',
+    title: "Assumptions That Erode",
+    emoji: "🔍",
+    tagline: "Surface the assumptions you are making about your partner that are silently creating distance.",
+    body: "Every relationship accumulates assumptions — stories we tell about why our partner did what they did, meant what they said, chose what they chose. Many of these stories are unverified and unflattering. Over time they harden into the lens through which we see everything our partner does. Today you name the assumptions and replace them with questions.",
+    duration: "30 min",
+    prompts: [
+      "Name one story you tell yourself about your partner's behavior or motivation that you have never actually verified directly.",
+      "What would it look like to ask, with genuine curiosity rather than accusation, about the real reason behind that behavior?",
+      "Ask your partner now about one thing you have been interpreting negatively — with a genuine question, not a loaded one. Listen fully.",
+      "What did you learn? Was the assumption accurate, or was the real story different from the one you had been carrying?"
+    ],
+    reflection: "The assumption you never checked is the story that quietly shapes every interaction. Ask the question."
+  },
+  {
+    id: 499, day: 43, program: 'marriage-strengthening',
+    title: "Accountability Without Shame",
+    emoji: "⚖️",
+    tagline: "Own your part in relational patterns with honesty but without self-flagellation.",
+    body: "Accountability is not self-attack. It is honest ownership — of your role in a pattern, your contribution to a conflict, your impact on your partner — without collapsing into guilt or deflecting into defensiveness. When both partners can own their part cleanly, conversations that used to spiral become conversations that heal. Today you practice clean accountability.",
+    duration: "30 min",
+    prompts: [
+      "Name one pattern in your marriage that has not been serving you both — and your honest contribution to that pattern.",
+      "Is there something you have deflected responsibility for that you can now own more fully, without defensiveness?",
+      "Practice saying: 'I see how my behavior contributed to X. That is on me. Here is what I am going to do differently.' Say it out loud.",
+      "How does it feel to own your part without making yourself wrong or your partner right — just honest, clear, clean?"
+    ],
+    reflection: "Accountability without shame is freedom. It is the choice to grow rather than defend."
+  },
+  {
+    id: 500, day: 44, program: 'marriage-strengthening',
+    title: "The Influence of Influence",
+    emoji: "🎭",
+    tagline: "Learn to let your partner influence you — and become influenceable yourself.",
+    body: "Research shows that one of the most important predictors of a stable, satisfying marriage is the willingness to accept influence from your partner. This does not mean capitulating — it means genuinely considering their perspective, letting it land, and being willing to be moved by it. The partner who cannot be influenced is the partner who eventually finds themselves alone. Today you practice the art of openness.",
+    duration: "30 min",
+    prompts: [
+      "In what areas do you tend to resist your partner's input or perspective most strongly? What drives that resistance?",
+      "Think of a time your partner's influence genuinely changed your mind or approach for the better. What did that feel like?",
+      "Practice this: your partner shares a perspective you instinctively want to push back on. Your first response can only be a question or reflection — no rebuttal yet. Try it.",
+      "What would it change in your marriage if you became more genuinely open to being influenced by the person who knows you best?"
+    ],
+    reflection: "The willingness to be moved by your partner is not weakness. It is the deepest form of respect."
+  },
+  {
+    id: 501, day: 45, program: 'marriage-strengthening',
+    title: "Conflict as Information",
+    emoji: "🗺️",
+    tagline: "Use your recurring conflicts as a map to what each of you most deeply needs.",
+    body: "Recurring conflicts are not problems to be solved — they are signals to be decoded. Most couples fight about the same things repeatedly because those things are proxies for deeper needs, fears, or unresolved longings. When you stop trying to win the argument and start trying to decode the signal, the whole dynamic shifts. Today you decode one of yours.",
+    duration: "35 min",
+    prompts: [
+      "Name the conflict your marriage returns to most often. Describe it as neutrally as you can — not who is wrong, just what happens.",
+      "Beneath the surface of this conflict, what is each of you actually needing or fearing? Go deeper than the presenting argument.",
+      "Is this conflict a perpetual difference between two valid needs — or is it a solvable problem that neither of you has solved because you keep addressing the symptom?",
+      "What would it look like to address the need directly rather than fight the battle again?"
+    ],
+    reflection: "The conflict that keeps returning is the relationship's way of asking for something deeper than a solution."
+  },
+  {
+    id: 502, day: 46, program: 'marriage-strengthening',
+    title: "Expressing Hurt Without Attack",
+    emoji: "💔",
+    tagline: "Name the wound without weaponizing it — this is one of the highest communication skills.",
+    body: "Hurt that is not expressed becomes bitterness. Hurt that is expressed badly becomes a weapon. The narrow path between silence and attack is the skill of saying 'I was hurt by this' in a way that opens connection rather than igniting defensiveness. Today you walk that path with something real.",
+    duration: "30 min",
+    prompts: [
+      "Name something your partner did or said that genuinely hurt you — not a major wound, a smaller one — that you did not fully address at the time.",
+      "What did you do with that hurt? Let it pass, stuff it, or bring it up in a way that probably did not help?",
+      "Practice expressing the hurt cleanly: 'When you did X, I felt Y. I do not think you intended to hurt me, but I need you to understand how it landed.'",
+      "How does your partner receive the hurt when it is expressed cleanly — and what do they need to hear from you to respond well?"
+    ],
+    reflection: "Hurt expressed with clarity and without blame is one of the most intimate things two people can share."
+  },
+  {
+    id: 503, day: 47, program: 'marriage-strengthening',
+    title: "The Language of Softness",
+    emoji: "🌸",
+    tagline: "Bring softness to hard conversations — it is not weakness, it is wisdom.",
+    body: "There is a cultural myth that directness requires hardness. But in marriage, the opposite is often true: the conversation delivered with genuine softness — a relaxed tone, open body language, warmth in the opening — is far more likely to be heard than the one delivered with urgency and edge. Softness is not capitulation. It is strategy. Today you practice the language of softness.",
+    duration: "25 min",
+    prompts: [
+      "Think of a recent conversation that escalated faster than you wanted. What would a softer entry point have sounded like?",
+      "What makes it hard for you personally to bring softness to a hard conversation — ego, urgency, the fear of not being taken seriously?",
+      "Practice a softened version of something you have been needing to say. Start with warmth. Open with care. Deliver the honesty inside that container.",
+      "Ask your partner: 'What tone or posture from me helps you stay open during a hard conversation?'"
+    ],
+    reflection: "Softness is not the absence of strength. It is strength in its most mature form."
+  },
+  {
+    id: 504, day: 48, program: 'marriage-strengthening',
+    title: "Reading Between the Lines",
+    emoji: "📚",
+    tagline: "Learn to hear what your partner is actually saying beneath what they are literally saying.",
+    body: "Communication is only partly verbal. Beneath the words is a world of emotion, need, and longing that often goes unarticulated — not because your partner is hiding it, but because they do not have the language for it, or they do not feel safe enough to say it directly. The partner who learns to hear beneath the surface becomes the partner who truly understands. Today you practice listening at depth.",
+    duration: "30 min",
+    prompts: [
+      "Think of something your partner often says in a particular tone or context. What do you believe they are actually expressing beneath the literal words?",
+      "Practice metacommunication: 'I hear you saying X. I also wonder if you are feeling or needing Y. Am I close?' Try this with something real.",
+      "Ask your partner: 'Is there something you often try to tell me that you feel I regularly miss or do not fully hear?'",
+      "What did you learn about how your partner communicates that you want to start responding to differently?"
+    ],
+    reflection: "The partner who hears beneath the surface is the partner who never makes their loved one feel alone."
+  },
+  {
+    id: 505, day: 49, program: 'marriage-strengthening',
+    title: "Boundaries as Love",
+    emoji: "🚧",
+    tagline: "Understand that a well-communicated boundary is an act of love, not rejection.",
+    body: "In the context of a healthy marriage, a boundary is not a wall — it is a window. It tells your partner where you are, what you need, and how to reach you. Couples who can name and respect each other's limits without it feeling like rejection are able to maintain both closeness and individuality. Today you explore the boundaries that create safety rather than distance.",
+    duration: "30 min",
+    prompts: [
+      "What is one personal boundary — around time, energy, conversation style, or physical space — that is important for your wellbeing that your partner may not fully understand?",
+      "How have you communicated that boundary in the past — directly, indirectly, through withdrawal, through conflict?",
+      "Practice communicating it directly, with love: 'I need X. It is not about you — it is about what I need to show up fully for you and for us.'",
+      "Ask your partner: 'Is there a limit or need of yours that I have not been respecting — not intentionally, but through not knowing?'"
+    ],
+    reflection: "A relationship where both partners feel safe to name their limits is a relationship where genuine closeness becomes possible."
+  },
+  {
+    id: 506, day: 50, program: 'marriage-strengthening',
+    title: "Halfway: The Communication Milestone",
+    emoji: "🏁",
+    tagline: "Pause at the midpoint to honor the communication growth you have already achieved.",
+    body: "You are at the midpoint of this journey — 50 days of intentional investment in the marriage you are building. The last 20 days have been dedicated to the art of communication: speaking, listening, asking, repairing, and returning to each other. Today you take stock. What has changed in how you talk? How you listen? How you repair? This is not a review — it is a recognition.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: Name the single most important shift in how you communicate that has happened in the last 20 days.",
+      "What is one conversation you had in the last month that would have gone differently — worse — before this work?",
+      "What communication skill are you still working to develop? Where do you still feel clumsy or uncertain?",
+      "What is one promise you want to make to your partner about how you will communicate going forward?"
+    ],
+    reflection: "Fifty days of choosing to communicate better is fifty days of building a language only the two of you fully speak."
+  },
+  {
+    id: 507, day: 51, program: 'marriage-strengthening',
+    title: "The Unfinished Conversation",
+    emoji: "💬",
+    tagline: "Return to a conversation that was never fully resolved and complete it with new skill.",
+    body: "Every marriage has them: the conversations that were started but not finished, the topics that get avoided, the feelings that were expressed but never fully heard. These unfinished conversations collect beneath the surface of daily life and create subtle weight. Today you choose one — something still sitting — and you finish it. Properly. With everything you have learned.",
+    duration: "40 min",
+    prompts: [
+      "Name one conversation from the past — weeks, months, or longer — that was never fully resolved or completed.",
+      "What made it hard to finish at the time — emotion, avoidance, lack of skill, fear of the outcome?",
+      "Agree together to have that conversation today. Use everything you have practiced: soft start, active listening, clean accountability, the pause.",
+      "What does resolution look like for this conversation — not agreement necessarily, but mutual understanding and genuine closure?"
+    ],
+    reflection: "Completed conversations do not just resolve the past. They clear the path for everything that is coming next."
+  },
+  {
+    id: 508, day: 52, program: 'marriage-strengthening',
+    title: "Saying the Loving Thing",
+    emoji: "💌",
+    tagline: "Practice saying the loving thing, out loud, in the moment it is true.",
+    body: "There are countless moments in a day when something loving rises in you about your partner — a quiet recognition, a flash of appreciation, a surge of warmth — and you do not say it. You think it and move on. Today you commit to saying it. The loving thought that stays inside is kind. The loving thought that is spoken aloud is connecting. Today you speak the loving things.",
+    duration: "20 min",
+    prompts: [
+      "Think of 3 loving, warm, or admiring thoughts you have had about your partner this week that you kept to yourself. Why did you not say them?",
+      "Make a commitment: every time today you have a loving thought about your partner, you will say it out loud within 30 seconds.",
+      "Notice throughout the day: how often do these moments arise? What happens to the energy between you when you say them?",
+      "Ask your partner at the end of today: 'What was the thing I said today that meant the most to you?'"
+    ],
+    reflection: "Love expressed is love experienced. Love kept inside is only love in potential."
+  },
+  {
+    id: 509, day: 53, program: 'marriage-strengthening',
+    title: "The Complaint Versus the Criticism",
+    emoji: "🗣️",
+    tagline: "Learn the critical difference between a complaint and a criticism — and choose accordingly.",
+    body: "A complaint addresses a specific behavior: 'The dishes were not done and I was frustrated.' A criticism attacks character: 'You are so lazy and you never do anything.' The difference sounds small but the impact is enormous. Complaints can be heard and addressed. Criticisms trigger defensiveness, shame, and counterattack. Today you learn to convert your criticisms into complaints — and start getting real results.",
+    duration: "25 min",
+    prompts: [
+      "Think of a criticism you have leveled at your partner — something about their character or nature rather than a specific behavior.",
+      "Convert it to a complaint: what specific behavior, in what specific situation, produced what specific feeling for you?",
+      "Practice the conversion out loud. Notice how the energy of the complaint is different from the energy of the criticism.",
+      "Ask your partner: 'When I bring up concerns, do I come at them as complaints — specific and actionable — or as criticisms of who you are?'"
+    ],
+    reflection: "When you attack the behavior, you invite change. When you attack the person, you invite only defense."
+  },
+  {
+    id: 510, day: 54, program: 'marriage-strengthening',
+    title: "Curiosity Over Judgment",
+    emoji: "🔬",
+    tagline: "Replace judgment with curiosity and watch the conversation change completely.",
+    body: "Judgment closes. Curiosity opens. When you bring a judging energy into a conversation — even a subtle one — your partner senses it and the walls go up. When you bring genuine curiosity — real wanting to understand, not strategic questioning — something different happens. The conversation goes to places it could not have gone under judgment. Today you practice leading with curiosity.",
+    duration: "30 min",
+    prompts: [
+      "Name something your partner does that you have been judging — internally or openly. What is the judgment?",
+      "Convert the judgment to a genuine question: instead of 'Why do you always...' try 'Help me understand what is going on for you when...'",
+      "Practice that question with your partner right now. Be curious — genuinely. Listen without an agenda.",
+      "What did you learn when you asked from curiosity instead of judgment? How does it change what you want to say next?"
+    ],
+    reflection: "Curiosity is the antidote to judgment — and the doorway to the kind of knowing that deepens love."
+  },
+  {
+    id: 511, day: 55, program: 'marriage-strengthening',
+    title: "Flooding and the Flooded Partner",
+    emoji: "🌊",
+    tagline: "Learn to recognize when your partner is flooded — and how to help them return.",
+    body: "Flooding is the physiological state of emotional overwhelm that makes productive conversation impossible. When either partner is flooded — heart rate elevated, cortisol surging, capacity for nuanced thought compromised — the conversation cannot go anywhere helpful. Learning to recognize flooding in yourself and your partner, and to take productive breaks rather than push through, is one of the most practical communication skills in marriage.",
+    duration: "30 min",
+    prompts: [
+      "What are your personal signs of flooding — what happens in your body and mind when you are in emotional overwhelm during a conversation?",
+      "What are your partner's signs? How do they typically look or behave when they are flooded?",
+      "Design a flooding protocol together: when either person is flooded, what happens next? A 20-minute break, a specific phrase, a physical exit, a return agreement?",
+      "Practice the break: the next time tension starts to rise this week, try the protocol before the flood hits. Notice the difference."
+    ],
+    reflection: "You cannot build understanding on flooded ground. Give yourself the break that makes understanding possible."
+  },
+  {
+    id: 512, day: 56, program: 'marriage-strengthening',
+    title: "What You Have Never Said",
+    emoji: "🤫",
+    tagline: "Give voice to something true, loving, or vulnerable that has never been spoken between you.",
+    body: "Every couple has a reservoir of things never said — not because they are negative, but because they felt too vulnerable, too big, too risky, or simply never found their moment. Today you give one of those unspoken things its moment. This is not about confession or revelation — it is about offering something true that your partner deserves to hear.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: Think of something true about your love for your partner, your experience of this relationship, or your gratitude that you have never fully said out loud.",
+      "Write it down first. Take your time. Let it be honest and specific.",
+      "Share it. Not rushed, not minimized. Say it fully, look at them while you say it, and let them receive it.",
+      "After both have shared: what did it feel like to say it? What did it feel like to hear it?"
+    ],
+    reflection: "The unspoken truth, once spoken, takes up residence in the relationship forever. It cannot be unsaid. That is the point."
+  },
+  {
+    id: 513, day: 57, program: 'marriage-strengthening',
+    title: "The Dreaded Topic",
+    emoji: "🐘",
+    tagline: "Name the thing neither of you has been willing to talk about — and start the conversation.",
+    body: "Every marriage has at least one: the topic that gets avoided because it feels too big, too painful, too unresolvable. But the thing about avoided topics is that their avoidance does not make them smaller — it makes them larger. Today you name your dreaded topic and begin — not necessarily resolve — a conversation about it. Beginning is everything.",
+    duration: "40 min",
+    prompts: [
+      "Each partner, privately: Name the topic you have most been avoiding in this marriage. Write it down.",
+      "Share your topic with each other. Do not react to what your partner names — just receive it.",
+      "Together: Choose one of these topics to begin — not to resolve, just to begin. Agree that the goal is understanding, not agreement.",
+      "Have the opening 10 minutes of that conversation. Pause. Reflect on how it felt to begin. You do not have to finish today — just establish that this is a conversation you can have."
+    ],
+    reflection: "The conversation you have been afraid to have is usually the one your relationship most needs."
+  },
+  {
+    id: 514, day: 58, program: 'marriage-strengthening',
+    title: "Gratitude for the Struggle",
+    emoji: "🌧️",
+    tagline: "Find and name the growth that came from the hard seasons you have shared.",
+    body: "The hard seasons — the losses, the failures, the conflicts, the stretches of distance — are not separate from your marriage. They are part of it. And if you have navigated them together, they have made you something. Today you practice the rare and powerful skill of holding gratitude for the hard parts: not because the hardship was good, but because of who you became while surviving it together.",
+    duration: "30 min",
+    prompts: [
+      "Name the hardest season your marriage has been through — together or individually. What was it?",
+      "What did you discover about your partner during that hard season that you could not have known in an easy one?",
+      "What did you discover about yourself — about your capacity, your values, your need for your partner?",
+      "Express genuine gratitude to your partner for something they gave you during that hard season that you have never fully named."
+    ],
+    reflection: "The couple who can find gratitude in the struggle has found something that makes them unbreakable."
+  },
+  {
+    id: 515, day: 59, program: 'marriage-strengthening',
+    title: "Speaking the Future Into Existence",
+    emoji: "🌠",
+    tagline: "Use the power of spoken intention to bring your desired marriage closer.",
+    body: "Words are not merely descriptive — they are generative. When you speak your intentions for your marriage out loud, with specificity and genuine commitment, you are not just describing what you want — you are beginning to create it. Today you practice speaking your marriage into its next, greater form.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: Speak a 3-sentence vision for who you are committed to being as a partner in the next 30 days. Specific, present tense, as if it is already true.",
+      "Each partner: Speak one intention for the quality of communication you are committing to — not vague aspiration, but a real, specific behavioral commitment.",
+      "Together: Name the one thing you are both committed to building in the next phase of this work. Say it out loud, to each other, as a declaration.",
+      "Write these intentions down. Put them somewhere you will see them. Return to them in 30 days."
+    ],
+    reflection: "What you declare about your marriage, spoken with intention, begins to become true the moment you say it."
+  },
+  {
+    id: 516, day: 60, program: 'marriage-strengthening',
+    title: "Communication Mastery — Closing the Chapter",
+    emoji: "📘",
+    tagline: "Mark 30 days of communication work with the recognition it deserves.",
+    body: "Thirty days of deliberate, courageous, skills-building communication work. You have learned to speak more clearly, listen more deeply, ask better questions, repair more quickly, and hold more truth without damage. Today you close this chapter with the same intentionality you brought to every day of it. Name what you have mastered. Name what is still growing. And honor the courage it took to work this hard on something this important.",
+    duration: "40 min",
+    prompts: [
+      "Each partner: What is the communication skill you are most proud of developing over the last 30 days?",
+      "Each partner: What is the area of communication where you still feel the most room for growth?",
+      "Together: Name one conversation from this chapter that you will remember — one that shifted something real between you.",
+      "Write a letter — short or long — to your marriage. Address it to the relationship itself. Read it to each other."
+    ],
+    reflection: "Thirty days of better communication is thirty days of choosing each other, again and again, with your words."
+  },
+  {
+    id: 517, day: 61, program: 'marriage-strengthening',
+    title: "The Bridge to Intimacy",
+    emoji: "🌉",
+    tagline: "Recognize that everything you have built so far is the bridge that carries you into deeper intimacy.",
+    body: "Foundation, communication, presence, truth — these are not separate from intimacy; they are what intimacy is made of. As you move into the final phase of this first journey, you stand at the threshold of the deepest work: the intimacy that flows not just from physical closeness but from being fully known, fully seen, and fully chosen. Today you acknowledge what you have built and look forward to what it now makes possible.",
+    duration: "35 min",
+    prompts: [
+      "How has your sense of safety with your partner changed over the last 60 days of this work?",
+      "What does 'intimacy' mean to you — beyond the physical? What dimensions of closeness do you most long for in this marriage?",
+      "Is there a form of intimacy you have been longing for but have not yet allowed yourself to fully want, ask for, or believe is possible?",
+      "What does the next phase of this marriage need to be about — for you personally, and for you as a couple?"
+    ],
+    reflection: "The bridge is complete. What lies on the other side is not unknown — it is the fullness of the marriage you have been building toward."
+  },
+  {
+    id: 518, day: 62, program: 'marriage-strengthening',
+    title: "What You Have Built Together",
+    emoji: "🏛️",
+    tagline: "Take an honest, proud inventory of the marriage you have built through intentional practice.",
+    body: "Before you set intentions for the next phase, you must fully receive what this phase has produced. Most people are better at seeing what is still missing than honoring what has already been built. Today you practice the discipline of honest pride — not complacency, but genuine recognition of the real, lived progress you have made as a couple over these 62 days.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: Name 5 concrete changes in your marriage over the last 62 days — things that are genuinely different now.",
+      "Each partner: Name one way you are a better partner today than you were on Day 1.",
+      "Together: What is the single most valuable thing this season of work has given your marriage?",
+      "Together: What do you want to protect — absolutely and forever — from everything you have built in this season?"
+    ],
+    reflection: "The marriage that can see its own progress is the marriage that knows it is possible to keep growing."
+  },
+  {
+    id: 519, day: 63, program: 'marriage-strengthening',
+    title: "Setting Intentions for the Next Phase",
+    emoji: "🧭",
+    tagline: "Define with clarity and shared ownership what the next season of your marriage will be about.",
+    body: "Great marriages do not happen by accident — they are designed. The couples who thrive over decades are the ones who regularly revisit their intentions, their practices, and their commitments. Today you design the next chapter. Not because this one is over, but because you are ready to go deeper. What will the next 30, 60, 90 days of your marriage be about? Name it together.",
+    duration: "35 min",
+    prompts: [
+      "Each partner: What is the one dimension of your marriage you most want to deepen in the next 90 days?",
+      "Together: What shared practice, ritual, or commitment do you want to establish going forward that you do not currently have?",
+      "Together: Is there a challenge — external or internal — you anticipate in the next season, and how will you meet it together?",
+      "Write your shared intention for the next phase in one clear, elevated sentence. This is your compass."
+    ],
+    reflection: "The couple who designs their next chapter rather than drifts into it is the couple who gets to choose the story."
+  },
+  {
+    id: 520, day: 64, program: 'marriage-strengthening',
+    title: "The Intimacy You Have Earned",
+    emoji: "💎",
+    tagline: "Recognize that the intimacy now available to you has been earned by the work you have done.",
+    body: "There is a form of closeness that cannot be shortcut or rushed — it can only be earned through the slow, patient, courageous work of showing up honestly, consistently, and with love. That intimacy — the kind that comes from being fully known and fully chosen — is what 64 days of work have made available to you. Today you step fully into that truth and let it change how you see each other.",
+    duration: "30 min",
+    prompts: [
+      "In what way do you feel more genuinely known by your partner today than you did when this journey began?",
+      "In what way do you feel that your partner is more genuinely known to you — that you understand them more fully, more accurately?",
+      "What dimension of intimacy — emotional, intellectual, spiritual, physical — feels most alive and available to you right now?",
+      "What would it look like to fully inhabit that intimacy — not strive toward it, but receive it as something already present?"
+    ],
+    reflection: "Intimacy is not a destination. It is the quality of presence you bring to the person you have chosen. You have earned this."
+  },
+  {
+    id: 521, day: 65, program: 'marriage-strengthening',
+    title: "The Marriage You Are Becoming",
+    emoji: "🦋",
+    tagline: "Speak into existence the next evolution of your marriage with faith in what you have built.",
+    body: "Every marriage has a version of itself it is growing toward — a more honest, more intimate, more intentional, more alive version. Today you speak to that version. Not what you hope someday to have, but what you are actively, right now, in the process of becoming. The couple who can see and speak their own evolution is the couple who accelerates it.",
+    duration: "30 min",
+    prompts: [
+      "Each partner: Describe the marriage you are becoming — present tense, first person plural: 'We are a couple who...'",
+      "Each partner: Describe the partner you are becoming. What qualities are you cultivating? What are you releasing?",
+      "Together: Read your statements to each other. Where do they align? Where do they beautifully complement each other?",
+      "Write a shared declaration: 'We are becoming...' — one sentence, specific, true, and alive."
+    ],
+    reflection: "You are not just building a marriage. You are becoming a marriage. There is a difference — and it is everything."
+  },
+  {
+    id: 522, day: 66, program: 'marriage-strengthening',
+    title: "A Letter to the Beginning",
+    emoji: "✉️",
+    tagline: "Write to the couple you were on Day 1 from the couple you are now.",
+    body: "One of the most powerful practices in any transformation is the retrospective letter — writing from the vantage point of who you have become back to who you were when you started. Today you each write a letter to the couple you were on Day 1 of this program. Not with condescension, but with love and the hard-won wisdom of 66 days of showing up.",
+    duration: "40 min",
+    prompts: [
+      "Each partner: Write a letter to the version of yourself that started this program. What do you want them to know? What would you tell them to hold onto? What would you tell them to let go?",
+      "Each partner: Write a letter to your partner as they were on Day 1. What do you want to say to that version of them?",
+      "Read your letters to each other. Take your time. Let there be silence when it comes.",
+      "What feels complete now that you have written and heard these letters? What feels ready to begin?"
+    ],
+    reflection: "The distance between who you were on Day 1 and who you are now is the evidence. You do not have to look anywhere else."
+  },
+  {
+    id: 523, day: 67, program: 'marriage-strengthening',
+    title: "Day 67 — The Next Chapter Begins",
+    emoji: "📖",
+    tagline: "Close this season of work with pride, presence, and your eyes fully open to what comes next.",
+    body: "Sixty-seven days. Nearly ten weeks of choosing, showing up, going deeper, and building something real. You have laid the foundation, sharpened the communication, and stood at the bridge of deeper intimacy. This program does not end today — it graduates. Everything you have built continues, compounding quietly in the daily choices you make, the questions you ask, the presence you bring, and the love you speak out loud. This is not the end of the story. This is the end of the introduction. The rest is yours.",
+    duration: "60 min",
+    prompts: [
+      "Each partner: What is the one commitment you are carrying forward from this entire journey — the non-negotiable, the practice you will not abandon?",
+      "Each partner: What is the greatest gift this work has given your marriage? Say it out loud, to each other, completely.",
+      "Together: Create a ritual for today — something that marks the close of this chapter and the opening of the next. A meal, a ceremony, a walk, a letter sealed for next year. Make it real.",
+      "Together: Name, out loud, what you are stepping into. Not what you hope for. What you are building. What you choose. What you are."
+    ],
+    reflection: "Sixty-seven days of choosing greatness in your marriage is sixty-seven days of becoming the couple most people only dream of being. The work continues. The love deepens. The chapter turns. Go write the rest of it together."
+  },
+  {
+    id: 524, day: 68, program: 'marriage-strengthening',
+    title: "The Emotional Interior",
+    emoji: "🫀",
+    tagline: "Intimacy begins the moment you let someone see what is happening inside you.",
+    body: "Emotional intimacy is not built through grand gestures — it is built through consistent access. It is the willingness to say what you actually feel instead of what is convenient, safe, or easy. Most couples live side by side for decades without ever fully entering each other's emotional interior. Today you begin the work of becoming truly known — and truly present to knowing your partner.",
+    duration: "30 min",
+    prompts: [
+      "What emotion do you most frequently hide from your partner, and what story do you tell yourself about why it needs to be hidden?",
+      "When do you feel most emotionally seen by your partner? What does that feel like in your body?",
+      "What is one feeling you have never quite put into words with your partner that you are willing to name today?",
+      "What would shift in your marriage if your partner had full access to your emotional interior — nothing edited, nothing managed?"
+    ],
+    reflection: "Being emotionally known is one of the deepest human hungers. The couple that chooses to feed that hunger in each other builds a bond that time cannot erode."
+  },
+  {
+    id: 525, day: 69, program: 'marriage-strengthening',
+    title: "What You've Never Said",
+    emoji: "🤫",
+    tagline: "The things we carry in silence are often the things that most need to be spoken.",
+    body: "Every person carries words they have never said to their partner — not because the words are dangerous, but because vulnerability is a practice, not a default. The unsaid accumulates quietly, shaping the emotional distance between two people without either person fully recognizing it. Today is an invitation to speak something true that has been living in the silence.",
+    duration: "35 min",
+    prompts: [
+      "What is something you have wanted to tell your partner but have not found the right moment, the right words, or the courage to say?",
+      "What do you wish your partner understood about your inner life that you have never fully explained?",
+      "Is there a fear, a regret, or a longing you have carried alone that you are willing to share today?",
+      "After sharing: What does it feel like to have said it? What does it feel like to have heard it?"
+    ],
+    reflection: "Every word spoken into the space between two people who love each other makes that space safer, warmer, and more alive."
+  },
+  {
+    id: 526, day: 70, program: 'marriage-strengthening',
+    title: "Mind-to-Mind",
+    emoji: "🧠",
+    tagline: "Intellectual intimacy is falling in love with how your partner thinks.",
+    body: "You married a person with a mind — a rich, complex, endlessly interesting mind that holds beliefs, fascinations, arguments, and ideas unlike any other. Intellectual intimacy is not about agreeing. It is about being genuinely curious about the inner world of your partner's thinking. The couple that loves how each other thinks will never run out of conversation, depth, or delight.",
+    duration: "30 min",
+    prompts: [
+      "What subject, topic, or idea is your partner most passionate about that you have never fully asked them to teach you?",
+      "What belief or perspective do you hold that your partner does not fully understand — and what would it mean for them to truly grasp it?",
+      "When did your partner say something recently that surprised you, shifted you, or made you see something differently?",
+      "What would it look like to have a weekly practice of intellectual connection — reading together, debating ideas, exploring one fascinating question?"
+    ],
+    reflection: "The person who finds their partner's mind endlessly interesting will never stop finding reasons to come closer."
+  },
+  {
+    id: 527, day: 71, program: 'marriage-strengthening',
+    title: "The Spiritual Overlap",
+    emoji: "✨",
+    tagline: "Where your souls meet — faith, meaning, awe, and the sacred you share.",
+    body: "Whether you share a formal religion, a philosophy, a spiritual practice, or simply a sense of wonder at being alive, there is a dimension of your inner life that reaches beyond the practical. Spiritual intimacy is the experience of touching that dimension together — of knowing that you are not merely building a life but inhabiting a meaning. Today you explore where your souls already overlap and where they are waiting to meet.",
+    duration: "30 min",
+    prompts: [
+      "What do you believe about the nature of your relationship — is there something sacred, fated, or chosen about it that you have not fully articulated to your partner?",
+      "What practices, beliefs, or experiences give your life a sense of meaning or transcendence, and how much does your partner share in those?",
+      "Where do your spiritual or philosophical lives diverge, and how have you navigated that divergence — or avoided it?",
+      "What would a shared spiritual or meaning-making practice look like for your marriage — even something small and consistent?"
+    ],
+    reflection: "The couple who touches the sacred together — in whatever form that takes — builds a foundation that outlasts every season."
+  },
+  {
+    id: 528, day: 72, program: 'marriage-strengthening',
+    title: "Close Without Reason",
+    emoji: "🤝",
+    tagline: "Non-sexual physical closeness is one of the most underrated forms of love.",
+    body: "The body speaks a language that words cannot always reach. Non-sexual physical touch — holding hands, resting together, a hand on a shoulder, slow intentional contact — communicates safety, belonging, and presence in a way that is irreplaceable. Many couples lose this language over time, reserving physical closeness only for sexual moments. Today you reclaim it.",
+    duration: "25 min",
+    prompts: [
+      "How much non-sexual physical affection do you currently exchange in a typical day? How does that compare to what you want?",
+      "What forms of physical touch feel most nourishing and connecting to you — not arousing, simply loving?",
+      "When did you last spend extended time in physical proximity with no agenda — just being close?",
+      "Tonight: choose one form of non-sexual physical closeness and give it your full, unhurried presence."
+    ],
+    reflection: "The couple who stays physically close without agenda is telling each other — constantly, without words — 'I want to be near you. That is enough.'"
+  },
+  {
+    id: 529, day: 73, program: 'marriage-strengthening',
+    title: "Safe Enough to Be Afraid",
+    emoji: "🫶",
+    tagline: "True intimacy means your partner knows your fears — and holds them carefully.",
+    body: "Fear is one of the most private territories of the human heart. We learn early to hide it, manage it, or convert it into something more socially acceptable. But when two people can share their fears — truly share them, not just mention them — a different kind of safety takes root. Today you offer each other access to the places that still feel uncertain, vulnerable, and real.",
+    duration: "30 min",
+    prompts: [
+      "What are you most afraid of right now — in your life, your work, your future — that your partner may not fully know?",
+      "What do you fear inside the marriage itself — not as a warning, but as vulnerability you trust your partner to hold?",
+      "How do you typically respond when your partner expresses fear? Is that the response they actually need from you?",
+      "What would change between you if fear was something you could always bring to each other first?"
+    ],
+    reflection: "The relationship where both people can say 'I am afraid' and be met with presence instead of solutions is a relationship built on the rarest kind of love."
+  },
+  {
+    id: 530, day: 74, program: 'marriage-strengthening',
+    title: "The Dreams You Keep Private",
+    emoji: "🌠",
+    tagline: "Sharing a dream with your partner is one of the most intimate acts there is.",
+    body: "Some dreams feel too fragile, too large, or too uncertain to say out loud — especially to the person whose response matters most. But a partner who does not know your dreams cannot help you carry them, cannot celebrate them with you, and cannot share in the life that is being quietly imagined. Today you speak the dreams you have been holding privately.",
+    duration: "30 min",
+    prompts: [
+      "What is a dream you have for your own life — career, creative, personal — that you have not fully shared with your partner?",
+      "What holds you back from sharing that dream? Is it fear of judgment, fear of disappointment, fear of it becoming real?",
+      "What dream do you have for your marriage itself — something you have not said because it felt too big, too vulnerable, or too specific?",
+      "Partner: receive the dream that is shared today. What does it feel like to be let into that private place?"
+    ],
+    reflection: "The partner who knows your dreams becomes your witness, your advocate, and the person who will one day say 'I knew this was coming for you.'"
+  },
+  {
+    id: 531, day: 75, program: 'marriage-strengthening',
+    title: "Erotic Knowing",
+    emoji: "🔥",
+    tagline: "Desire deepens when your partner truly knows what moves you.",
+    body: "Erotic intimacy is not just about physical technique — it is about being truly known in your desire. Many couples have never had a full, unhurried, non-pressured conversation about what they genuinely want, what they fantasize about, what makes them feel desired, and what has been missing. That conversation is not awkward when approached from a place of curiosity and safety. It is one of the most connecting exchanges two people can have.",
+    duration: "35 min",
+    prompts: [
+      "What makes you feel most desired by your partner — and how often does that actually happen?",
+      "What is something you have wanted to explore or ask for sexually that you have never brought up? What has stopped you?",
+      "What does your ideal sexual experience with your partner feel like — emotionally, not just physically?",
+      "What would it mean for your erotic life if both of you felt completely safe to ask for exactly what you want?"
+    ],
+    reflection: "The couple with an honest erotic conversation between them is never bored, never distant, and never left wondering if they are truly wanted."
+  },
+  {
+    id: 532, day: 76, program: 'marriage-strengthening',
+    title: "After the Moment",
+    emoji: "🌙",
+    tagline: "What you say and do after sex reveals as much about your intimacy as the sex itself.",
+    body: "The moments after sex are a portal. Neurologically, emotionally, and relationally, there is an openness that exists in the aftermath of physical intimacy that rarely exists at other times. Yet many couples quickly move on — to sleep, to phones, to the next task. What if you chose to stay in that portal? What if after-sex became a ritual of connection, conversation, and closeness you actually looked forward to?",
+    duration: "25 min",
+    prompts: [
+      "What do you typically do in the minutes and hours after sex? Is it what you actually want, or is it habit?",
+      "What do you most need from your partner in the time right after physical intimacy?",
+      "Have you ever had an after-sex conversation that surprised you in its depth or tenderness? What was it like?",
+      "What could after-sex become for your marriage — as a ritual, as a practice, as a consistent act of closeness?"
+    ],
+    reflection: "Couples who linger after love-making are quietly doing some of the most important relational work of all."
+  },
+  {
+    id: 533, day: 77, program: 'marriage-strengthening',
+    title: "Knowing This Body",
+    emoji: "💫",
+    tagline: "To know your partner's body — truly know it — is an act of ongoing devotion.",
+    body: "Your partner's body changes. It holds history, tension, tenderness, and places it loves to be touched in ways that shift over time. The partner who stays curious about the body of their beloved — who asks, explores, and pays attention without assuming — is the partner who never grows predictable or distant. Physical knowing is not a destination. It is an ongoing practice of loving attention.",
+    duration: "30 min",
+    prompts: [
+      "When did you last ask your partner how their body is feeling — not as a health check, but as a form of care and intimacy?",
+      "Are there places your partner loves to be touched that you could be more intentional and consistent about?",
+      "Has your partner's body changed in ways you have not fully acknowledged or explored with curiosity and tenderness?",
+      "Tonight: touch your partner with the energy of someone discovering something precious and new. Go slowly. Pay attention."
+    ],
+    reflection: "The lover who stays curious about their partner's body is the lover who never stops being present to the person they chose."
+  },
+  {
+    id: 534, day: 78, program: 'marriage-strengthening',
+    title: "Presence Over Performance",
+    emoji: "🎯",
+    tagline: "Intimacy thrives not when you perform love, but when you are simply, fully there.",
+    body: "Performance in intimacy is insidious — it shows up as trying to say the right thing, doing what you think is expected, going through the motions in the right order. Presence is different. Presence is actually being here: noticing, responding, meeting your partner where they are rather than delivering a version of intimacy you have scripted. Today you examine the difference and choose presence.",
+    duration: "25 min",
+    prompts: [
+      "In what areas of your intimate life do you feel like you are performing rather than truly present — sexually, emotionally, or conversationally?",
+      "What would it look like to bring complete, unscripted presence to your partner today — in a conversation, a meal, a touch?",
+      "What gets in the way of your presence most often? Is it anxiety, distraction, habit, or something else?",
+      "Partner: when do you most feel your partner is completely present with you? What does that feel like?"
+    ],
+    reflection: "Your partner does not need your best performance. They need your actual presence — and those are not the same thing."
+  },
+  {
+    id: 535, day: 79, program: 'marriage-strengthening',
+    title: "The Intimacy You've Never Had",
+    emoji: "🗝️",
+    tagline: "There are forms of closeness you have not yet experienced together — and they are waiting.",
+    body: "Most couples develop a style of intimacy early in the relationship and never significantly expand it. The result is genuine warmth but also genuine limitation — a sense that something more is available but never quite reached. Today you name the forms of intimacy you have always wanted but never quite had, and you begin to imagine what it would look like to actually claim them.",
+    duration: "35 min",
+    prompts: [
+      "What form of intimacy — emotional, intellectual, spiritual, physical, or creative — do you feel has been mostly absent from your marriage that you genuinely want?",
+      "What has prevented that form of intimacy from developing? Has it been circumstance, habit, fear, or something unspoken?",
+      "Is there a type of closeness you experienced in another context — a friendship, a previous season of life, a moment of grace — that you want to bring into your marriage?",
+      "Together: choose one form of intimacy to deliberately pursue over the next two weeks. Name it. Commit to it. Plan for it."
+    ],
+    reflection: "The intimacy you have never had is not out of reach. It is simply waiting for the moment you decide it belongs to you."
+  },
+  {
+    id: 536, day: 80, program: 'marriage-strengthening',
+    title: "What Blocks the Closeness",
+    emoji: "🧱",
+    tagline: "Understanding your intimacy blockers is the beginning of dismantling them.",
+    body: "Intimacy blockers are the quiet patterns that create distance even when both partners want closeness. They include defensiveness, emotional shutdown, humor used to deflect, busyness as avoidance, and the accumulated weight of small unspoken things. You cannot remove what you have not named. Today you name yours, without judgment, without blame, with only the intention of becoming freer.",
+    duration: "30 min",
+    prompts: [
+      "What is your personal intimacy blocker — the pattern you fall into when closeness starts to feel like too much or you feel vulnerable?",
+      "What is the blocker you observe in your partner? How do you typically respond to it?",
+      "When does the blocking pattern most often activate — is it triggered by stress, conflict, tiredness, a specific dynamic?",
+      "What is one small shift each of you could make to interrupt the blocker pattern the next time it appears?"
+    ],
+    reflection: "Naming what blocks you is not a criticism of who you are. It is a declaration that you want more than the limitation."
+  },
+  {
+    id: 537, day: 81, program: 'marriage-strengthening',
+    title: "Intimacy Rituals",
+    emoji: "🕯️",
+    tagline: "The couples with the deepest intimacy build consistent rituals that protect and feed it.",
+    body: "Rituals are not grand ceremonies — they are small, repeated acts that carry meaning. A morning question. A particular way of greeting each other. A nightly check-in. A weekly practice of intentional closeness. Intimacy rituals are the infrastructure beneath the feeling. The couples who feel consistently connected are almost always the ones who have built consistent practices that make connection inevitable.",
+    duration: "30 min",
+    prompts: [
+      "What intimacy rituals, if any, already exist in your marriage? Which ones have held? Which ones have faded?",
+      "What is the intimacy ritual your marriage most needs right now — daily, weekly, or seasonal?",
+      "What conditions do your best rituals require — protected time, specific mood, absence of phones, a particular setting?",
+      "Together: design one new intimacy ritual you will begin this week. Make it specific, realistic, and genuinely nourishing."
+    ],
+    reflection: "The marriage sustained by ritual is not sustained by feeling. It is sustained by choice — which is a far more reliable foundation."
+  },
+  {
+    id: 538, day: 82, program: 'marriage-strengthening',
+    title: "Your Partner's Inner World",
+    emoji: "🌊",
+    tagline: "The person you married has an inner world vast enough to spend a lifetime exploring.",
+    body: "Familiarity is one of the great hazards of long-term love. We begin to assume we know our partner — their opinions, their preferences, their patterns — and stop asking. But human beings are not static. The inner world of your partner is always shifting, always growing, always holding something new. The marriage that stays curious about that inner world is the marriage that never gets old.",
+    duration: "25 min",
+    prompts: [
+      "What aspect of your partner's inner world do you feel you understand least — and are most curious about?",
+      "What has your partner been thinking about, wrestling with, or quietly excited by lately that you have not fully explored?",
+      "When did you last ask your partner a question that genuinely surprised them — that showed you were paying close attention?",
+      "Ask your partner today: 'What is something about your inner world right now that you want me to know?'"
+    ],
+    reflection: "The partner who keeps asking is the partner who never stops discovering. Curiosity is love in action."
+  },
+  {
+    id: 539, day: 83, program: 'marriage-strengthening',
+    title: "Vulnerable Firsts",
+    emoji: "🌱",
+    tagline: "There is always a next layer of vulnerability available — if you are willing to go there.",
+    body: "Vulnerability is not a one-time act. It is a capacity that expands the more it is exercised. Even in long, loving marriages, there are layers that have never been reached — stories never told, feelings never named, aspects of self never fully shown. Today you identify the next layer and choose to step toward it rather than past it.",
+    duration: "30 min",
+    prompts: [
+      "What is a story from your past — your childhood, your young adulthood, a formative experience — that your partner knows only partially or not at all?",
+      "What part of yourself do you still feel slightly guarded about with your partner, even in this relationship?",
+      "When was the last time you were vulnerable with your partner in a way that felt genuinely new or stretching?",
+      "What would it mean to take one step further into vulnerability today — not performing it, but actually moving toward it?"
+    ],
+    reflection: "Every layer of vulnerability you offer your partner is an invitation for them to love a version of you they have never yet met."
+  },
+  {
+    id: 540, day: 84, program: 'marriage-strengthening',
+    title: "Touch as Language",
+    emoji: "🤲",
+    tagline: "When you touch your partner with full intention, you are saying something words cannot.",
+    body: "Touch is the oldest language. Before words, before gestures, there was contact — the primal communication of presence, safety, and belonging. In a long-term relationship, touch often becomes functional or habitual, losing the intentionality that made it feel like a language. Today you practice returning intention to your touch and receiving your partner's touch with the full awareness it deserves.",
+    duration: "25 min",
+    prompts: [
+      "What does intentional touch communicate to you that nothing else can?",
+      "When your partner touches you in a way that lands — really lands — what is happening in that moment that makes it different?",
+      "How much of your daily physical contact with your partner is intentional versus automatic or perfunctory?",
+      "Choose one touch today that you will bring complete presence and intention to. Describe it afterward: what happened?"
+    ],
+    reflection: "Touch delivered with full presence is not a small thing. It is one of the most powerful ways two people can remind each other: I am here. I choose you."
+  },
+  {
+    id: 541, day: 85, program: 'marriage-strengthening',
+    title: "The Weight You Carry Alone",
+    emoji: "🏋️",
+    tagline: "Marriage is most powerful when both partners refuse to carry heavy things alone.",
+    body: "There are burdens that couples carry silently — shame, grief, professional pressure, health fears, financial anxiety, private failures — that never quite make it into the shared space of the marriage. The instinct to protect your partner, or to avoid burdening them, or simply to not have to explain the whole weight of it, keeps these things hidden. But a partner who cannot share their weight is a partner who is slowly becoming alone inside the relationship.",
+    duration: "30 min",
+    prompts: [
+      "What are you currently carrying alone that you have not fully brought to your partner?",
+      "What stops you from sharing that weight — is it protection, pride, fear of worry, or a feeling that it is yours to solve?",
+      "What would it feel like to say 'I need you to hold this with me' and actually mean it?",
+      "Partner: how do you want to respond when your partner brings you their heaviest things? Is that the response you actually give?"
+    ],
+    reflection: "The marriage where both people can say 'this is heavy and I need you' is a marriage where neither person is ever truly alone."
+  },
+  {
+    id: 542, day: 86, program: 'marriage-strengthening',
+    title: "Desire Beyond the Body",
+    emoji: "💥",
+    tagline: "To be desired is to feel seen, chosen, and irreplaceable — long after the honeymoon ends.",
+    body: "Desire in a long-term relationship is not merely sexual. It is the ongoing experience of being wanted — by your partner, in your full complexity, with your history and your imperfections and your particular way of being in the world. The couples who sustain desire are not the ones who have found the secret to physical chemistry. They are the ones who have kept finding reasons to choose each other.",
+    duration: "30 min",
+    prompts: [
+      "What makes you feel most desired by your partner — not physically, but as a whole person?",
+      "When do you most feel like your partner is genuinely choosing you — actively, not passively?",
+      "What is one way you could communicate desire to your partner today that goes beyond the physical?",
+      "What does it mean to you to be wanted — not needed, not depended on, but genuinely wanted — by the person you love?"
+    ],
+    reflection: "Desire is not a feeling that happens to you. It is a posture you choose — and the couple who keeps choosing it never stops being each other's most wanted."
+  },
+  {
+    id: 543, day: 87, program: 'marriage-strengthening',
+    title: "Emotional Generosity",
+    emoji: "💝",
+    tagline: "The most intimate couples are generous with their emotional attention in both directions.",
+    body: "Emotional generosity is the practice of giving your partner more emotional presence, curiosity, and care than the bare minimum the situation demands. It is asking the follow-up question. It is staying in the conversation a few minutes longer. It is noticing the look on their face and choosing to ask about it. Emotional generosity is not dramatic. It is consistent, and it is one of the most powerful forces in a deeply intimate marriage.",
+    duration: "25 min",
+    prompts: [
+      "What does emotional generosity look like in practice for you — what specific behaviors do you associate with it?",
+      "Where in your marriage do you tend to be emotionally generous, and where do you tend to be more conserving?",
+      "What would your partner say if asked: 'In what area do you most want more emotional generosity from your partner?'",
+      "Choose one act of emotional generosity today — something small, specific, and given freely without expectation of return."
+    ],
+    reflection: "Emotional generosity is not a resource that depletes. It is a practice that expands the more it is given."
+  },
+  {
+    id: 544, day: 88, program: 'marriage-strengthening',
+    title: "When You Feel Far Away",
+    emoji: "🌫️",
+    tagline: "Every marriage has seasons of distance — the courageous couples learn to close them.",
+    body: "Even in the best marriages, there are seasons of feeling far from each other — not in conflict, not in crisis, simply drifted. It can happen after high-stress periods, transitions, or simply the accumulation of parallel lives not quite intersecting. The couples who navigate this with grace are the ones who have learned to name the distance without blame and move toward each other with intention rather than waiting for the feeling to shift on its own.",
+    duration: "30 min",
+    prompts: [
+      "Have you experienced a season recently where you felt slightly far from your partner? What was happening during that time?",
+      "What are the early signals for you that distance is beginning to grow — before it becomes noticeable?",
+      "What is your current instinct when you feel distance — do you move toward, move away, or wait for the other person to close the gap?",
+      "Together: what is one practice you could build that would help you close distance quickly, before it becomes significant?"
+    ],
+    reflection: "Distance in marriage is not failure. It is weather. The couples who know how to move back toward each other are the ones for whom winter never truly lasts."
+  },
+  {
+    id: 545, day: 89, program: 'marriage-strengthening',
+    title: "Tenderness as Practice",
+    emoji: "🌸",
+    tagline: "Tenderness is not weakness — it is the highest expression of love made visible.",
+    body: "Tenderness is the quality of touching someone's reality with care — in your words, in your voice, in your physical presence, in the way you hold space for their vulnerability. In relationships, tenderness is often the first thing to go when life gets hard or busy. Today you bring it back deliberately, not as a feeling you have to wait for, but as a practice you choose.",
+    duration: "25 min",
+    prompts: [
+      "When was the last time you were genuinely tender with your partner? What did that look like?",
+      "In what circumstances do you find it hardest to access tenderness — and what typically stands in the way?",
+      "What would it feel like to bring tenderness to a moment today that would not typically call for it?",
+      "Partner: when your partner is tender with you, what does it unlock in you? What does it communicate?"
+    ],
+    reflection: "The couple that keeps tenderness alive between them has kept the truest version of love alive — the version that has nothing to prove and everything to give."
+  },
+  {
+    id: 546, day: 90, program: 'marriage-strengthening',
+    title: "The Intimacy Audit",
+    emoji: "📊",
+    tagline: "Pause, take stock, and celebrate what your intimate life has become over these weeks.",
+    body: "Ninety days into your marriage-strengthening journey, you have crossed into genuinely new territory. This is a moment to pause — not to evaluate with a grade, but to inventory with gratitude. Where is your intimacy deeper than it was? Where is there still room to grow? What have you discovered about your partner, about yourself, and about what is possible between you?",
+    duration: "40 min",
+    prompts: [
+      "In what specific way is the emotional intimacy between you deeper or more honest than it was before this program?",
+      "What is one form of closeness you have accessed in the last few weeks that was previously unavailable or unspoken?",
+      "Where do you still want to go deeper — what layer of intimacy feels like the next frontier for your marriage?",
+      "Together: acknowledge each other for the courage it has taken to show up for this work. Say it out loud. Mean it."
+    ],
+    reflection: "Ninety days of intentional intimacy is not a small thing. It is a choice, made repeatedly, to build the kind of love most people only admire from the outside."
+  },
+  {
+    id: 547, day: 91, program: 'marriage-strengthening',
+    title: "The Language of Play",
+    emoji: "🎭",
+    tagline: "Playfulness is intimacy without armor — and it is one of love's most essential languages.",
+    body: "Play between partners is not frivolous. It is the experience of being together without agenda, without performance pressure, without the weight of adult responsibility temporarily laid aside. The couples who play together — who tease each other, make each other laugh, invent their own language of jokes and rituals — are the couples who never fully lose the joy of being together. Today you remember how to play.",
+    duration: "25 min",
+    prompts: [
+      "What does play look like between you at your best — what specific activities, exchanges, or rituals make you both feel genuinely light?",
+      "When did play most recently show up in your marriage, and what made it possible?",
+      "Is there a way you used to play together that you have not done in a while? What would it take to bring it back?",
+      "Tonight: do one genuinely playful thing together. Not planned, not performed — just chosen and enjoyed."
+    ],
+    reflection: "The couple who plays together is the couple who has not let life steal all the lightness. That lightness is not decoration. It is oxygen."
+  },
+  {
+    id: 548, day: 92, program: 'marriage-strengthening',
+    title: "Witnessed Becoming",
+    emoji: "👁️",
+    tagline: "One of the greatest gifts a partner can give is to truly witness who you are becoming.",
+    body: "To be witnessed is to be seen — not just in the moment, but over time. Your partner has a vantage point on your growth, your evolution, your becoming that no one else possesses. They have watched you change in ways you cannot fully see from the inside. Today you invite each other into the act of witnessing — naming what you have seen unfold in each other, and receiving it with full presence.",
+    duration: "30 min",
+    prompts: [
+      "What is the most significant way you have seen your partner grow or evolve in the time you have known them?",
+      "What is something you see in your partner now — a strength, a quality, an emerging capacity — that they may not fully see in themselves?",
+      "What does it feel like to be witnessed by your partner? Is there a way you want to be seen that you have not yet asked for?",
+      "Together: speak your witness to each other. 'I have watched you become...' Take turns. Receive it completely."
+    ],
+    reflection: "To be truly witnessed by another person is one of the most sustaining experiences available to a human being. Your partner is your greatest witness. Let them do the work."
+  },
+  {
+    id: 549, day: 93, program: 'marriage-strengthening',
+    title: "The Gift of Attention",
+    emoji: "🎁",
+    tagline: "Your full, undivided attention is the most intimate gift you can give.",
+    body: "In an era of constant distraction, the gift of your complete attention is genuinely rare and genuinely powerful. When you look at your partner with nothing pulling you away, when you listen with no rehearsal of your response, when you are simply and completely present — you are giving them something most people never receive. Today you practice radical attentiveness.",
+    duration: "25 min",
+    prompts: [
+      "What does it feel like when your partner gives you their full, undivided attention? When does it happen most naturally?",
+      "What typically competes for your attention during interactions with your partner — phones, mental preoccupation, something else?",
+      "What is one conversation or exchange you could approach today with nothing but full presence — no agenda, no device, no divided focus?",
+      "After practicing full attention: what did you notice about your partner that you might have missed otherwise?"
+    ],
+    reflection: "Full attention is not a passive act. It is an act of love — the declaration that the person in front of you is the most important thing happening right now."
+  },
+  {
+    id: 550, day: 94, program: 'marriage-strengthening',
+    title: "What Your Body Knows",
+    emoji: "⚡",
+    tagline: "Your body holds wisdom about your relationship that your mind has not yet caught up to.",
+    body: "The body is a register of the relational environment. It knows when you feel safe, when you feel guarded, when you are truly resting or simply pausing. Body awareness in relationship means noticing what your physical experience tells you about the quality of your connection — when you expand and when you contract, when you lean in and when you pull back. Today you bring that wisdom into the conversation.",
+    duration: "25 min",
+    prompts: [
+      "When you are with your partner and the connection feels truly good, what happens in your body? Where do you feel it?",
+      "When you are with your partner and something is off — even slightly — what physical signals do you notice first?",
+      "Is there a pattern you have observed between your body's state and the quality of intimacy in your marriage?",
+      "Tonight: check in with your body after spending time together. What is your body telling you about how this time felt?"
+    ],
+    reflection: "Your body does not lie. It has been tracking the quality of your connection far longer and more accurately than your thoughts have."
+  },
+  {
+    id: 551, day: 95, program: 'marriage-strengthening',
+    title: "Gratitude That Goes Deep",
+    emoji: "🙏",
+    tagline: "Deep gratitude is not thankfulness for what your partner does — it is awe at who they are.",
+    body: "Surface gratitude is transactional: thank you for doing the dishes, for picking up the kids, for handling the billing. Deep gratitude is different. It is the experience of being genuinely moved by the existence of your partner — their specific character, their irreplaceable presence in your life, the fact that of all the possible paths your life could have taken, it took this one and landed here, with them. Today you practice the deeper kind.",
+    duration: "30 min",
+    prompts: [
+      "Name three qualities of your partner's character — not behaviors, but who they are — for which you are genuinely, deeply grateful.",
+      "What would your life have been like without this person in it? Sit with that for a moment before answering.",
+      "What is something about your partner that you have never quite expressed gratitude for, but should?",
+      "Speak your deepest gratitude to your partner today — not a list, but a true expression of what their existence means to you."
+    ],
+    reflection: "The partner who can look at their beloved and feel genuine awe at their existence has never lost the beginning of love. That awe is worth protecting."
+  },
+  {
+    id: 552, day: 96, program: 'marriage-strengthening',
+    title: "What Love Has Made You",
+    emoji: "🦋",
+    tagline: "Love changes us — and the partner who sees that change is the most intimate witness of all.",
+    body: "You are not the same person you were before this relationship. Love shapes us — it draws out capacities we did not know we had, confronts us with patterns we would rather avoid, and offers us a consistent invitation to become more. Today you reflect on what this particular love, with this particular person, has made of you — and what you are still in the process of becoming.",
+    duration: "30 min",
+    prompts: [
+      "In what specific ways has this relationship made you a better or more complete version of yourself?",
+      "What capacity — patience, courage, vulnerability, generosity — has this love demanded of you and helped you develop?",
+      "Is there something this love has asked of you that you have not yet fully given? What is that, and why?",
+      "What do you want this love to continue making of you — who are you still becoming inside this relationship?"
+    ],
+    reflection: "You are your partner's co-author, and they are yours. The person you are becoming is partly their gift to you. That is one of the most profound things love does."
+  },
+  {
+    id: 553, day: 97, program: 'marriage-strengthening',
+    title: "Intimacy Phase Completion",
+    emoji: "🌟",
+    tagline: "Thirty days of intimacy work has expanded what is possible between you — name it, claim it, carry it forward.",
+    body: "You have spent thirty days exploring the depths of intimacy — emotional, intellectual, spiritual, physical, and beyond. This is not a graduation from intimacy but a graduation into it. The capacities you have built, the conversations you have had, the vulnerability you have practiced — these are now part of the infrastructure of your marriage. Before stepping into the next phase, you pause to mark what has been built.",
+    duration: "45 min",
+    prompts: [
+      "What is the single most significant intimacy breakthrough you have experienced in the last thirty days? Be specific.",
+      "What form of closeness is now available in your marriage that was not available a month ago?",
+      "What intimacy practice from the last thirty days do you most want to carry forward permanently?",
+      "Together: name three ways your marriage is genuinely more intimate today than it was on Day 68. Celebrate that. It is real."
+    ],
+    reflection: "Thirty days of choosing depth over distance is thirty days of building the kind of marriage that sustains — not just through crisis, but through the long, ordinary, extraordinary act of living together."
+  },
+  {
+    id: 554, day: 98, program: 'marriage-strengthening',
+    title: "Money and Marriage",
+    emoji: "💰",
+    tagline: "Your relationship with money is a mirror of your values, your fears, and your future together.",
+    body: "Finances are one of the most powerful and most avoided territories in marriage. Not because money itself is dangerous, but because conversations about money are really conversations about security, power, freedom, sacrifice, and what we believe we deserve. Couples who can talk about money openly and well are couples who have found a way into one of the most intimate rooms in their shared life.",
+    duration: "35 min",
+    prompts: [
+      "What is your earliest money memory, and what belief about money did it install in you that still operates today?",
+      "Where do you and your partner most significantly differ in your relationship to money — spending, saving, risk, security?",
+      "What money conversation have you been avoiding or circling around that most needs to happen?",
+      "What does financial partnership look like at its best in your marriage — what are you building toward together?"
+    ],
+    reflection: "The couple who can talk about money without it becoming a battle has done one of the hardest things in partnership. That skill is worth developing now, before it is urgent."
+  },
+  {
+    id: 555, day: 99, program: 'marriage-strengthening',
+    title: "Shared Goals, Shared Stakes",
+    emoji: "🎯",
+    tagline: "A marriage without shared goals is a parallel life. A marriage with them is a shared expedition.",
+    body: "Shared goals are the architecture of a shared future. When both partners are oriented toward something they are building together — financially, personally, relationally, spiritually — the marriage gains momentum, direction, and a common language. Today you examine what you are actually building together and whether the goals are truly shared or simply coexisting.",
+    duration: "30 min",
+    prompts: [
+      "What are the three most important goals you and your partner are currently working toward together?",
+      "Are those goals genuinely shared — meaning both of you feel equally invested, equally clear, and equally aligned — or are some primarily one partner's goals that the other has agreed to support?",
+      "What is a goal you personally want to achieve that you have not yet made a shared goal with your partner?",
+      "Together: choose one shared goal to clarify, align on, and take one concrete next step toward this week."
+    ],
+    reflection: "Shared goals do not just build the future — they build the partnership. The couple that is aiming at something together is always a couple in motion."
+  },
+  {
+    id: 556, day: 100, program: 'marriage-strengthening',
+    title: "100 Days",
+    emoji: "🏆",
+    tagline: "One hundred days of choosing your marriage on purpose. That is extraordinary.",
+    body: "Today marks one hundred days of intentional, consistent, courageous work on your marriage. That is not a small number. It represents one hundred mornings of decision, one hundred days of showing up, one hundred incremental investments in the future you are building together. This is a day for celebration — full, genuine, unhurried celebration of who you are and what you have built.",
+    duration: "60 min",
+    prompts: [
+      "Each partner: what is the most important thing you have learned about yourself over these one hundred days?",
+      "Each partner: what is the most important thing you have learned about your partner that you did not know before?",
+      "Together: describe in one paragraph the marriage you are building — not what you hope for, but what you are actively creating.",
+      "Celebrate. Dinner, a toast, a letter, a day together — something that marks this milestone as real. What will you do?"
+    ],
+    reflection: "One hundred days of intentional marriage is one hundred days of becoming the couple most people admire but few actually build. You are building it. Keep going."
+  },
+  {
+    id: 557, day: 101, program: 'marriage-strengthening',
+    title: "The Big Dreams",
+    emoji: "🚀",
+    tagline: "What do you want your life together to look like at its fullest, most extraordinary expression?",
+    body: "Big dreams in marriage are not irresponsible fantasies. They are navigational instruments. When you can look at each other and say 'this is what we are building toward — this specific, vivid, aligned vision' — every daily choice is oriented by something larger than the present moment. The couple who dreams big together and then works backward from that dream into daily life has found one of the most powerful drivers of shared energy available.",
+    duration: "35 min",
+    prompts: [
+      "If you could describe the life you and your partner are building together at its absolute fullest — in five years, in twenty — what does it look like?",
+      "What is the one big dream you have not yet given permission to be a shared dream?",
+      "What is standing between where you are now and that larger vision — and which of those obstacles are real versus assumed?",
+      "What is one decision you could make this year that would move you meaningfully toward your biggest shared dream?"
+    ],
+    reflection: "Dreams do not build themselves. But the couple who dreams clearly and works together toward that dream is astonishing in what they can create."
+  },
+  {
+    id: 558, day: 102, program: 'marriage-strengthening',
+    title: "Home as Sanctuary",
+    emoji: "🏡",
+    tagline: "The home you create together is a physical expression of the marriage you are building.",
+    body: "Your home is not merely a container for your life. It is a reflection of your values, your aesthetics, your level of care for each other, and the quality of the environment you have decided to inhabit together. The couple who intentionally creates their home as a sanctuary — a place of beauty, rest, safety, and belonging — is the couple that has something to return to no matter what the world brings.",
+    duration: "30 min",
+    prompts: [
+      "What does your home currently feel like to each of you — is it a sanctuary, a stressor, a default, or something else?",
+      "What is one aspect of your shared physical environment that you could improve to make it feel more like a true home?",
+      "What does your ideal home feel like — not in terms of size or value, but in terms of atmosphere, beauty, and daily experience?",
+      "Together: choose one concrete action this week to make your home feel more like the sanctuary you want it to be."
+    ],
+    reflection: "Home is what you make it. And the couple who makes their home a place they genuinely love being is the couple that never stops wanting to come back."
+  },
+  {
+    id: 559, day: 103, program: 'marriage-strengthening',
+    title: "The Labor of Love",
+    emoji: "⚖️",
+    tagline: "Fairness in domestic life is not about equality — it is about mutual dignity and genuine partnership.",
+    body: "Division of labor is one of the most fertile grounds for resentment in marriage — and also one of the most available opportunities for genuine partnership. The question is not who does more, but whether both people feel seen, valued, and fairly treated in how the work of shared life is distributed. Today you have a direct, generous, and honest conversation about this.",
+    duration: "35 min",
+    prompts: [
+      "What areas of the shared domestic and logistical load do you feel are well-distributed in your marriage?",
+      "What areas feel unbalanced, and have you communicated that clearly and recently?",
+      "What invisible labor do you carry — planning, worrying, tracking, managing — that your partner may not fully see?",
+      "Together: redesign one aspect of your division of labor so that both of you feel more genuinely supported. Make it specific."
+    ],
+    reflection: "The couple that shares the weight of daily life with genuine fairness and mutual gratitude is building a partnership, not just a household."
+  },
+  {
+    id: 560, day: 104, program: 'marriage-strengthening',
+    title: "Parenting as Partners",
+    emoji: "👨‍👩‍👧",
+    tagline: "For couples who parent: your partnership is the foundation your children are standing on.",
+    body: "Parenting alignment is one of the most consequential and most overlooked areas of shared life. When partners are genuinely aligned in their values, their approach, and their vision for the children they are raising, the family operates with a coherence and security that children feel profoundly. When there is misalignment — in discipline, in values, in expectations — it creates both marital strain and confusion for children. Today you examine where you are aligned and where you need to get more aligned.",
+    duration: "35 min",
+    prompts: [
+      "What are the parenting values you and your partner most deeply share? Where do you feel genuinely unified?",
+      "Where do you differ most significantly in your parenting approach, and how do those differences play out in daily life?",
+      "What conversation about parenting — values, strategy, vision for your children — have you been avoiding?",
+      "What does it mean to be parenting partners, not just co-parents? How does that distinction change how you operate?"
+    ],
+    reflection: "The couple who parents from genuine partnership is not just raising children well — they are modeling for their children what love, collaboration, and commitment look like."
+  },
+  {
+    id: 561, day: 105, program: 'marriage-strengthening',
+    title: "Ambition and Partnership",
+    emoji: "📈",
+    tagline: "The greatest partnership lifts both people toward their fullest professional and personal becoming.",
+    body: "Career ambition and marriage do not have to be in tension. The most extraordinary couples are each other's greatest professional advocates — championing each other's goals, creating conditions for each other's success, and refusing to allow the success of one to come at the expense of the other. Today you examine how ambition is operating in your marriage and how partnership can amplify it.",
+    duration: "30 min",
+    prompts: [
+      "What are your most significant career or professional ambitions right now, and how much does your partner know about them?",
+      "In what ways does your partnership currently support your professional growth, and in what ways does it unintentionally limit it?",
+      "What would it mean for your marriage to be a launchpad for both of your ambitions simultaneously?",
+      "Together: name one way each of you will actively invest in the other's professional growth in the next month."
+    ],
+    reflection: "The couple that champions each other's ambitions builds a marriage where both people are growing — and where growth never has to feel like a threat."
+  },
+  {
+    id: 562, day: 106, program: 'marriage-strengthening',
+    title: "Generational Legacy",
+    emoji: "🌳",
+    tagline: "What you are building extends far beyond the two of you — and that is worth naming.",
+    body: "Generational legacy is the long view of marriage. It is asking: what are we building that will outlast us? What patterns, values, resources, and stories are we passing forward — to our children, to their children, to the community we inhabit? The couple who holds this perspective is not burdened by it but energized by it. They are building something that matters at a scale that few people allow themselves to imagine.",
+    duration: "35 min",
+    prompts: [
+      "What is the legacy — financial, relational, spiritual, cultural — that you most want your marriage to pass forward?",
+      "What patterns from your families of origin do you most want to break, and which do you most want to carry forward?",
+      "What would it look like to build generational wealth — not just financial, but emotional, relational, and cultural wealth?",
+      "Together: write a one-paragraph statement of the legacy your marriage intends to build. Read it to each other."
+    ],
+    reflection: "The couple who builds with legacy in mind is building with the most expansive possible love — a love that extends to people they have not yet met."
+  },
+  {
+    id: 563, day: 107, program: 'marriage-strengthening',
+    title: "Your Circle of Friends",
+    emoji: "👥",
+    tagline: "The community you cultivate as a couple is a reflection of the marriage you want to inhabit.",
+    body: "The social world a couple builds together matters more than most people acknowledge. The friendships you cultivate, the community you participate in, the couples you choose to be close to — all of these shape the environment of your marriage. Couples whose friendships affirm, challenge, and celebrate their relationship are couples who are invested in by their community. Today you examine the social world of your marriage.",
+    duration: "30 min",
+    prompts: [
+      "What does your social world as a couple currently look like — who are the people who know you as a pair and genuinely invest in your marriage?",
+      "Are there friendships or communities that drain your marriage — that introduce energy, values, or dynamics that are not life-giving?",
+      "What kind of community do you want around your marriage — what would those people value, offer, and model?",
+      "Together: name one relationship or community you want to invest in more intentionally as a couple in the coming months."
+    ],
+    reflection: "You are the average of the communities you inhabit. Choose the ones that make your marriage better."
+  },
+  {
+    id: 564, day: 108, program: 'marriage-strengthening',
+    title: "Family of Origin, Family of Choice",
+    emoji: "🏛️",
+    tagline: "You came from families that shaped you. The family you are building is your most sovereign creation.",
+    body: "Every person carries their family of origin into their marriage — the patterns, the wounds, the gifts, the unconscious scripts about what love looks like and how families operate. The work of marriage includes the ongoing process of choosing which of those inherited patterns to keep, which to heal, and which to transcend. Today you examine where your families of origin are shaping your marriage — for good and otherwise.",
+    duration: "35 min",
+    prompts: [
+      "What is the greatest gift your family of origin gave you that you are actively bringing into your marriage?",
+      "What pattern from your family of origin do you still catch operating in your marriage, even when you do not want it to?",
+      "Where do your respective families of origin create the most tension or complexity in your marriage?",
+      "Together: name the family culture you are building — what makes your family of choice distinctly yours, not simply an inheritance?"
+    ],
+    reflection: "You are not obligated to repeat what was modeled for you. You are free to build the family you actually want — and that freedom is one of the greatest gifts of intentional marriage."
+  },
+  {
+    id: 565, day: 109, program: 'marriage-strengthening',
+    title: "Shared Values, Shared Life",
+    emoji: "🧭",
+    tagline: "A marriage built on shared values is a marriage with a compass that never loses north.",
+    body: "Values are the invisible architecture of a shared life. When two people know what they most deeply believe and find that it aligns — even imperfectly, even partially — they have found the most durable foundation for everything else they build together. When values are misaligned or unexamined, every decision becomes a potential battleground. Today you name and align the values that are building your life.",
+    duration: "30 min",
+    prompts: [
+      "What are the five values you most want to define and guide your shared life — not aspirationally, but as operating principles?",
+      "Where do your personal values most naturally align with your partner's? Where do they differ?",
+      "Is there a decision or direction in your life right now that feels misaligned with your values? What is needed to bring it into alignment?",
+      "Together: write your marriage's value statement — five words or phrases that describe what you stand for as a couple."
+    ],
+    reflection: "The couple that knows what they value never has to guess which direction to go. Their values are their compass, their filter, and their permission."
+  },
+  {
+    id: 566, day: 110, program: 'marriage-strengthening',
+    title: "The Financial Future",
+    emoji: "📊",
+    tagline: "Wealth is not just accumulated — it is intentionally built by couples who decide to build it.",
+    body: "Financial partnership in marriage goes beyond managing current income and expenses. It includes the long view: investment, asset building, estate planning, and the intentional construction of financial security that extends beyond the couple's own lifetime. Many couples never have this conversation because it feels either too large or too far away. But the couples who have it early and consistently are the couples who actually arrive at the future they imagined.",
+    duration: "35 min",
+    prompts: [
+      "What does financial freedom look like to you — specifically, concretely, in terms of what your daily life would feel and look like?",
+      "What are the biggest financial decisions facing your marriage in the next three to five years?",
+      "What is one area of your finances where you know you need to do something different but have not yet acted?",
+      "Together: name your one most important financial goal for the next twelve months and the specific steps you will take to reach it."
+    ],
+    reflection: "Financial security is not luck. It is the accumulated result of thousands of small decisions made by people who decided to take their future seriously. You are those people."
+  },
+  {
+    id: 567, day: 111, program: 'marriage-strengthening',
+    title: "Friendship Inside the Marriage",
+    emoji: "🤗",
+    tagline: "The best marriages are built on a foundation of genuine friendship — not despite it, but because of it.",
+    body: "The most enduring marriages are, at their core, deep friendships. Not the romantic Hollywood version of love that runs on passion alone, but the quieter, more sustainable version where two people genuinely like each other, enjoy each other's company, and choose to spend time together because it is one of the best uses of their time. Today you examine and invest in the friendship inside your marriage.",
+    duration: "25 min",
+    prompts: [
+      "What do you genuinely enjoy doing with your partner — not as a couple's activity, but simply as two people who like each other?",
+      "How often do you experience your partner as your friend first, rather than your spouse, co-parent, or financial partner?",
+      "What is something you and your partner used to do together as friends early in the relationship that you have stopped doing?",
+      "This week: plan one activity that is purely about enjoying each other as friends. Nothing therapeutic. Nothing productive. Just fun."
+    ],
+    reflection: "The couple who is also genuinely friends is the couple who will still have something to talk about when everything else changes."
+  },
+  {
+    id: 568, day: 112, program: 'marriage-strengthening',
+    title: "Rest Together",
+    emoji: "🌴",
+    tagline: "The couple who rests well together recovers together — and that is a form of shared life mastery.",
+    body: "Rest is not merely the absence of activity. For couples, shared rest is a practice — the art of slowing down together, releasing the productivity mandate, and simply inhabiting the life you have built without constantly building more. Many couples have never genuinely rested together. They have vacationed together, scheduled leisure, and managed downtime. But true rest — unscheduled, unhurried, mutually restorative — is rarer and more valuable than either realizes.",
+    duration: "25 min",
+    prompts: [
+      "What does genuine rest feel like to you — not vacation planning, not productive leisure, but true restoration?",
+      "Does your partner know what rest looks like for you? Do their needs for rest align with yours or differ significantly?",
+      "When was the last time you rested together — actually rested — and what made it possible?",
+      "Together: plan one period of genuine, unscheduled rest in the next two weeks. Make it real. Protect it."
+    ],
+    reflection: "The couple who rests together is building a marriage that can sustain the long haul. Rest is not a reward for hard work. It is part of the work."
+  },
+  {
+    id: 569, day: 113, program: 'marriage-strengthening',
+    title: "The Home You Want to Create",
+    emoji: "🖼️",
+    tagline: "Vision for your domestic life is not trivial — it is one of the most intimate conversations you can have.",
+    body: "Beyond the practical aspects of home management lies a deeper conversation: what kind of daily life do you actually want to inhabit together? What does your ideal Tuesday feel like? What rhythms, routines, aesthetics, and atmospheres compose the everyday experience of your shared life at its best? Couples who can articulate and build toward that vision are couples who stop settling for the default and start inhabiting the intentional.",
+    duration: "30 min",
+    prompts: [
+      "Describe your ideal ordinary day together — from morning to evening. What does it feel like, look like, and include?",
+      "What aspect of your current daily life most diverges from that ideal? What would it take to close that gap?",
+      "What is one domestic rhythm or routine you have always wanted but never quite established?",
+      "Together: choose one element of your ideal daily life and begin building it this week — even in a small, initial form."
+    ],
+    reflection: "You do not have to wait for the perfect circumstances to begin living the life you actually want. You can start building it now, in the life you already have."
+  },
+  {
+    id: 570, day: 114, program: 'marriage-strengthening',
+    title: "Long-Term Wealth Mindset",
+    emoji: "💎",
+    tagline: "Wealthy couples think decades ahead — and build today's choices accordingly.",
+    body: "Long-term wealth is not simply about investment accounts. It is a mindset — a way of making decisions today that honors the person you will be in twenty or thirty years. It is the discipline of delayed gratification in service of a richer future. It is the capacity to hold both present enjoyment and future security without defaulting entirely to one. Today you align on what long-term wealth means for your marriage and how your current choices do or do not reflect that.",
+    duration: "35 min",
+    prompts: [
+      "What does long-term wealth mean to you — financially, but also in terms of time freedom, relationships, and legacy?",
+      "How do your daily spending and saving habits reflect — or fail to reflect — the long-term future you say you want?",
+      "What is one financial pattern in your marriage that you want to change in service of a richer long-term future?",
+      "Together: write down three wealth-building actions you will take in the next ninety days. Assign responsibility and timeline."
+    ],
+    reflection: "The couple who makes today's choices with tomorrow's freedom in mind is the couple who will actually arrive at a future they love."
+  },
+  {
+    id: 571, day: 115, program: 'marriage-strengthening',
+    title: "Your Community Legacy",
+    emoji: "🌍",
+    tagline: "The greatest marriages give something back — to the community, the culture, and the world.",
+    body: "Beyond your home, your finances, and your family, there is the broader world you inhabit and influence as a couple. What role does your marriage play in your community? What does your partnership give back — in time, talent, resources, wisdom, example? The couple with a sense of community purpose is the couple who has found meaning that extends beyond themselves, and that meaning becomes one of the most powerful sources of marital energy.",
+    duration: "30 min",
+    prompts: [
+      "What is the community — local, cultural, professional, spiritual — that your marriage most genuinely wants to serve or invest in?",
+      "What do you as a couple have to offer — skills, resources, time, wisdom, platform — that you are not yet fully giving?",
+      "What would it look like for your marriage to have a clear community mission — something you are building together beyond your household?",
+      "Together: name one way your marriage will contribute to something larger than itself in the next six months."
+    ],
+    reflection: "The couple who gives back is the couple who has understood that love, taken seriously, always overflows beyond the two people practicing it."
+  },
+  {
+    id: 572, day: 116, program: 'marriage-strengthening',
+    title: "Navigating Conflict in Shared Life",
+    emoji: "🌀",
+    tagline: "The conflicts that arise in building a shared life are not obstacles — they are the work.",
+    body: "When two people are genuinely building something together — financially, domestically, professionally, parentally — conflict is not a sign that something is wrong. It is a sign that two real people with real stakes are in actual partnership. The question is not whether you will have conflict about the shared life you are building. It is whether you have the skills and the safety to navigate those conflicts in ways that make the marriage stronger rather than eroding it.",
+    duration: "30 min",
+    prompts: [
+      "What is the recurring conflict in your shared life building that never quite gets resolved — and what is it really about?",
+      "What is the underlying need or value on each side of that conflict that is not yet being honored?",
+      "What would it look like to approach that conflict as partners solving a shared problem rather than opponents defending positions?",
+      "Together: choose one recurring conflict and attempt a genuinely new approach to it this week."
+    ],
+    reflection: "Every conflict you navigate well is a deposit into the account of trust and partnership. The couple who fights well together builds better together."
+  },
+  {
+    id: 573, day: 117, program: 'marriage-strengthening',
+    title: "What We Are Building",
+    emoji: "🏗️",
+    tagline: "The clearest couples can describe in vivid detail exactly what they are building together.",
+    body: "Clarity about what you are building is one of the most powerful things a couple can possess. Not vague hope, not general goodwill, but a specific, vivid, aligned vision for the marriage, the family, the financial life, the community impact, and the daily experience you are constructing together. Today you bring all the threads of this shared life building phase into a unified picture.",
+    duration: "40 min",
+    prompts: [
+      "If you described your marriage and shared life in five years at its fullest expression, what does that description include?",
+      "What are the three most important things you are building together right now — and are they truly aligned, or are they running on parallel tracks?",
+      "What would you need to stop, start, or change to bring your daily actions into greater alignment with the shared life you are building?",
+      "Together: write a 'Building Statement' for your marriage — one paragraph describing what you are actively, intentionally constructing together."
+    ],
+    reflection: "The couple with a clear building statement is the couple who makes decisions faster, fights less about priorities, and arrives at their future with far less regret."
+  },
+  {
+    id: 574, day: 118, program: 'marriage-strengthening',
+    title: "Protecting the Partnership",
+    emoji: "🛡️",
+    tagline: "A great shared life requires active protection — of time, of energy, of the marriage itself.",
+    body: "The life you are building will attract demands — from careers, from family, from community, from the ambitions you carry. If you do not actively protect your marriage — its time, its energy, its intimacy, its priority — the demands will fill every available space. Protection is not defensiveness. It is the decision that your marriage is the primary infrastructure on which everything else is built, and it must be treated accordingly.",
+    duration: "30 min",
+    prompts: [
+      "What is currently most threatening to the health and priority of your marriage — not dramatically, but in the quiet accumulation of daily demands?",
+      "What boundaries do you need to establish or reinforce to protect the quality of your shared life?",
+      "What does each of you need from the other to feel that the marriage is being genuinely prioritized?",
+      "Together: name three specific protections you will put in place for your marriage in the next season. Make them actionable."
+    ],
+    reflection: "A marriage that is prioritized is a marriage that thrives. The couple who protects their partnership from the demands of the world has decided that what they are building is worth defending."
+  },
+  {
+    id: 575, day: 119, program: 'marriage-strengthening',
+    title: "The Invisible Architecture",
+    emoji: "🏛️",
+    tagline: "The systems, rhythms, and agreements beneath your daily life are the invisible architecture of your marriage.",
+    body: "Every couple has an invisible architecture — the unspoken agreements, the habitual systems, the recurring rhythms that shape the daily experience of the marriage. Some of this architecture was intentionally designed. Much of it simply accumulated. Today you examine what is actually operating beneath the surface of your shared life and decide what to keep, what to redesign, and what to discard.",
+    duration: "35 min",
+    prompts: [
+      "What unspoken agreements are currently operating in your marriage — about roles, about decisions, about how conflict is handled?",
+      "Which of those agreements are working beautifully, and which are creating friction or resentment?",
+      "What is one system or rhythm in your shared life that you have never consciously designed but that deeply shapes your daily experience?",
+      "Together: redesign one element of your invisible architecture. Make it explicit, agreed-upon, and genuinely life-giving."
+    ],
+    reflection: "You are always living inside an architecture. The only question is whether you built it on purpose."
+  },
+  {
+    id: 576, day: 120, program: 'marriage-strengthening',
+    title: "Shared Life Completion",
+    emoji: "🌅",
+    tagline: "Twenty-three days of building your shared life — now you name what has been constructed.",
+    body: "You have spent nearly a month in the territory of shared life — finances, goals, home, family, ambition, legacy, community, and the invisible systems that make your daily life what it is. Before stepping into the final bridge and next phase, you pause to inventory. What is clearer? What is more aligned? What has been explicitly designed that was previously left to default? This is the moment to name it.",
+    duration: "45 min",
+    prompts: [
+      "What is the most important shared life conversation you have had in the last twenty-three days?",
+      "What aspect of your shared life building is now more intentional, more aligned, or more explicit than it was a month ago?",
+      "What conversation from this phase do you most want to continue, revisit, or deepen?",
+      "Together: name three ways your shared life is more consciously built today than it was on Day 98. Celebrate that. It matters."
+    ],
+    reflection: "The couple who examines and intentionally builds their shared life is not just building a household. They are building a world — small, specific, and extraordinary in its intention."
+  },
+  {
+    id: 577, day: 121, program: 'marriage-strengthening',
+    title: "Intimacy Revisited",
+    emoji: "🔄",
+    tagline: "What you have built in intimacy over the last months is now yours — carry it forward consciously.",
+    body: "The intimacy work you have done in this program did not expire when that phase ended. It lives in the new vocabulary you have found, the conversations you have dared, the closeness you have claimed. But like all living things, intimacy requires ongoing attention. The bridge phase begins with a review of what has been built in intimacy and a recommitment to the practices that are most life-giving for your particular marriage.",
+    duration: "35 min",
+    prompts: [
+      "Looking back at the last sixty-plus days, which intimacy practices have most genuinely changed the quality of closeness in your marriage?",
+      "Which forms of intimacy — emotional, intellectual, spiritual, physical — feel most alive right now, and which need more attention?",
+      "What is the intimacy conversation or practice you want to make permanent — something you will not allow to fade?",
+      "Together: each partner names the one intimacy gift they most want to continue receiving from the other. Listen carefully."
+    ],
+    reflection: "Intimacy is not a destination you arrive at and then maintain on autopilot. It is a living practice — and the couple who keeps practicing keeps deepening."
+  },
+  {
+    id: 578, day: 122, program: 'marriage-strengthening',
+    title: "Shared Life Revisited",
+    emoji: "🔁",
+    tagline: "The shared life you are building is already more intentional — now choose what comes next.",
+    body: "The shared life building phase gave you tools, conversations, and clarity that are now part of your marital operating system. Before stepping into the adventure and fun phase ahead, you revisit the key commitments you made: the financial goals, the legacy conversations, the domestic redesigns, the community investments. Revisiting is not repetition. It is the act of keeping your promises to each other and to the future you are building.",
+    duration: "35 min",
+    prompts: [
+      "What commitments did you make during the shared life building phase that you have followed through on? Acknowledge them.",
+      "What commitments have not yet been acted on — and what specifically is needed to move them forward?",
+      "What shared life goal feels most energizing and alive right now? What would it look like to invest more fully in it?",
+      "Together: identify the one shared life priority for the next ninety days and name the first three concrete steps."
+    ],
+    reflection: "The couple that revisits their commitments is the couple that actually keeps them. Revisiting is not weakness — it is integrity."
+  },
+  {
+    id: 579, day: 123, program: 'marriage-strengthening',
+    title: "Setting Intentions for Adventure",
+    emoji: "🗺️",
+    tagline: "Adventure in marriage is not accidental — the couples who have it chose it.",
+    body: "The next phase of this program turns toward joy, adventure, and the experience of your marriage as a source of delight. This is not a departure from the serious work you have done — it is the fruit of it. The couple who has done the emotional, intellectual, and structural work of marriage is the couple who is most free to play, explore, and adventure together. Today you set your intentions for what that looks like.",
+    duration: "30 min",
+    prompts: [
+      "What does adventure mean to you in the context of your marriage — what forms of exploration, novelty, or risk do you find most energizing?",
+      "What is one adventure — travel, creative, physical, social, intellectual — that you have wanted to have with your partner but have not yet prioritized?",
+      "What stories of shared adventure do you most treasure from your time together, and what do those stories tell you about what makes your marriage come alive?",
+      "Together: name three adventures — large, medium, and small — that you are committing to in the next year."
+    ],
+    reflection: "Adventure is not a luxury. It is one of the primary ways couples remember that the life they are building together is genuinely worth living."
+  },
+  {
+    id: 580, day: 124, program: 'marriage-strengthening',
+    title: "What Makes You Come Alive",
+    emoji: "⚡",
+    tagline: "The couple who knows what makes each other come alive is the couple that can keep each other lit.",
+    body: "There is a version of you that is fully alive — energized, engaged, lit from within, moving with purpose and joy. Your partner has a version of this too. And the marriage that makes space for both people to access that aliveness — regularly, not occasionally — is a marriage that operates at a fundamentally different level than the one that merely sustains. Today you name what makes you come alive and ask your partner to hold that knowledge.",
+    duration: "30 min",
+    prompts: [
+      "When do you feel most fully alive — in your body, your mind, your spirit? What conditions or activities create that state for you?",
+      "How often does your current daily life include those conditions? What would it look like to increase that frequency?",
+      "What makes your partner come alive that you could be doing more to make space for or actively create?",
+      "Together: make a pact to name it when you see the other person come alive — to say 'this is you at your fullest, and I see it.'"
+    ],
+    reflection: "The partner who helps you come alive is doing one of the highest forms of love. Keep doing it for each other."
+  },
+  {
+    id: 581, day: 125, program: 'marriage-strengthening',
+    title: "The Four-Month Mark",
+    emoji: "🎉",
+    tagline: "Four months of extraordinary marriage work — this is the moment to mark it and mean it.",
+    body: "You have arrived at the four-month milestone of this program. Four months of choosing depth, choosing honesty, choosing closeness, choosing to build rather than drift. You have moved through communication, conflict, connection, intimacy, and shared life building. You are not the same couple you were at the beginning — and that is entirely the point. Today you celebrate that transformation with full presence and genuine pride.",
+    duration: "60 min",
+    prompts: [
+      "Each partner: what is the most important thing this program has given your marriage that it did not have before?",
+      "Each partner: what is the greatest growth you have witnessed in your partner over these four months?",
+      "Together: describe the marriage you have built in this season. Not what you hope it will be — what it already is.",
+      "Together: plan a celebration worthy of four months of extraordinary work. Make it special. Make it yours."
+    ],
+    reflection: "Four months of intentional marriage is four months of refusing to let your relationship be ordinary. You chose extraordinary, consistently, over time. That is not nothing. That is everything."
+  },
+  {
+    id: 582, day: 126, program: 'marriage-strengthening',
+    title: "What Remains",
+    emoji: "💫",
+    tagline: "After all the work, all the conversations, all the growth — what is the essential truth of your marriage?",
+    body: "This close to the bridge between phases, it is worth pausing to ask: after all the work, what remains? Not what has been built, not what has been repaired, not what has been clarified — but what is simply, fundamentally, essentially true about your marriage? What is the irreducible core? Today you strip away the strategies and the practices and the goals and ask the simplest possible question: who are we to each other?",
+    duration: "35 min",
+    prompts: [
+      "In the simplest possible terms, what is the essential truth of your marriage — what is it, at its core?",
+      "What is irreplaceable about what you have with this person? What could not exist with anyone else?",
+      "After everything this program has surfaced and built, what do you know about your marriage that you did not know before?",
+      "Partner: say the most true thing you can say about what this person means to you. Not polished. Just true."
+    ],
+    reflection: "Under all the work, all the growth, all the intentionality — there is simply this: two people who chose each other and keep choosing. That is the whole story."
+  },
+  {
+    id: 583, day: 127, program: 'marriage-strengthening',
+    title: "Onward — The Adventure Awaits",
+    emoji: "🚀",
+    tagline: "The foundation is laid, the intimacy is deep, the shared life is built. Now you go live it.",
+    body: "You are standing at the threshold of the next phase — the joy, adventure, and delight chapter of your marriage-strengthening journey. Everything that has come before has not been preparation for the good part. It has been the good part. And the adventure ahead is not a reward for having done the hard work. It is the expression of it — the natural overflow of a marriage that has been tended with genuine love, seriousness, and devotion. Step into it together. You have earned this.",
+    duration: "45 min",
+    prompts: [
+      "What word best describes the state of your marriage as you step into this new phase — and how is that word different from the word you would have used four months ago?",
+      "What do you most look forward to in the adventure and joy phase ahead? What specifically are you excited to experience together?",
+      "What commitment do you want to make to your partner as you step into this next chapter — about how you will show up, what you will protect, and what you will keep choosing?",
+      "Together: mark this moment. Stand together. Look at each other. Say out loud: 'We are not finished. We are just beginning.' Mean it."
+    ],
+    reflection: "A marriage this intentional, this tended, this alive does not have an ending. It only has the next beginning. Go find it together."
+  },
+  {
+    id: 584, day: 128, program: 'marriage-strengthening',
+    title: "The Return of Play",
+    emoji: "🎲",
+    tagline: "Marriage was never meant to be all seriousness — today you remember how to play.",
+    body: "Somewhere between the bills, the routines, and the responsibilities, many couples forget that they once played together. Not performed. Not produced. Played — with no goal other than delight. Today you begin reclaiming that. Play is not a luxury in marriage. It is oxygen. It keeps the relationship light enough to breathe and alive enough to grow.",
+    duration: "30 min",
+    prompts: [
+      "When was the last time you and your partner laughed so hard you could barely breathe? What was happening?",
+      "What playful activities did you enjoy together early in your relationship that have faded over time?",
+      "What is one form of play you loved as a child that you have never shared with your partner?",
+      "Together: choose one playful activity to do this week with zero agenda other than fun. Name it now and put it on the calendar."
+    ],
+    reflection: "The couple that plays together stays awake to each other. Seriousness builds the house. Play fills it with light."
+  },
+  {
+    id: 585, day: 129, program: 'marriage-strengthening',
+    title: "Laughter as Medicine",
+    emoji: "😂",
+    tagline: "Laughter is not a break from intimacy — it is one of its deepest expressions.",
+    body: "Couples who laugh together report higher satisfaction, greater resilience, and deeper connection. Laughter releases oxytocin, reduces cortisol, and creates shared memory faster than almost anything else. Today you explore what makes your marriage funny — the inside jokes, the absurd moments, the things only you two find hilarious. This is sacred ground.",
+    duration: "25 min",
+    prompts: [
+      "What is your favorite inside joke as a couple? How did it start and why does it still land?",
+      "When your partner makes you laugh, what does it do for your sense of closeness and safety?",
+      "Is there a moment of conflict or difficulty that you can now laugh about together? What shifted to make that possible?",
+      "Together: tell each other the funniest memory you share. Let yourselves laugh fully — not politely, but from your belly."
+    ],
+    reflection: "A marriage with laughter in its bones can survive almost anything. Protect what makes you laugh together."
+  },
+  {
+    id: 586, day: 130, program: 'marriage-strengthening',
+    title: "The Intentional Date Night",
+    emoji: "🌙",
+    tagline: "A great date night is not about where you go — it is about how present you are when you get there.",
+    body: "Date nights are not a cliché. They are a discipline. But the best date nights are not expensive dinners eaten while scrolling phones. They are moments of undivided attention — where you look at your partner like you are still choosing them, because you are. Today you design a date night practice that fits your real life and actually nourishes your real marriage.",
+    duration: "30 min",
+    prompts: [
+      "What makes a date night truly connecting for you versus one that feels like going through the motions?",
+      "What are the biggest obstacles to regular date nights in your current life, and what creative solutions might work?",
+      "Describe your ideal date night — not the most extravagant, but the one that would leave you feeling most connected.",
+      "Together: commit to a date night rhythm — weekly, biweekly, or monthly — and schedule your next one right now."
+    ],
+    reflection: "The date is not the event. The date is the decision to keep courting the person you already have."
+  },
+  {
+    id: 587, day: 131, program: 'marriage-strengthening',
+    title: "Spontaneity on Purpose",
+    emoji: "⚡",
+    tagline: "The most alive marriages leave room for the unplanned.",
+    body: "Spontaneity might seem like it cannot be cultivated — but it can. You cultivate it by leaving margin in your life, by saying yes more than no, by resisting the urge to schedule every moment. Today you practice breaking a pattern. Do something your partner does not expect. It does not have to be grand. It just has to be surprising.",
+    duration: "25 min",
+    prompts: [
+      "When was the last time your partner truly surprised you? How did that feel?",
+      "What is one small spontaneous thing you could do this week that would delight your partner?",
+      "Do you tend to resist spontaneity or embrace it? How does that affect the energy of your marriage?",
+      "Together: flip a coin or draw from a hat — choose something unplanned to do together in the next 48 hours."
+    ],
+    reflection: "Predictability makes marriage safe. Spontaneity makes marriage alive. You need both."
+  },
+  {
+    id: 588, day: 132, program: 'marriage-strengthening',
+    title: "The Bucket List You Build Together",
+    emoji: "📋",
+    tagline: "A shared bucket list is a declaration of shared aliveness.",
+    body: "Every couple has dreams that live unspoken — places they want to visit, experiences they want to have, milestones they want to reach together. Today you bring those dreams into the open. Not as fantasies that may never happen, but as intentions that shape how you spend your time, money, and energy. A couple with a shared bucket list is a couple with a shared future.",
+    duration: "35 min",
+    prompts: [
+      "What are three experiences you have always wanted to have with your partner but have never mentioned?",
+      "What is one bucket list item you could realistically accomplish in the next twelve months together?",
+      "Is there something on your individual bucket list that you would love to turn into a shared experience?",
+      "Together: write a shared bucket list of at least ten items. Mix the grand with the simple. Post it somewhere you will both see it."
+    ],
+    reflection: "The couple with nothing to look forward to together slowly stops looking at each other. Dream out loud."
+  },
+  {
+    id: 589, day: 133, program: 'marriage-strengthening',
+    title: "Travel Dreams",
+    emoji: "✈️",
+    tagline: "Where you dream of going together reveals what you are reaching for in your marriage.",
+    body: "Travel strips away routine and puts you back in discovery mode — the same mode you were in when you first fell in love. Even if travel is not currently possible, the act of dreaming about it together opens something in the relationship. Today you explore where you want to go, what you want to see, and what kind of travelers you want to be as a couple.",
+    duration: "30 min",
+    prompts: [
+      "If money and time were no obstacle, where would you take your partner and why?",
+      "What is your favorite travel memory together, and what made it so special?",
+      "Do you prefer adventure travel or relaxation travel — and how do you navigate that difference as a couple?",
+      "Together: pick one realistic trip to plan in the next year. Start a shared note with ideas, dates, and a rough budget."
+    ],
+    reflection: "You do not have to go far to travel together. You just have to be willing to leave the familiar."
+  },
+  {
+    id: 590, day: 134, program: 'marriage-strengthening',
+    title: "Trying Something New Together",
+    emoji: "🆕",
+    tagline: "Novelty is the antidote to the slow creep of marital autopilot.",
+    body: "Research consistently shows that couples who try new things together experience renewed attraction and excitement. The brain processes novelty the same way it processes early-stage romance — with dopamine and heightened attention. Today you commit to doing something neither of you has done before. The activity matters less than the willingness to be beginners together.",
+    duration: "25 min",
+    prompts: [
+      "When was the last time you and your partner were both beginners at something? How did it feel?",
+      "What is something you have always wanted to try but felt too self-conscious to do alone?",
+      "How does your partner respond when you suggest something new — and how does that response affect your willingness to keep suggesting?",
+      "Together: choose one new activity to try together this week. Commit to approaching it with curiosity, not competence."
+    ],
+    reflection: "The willingness to be awkward together is one of the most underrated forms of intimacy."
+  },
+  {
+    id: 591, day: 135, program: 'marriage-strengthening',
+    title: "Game Night Revival",
+    emoji: "🃏",
+    tagline: "Healthy competition reminds you that you married someone with fire.",
+    body: "There is something uniquely bonding about playing games together — card games, board games, video games, outdoor games. The stakes are low but the engagement is high. You see each other strategize, celebrate, lose gracefully or not, and laugh at the absurdity of it all. Today you bring game night back into your marriage, not as filler, but as fuel.",
+    duration: "25 min",
+    prompts: [
+      "What games did you play together early in your relationship, and what happened to that tradition?",
+      "Are you and your partner competitive with each other? How does that energy serve or challenge your connection?",
+      "What is a game — physical, digital, or tabletop — that you think your partner would love but has never tried?",
+      "Together: plan a game night this week. Choose at least two games. No phones. Snacks mandatory."
+    ],
+    reflection: "Play is not childish. It is the part of you that remembers how to be fully present without trying."
+  },
+  {
+    id: 592, day: 136, program: 'marriage-strengthening',
+    title: "The Inside Joke Vault",
+    emoji: "🤫",
+    tagline: "Inside jokes are proof that you have built a world only the two of you can enter.",
+    body: "Every couple has a private language — phrases, references, looks that no one else would understand. These inside jokes are not trivial. They are the architecture of belonging. They say: we have shared enough life together to have our own code. Today you celebrate that code. You add to it. You remind each other that your private world matters.",
+    duration: "25 min",
+    prompts: [
+      "What is an inside joke between you and your partner that always makes you smile, even when things are hard?",
+      "How did your most enduring inside joke begin? What does it represent about your shared history?",
+      "Are there phrases or looks that serve as shorthand in your marriage — ways of saying 'I love you' or 'I see you' without words?",
+      "Together: try to list as many inside jokes as you can in five minutes. See how many you remember. Notice how it feels to recall them."
+    ],
+    reflection: "The marriage with its own language is the marriage with its own world. Keep building that world."
+  },
+  {
+    id: 593, day: 137, program: 'marriage-strengthening',
+    title: "Playful Competition",
+    emoji: "🏆",
+    tagline: "A little rivalry keeps the spark alive — as long as you are both still rooting for the team.",
+    body: "Healthy competition between partners can be energizing and flirtatious. It brings out your fire, your cleverness, and your desire to impress the person you love. The key is that the competition stays playful — never weaponized, never about proving superiority. Today you explore how friendly rivalry can add texture and excitement to your marriage.",
+    duration: "25 min",
+    prompts: [
+      "What are you and your partner naturally competitive about, and does that energy feel playful or tense?",
+      "Have you ever turned a mundane task into a competition — who can fold laundry faster, who can find the better restaurant? How did that feel?",
+      "Where is the line between playful competition and competition that damages connection in your marriage?",
+      "Together: create a fun challenge — a cook-off, a trivia match, a fitness dare — with a silly prize for the winner. Schedule it this week."
+    ],
+    reflection: "Compete like you want to win. Celebrate like you want your partner to feel adored either way."
+  },
+  {
+    id: 594, day: 138, program: 'marriage-strengthening',
+    title: "Nostalgia Night",
+    emoji: "📸",
+    tagline: "Looking back at where you started reminds you of everything you have built.",
+    body: "Nostalgia is not just sentimentality. It is a neurological anchor that reconnects you to the emotional foundation of your relationship. Revisiting old photos, early texts, the restaurant from your first date, or the song that was playing when you fell in love — all of these things reactivate the attachment and joy you felt at the beginning. Today you take a deliberate trip into your shared past.",
+    duration: "30 min",
+    prompts: [
+      "What is the earliest memory you have of knowing this person was special to you?",
+      "If you could relive one moment from the first year of your relationship, which would you choose and why?",
+      "What has changed the most about your partner since you first met — and what has stayed beautifully the same?",
+      "Together: pull out old photos, revisit early messages, or return to a meaningful place from your early days. Let the memories wash over you."
+    ],
+    reflection: "You are not trying to go back. You are reminding yourselves of the spark that started the fire you tend now."
+  },
+  {
+    id: 595, day: 139, program: 'marriage-strengthening',
+    title: "Adventure as a Love Language",
+    emoji: "🧗",
+    tagline: "For some, the deepest love is spoken through shared adrenaline and discovery.",
+    body: "Not every couple connects through quiet conversation or candlelit dinners. Some couples come most alive when they are hiking a mountain, exploring a new city, or trying something that scares them a little. If adventure is one of your love languages, starving it can make your marriage feel flat even when nothing is technically wrong. Today you explore what adventure means in your specific relationship.",
+    duration: "25 min",
+    prompts: [
+      "On a scale of one to ten, how much does shared adventure factor into your sense of connection with your partner?",
+      "What is the most adventurous thing you have done together, and how did it affect your bond?",
+      "If one of you craves adventure more than the other, how do you navigate that difference with respect?",
+      "Together: identify one adventure — big or small — that would stretch you both. Commit to pursuing it in the next month."
+    ],
+    reflection: "Adventure does not require a passport. It requires a willingness to step into the unknown together."
+  },
+  {
+    id: 596, day: 140, program: 'marriage-strengthening',
+    title: "Exploring Nature Together",
+    emoji: "🌿",
+    tagline: "Something in nature slows couples down enough to actually find each other again.",
+    body: "Nature has a way of stripping away distraction and returning you to what is essential. Walking in the woods, sitting by water, watching a sunset — these experiences regulate your nervous system, lower defensiveness, and create space for real connection. Today you explore what nature means for your marriage and how spending time outdoors together can deepen your bond.",
+    duration: "25 min",
+    prompts: [
+      "When was the last time you and your partner spent meaningful time in nature together? What was that experience like?",
+      "What kind of natural setting makes you feel most at peace — mountains, water, forest, desert — and does your partner share that preference?",
+      "How might regular time in nature together change the pace and quality of your conversations?",
+      "Together: plan an outdoor experience this week — a walk, a park visit, a sunrise viewing — and commit to leaving your phones behind."
+    ],
+    reflection: "Nature does not fix your marriage. It quiets the noise long enough for your marriage to find itself."
+  },
+  {
+    id: 597, day: 141, program: 'marriage-strengthening',
+    title: "Cultural Experiences as Connection",
+    emoji: "🎭",
+    tagline: "Sharing art, music, and culture together expands the emotional vocabulary of your marriage.",
+    body: "Attending a concert, visiting a museum, watching a film that moves you, exploring a cuisine from another culture — these are not just entertainment. They are shared emotional experiences that give you new things to talk about, react to, and bond over. Today you explore how cultural experiences can become a regular source of connection and growth in your marriage.",
+    duration: "25 min",
+    prompts: [
+      "What cultural experience have you shared with your partner that deepened your connection in an unexpected way?",
+      "Is there a type of art, music, or cultural event your partner loves that you have not yet fully explored with them?",
+      "How does experiencing beauty or creativity together affect the emotional tone of your relationship?",
+      "Together: choose a cultural experience to share this month — a movie, a gallery, a live performance, a new cuisine. Make it a date."
+    ],
+    reflection: "Culture gives you mirrors. Sharing those mirrors with your partner gives you new ways to see each other."
+  },
+  {
+    id: 598, day: 142, program: 'marriage-strengthening',
+    title: "Cooking Together",
+    emoji: "👩‍🍳",
+    tagline: "The kitchen is one of the most underrated spaces for marital intimacy.",
+    body: "Cooking together requires collaboration, communication, timing, and trust — all the same things a great marriage requires. It is tactile, sensory, creative, and results in something you share. Whether you are seasoned cooks or hopeless in the kitchen, the act of preparing a meal together can become a ritual of connection that nourishes far more than your bodies.",
+    duration: "30 min",
+    prompts: [
+      "Do you currently cook together, or does one person typically handle meals? How does that dynamic feel?",
+      "What meal holds special meaning in your relationship — the one you always come back to or the one that reminds you of a shared moment?",
+      "What would it look like to make cooking together a regular practice rather than a rare event?",
+      "Together: choose a recipe neither of you has made before. Shop for the ingredients together and cook it this week side by side."
+    ],
+    reflection: "A meal made together tastes different. It carries the flavor of collaboration and shared intention."
+  },
+  {
+    id: 599, day: 143, program: 'marriage-strengthening',
+    title: "Music in the Marriage",
+    emoji: "🎵",
+    tagline: "Every great love story has a soundtrack — today you curate yours.",
+    body: "Music accesses emotion faster than language. A single song can transport you to the night you met, the dance at your wedding, or the road trip that changed everything. Music is a living archive of your relationship. Today you explore the role music plays in your marriage and how you can use it more intentionally to connect, celebrate, and remember.",
+    duration: "25 min",
+    prompts: [
+      "What song instantly takes you back to a pivotal moment in your relationship?",
+      "Do you and your partner share musical taste, or do your preferences diverge? How do you navigate that?",
+      "When was the last time you danced together — even just in the kitchen — and how did it feel?",
+      "Together: create a shared playlist of songs that represent your relationship. Add to it whenever a new song becomes meaningful."
+    ],
+    reflection: "A couple with a soundtrack is a couple that remembers who they are — even in the seasons when they forget."
+  },
+  {
+    id: 600, day: 144, program: 'marriage-strengthening',
+    title: "Creative Projects as Partners",
+    emoji: "🎨",
+    tagline: "Building something together outside the marriage builds something new inside it.",
+    body: "Whether it is a garden, a renovation, a piece of art, a business idea, or a family scrapbook — creating something together engages a different part of your partnership. You move from maintaining life to making something new. This creative collaboration can reveal strengths you did not know your partner had and spark conversations that routine never would.",
+    duration: "25 min",
+    prompts: [
+      "Have you and your partner ever built or created something together? What was that experience like?",
+      "What creative project have you imagined doing together but never started?",
+      "How do you and your partner handle creative differences — different visions, different working styles, different standards?",
+      "Together: brainstorm one creative project you could start together in the next month. It does not have to be big. It just has to be yours."
+    ],
+    reflection: "When you create together, you prove to yourselves that your marriage can make things — not just manage them."
+  },
+  {
+    id: 601, day: 145, program: 'marriage-strengthening',
+    title: "The Art of the Surprise",
+    emoji: "🎁",
+    tagline: "A well-placed surprise tells your partner: I was thinking about you when you were not looking.",
+    body: "Surprises do not have to be expensive or elaborate. A handwritten note in a lunchbox, an unexpected coffee delivery, planning an evening your partner did not see coming — these small acts of surprise communicate thoughtfulness, attentiveness, and delight. Today you explore how surprise can become a regular dialect in your marriage.",
+    duration: "25 min",
+    prompts: [
+      "What is the best surprise your partner has ever given you, and what made it land so well?",
+      "Do you find it easy or difficult to surprise your partner? What gets in the way?",
+      "How does receiving an unexpected gesture of love affect your sense of being valued in the marriage?",
+      "Together: each of you secretly plan one small surprise for the other this week. Do not reveal what it is — just deliver it."
+    ],
+    reflection: "The surprise is never really about the thing. It is about the message: you live in my thoughts even when we are apart."
+  },
+  {
+    id: 602, day: 146, program: 'marriage-strengthening',
+    title: "Mini-Adventures in Ordinary Life",
+    emoji: "🗺️",
+    tagline: "You do not need to fly somewhere to have an adventure — you just need to choose to see your city with new eyes.",
+    body: "Adventure does not require a plane ticket. It requires a shift in posture — from consuming your environment to exploring it. Today you discover that your own neighborhood, city, or region is full of experiences you have never had together. A new restaurant, an unexplored trail, a neighborhood you have never walked, a local event you have never attended. Mini-adventures keep the spirit of discovery alive.",
+    duration: "25 min",
+    prompts: [
+      "What is something within thirty minutes of your home that you have never explored together?",
+      "How often do you choose the familiar over the new when deciding how to spend time together?",
+      "What would it look like to have one mini-adventure per month as a couple — no planning required, just a willingness to wander?",
+      "Together: this week, go somewhere within your city that neither of you has been before. Document it with a photo."
+    ],
+    reflection: "The couple that explores together stays curious about each other. Curiosity is the engine of lasting love."
+  },
+  {
+    id: 603, day: 147, program: 'marriage-strengthening',
+    title: "Annual Traditions Worth Keeping",
+    emoji: "📅",
+    tagline: "Traditions are not just rituals — they are the architecture of a shared life.",
+    body: "Every great marriage develops its own traditions — anniversary rituals, holiday practices, seasonal rhythms, yearly trips. These traditions create anticipation, continuity, and a sense of shared identity. They give you something to look forward to and something to look back on. Today you evaluate which traditions are serving your marriage and which new ones you want to create.",
+    duration: "30 min",
+    prompts: [
+      "What annual traditions do you currently share as a couple, and which ones bring you the most joy?",
+      "Is there a tradition from your family of origin that you want to carry into your marriage, or one you want to leave behind?",
+      "What new tradition could you start this year that reflects who you are as a couple right now?",
+      "Together: choose one new annual tradition to begin this year. Write it down, name it, and commit to honoring it together."
+    ],
+    reflection: "A marriage without traditions drifts. A marriage with them has anchors in time that keep you connected across the years."
+  },
+  {
+    id: 604, day: 148, program: 'marriage-strengthening',
+    title: "The Joy of Doing Nothing Together",
+    emoji: "☁️",
+    tagline: "The truest intimacy is being comfortable doing absolutely nothing side by side.",
+    body: "Not every moment of connection needs to be active or eventful. Some of the deepest intimacy in marriage happens in the quiet moments — reading in the same room, sitting on the porch in silence, lying on the couch watching rain. The ability to do nothing together without anxiety or boredom is a sign of profound safety. Today you honor that stillness.",
+    duration: "25 min",
+    prompts: [
+      "Are you and your partner comfortable with shared silence, or does one of you tend to fill it?",
+      "What does it feel like when you are doing nothing together and it feels good versus when it feels like disconnection?",
+      "How can you create more space for unstructured, unpressured togetherness in your weekly rhythm?",
+      "Together: spend twenty minutes doing nothing together — no agenda, no screens, no conversation required. Just be near each other."
+    ],
+    reflection: "If you can be bored together and still feel loved, you have something most people never find."
+  },
+  {
+    id: 605, day: 149, program: 'marriage-strengthening',
+    title: "Flirting with the One You Married",
+    emoji: "😏",
+    tagline: "Flirting does not stop at the altar — unless you let it.",
+    body: "Flirting is not just for new relationships. It is the art of communicating desire, delight, and playful attraction — and it should never leave a marriage. When you flirt with your spouse, you are saying: I still see you. I still want you. I still choose you. Today you rekindle the art of flirting within the safety and commitment of your marriage.",
+    duration: "25 min",
+    prompts: [
+      "When was the last time you flirted with your partner — not out of obligation, but because you genuinely felt drawn to them?",
+      "What kind of flirting makes your partner light up — playful teasing, compliments, physical touch, suggestive humor?",
+      "Has flirting faded in your marriage, and if so, what caused it to fade? How might you bring it back?",
+      "Together: flirt with each other today. Send a text that would have made you blush when you were dating. Mean every word."
+    ],
+    reflection: "The marriage where partners still flirt is the marriage where desire has a home. Keep the door open."
+  },
+  {
+    id: 606, day: 150, program: 'marriage-strengthening',
+    title: "Halfway Home — The Marriage You Are Building",
+    emoji: "🏔️",
+    tagline: "One hundred and fifty days in. You are not the same couple who started. Celebrate that.",
+    body: "This is the halfway point of your 365-day marriage-strengthening journey, and it deserves more than a passing nod. One hundred and fifty days ago you made a decision — not just to stay married, but to build something extraordinary by choice. You have done the deep work of emotional honesty, the vulnerable work of intimacy, the structural work of shared vision, and the joyful work of play and adventure. You are not the couple who began this journey. You are the couple that journey has been shaping. Today you pause, take stock, and honor every single day of showing up — especially the hard ones.",
+    duration: "45 min",
+    prompts: [
+      "Look back at who you were as a couple on Day 1. What has changed most profoundly — in yourself, in your partner, and in the space between you?",
+      "What mission or moment from the first 150 days challenged you the most, and what did it teach you about your marriage?",
+      "What are you most proud of — not in your partner, but in yourself — for how you have shown up in this process?",
+      "Together: sit face to face. Each of you share three things you have seen your partner become during this journey. Let them receive it fully. Then say together: 'We are halfway home, and we are not slowing down.'"
+    ],
+    reflection: "Halfway is not a stopping point. It is proof that you are the kind of couple who finishes what you start — together."
+  },
+  {
+    id: 607, day: 151, program: 'marriage-strengthening',
+    title: "Joy as a Marital Discipline",
+    emoji: "✨",
+    tagline: "Joy is not something you wait for. It is something you practice.",
+    body: "In a world that constantly demands your attention and energy, joy does not just happen. It is chosen. It is cultivated. It is protected. The happiest marriages are not the ones with the fewest problems. They are the ones where both partners have learned to find, create, and share joy even in ordinary moments. Today you examine your marriage through the lens of joy — not as an emotion, but as a practice.",
+    duration: "25 min",
+    prompts: [
+      "What brings you the most joy in your marriage right now — not what should bring joy, but what actually does?",
+      "Are there joy-killers in your relationship — habits, patterns, or attitudes that dampen the lightness between you?",
+      "How can you become more intentional about creating joyful moments rather than waiting for them to occur?",
+      "Together: name three small things that reliably bring you both joy. Commit to doing at least one of them this week."
+    ],
+    reflection: "Joy is not the absence of difficulty. It is the presence of two people who refuse to let difficulty steal their delight."
+  },
+  {
+    id: 608, day: 152, program: 'marriage-strengthening',
+    title: "Learning Your Partner's Play Style",
+    emoji: "🎯",
+    tagline: "Not everyone plays the same way — and knowing how your partner plays is an act of love.",
+    body: "Some people play through physical activity. Others through intellectual puzzles, creative expression, social gatherings, or quiet exploration. If you assume your partner plays the way you do, you may be offering them fun they do not actually enjoy. Today you learn — or relearn — how your partner naturally plays, and you offer them that gift.",
+    duration: "25 min",
+    prompts: [
+      "How do you naturally play and unwind? Is it through action, creativity, socializing, or something else entirely?",
+      "How does your partner naturally play, and is it different from your style? How do you honor that difference?",
+      "Have you ever planned something fun for your partner that missed the mark? What did you learn from that?",
+      "Together: each of you describe your ideal playful afternoon in detail. Notice where they overlap and where they diverge."
+    ],
+    reflection: "Loving someone well means learning how they experience delight — and sometimes choosing their version of fun over yours."
+  },
+  {
+    id: 609, day: 153, program: 'marriage-strengthening',
+    title: "The Road Trip Conversation",
+    emoji: "🚗",
+    tagline: "Some of the best conversations of your marriage will happen when you are both staring at the road.",
+    body: "There is something about the car — the forward motion, the side-by-side seating, the absence of eye contact pressure — that unlocks conversation in ways a dinner table sometimes cannot. Road trips, even short ones, create a unique space for talking, dreaming, laughing, and reconnecting. Today you plan or remember a road trip that mattered.",
+    duration: "25 min",
+    prompts: [
+      "What is your favorite road trip memory with your partner? What made it special?",
+      "What do you tend to talk about during long drives together that you rarely discuss at home?",
+      "If you could take a road trip anywhere together this year, where would you go and what would you want to experience along the way?",
+      "Together: plan a drive — even just a few hours — with no destination pressure. Pack snacks, make a playlist, and let the conversation flow."
+    ],
+    reflection: "Sometimes the best way to face each other is to face the same direction together and drive."
+  },
+  {
+    id: 610, day: 154, program: 'marriage-strengthening',
+    title: "Physical Play and Touch",
+    emoji: "🤸",
+    tagline: "Bodies that play together remember that they belong together.",
+    body: "Not every physical connection needs to be sexual. Wrestling on the floor, dancing in the kitchen, playing catch, giving piggyback rides, tickling, or just holding hands while walking — physical play keeps your bodies in conversation. It keeps affection casual and frequent. Today you explore how physical playfulness can remain a living part of your marriage.",
+    duration: "25 min",
+    prompts: [
+      "How physically playful are you and your partner? Has that changed over time?",
+      "What forms of non-sexual physical touch make you feel most connected — holding hands, sitting close, playful roughhousing?",
+      "Is there any physical affection you wish happened more often in your marriage? Have you communicated that?",
+      "Together: engage in some form of physical play today — dance, wrestle, play a sport, or simply hold each other and sway."
+    ],
+    reflection: "Your body knows things your mind forgets. Let it remember the joy of being close."
+  },
+  {
+    id: 611, day: 155, program: 'marriage-strengthening',
+    title: "Humor as a Healing Force",
+    emoji: "💊",
+    tagline: "The couple that can laugh during the hard times has a secret weapon most people never discover.",
+    body: "Humor in the midst of difficulty is not avoidance. When used well, it is resilience. It is the ability to acknowledge that something is hard while also refusing to be crushed by it. Couples who can find moments of levity during stress — not dismissive humor, but shared, compassionate laughter — recover faster and stay more connected through adversity.",
+    duration: "25 min",
+    prompts: [
+      "Can you think of a difficult time when laughter helped you and your partner cope? What happened?",
+      "Is there a type of humor that helps during hard times and a type that hurts? How do you distinguish between them?",
+      "How do you feel when your partner uses humor during a tense moment — relieved, dismissed, or something else?",
+      "Together: recall a hard season you survived and find one moment of humor in it. Let that memory remind you of your resilience."
+    ],
+    reflection: "Laughter in the dark is not denial. It is defiance. It says: this will not take everything from us."
+  },
+  {
+    id: 612, day: 156, program: 'marriage-strengthening',
+    title: "Celebrating Each Other's Wins",
+    emoji: "🥂",
+    tagline: "How you celebrate your partner's success reveals how secure your love really is.",
+    body: "Research by Shelly Gable shows that how partners respond to good news is even more predictive of relationship health than how they respond to bad news. When your partner shares a win and you respond with genuine enthusiasm — active, constructive support — you strengthen the bond. Today you practice being your partner's loudest, most sincere cheerleader.",
+    duration: "25 min",
+    prompts: [
+      "How do you typically respond when your partner shares good news? Is it with full enthusiasm, polite acknowledgment, or something else?",
+      "What recent win has your partner had — big or small — that you may not have celebrated enough?",
+      "How does it feel when your good news is met with genuine excitement versus indifference from your partner?",
+      "Together: each of you name one recent win. Let the other respond with full, exaggerated celebration. Notice how it feels to be cheered for."
+    ],
+    reflection: "The partner who celebrates your wins without jealousy or competition is the partner who truly wants you to thrive."
+  },
+  {
+    id: 613, day: 157, program: 'marriage-strengthening',
+    title: "The Fun Audit",
+    emoji: "📊",
+    tagline: "If your marriage were graded on fun, what score would it get — and what would raise it?",
+    body: "This is the final mission in the fun and adventure arc, and it is time for an honest assessment. Not a guilt trip — an audit. How much genuine fun are you having together? How often do you laugh, play, explore, and surprise each other? Fun is not a luxury in marriage. It is a vital sign. Today you take stock and set intentions for keeping joy alive in every season ahead.",
+    duration: "30 min",
+    prompts: [
+      "On a scale of one to ten, how much genuine fun are you currently having in your marriage? What would move that number up?",
+      "What has been the most fun moment of the last thirty days together?",
+      "What one commitment could you make to each other that would permanently raise the level of joy in your marriage?",
+      "Together: write a 'Fun Contract' — three to five agreements about how you will prioritize play, adventure, and laughter going forward."
+    ],
+    reflection: "A marriage without fun is a marriage running on duty alone. Duty is noble — but joy is what makes you want to stay forever."
+  },
+  {
+    id: 614, day: 158, program: 'marriage-strengthening',
+    title: "Weathering Hard Seasons",
+    emoji: "🌧️",
+    tagline: "The measure of a marriage is not whether storms come — it is how you hold each other through them.",
+    body: "Every marriage will face hard seasons — financial strain, health crises, loss, career upheaval, family conflict. These seasons do not have to break your bond. In fact, they can forge it into something unbreakable. But only if you choose to face them together rather than retreating into isolation or blame. Today you prepare your marriage for the inevitable storms.",
+    duration: "30 min",
+    prompts: [
+      "What is the hardest season your marriage has weathered so far, and what did it teach you about your partnership?",
+      "When difficulty arrives, what is your default response — do you move toward your partner, away from them, or against them?",
+      "What agreements could you make now — before the next storm — about how you will treat each other during hard times?",
+      "Together: create a 'storm protocol' — two or three commitments about how you will show up for each other when life gets hard."
+    ],
+    reflection: "The storm does not get to decide what happens to your marriage. You do."
+  },
+  {
+    id: 615, day: 159, program: 'marriage-strengthening',
+    title: "Repairing After Conflict with Skill",
+    emoji: "🔧",
+    tagline: "The repair is not the failure. The failure is refusing to repair.",
+    body: "John Gottman's research reveals that the ability to make and receive repair attempts is the single most important factor in whether a marriage thrives or deteriorates. Repair is not about who was right. It is about who is willing to reach across the divide and say: you matter more than this argument. Today you sharpen your repair skills.",
+    duration: "30 min",
+    prompts: [
+      "What does a successful repair attempt look like in your marriage? What signals tell you that things are being mended?",
+      "What repair attempts does your partner make that you sometimes miss or reject? How could you receive them more openly?",
+      "What makes it hardest for you to initiate repair after a conflict — pride, fear of rejection, or something else?",
+      "Together: agree on a repair signal — a phrase, a gesture, or an action — that means 'I want to reconnect even though this is hard.'"
+    ],
+    reflection: "Every couple fights. The extraordinary couples are the ones who have learned to come back from it with grace."
+  },
+  {
+    id: 616, day: 160, program: 'marriage-strengthening',
+    title: "The Full Apology",
+    emoji: "🙏",
+    tagline: "A real apology does not defend. It does not deflect. It owns — fully and without condition.",
+    body: "Most apologies fail because they are partial. 'I am sorry, but...' is not an apology. 'I am sorry you felt that way' is not an apology. A full apology names the specific behavior, acknowledges its impact, takes ownership without excuse, expresses genuine remorse, and commits to change. Today you learn the anatomy of an apology that actually heals.",
+    duration: "30 min",
+    prompts: [
+      "What does a meaningful apology look like to you? What elements must it contain for you to feel it is genuine?",
+      "When was the last time you gave a full, unconditional apology — without any 'but' or justification attached?",
+      "Is there something you owe your partner an apology for that you have been avoiding? What makes it hard to say?",
+      "Together: practice the full apology structure — name it, own it, express remorse, commit to change. Start with something small if needed."
+    ],
+    reflection: "The full apology costs you your pride. But it purchases something pride never could — your partner's trust."
+  },
+  {
+    id: 617, day: 161, program: 'marriage-strengthening',
+    title: "Bouncing Back from Disappointment",
+    emoji: "🔄",
+    tagline: "Disappointment is inevitable. How you process it together determines whether it divides or deepens you.",
+    body: "Your partner will disappoint you. You will disappoint them. Plans will fall through, expectations will go unmet, and moments that should have been beautiful will sometimes land flat. The question is not how to avoid disappointment — it is how to metabolize it together without letting it calcify into resentment. Today you practice the art of bouncing back.",
+    duration: "25 min",
+    prompts: [
+      "What recent disappointment — large or small — have you experienced in your marriage? How did you handle it?",
+      "When you are disappointed by your partner, do you tend to express it directly, withdraw, or let it build silently?",
+      "What would it look like to be disappointed and still choose connection — to say 'this hurt' without saying 'you are the problem'?",
+      "Together: share one recent disappointment without blame. Let your partner acknowledge it without defending. Practice receiving each other's honesty."
+    ],
+    reflection: "Disappointment processed together becomes data. Disappointment buried alone becomes distance."
+  },
+  {
+    id: 618, day: 162, program: 'marriage-strengthening',
+    title: "Handling External Pressure Together",
+    emoji: "🛡️",
+    tagline: "The world will press on your marriage from every direction. Your job is to not let it press you apart.",
+    body: "Work stress, family expectations, financial pressure, social obligations, cultural noise — all of these forces push on your marriage from the outside. When couples are not intentional, they begin turning on each other instead of turning toward each other. They blame the partner for the pressure instead of facing the pressure as a team. Today you build your defenses — together.",
+    duration: "25 min",
+    prompts: [
+      "What external pressure is currently putting the most strain on your marriage?",
+      "When you are stressed by outside forces, how does it show up in how you treat your partner?",
+      "What would it look like to face external pressure as allies rather than opponents?",
+      "Together: identify the top external pressure on your marriage right now and create a plan to face it as a united team."
+    ],
+    reflection: "The marriage that faces the world together is the marriage the world cannot break."
+  },
+  {
+    id: 619, day: 163, program: 'marriage-strengthening',
+    title: "Protecting Marriage During Stress",
+    emoji: "🏰",
+    tagline: "Stress does not destroy marriages. Unprotected marriages are destroyed by stress.",
+    body: "When life gets hard, the marriage is often the first thing to be neglected. Date nights get canceled. Conversations get shorter. Patience runs thin. Intimacy disappears. But this is exactly when the marriage needs the most protection — not less. Today you identify the warning signs that stress is eroding your connection and build safeguards against it.",
+    duration: "30 min",
+    prompts: [
+      "What are the first signs that stress is starting to affect the quality of your marriage?",
+      "When life gets overwhelming, which parts of your connection do you tend to sacrifice first?",
+      "What non-negotiable practices could protect your marriage during the busiest and most stressful seasons?",
+      "Together: create a list of three 'marriage non-negotiables' that you will protect even during the hardest times."
+    ],
+    reflection: "The couples who protect their marriage during stress are the ones who still have a marriage when the stress passes."
+  },
+  {
+    id: 620, day: 164, program: 'marriage-strengthening',
+    title: "Showing Up When Your Partner Struggles",
+    emoji: "🤲",
+    tagline: "Your partner does not need you to fix their pain. They need you to sit in it with them.",
+    body: "When your partner is struggling — with work, health, self-doubt, grief, or fear — the greatest gift you can offer is not a solution. It is your presence. Many well-meaning spouses rush to fix, advise, or minimize. But what the struggling partner often needs most is to feel seen, held, and not alone. Today you practice the art of showing up without an agenda.",
+    duration: "25 min",
+    prompts: [
+      "When you are struggling, what does your partner do that makes you feel most supported?",
+      "What do they do with good intentions that actually makes you feel more alone?",
+      "When your partner is in pain, what is your instinct — to fix, to distract, to empathize, or to withdraw?",
+      "Together: ask each other directly: 'When you are hurting, what do you most need from me?' Listen without correcting."
+    ],
+    reflection: "Presence without agenda is the purest form of love. Your partner does not need your answers. They need your arms."
+  },
+  {
+    id: 621, day: 165, program: 'marriage-strengthening',
+    title: "Grief and Loss as a Couple",
+    emoji: "🕊️",
+    tagline: "Grief either isolates or bonds. The difference is whether you grieve alone or together.",
+    body: "Every marriage will encounter loss — the death of a loved one, a miscarriage, the loss of a dream, a friendship ending, a career falling apart. Grief is one of the most disorienting experiences a human can face, and couples often grieve differently. Today you explore how to honor each other's grief without trying to synchronize it.",
+    duration: "30 min",
+    prompts: [
+      "What loss has your marriage faced, and how did you navigate it together? What went well and what was difficult?",
+      "How do you grieve — privately and internally, or openly and expressively? How does your partner grieve?",
+      "What do you need from your partner during grief that you may not have articulated before?",
+      "Together: if you are carrying any unprocessed grief — individually or as a couple — create space to name it. Let it exist without fixing it."
+    ],
+    reflection: "Grief shared is not grief halved. But it is grief held — and sometimes that is the difference between breaking and bending."
+  },
+  {
+    id: 622, day: 166, program: 'marriage-strengthening',
+    title: "Illness and Vulnerability",
+    emoji: "🩺",
+    tagline: "Illness strips away every pretense and reveals the truest version of your partnership.",
+    body: "When one partner gets sick — whether a week-long flu or a chronic condition — the marriage shifts. Roles change. Capacity changes. Fear enters. The healthy partner becomes a caretaker. The sick partner becomes dependent. Both can feel isolated. Today you explore what illness reveals about your marriage and how to navigate vulnerability with grace on both sides.",
+    duration: "25 min",
+    prompts: [
+      "How does your marriage handle illness? Does the sick partner feel cared for? Does the caretaker feel appreciated?",
+      "What does it feel like to be vulnerable and dependent on your partner? Is that easy or excruciating for you?",
+      "What would you want your partner to know if you were facing a serious health challenge?",
+      "Together: discuss how you would want to support each other through a prolonged illness. Make it practical and specific."
+    ],
+    reflection: "The vow said 'in sickness and in health.' Today you are not just reciting that — you are rehearsing it."
+  },
+  {
+    id: 623, day: 167, program: 'marriage-strengthening',
+    title: "When You Are Both Running on Empty",
+    emoji: "🪫",
+    tagline: "Two depleted partners cannot pour from empty cups — but they can hold each other's.",
+    body: "There will be seasons when you are both exhausted. Neither of you has extra to give. The house is a mess, the patience is gone, and the romance is buried under sheer survival. These are the most dangerous seasons for a marriage — not because of conflict, but because of neglect. Today you learn how to stay connected even when you have nothing left to give.",
+    duration: "25 min",
+    prompts: [
+      "When was the last time you and your partner were both running on empty? How did it affect your connection?",
+      "What is the smallest gesture of love that still lands even when you are completely depleted?",
+      "How do you communicate 'I love you but I have nothing left' without your partner hearing 'I do not care'?",
+      "Together: agree on a low-energy ritual of connection — something that requires almost nothing but still says 'I am here.'"
+    ],
+    reflection: "You do not have to be at your best to love well. Sometimes love is just two tired people choosing to be tired together."
+  },
+  {
+    id: 624, day: 168, program: 'marriage-strengthening',
+    title: "Protecting the Marriage from Bitterness",
+    emoji: "⚔️",
+    tagline: "Bitterness does not arrive in one moment. It accumulates in every moment you choose not to address.",
+    body: "Bitterness is the slow poison of marriage. It grows from unspoken resentments, unacknowledged hurts, and the quiet decision to keep score. It masquerades as patience — 'I will just let it go' — but it lets nothing go. It stores everything. Today you examine whether bitterness has taken root in your marriage and commit to pulling it out before it spreads.",
+    duration: "30 min",
+    prompts: [
+      "Is there any bitterness in your marriage right now — toward your partner, toward circumstances, or toward yourself?",
+      "What small resentments have you been 'letting go' that you actually have not released at all?",
+      "What would it take to bring those buried grievances into the light — not to relitigate them, but to finally release them?",
+      "Together: give each other permission to name one thing that has been silently weighing on you. Receive it without defense."
+    ],
+    reflection: "The antidote to bitterness is not silence. It is honest conversation held before the wound becomes a wall."
+  },
+  {
+    id: 625, day: 169, program: 'marriage-strengthening',
+    title: "Fighting Fair When the Stakes Are High",
+    emoji: "⚖️",
+    tagline: "The biggest conflicts require the most discipline — not the least.",
+    body: "Small disagreements are easy to manage. But when the stakes are high — money, parenting, in-laws, career moves, core values — the temptation to fight dirty skyrockets. Contempt, stonewalling, bringing up the past, and character attacks all become more likely. Today you prepare for high-stakes disagreements by agreeing on rules of engagement before the heat arrives.",
+    duration: "30 min",
+    prompts: [
+      "What topics tend to escalate most quickly in your marriage? What makes them so charged?",
+      "When a conflict gets heated, what is the first unfair tactic you tend to reach for — and what does it cost you?",
+      "What rules of engagement would help you both fight fair even when the issue is deeply personal?",
+      "Together: create three to five 'rules of fair fighting' that you both agree to honor. Write them down and revisit them when you need them."
+    ],
+    reflection: "Fighting fair when it is easy is practice. Fighting fair when it is hard is character. Your marriage needs both."
+  },
+  {
+    id: 626, day: 170, program: 'marriage-strengthening',
+    title: "The Power of Forgiveness",
+    emoji: "💛",
+    tagline: "Forgiveness is not pretending it did not happen. It is deciding it will not define what happens next.",
+    body: "Forgiveness in marriage is not a single event. It is a practice — one you will need again and again. It does not mean condoning what happened, forgetting the pain, or skipping accountability. It means choosing to release the debt so that the future is not held hostage by the past. Today you explore what real forgiveness looks like in your marriage — and whether there is any forgiveness still waiting to be given or received.",
+    duration: "30 min",
+    prompts: [
+      "What does forgiveness mean to you in the context of marriage? How do you know when you have truly forgiven?",
+      "Is there anything in your marriage you are still holding onto — not out of malice, but because forgiveness feels incomplete?",
+      "What makes it hardest for you to forgive — fear it will happen again, unresolved pain, or a sense that forgiveness lets them off the hook?",
+      "Together: if there is something that needs forgiving, create space to name it. If forgiveness has already been given, express gratitude for that grace."
+    ],
+    reflection: "Forgiveness is the most expensive gift you will ever give your marriage. It is also the one with the highest return."
+  },
+  {
+    id: 627, day: 171, program: 'marriage-strengthening',
+    title: "Showing Up After You Have Let Them Down",
+    emoji: "🪜",
+    tagline: "The most courageous act in marriage is showing up the day after you failed.",
+    body: "You will fail your partner. Not might — will. You will forget something important. You will say something careless. You will be absent when they needed you present. The question is not whether you will let them down. It is whether you will show up the next morning with humility, ownership, and renewed intention. Today you learn the art of showing up after falling short.",
+    duration: "25 min",
+    prompts: [
+      "When you have let your partner down, what does your instinct tell you to do — apologize immediately, withdraw, overcompensate, or minimize?",
+      "What does your partner most need from you in the aftermath of a letdown? Have you ever asked them directly?",
+      "What does it feel like to receive grace from your partner after failing them? How does that grace shape your desire to do better?",
+      "Together: name a time one of you showed up beautifully after a failure. Let that be a model for the future."
+    ],
+    reflection: "Your partner does not need you to be perfect. They need you to be the kind of person who comes back and tries again."
+  },
+  {
+    id: 628, day: 172, program: 'marriage-strengthening',
+    title: "When the World Turns Against You",
+    emoji: "🌪️",
+    tagline: "There will be seasons when it feels like everything is going wrong — and your marriage is the last thing standing.",
+    body: "Job loss, betrayal by a friend, legal trouble, public embarrassment, family rejection — some seasons assault you from every side simultaneously. In these moments, the marriage becomes either a bunker or a battleground. Today you commit to being each other's shelter when the world offers none.",
+    duration: "25 min",
+    prompts: [
+      "Have you ever faced a season where it felt like everything outside the marriage was falling apart? How did you hold onto each other?",
+      "When external chaos increases, does your marriage tend to draw closer or drift apart?",
+      "What does your partner do during crisis that makes you feel safest?",
+      "Together: make a pact — when the world turns on us, we do not turn on each other. Say it out loud. Mean it."
+    ],
+    reflection: "The marriage that can be a refuge during the worst seasons becomes unshakable during every other season."
+  },
+  {
+    id: 629, day: 173, program: 'marriage-strengthening',
+    title: "The Long View of Commitment",
+    emoji: "🔭",
+    tagline: "Commitment is not a feeling you sustain. It is a structure you build that holds you when feelings fluctuate.",
+    body: "There will be days when commitment is all you have. Not passion, not excitement, not even warmth — just the decision you made and the integrity to honor it. These days are not signs of failure. They are signs of maturity. Commitment is the bedrock that lets everything else grow. Today you examine your relationship with commitment itself — not as a cage, but as a cathedral.",
+    duration: "30 min",
+    prompts: [
+      "What does commitment mean to you at this stage of your marriage — and how has that meaning evolved since your wedding day?",
+      "Have there been moments when commitment alone carried you through a difficult stretch? What did that feel like?",
+      "What is the difference between staying out of obligation and staying out of devotion? Where do you live right now?",
+      "Together: reaffirm your commitment in your own words. Not the vows someone else wrote for you — the vows that reflect who you are now."
+    ],
+    reflection: "Commitment is not the absence of choice. It is the deepest choice you make — every single day."
+  },
+  {
+    id: 630, day: 174, program: 'marriage-strengthening',
+    title: "The Conversation You Keep Avoiding",
+    emoji: "🚪",
+    tagline: "Behind every avoided conversation is a marriage waiting to become more honest.",
+    body: "Most couples have at least one conversation they keep putting off. It might be about money, intimacy, a relationship with an in-law, a parenting disagreement, or a dream that feels too vulnerable to share. The avoidance feels protective, but it creates distance. Today you move toward the conversation you have been circling — not to resolve it perfectly, but to begin it bravely.",
+    duration: "30 min",
+    prompts: [
+      "What conversation have you been avoiding with your partner, and what are you afraid will happen if you have it?",
+      "What is the cost of continuing to avoid this conversation — on your peace, your closeness, and your honesty?",
+      "How can you open this conversation in a way that feels safe rather than confrontational?",
+      "Together: name the conversation that has been waiting. You do not have to finish it today. But you must start it."
+    ],
+    reflection: "Avoidance is not peace. It is tension with a longer fuse. Have the conversation before the fuse runs out."
+  },
+  {
+    id: 631, day: 175, program: 'marriage-strengthening',
+    title: "Rebuilding Trust After a Breach",
+    emoji: "🧱",
+    tagline: "Trust is rebuilt not with promises but with consistent, visible action over time.",
+    body: "Trust can be damaged by infidelity, but also by financial dishonesty, broken promises, emotional withdrawal, or chronic unreliability. Whatever the breach, rebuilding trust follows the same pattern: acknowledgment, accountability, transparency, patience, and sustained changed behavior. There are no shortcuts. Today you examine the current state of trust in your marriage and address any areas where rebuilding is needed.",
+    duration: "30 min",
+    prompts: [
+      "On a scale of one to ten, how strong is the trust in your marriage right now? What would move it higher?",
+      "If trust has been damaged, what specific actions would help rebuild it — not vague promises, but concrete behaviors?",
+      "What does it feel like to be the one rebuilding trust? What does it feel like to be the one deciding whether to extend it?",
+      "Together: if there is a trust deficit in your marriage, name it honestly. Then agree on three specific, observable actions that will help repair it."
+    ],
+    reflection: "Trust rebuilt after a breach can become stronger than trust that was never tested. But only if the rebuilding is real."
+  },
+  {
+    id: 632, day: 176, program: 'marriage-strengthening',
+    title: "Gratitude as Armor",
+    emoji: "🛡️",
+    tagline: "Gratitude does not ignore what is hard. It refuses to let what is hard eclipse what is good.",
+    body: "During resilience-building, gratitude becomes more than a nice practice. It becomes a survival skill. The couples who name what is working, who acknowledge each other's effort, and who refuse to reduce their marriage to its worst moments are the couples who endure. Today you put on gratitude as armor — not because everything is perfect, but because what you have is worth protecting.",
+    duration: "25 min",
+    prompts: [
+      "What are three things your partner does consistently that you may not acknowledge enough?",
+      "How does expressing gratitude during a hard season feel different from expressing it during an easy one?",
+      "What would change in your marriage if you both committed to naming one thing you are grateful for every day?",
+      "Together: look each other in the eyes and each share three specific things you are grateful for about the other. Do not rush it."
+    ],
+    reflection: "Gratitude does not fix a struggling marriage. But it reminds you of everything worth fighting for."
+  },
+  {
+    id: 633, day: 177, program: 'marriage-strengthening',
+    title: "The Marriage You Will Have in Twenty Years",
+    emoji: "🌅",
+    tagline: "The marriage you are building today is the marriage you will be living in two decades. Choose wisely.",
+    body: "It is easy to get trapped in the present — the current argument, the current stress, the current season. But marriages are long stories, and today is one chapter. When you zoom out and imagine your marriage twenty years from now, what do you see? Who are you? How do you treat each other? What have you built? Today you make decisions not for this week but for the decades ahead.",
+    duration: "30 min",
+    prompts: [
+      "Close your eyes. Picture your marriage twenty years from now at its absolute best. What does it look like?",
+      "What habits or patterns in your current marriage would you need to change to build that future?",
+      "What do you want your partner to say about you as a spouse when looking back on decades of marriage?",
+      "Together: describe your twenty-year marriage vision to each other. Notice where your visions align and where they need conversation."
+    ],
+    reflection: "Every day you are either building toward or drifting from the marriage you most want. Today you choose to build."
+  },
+  {
+    id: 634, day: 178, program: 'marriage-strengthening',
+    title: "Informally Renewing Your Vows",
+    emoji: "💍",
+    tagline: "You do not need a ceremony to recommit. You just need the courage to say it again and mean it more.",
+    body: "Your wedding vows were spoken at the beginning, before you knew what marriage would ask of you. Now you know. You have lived through the hard days, the beautiful days, the mundane days, and the impossible days. The vows mean something different now — something deeper and more costly. Today you renew them informally, in your own words, shaped by everything you have learned.",
+    duration: "35 min",
+    prompts: [
+      "If you were to rewrite your vows today based on everything you now know, what would you say?",
+      "What part of your original vows has been the hardest to keep? What part have you exceeded beyond what you imagined?",
+      "What new promise do you want to make to your partner that was not in the original vows?",
+      "Together: face each other. Speak your renewed vows out loud — not rehearsed, not perfect. Just true."
+    ],
+    reflection: "A vow renewed after suffering carries more weight than a vow spoken in innocence. Speak it. Mean it. Live it."
+  },
+  {
+    id: 635, day: 179, program: 'marriage-strengthening',
+    title: "The Resilience You Have Built",
+    emoji: "💪",
+    tagline: "You have not just survived hard seasons. You have become the kind of couple that can.",
+    body: "Look at what you have weathered. Look at the conflicts you have repaired, the grief you have held, the pressures you have withstood, and the forgiveness you have extended. This is not just endurance. This is resilience — the proven ability to absorb difficulty and emerge stronger. Today you name and honor the resilience you have built together.",
+    duration: "25 min",
+    prompts: [
+      "What challenge has your marriage overcome that once felt like it might break you?",
+      "What resilience skill has grown the most in your marriage — repair, forgiveness, communication, patience, or something else?",
+      "How does knowing your marriage is resilient change how you face future uncertainty?",
+      "Together: name the three hardest moments of your marriage and acknowledge that you survived each one. Let that be evidence of your strength."
+    ],
+    reflection: "Resilience is not toughness. It is tenderness that refuses to quit. You have proven you have it."
+  },
+  {
+    id: 636, day: 180, program: 'marriage-strengthening',
+    title: "Choosing Each Other Again",
+    emoji: "🔥",
+    tagline: "Every marriage is sustained by one decision made a thousand times: I choose you. Again. Still. Always.",
+    body: "You did not just choose each other once. You have chosen each other every day you stayed, every argument you repaired, every difficult conversation you leaned into, every morning you woke up and decided this marriage was worth your best effort. That daily choice is the most romantic thing about your marriage — more than any gesture, any gift, any grand moment. Today you make that choice conscious, deliberate, and spoken.",
+    duration: "30 min",
+    prompts: [
+      "What does it mean to you to choose your partner — not once, but repeatedly?",
+      "Has there been a moment when choosing your partner required real courage? What kept you choosing?",
+      "What makes you most grateful to have been chosen by your partner?",
+      "Together: hold each other's hands. Look at each other. Say it plainly: 'I choose you. Not because I have to. Because I want to. Still.'"
+    ],
+    reflection: "The love that lasts is not the love that never wavers. It is the love that wavers and then chooses to stay."
+  },
+  {
+    id: 637, day: 181, program: 'marriage-strengthening',
+    title: "Six Months In — Taking Stock",
+    emoji: "📖",
+    tagline: "You have been doing this for half a year. Let that land.",
+    body: "Six months. One hundred and eighty days of intentional, disciplined, courageous marriage work. You have explored emotional honesty, physical intimacy, shared vision, fun and adventure, and resilience under pressure. You are not the same people who started this journey, and your marriage is not the same marriage. Today you take an honest, loving inventory of where you stand.",
+    duration: "40 min",
+    prompts: [
+      "What single word would you use to describe your marriage right now compared to six months ago?",
+      "What area of your marriage has grown the most during this journey — emotional, physical, spiritual, or practical?",
+      "What area still needs the most attention as you move into the final stretch?",
+      "Together: each of you share the one thing you are most proud of in your partner's growth. Then name one area you want to keep growing together."
+    ],
+    reflection: "Half a year of showing up. That is not a statistic. That is a testament to who you are becoming together."
+  },
+  {
+    id: 638, day: 182, program: 'marriage-strengthening',
+    title: "What Is Working — Protect It",
+    emoji: "🔒",
+    tagline: "Do not only fix what is broken. Fiercely protect what is thriving.",
+    body: "In the pursuit of growth, couples often focus exclusively on problems and neglect the practices that are already working. This is a mistake. The habits, rhythms, and patterns that are currently strengthening your marriage are just as important as the areas that need attention. Today you identify what is working and commit to protecting it with the same energy you bring to fixing what is not.",
+    duration: "25 min",
+    prompts: [
+      "What three habits or practices have most strengthened your marriage during this journey?",
+      "What is your partner doing consistently well that you want to make sure they know you notice and value?",
+      "What would you lose if you stopped protecting what is currently working?",
+      "Together: list five things that are working in your marriage right now. Agree to protect each one with the same urgency you bring to solving problems."
+    ],
+    reflection: "A garden that is only weeded but never watered will die just as surely as one overrun with weeds. Water what is growing."
+  },
+  {
+    id: 639, day: 183, program: 'marriage-strengthening',
+    title: "What Still Needs Tending",
+    emoji: "🌱",
+    tagline: "Honesty about what still needs work is not discouragement. It is devotion.",
+    body: "Alongside celebrating what is working, today you honestly name what still needs tending. Not with shame, not with blame, but with the clear-eyed devotion of gardeners who know that some plants take longer to bloom. Perhaps intimacy still feels guarded. Perhaps communication still breaks down under stress. Perhaps a specific wound still aches. Whatever it is, naming it is the first step to healing it.",
+    duration: "30 min",
+    prompts: [
+      "What aspect of your marriage still feels underdeveloped or fragile despite the work you have done?",
+      "What is keeping that area from growing — fear, avoidance, skill gaps, or unresolved pain?",
+      "What specific support — from each other, from a counselor, from a mentor — would help that area flourish?",
+      "Together: name one area that still needs tending. Approach it as partners, not critics. Make a plan to address it in the months ahead."
+    ],
+    reflection: "The courage to name what is still unfinished is the same courage that will finish it."
+  },
+  {
+    id: 640, day: 184, program: 'marriage-strengthening',
+    title: "Setting Intentions for the Final Stretch",
+    emoji: "🎯",
+    tagline: "You have one hundred and eighty-one days remaining. What will you make of them?",
+    body: "The final stretch of this journey is not a wind-down. It is an intensification. The foundation is built, the skills are sharpened, the resilience is tested. Now you go deeper. Today you set clear intentions for the remaining months — not vague hopes, but specific commitments about what you want your marriage to become by Day 365.",
+    duration: "30 min",
+    prompts: [
+      "What do you want your marriage to look like on Day 365 that it does not look like today?",
+      "What personal growth do you want to bring to the remaining journey — not just for the marriage, but for yourself within it?",
+      "What is one bold commitment you are willing to make for the final stretch?",
+      "Together: write three shared intentions for the months ahead. Post them somewhere visible. Let them guide you."
+    ],
+    reflection: "Intention without action is a wish. Intention with commitment is a blueprint. Build accordingly."
+  },
+  {
+    id: 641, day: 185, program: 'marriage-strengthening',
+    title: "The Practices You Will Keep Forever",
+    emoji: "♾️",
+    tagline: "This program ends in six months. The practices you are building should not.",
+    body: "Of all the habits, conversations, and disciplines you have encountered in the first one hundred and eighty-four days, some will naturally become permanent fixtures in your marriage. Others will fade. Today you identify the practices that have made the biggest difference and commit to carrying them beyond this program. This is how transformation becomes lifestyle.",
+    duration: "25 min",
+    prompts: [
+      "What practice from this journey has made the single biggest difference in your marriage?",
+      "What conversation rhythm — daily check-ins, weekly reviews, monthly deeper dives — do you want to maintain permanently?",
+      "What would happen to your marriage if you stopped all intentional practices once this program ends?",
+      "Together: choose three practices to make permanent. Schedule them. Treat them as non-negotiable parts of your married life."
+    ],
+    reflection: "The program is temporary. The marriage is forever. Build practices that last as long as your commitment."
+  },
+  {
+    id: 642, day: 186, program: 'marriage-strengthening',
+    title: "A Letter to Your Future Marriage",
+    emoji: "✉️",
+    tagline: "Write to the marriage you are becoming — so it knows what you expect of it.",
+    body: "Today is a creative exercise with profound purpose. You are going to write a letter — not to your partner, but to your marriage itself. Address it to the entity you are building together. Tell it what you expect from it, what you are willing to give to it, and what you refuse to let it become. This letter is a time capsule of your current devotion and a compass for the road ahead.",
+    duration: "30 min",
+    prompts: [
+      "If your marriage were a living entity, what would you thank it for?",
+      "What would you ask your future marriage to protect — what qualities, habits, or values must never be lost?",
+      "What would you warn your future marriage about — what threats should it never underestimate?",
+      "Together: each of you write a short letter to your marriage. Read them to each other. Keep them somewhere you can revisit on Day 365."
+    ],
+    reflection: "A marriage that knows what it is meant to be has a compass even in the fog. Your letter is that compass."
+  },
+  {
+    id: 643, day: 187, program: 'marriage-strengthening',
+    title: "Ready for the Deep — The Final Stretch Begins",
+    emoji: "🌊",
+    tagline: "The first six months prepared you. The next six months will transform you.",
+    body: "You stand at the beginning of the final half of your marriage-strengthening journey. Everything that came before — the emotional foundations, the intimacy work, the vision-building, the play, the resilience — was preparation for what comes next. The final stretch goes deeper into legacy, purpose, spiritual connection, sexuality, leadership, and the kind of marriage that shapes generations. You are ready. Not because it will be easy, but because you have proven you can do hard, beautiful things together.",
+    duration: "30 min",
+    prompts: [
+      "What are you most looking forward to in the final half of this journey?",
+      "What are you most nervous about exploring — and what does that nervousness reveal about where you need to grow?",
+      "What would it mean for your marriage — and your family, your legacy, your community — if you fully committed to this final stretch?",
+      "Together: stand together. Hold hands. Say: 'We are ready for the deep.' Then step in."
+    ],
+    reflection: "The shallow end is behind you. What lies ahead requires everything you have become. You are ready."
+  },
+  {
+    id: 644, day: 188, program: 'marriage-strengthening',
+    title: "The Legacy Question",
+    emoji: "🏛️",
+    tagline: "What will your marriage leave behind?",
+    body: "Every marriage creates a legacy — whether intentionally or by accident. Tonight you begin the work of choosing yours. What do you want people to say about your marriage in fifty years? What values, traditions, and truths do you want to echo through your family line long after you are gone? This is not about perfection. It is about purpose.",
+    duration: "30 min",
+    prompts: [
+      "When people look at our marriage, what do you hope they see?",
+      "What is one value you want our family to be known for — generations from now?",
+      "What legacy did your parents' marriage leave you, and what do you want to do differently?",
+      "If our marriage had a mission statement, what would it say?"
+    ],
+    reflection: "A marriage without legacy awareness drifts. A marriage with it builds something that outlasts both of you."
+  },
+  {
+    id: 645, day: 189, program: 'marriage-strengthening',
+    title: "Building Something Bigger",
+    emoji: "🌍",
+    tagline: "Your marriage is not just for you.",
+    body: "The strongest marriages eventually realize they exist for more than the two people inside them. Your love has the power to heal, inspire, mentor, and serve. Tonight, explore what it would look like to build something together — a project, a cause, a tradition, a movement — that channels your partnership into the world.",
+    duration: "25 min",
+    prompts: [
+      "What cause or mission stirs both of our hearts?",
+      "If we could build one thing together that served our community, what would it be?",
+      "How does our marriage already impact others — even if we haven't named it?",
+      "What would it take for us to move from dreaming about impact to actually creating it?"
+    ],
+    reflection: "A couple that builds something bigger than themselves never runs out of reasons to stay connected."
+  },
+  {
+    id: 646, day: 190, program: 'marriage-strengthening',
+    title: "The Mentoring Marriage",
+    emoji: "🤝",
+    tagline: "Who is watching your love story?",
+    body: "Whether you know it or not, younger couples are watching you. Your children, your nieces and nephews, your friends' relationships — they are all quietly taking notes. Tonight, talk about what it would mean to intentionally mentor another couple. Not from a place of perfection, but from a place of honesty and hard-won wisdom.",
+    duration: "25 min",
+    prompts: [
+      "Is there a younger couple in our lives who could benefit from our experience?",
+      "What is the most important lesson our marriage has taught us that we could pass on?",
+      "What holds us back from being more open about our journey as a couple?",
+      "How would mentoring another couple actually strengthen our own marriage?"
+    ],
+    reflection: "Teaching what you have learned is one of the deepest ways to honor the work you have done together."
+  },
+  {
+    id: 647, day: 191, program: 'marriage-strengthening',
+    title: "Generational Patterns",
+    emoji: "🔗",
+    tagline: "Break what needs breaking. Keep what deserves keeping.",
+    body: "Every family carries patterns across generations — some beautiful, some destructive. Tonight, trace the patterns you each inherited and decide together which ones stay and which ones end with you. This is sacred, generational work. The cycles you break tonight will never reach your children.",
+    duration: "30 min",
+    prompts: [
+      "What is one beautiful pattern from your family of origin that you want to carry forward?",
+      "What is one painful pattern you are committed to ending in our family line?",
+      "Where have we already broken a generational cycle together — and how does that feel?",
+      "What new pattern do we want to be the first generation to establish?"
+    ],
+    reflection: "You are not just building a marriage. You are editing a generational story — and every edit matters."
+  },
+  {
+    id: 648, day: 192, program: 'marriage-strengthening',
+    title: "Family Traditions Worth Creating",
+    emoji: "🕯️",
+    tagline: "Traditions are love made repeatable.",
+    body: "The traditions you create now will become the memories your family treasures forever. Some will be grand. Most will be small — a Sunday morning ritual, a birthday tradition, a way you celebrate each other that belongs only to your family. Tonight, dream together about the traditions you want to anchor your family's identity.",
+    duration: "25 min",
+    prompts: [
+      "What is one tradition from your childhood that you want to bring into our family?",
+      "What is a new tradition we could start this month that would bring us closer?",
+      "What holiday or seasonal tradition do you wish we had?",
+      "How do we make sure our traditions reflect who we actually are — not just what looks good?"
+    ],
+    reflection: "The families that endure are the ones that ritualize their love. Start building yours tonight."
+  },
+  {
+    id: 649, day: 193, program: 'marriage-strengthening',
+    title: "Your Shared Purpose",
+    emoji: "🧭",
+    tagline: "A marriage without shared purpose eventually becomes a roommate arrangement.",
+    body: "Shared purpose is the engine of a lasting marriage. It is what keeps you rowing in the same direction when the current gets rough. Tonight, get honest about whether you are currently aligned — and if not, begin the work of finding your way back to a shared 'why.'",
+    duration: "30 min",
+    prompts: [
+      "Do you feel like we are currently rowing in the same direction? Why or why not?",
+      "What shared goal or dream excites both of us right now?",
+      "Where have we drifted into separate purposes — and what brought us there?",
+      "What would it look like for us to wake up every day with a shared sense of mission?"
+    ],
+    reflection: "Purpose is not found once. It is renegotiated across seasons. The couples who thrive are the ones who keep renegotiating."
+  },
+  {
+    id: 650, day: 194, program: 'marriage-strengthening',
+    title: "Your Marriage and Your Community",
+    emoji: "🏘️",
+    tagline: "Strong marriages build strong neighborhoods.",
+    body: "Your marriage does not exist in a vacuum. It exists inside a neighborhood, a church, a school community, a friend group, a workplace ecosystem. Tonight, talk about how your marriage shows up in your community — and how your community shows up in your marriage. Both directions matter.",
+    duration: "25 min",
+    prompts: [
+      "How does our community support our marriage — and where does it fall short?",
+      "How does our marriage contribute to the health of our community?",
+      "Are there relationships in our community that drain us as a couple? How do we handle that?",
+      "What is one way we could serve our community together this month?"
+    ],
+    reflection: "A marriage that serves only itself eventually starves. A marriage that serves others finds nourishment everywhere."
+  },
+  {
+    id: 651, day: 195, program: 'marriage-strengthening',
+    title: "Values You Want to Pass Down",
+    emoji: "📜",
+    tagline: "Your children will not remember your lectures. They will remember your living.",
+    body: "The values you live — not the ones you talk about — are the ones your children will inherit. Tonight, identify the core values you want to define your family. Then ask the harder question: are you actually living them? The gap between stated values and lived values is where generational confusion begins.",
+    duration: "30 min",
+    prompts: [
+      "What are three values we want our family to be known for?",
+      "Which of those values are we already modeling well?",
+      "Which value do we talk about but struggle to consistently live?",
+      "How can we close the gap between what we say and what we do?"
+    ],
+    reflection: "Values are not inherited through words. They are inherited through watching two people live them out — especially when it is hard."
+  },
+  {
+    id: 652, day: 196, program: 'marriage-strengthening',
+    title: "The Story Your Marriage Tells",
+    emoji: "📖",
+    tagline: "Every marriage is a story. What genre is yours?",
+    body: "If someone wrote a book about your marriage, what kind of story would it be? A redemption arc? A slow-burn romance? A comedy of errors? A hero's journey? Tonight, narrate your own love story back to each other — and notice which chapters you are proud of, which ones you would rewrite, and where the plot is heading next.",
+    duration: "25 min",
+    prompts: [
+      "If our marriage were a book, what would the title be?",
+      "What chapter are we in right now — and what is it about?",
+      "Which chapter of our story are you most proud of?",
+      "What do you want the next chapter to be about?"
+    ],
+    reflection: "You are both the authors and the characters of your love story. Write the next chapter on purpose."
+  },
+  {
+    id: 653, day: 197, program: 'marriage-strengthening',
+    title: "Financial Legacy",
+    emoji: "💰",
+    tagline: "Money reveals what you truly value.",
+    body: "Financial legacy is not just about wealth — it is about wisdom. It is about the relationship with money you model for your children and the financial foundation you build for generations to come. Tonight, talk honestly about your financial values, your fears, and your dreams. This is one of the most important legacy conversations you will ever have.",
+    duration: "30 min",
+    prompts: [
+      "What is the financial legacy you each inherited from your families — and how has it shaped you?",
+      "What financial wisdom do we want to pass down to our children?",
+      "Where are we aligned financially — and where do we need more honest conversation?",
+      "What would 'financial peace' actually look like for our family?"
+    ],
+    reflection: "The way you handle money together teaches your children more about values than any lecture ever could."
+  },
+  {
+    id: 654, day: 198, program: 'marriage-strengthening',
+    title: "Spiritual Legacy",
+    emoji: "✨",
+    tagline: "What you believe together shapes everything you build.",
+    body: "Whether you share a faith tradition, a spiritual practice, or a philosophical framework, the spiritual dimension of your marriage matters deeply. It is the invisible architecture beneath everything visible. Tonight, explore what you believe together — and how those beliefs shape the legacy you are building.",
+    duration: "30 min",
+    prompts: [
+      "What spiritual or philosophical beliefs anchor our marriage?",
+      "How do we want to nurture the spiritual life of our family?",
+      "Where are we spiritually aligned — and where do we differ? How do we honor both?",
+      "What spiritual practice could we begin together that would deepen our connection?"
+    ],
+    reflection: "A marriage built on shared spiritual ground can weather any storm — because the foundation goes deeper than circumstances."
+  },
+  {
+    id: 655, day: 199, program: 'marriage-strengthening',
+    title: "Leading as a Couple",
+    emoji: "👑",
+    tagline: "Leadership begins at home.",
+    body: "The world needs more couples who lead well together — not from ego, but from alignment. Tonight, explore what leadership looks like in your marriage. Who leads where? How do you make decisions? Where does one partner need to step up and the other step back? Great couples are great leadership teams.",
+    duration: "25 min",
+    prompts: [
+      "In what areas do you naturally lead in our marriage — and in what areas do I?",
+      "Where do we struggle with shared decision-making?",
+      "What does healthy leadership look like in a marriage — and what does unhealthy leadership look like?",
+      "How can we lead our family more intentionally as a unified team?"
+    ],
+    reflection: "A marriage where both partners lead from their strengths is a family where everyone thrives."
+  },
+  {
+    id: 656, day: 200, program: 'marriage-strengthening',
+    title: "The Home You Have Created",
+    emoji: "🏡",
+    tagline: "A home is not a house. It is a feeling.",
+    body: "You have created something sacred: a home. Not just a physical space, but an emotional atmosphere — a place where people feel something when they walk in. Tonight, celebrate what your home has become and dream about what you want it to feel like in the years ahead.",
+    duration: "25 min",
+    prompts: [
+      "What do you love most about the home we have created together?",
+      "What feeling do you want people to experience when they enter our home?",
+      "What is one thing we could change about our home environment that would improve our daily life?",
+      "How does our home reflect who we are as a couple — and who we are becoming?"
+    ],
+    reflection: "The home you create together is the first legacy your children will ever know. Make it feel like love."
+  },
+  {
+    id: 657, day: 201, program: 'marriage-strengthening',
+    title: "Your Marriage and the World",
+    emoji: "🌐",
+    tagline: "A thriving marriage is a revolutionary act.",
+    body: "In a world that often cheapens commitment, your marriage is a radical statement. Every day you choose each other, you push back against cynicism and apathy. Tonight, reflect on the broader impact of your commitment — not with arrogance, but with awareness that what you are building matters far beyond your front door.",
+    duration: "25 min",
+    prompts: [
+      "How does the state of our marriage affect the people closest to us?",
+      "In what ways is choosing to stay committed a countercultural act?",
+      "What message does our marriage send to the next generation?",
+      "How can we be more intentional about the ripple effects of our love?"
+    ],
+    reflection: "You may never know the full impact of your marriage on the world. But the world is watching — and it needs what you are building."
+  },
+  {
+    id: 658, day: 202, program: 'marriage-strengthening',
+    title: "Writing Your Family Creed",
+    emoji: "🖋️",
+    tagline: "Put your values on paper. Make them permanent.",
+    body: "Tonight you will do something most families never do: write a family creed. This is a short, powerful statement of who you are, what you stand for, and what you are building together. Frame it. Revisit it. Let it become the document your family returns to when the world gets loud.",
+    duration: "30 min",
+    prompts: [
+      "What are the three to five non-negotiable principles of our family?",
+      "How do we want to treat each other — even when it is hard?",
+      "What is our family's relationship to the outside world?",
+      "Draft your creed together. Start with: 'In this family, we...'"
+    ],
+    reflection: "A family creed is not a wish list. It is a declaration. Write it like you mean it — because your grandchildren may read it someday."
+  },
+  {
+    id: 659, day: 203, program: 'marriage-strengthening',
+    title: "The Elders in Your Story",
+    emoji: "🌳",
+    tagline: "Honor those who paved the way — even imperfectly.",
+    body: "Every couple stands on the shoulders of those who came before — parents, grandparents, mentors, elders who modeled love in whatever way they could. Tonight, honor the elders in your story. Name what they gave you. Name what they could not give. And decide what you will carry forward.",
+    duration: "25 min",
+    prompts: [
+      "Which elder couple most influenced your understanding of marriage?",
+      "What is one gift you received from watching an older couple love each other?",
+      "What wound or gap from your elders' marriages do you want to heal in your own?",
+      "How can we honor the imperfect love that came before us while building something even stronger?"
+    ],
+    reflection: "Gratitude for those who came before — even when their love was flawed — is one of the most mature things a couple can practice."
+  },
+  {
+    id: 660, day: 204, program: 'marriage-strengthening',
+    title: "Teaching Your Children About Love",
+    emoji: "🌱",
+    tagline: "Your marriage is your children's first textbook on love.",
+    body: "Your children are learning about love, conflict, repair, affection, and commitment by watching you every single day. Tonight, talk about what lessons your marriage is currently teaching — and whether those are the lessons you actually want to pass down.",
+    duration: "25 min",
+    prompts: [
+      "What is our marriage currently teaching our children about how partners treat each other?",
+      "What lesson about love do you most want our children to carry into their own relationships?",
+      "Is there anything we do in front of our children that we should change?",
+      "How can we be more intentional about modeling healthy love?"
+    ],
+    reflection: "Children do not learn love from conversations. They learn it from watching two people choose each other — again and again."
+  },
+  {
+    id: 661, day: 205, program: 'marriage-strengthening',
+    title: "The Couple You Admire",
+    emoji: "🌟",
+    tagline: "Find a marriage worth studying.",
+    body: "Every great couple has at least one other couple they look up to — a marriage that inspires them to keep going. Tonight, name the couples you admire and explore what makes their relationship worthy of your respect. Then ask: what can you learn from them?",
+    duration: "25 min",
+    prompts: [
+      "Which couple do you most admire — and what specifically inspires you about their marriage?",
+      "What do they do that we could learn from?",
+      "Have we ever told them how much their marriage means to us?",
+      "What would it look like to have a closer relationship with a couple we admire?"
+    ],
+    reflection: "Isolation is the enemy of great marriages. Surround yourselves with couples who make you want to be better."
+  },
+  {
+    id: 662, day: 206, program: 'marriage-strengthening',
+    title: "Hospitality as Legacy",
+    emoji: "🍽️",
+    tagline: "An open table is an open heart.",
+    body: "Some of the most powerful legacies are built around a table. The families who open their homes, who feed people, who create space for conversation and belonging — they change communities. Tonight, talk about what hospitality means to you as a couple and how your home can become a place of gathering and grace.",
+    duration: "25 min",
+    prompts: [
+      "What role does hospitality play in our marriage and family life?",
+      "What is your favorite memory of welcoming someone into our home?",
+      "How could we be more intentional about opening our home to others?",
+      "What would it look like if hospitality became one of our family's signature values?"
+    ],
+    reflection: "The table you set today becomes the memory someone carries for a lifetime. Open your doors more often."
+  },
+  {
+    id: 663, day: 207, program: 'marriage-strengthening',
+    title: "Creating a Giving Strategy Together",
+    emoji: "💝",
+    tagline: "Generosity is the overflow of a full marriage.",
+    body: "How you give — your time, your money, your energy, your attention — reveals what your marriage is truly about. Tonight, create a giving strategy together. Not a budget line item, but a philosophy of generosity that reflects your deepest values as a couple.",
+    duration: "30 min",
+    prompts: [
+      "What does generosity mean to each of us — and where did we learn that?",
+      "Where are we currently generous — and where could we grow?",
+      "If we could support one cause or organization together, what would it be?",
+      "How do we teach our children about giving without making it performative?"
+    ],
+    reflection: "A marriage that gives generously never runs dry. Generosity creates its own abundance."
+  },
+  {
+    id: 664, day: 208, program: 'marriage-strengthening',
+    title: "Your Marriage Anthem",
+    emoji: "🎵",
+    tagline: "If your marriage had a soundtrack, what would be playing?",
+    body: "Music has a way of capturing what words alone cannot. Tonight, choose a song — or a few songs — that represent your marriage. Not just a wedding song, but a song for this season. A song that captures the fight, the tenderness, the hope, the grit of what you are building together.",
+    duration: "25 min",
+    prompts: [
+      "What song captures the spirit of our marriage right now?",
+      "What song reminds you of the best of us?",
+      "Is there a song that represents what we are building toward?",
+      "Play your chosen song together. Sit close. Let it land."
+    ],
+    reflection: "Every great story has a soundtrack. Let yours play louder than the noise around you."
+  },
+  {
+    id: 665, day: 209, program: 'marriage-strengthening',
+    title: "Letters to Future Generations",
+    emoji: "💌",
+    tagline: "Write what you cannot say in person — to people who do not yet exist.",
+    body: "Tonight, each of you will write a short letter to a future grandchild or great-grandchild you may never meet. Tell them about your marriage. Tell them what you fought for. Tell them what love actually looks like when two imperfect people refuse to quit. These letters are your legacy in ink.",
+    duration: "30 min",
+    prompts: [
+      "What would you want a grandchild to know about our marriage?",
+      "What advice would you give them about choosing a partner?",
+      "What should they know about the hard seasons — and why you stayed?",
+      "Read your letters to each other. Let the weight of them settle."
+    ],
+    reflection: "The letters you write tonight may be read by someone a hundred years from now. Make every word count."
+  },
+  {
+    id: 666, day: 210, program: 'marriage-strengthening',
+    title: "Protecting Your Marriage from Drift",
+    emoji: "⚓",
+    tagline: "Drift is slow. Drift is silent. Drift is deadly.",
+    body: "Most marriages do not end in explosions. They end in drift — slow, imperceptible distance that accumulates until two people wake up as strangers. Tonight, audit your marriage for drift. Where have you stopped paying attention? Where has convenience replaced connection? Name it before it names you.",
+    duration: "25 min",
+    prompts: [
+      "On a scale of one to ten, how connected do you feel to me right now?",
+      "Where have we allowed drift to creep into our marriage?",
+      "What daily or weekly practice could protect us from drifting apart?",
+      "What is one thing we used to do that kept us close — and stopped doing?"
+    ],
+    reflection: "The couples who last are not the ones who never drift. They are the ones who notice the drift and course-correct."
+  },
+  {
+    id: 667, day: 211, program: 'marriage-strengthening',
+    title: "Building a Marriage Library",
+    emoji: "📚",
+    tagline: "Feed your marriage the way you feed your mind.",
+    body: "Great marriages are learning marriages. They read together, listen to podcasts together, attend workshops together. Tonight, build a marriage library — a list of books, podcasts, talks, and resources that you want to explore together in the year ahead. Invest in your marriage the way you invest in your career.",
+    duration: "25 min",
+    prompts: [
+      "What is one book or resource that has shaped your understanding of marriage?",
+      "What topic would you like us to learn about together?",
+      "Are we currently investing in the growth of our marriage — or coasting?",
+      "Choose one book or podcast to start together this month."
+    ],
+    reflection: "A couple that learns together stays curious about each other. Curiosity is the antidote to complacency."
+  },
+  {
+    id: 668, day: 212, program: 'marriage-strengthening',
+    title: "Your Marriage and Your Work",
+    emoji: "⚙️",
+    tagline: "Work can fuel your marriage or drain it. Choose wisely.",
+    body: "The relationship between your marriage and your careers is one of the most consequential dynamics in your life. Tonight, explore how work serves your marriage — and where it competes with it. This is not about quitting anything. It is about aligning your professional life with your relational priorities.",
+    duration: "25 min",
+    prompts: [
+      "How does my work currently support or strain our marriage?",
+      "Do you feel like our marriage gets the best of me — or what is left after work?",
+      "What boundary around work would most improve our relationship?",
+      "How can we better support each other's professional dreams without sacrificing our connection?"
+    ],
+    reflection: "Your career will applaud you and then replace you. Your marriage will grow old with you. Prioritize accordingly."
+  },
+  {
+    id: 669, day: 213, program: 'marriage-strengthening',
+    title: "The Hard Conversation You Have Been Avoiding",
+    emoji: "🔓",
+    tagline: "The conversation you avoid owns you. Have it tonight.",
+    body: "Every couple has at least one conversation they have been putting off — about money, about in-laws, about a dream, about a wound, about a need. Tonight is the night. Not to solve everything, but to open the door. Avoidance does not protect your marriage. Honesty does.",
+    duration: "30 min",
+    prompts: [
+      "What is the conversation we have been avoiding — and why?",
+      "What are you afraid will happen if we have it?",
+      "What is the cost of continuing to avoid it?",
+      "Start with: 'There is something I need us to talk about...' and go."
+    ],
+    reflection: "Every avoided conversation becomes a wall. Every honest conversation becomes a bridge. Build the bridge."
+  },
+  {
+    id: 670, day: 214, program: 'marriage-strengthening',
+    title: "Sabbath for Your Marriage",
+    emoji: "🕊️",
+    tagline: "Rest is not laziness. It is strategy.",
+    body: "Your marriage needs rest — not just from conflict, but from productivity, striving, and the relentless pace of modern life. Tonight, talk about what sabbath looks like for your marriage. How do you rest together? When do you stop doing and simply be? A marriage that never rests eventually breaks.",
+    duration: "25 min",
+    prompts: [
+      "When was the last time we truly rested together — with no agenda?",
+      "What does restful time together look like for each of us?",
+      "What would a weekly or monthly 'marriage sabbath' look like?",
+      "What do we need to stop doing in order to create space for rest?"
+    ],
+    reflection: "The most productive thing you can do for your marriage is sometimes nothing at all. Rest together. It is holy work."
+  },
+  {
+    id: 671, day: 215, program: 'marriage-strengthening',
+    title: "Stewarding Your Influence",
+    emoji: "🔥",
+    tagline: "Influence is not about fame. It is about faithfulness.",
+    body: "As a couple, you carry influence — in your family, your friend group, your workplace, your community. The question is not whether you have influence. The question is whether you are stewarding it well. Tonight, talk about the influence your marriage carries and how to wield it with integrity.",
+    duration: "25 min",
+    prompts: [
+      "Where do we carry influence as a couple — even if we have not named it?",
+      "How are we currently using that influence — intentionally or unintentionally?",
+      "What responsibility comes with the influence we carry?",
+      "How can we use our platform — however small — to serve others well?"
+    ],
+    reflection: "Faithful stewardship of small influence is what qualifies you for greater influence. Start where you are."
+  },
+  {
+    id: 672, day: 216, program: 'marriage-strengthening',
+    title: "Renewing Your Vows in Private",
+    emoji: "💍",
+    tagline: "Say it again. Mean it more.",
+    body: "You do not need a ceremony or an audience to renew your vows. Tonight, face each other and say what you would say now — after everything you have been through, everything you have learned, everything you have survived together. These vows will be rawer, more honest, and more powerful than the ones you said on your wedding day.",
+    duration: "30 min",
+    prompts: [
+      "What would you promise me now that you could not have promised on our wedding day?",
+      "What vow have you kept that you are most proud of?",
+      "What vow do you need to recommit to?",
+      "Face each other. Hold hands. Speak your renewed vows out loud."
+    ],
+    reflection: "The vows that matter most are not the ones you say once. They are the ones you renew every day in how you live."
+  },
+  {
+    id: 673, day: 217, program: 'marriage-strengthening',
+    title: "The Legacy Covenant",
+    emoji: "🏰",
+    tagline: "Sign your name to what you are building.",
+    body: "Tonight is the culmination of thirty days of legacy work. You have explored your values, your purpose, your generational patterns, your influence, and your vision. Now it is time to make it official. Write a one-page legacy covenant — a document that captures what your marriage stands for, what you are building, and what you refuse to let die. Sign it together. Date it. Keep it sacred.",
+    duration: "35 min",
+    prompts: [
+      "What are the three defining commitments of our legacy covenant?",
+      "What will we protect at all costs?",
+      "What will we build no matter how long it takes?",
+      "Write it. Sign it. Date it. This is your covenant."
+    ],
+    reflection: "A covenant is stronger than a contract. It is a promise between souls. You have just written something that can outlast you both."
+  },
+  {
+    id: 674, day: 218, program: 'marriage-strengthening',
+    title: "Desire Begins with Honesty",
+    emoji: "🔥",
+    tagline: "You cannot fix what you will not name.",
+    body: "Tonight you enter the most intimate territory of your journey: the landscape of desire, sexuality, and physical connection. This section requires courage, vulnerability, and grace. Start by simply being honest about where you are. No blame. No shame. Just the truth about your desire — what fuels it, what dampens it, and what you long for.",
+    duration: "30 min",
+    prompts: [
+      "On a scale of one to ten, how satisfied are you with our physical intimacy right now?",
+      "What is one thing about our intimate life that you appreciate?",
+      "What is one thing you wish were different — but have been afraid to say?",
+      "What would it take for you to feel completely safe talking about sex with me?"
+    ],
+    reflection: "The couples who thrive sexually are not the ones with perfect bodies or flawless technique. They are the ones who tell the truth."
+  },
+  {
+    id: 675, day: 219, program: 'marriage-strengthening',
+    title: "Keeping Desire Alive",
+    emoji: "🌹",
+    tagline: "Desire is not something you have. It is something you build.",
+    body: "Desire in a long-term marriage is not automatic. It does not just happen because you love each other. It requires cultivation — intentional space, novelty, mystery, and the willingness to see your partner with fresh eyes. Tonight, talk about what keeps desire alive for each of you and what slowly kills it.",
+    duration: "25 min",
+    prompts: [
+      "What makes you feel most desired by me?",
+      "What kills desire for you — even if it seems small or irrational?",
+      "When was the last time you felt a genuine spark of desire for me? What sparked it?",
+      "What could we do this week to create the conditions for desire to show up?"
+    ],
+    reflection: "Desire is not a feeling to wait for. It is a fire to tend. And it only stays lit when both partners bring kindling."
+  },
+  {
+    id: 676, day: 220, program: 'marriage-strengthening',
+    title: "Sexual Communication",
+    emoji: "💬",
+    tagline: "Great lovers are great communicators.",
+    body: "Most couples talk about everything except what happens in the bedroom. Tonight, break that pattern. Practice talking about sex the way you talk about everything else that matters — with honesty, curiosity, and zero judgment. The quality of your sexual communication determines the quality of your sexual connection.",
+    duration: "25 min",
+    prompts: [
+      "What is the hardest thing for you to communicate about our intimate life?",
+      "What do I do that you absolutely love — and have you told me clearly?",
+      "What would you like to try or explore that you have not mentioned yet?",
+      "How can we create an ongoing, shame-free conversation about our physical connection?"
+    ],
+    reflection: "Your partner cannot read your mind — especially in the bedroom. Say what you need. Ask what they need. Do it with love."
+  },
+  {
+    id: 677, day: 221, program: 'marriage-strengthening',
+    title: "Initiation and Receptivity",
+    emoji: "🌊",
+    tagline: "Who reaches for whom — and what does it mean?",
+    body: "In every marriage, patterns of initiation and receptivity form. One partner tends to initiate. The other tends to respond. Neither role is wrong, but when the pattern becomes rigid, it can breed resentment or disconnection. Tonight, explore your patterns with curiosity rather than criticism.",
+    duration: "25 min",
+    prompts: [
+      "Who typically initiates physical intimacy in our marriage?",
+      "How does it feel to be the one who initiates most — or least?",
+      "What does rejection feel like when you initiate — and what does it feel like to be the one saying 'not tonight'?",
+      "What would a more balanced dynamic look like for us?"
+    ],
+    reflection: "Initiation is an act of vulnerability. Receptivity is an act of generosity. Both require courage."
+  },
+  {
+    id: 678, day: 222, program: 'marriage-strengthening',
+    title: "Body Image in Marriage",
+    emoji: "🪞",
+    tagline: "How you see your body shapes how you share it.",
+    body: "Body image does not disappear after the wedding. It follows you into the bedroom, the bathroom, the moments of undressing and being seen. Tonight, talk honestly about how you feel in your body — and how those feelings affect your willingness to be fully present in physical intimacy.",
+    duration: "25 min",
+    prompts: [
+      "How do you feel about your body right now — honestly?",
+      "How does your body image affect your comfort with physical intimacy?",
+      "What could I say or do that would help you feel more beautiful and desired?",
+      "How can we create a marriage where both of us feel safe being fully seen?"
+    ],
+    reflection: "Your body is not an obstacle to intimacy. It is the vessel through which intimacy happens. Treat it — and your partner's — with reverence."
+  },
+  {
+    id: 679, day: 223, program: 'marriage-strengthening',
+    title: "Aging and Desire",
+    emoji: "⏳",
+    tagline: "Your bodies will change. Your desire does not have to die.",
+    body: "Aging changes everything — energy, hormones, flexibility, recovery, confidence. But aging does not have to end desire. The couples who maintain passionate intimacy across decades are the ones who adapt, communicate, and refuse to let physical changes become excuses for emotional distance.",
+    duration: "25 min",
+    prompts: [
+      "How has aging affected your experience of desire and intimacy?",
+      "What fears do you have about physical intimacy as we get older?",
+      "What excites you about the possibility of deepening our intimate life over time?",
+      "How can we adapt our physical connection as our bodies change — without losing the fire?"
+    ],
+    reflection: "The most passionate couples at seventy are not the ones who look like they did at thirty. They are the ones who never stopped reaching for each other."
+  },
+  {
+    id: 680, day: 224, program: 'marriage-strengthening',
+    title: "Intimacy After Kids",
+    emoji: "🌙",
+    tagline: "Parenthood is not the death of desire. Neglect is.",
+    body: "Children reshape everything about your marriage — including your intimate life. Exhaustion, touched-out bodies, lack of privacy, competing priorities. Tonight, talk honestly about how parenthood has impacted your physical connection — and commit to reclaiming the space your intimacy deserves.",
+    duration: "25 min",
+    prompts: [
+      "How has having children changed our intimate life — for better and for worse?",
+      "What do you miss most about our pre-kids physical connection?",
+      "What practical barriers to intimacy can we solve together?",
+      "What would it look like to make our intimate life a priority again — not someday, but now?"
+    ],
+    reflection: "Your children need parents who love each other deeply — and that includes physically. Protecting your intimacy protects your family."
+  },
+  {
+    id: 681, day: 225, program: 'marriage-strengthening',
+    title: "Scheduling vs. Spontaneity",
+    emoji: "📅",
+    tagline: "Scheduled intimacy is not unromantic. It is intentional.",
+    body: "Many couples resist the idea of scheduling intimacy because it feels forced or clinical. But in the reality of busy, demanding lives, spontaneity alone often leads to drought. Tonight, explore the tension between scheduling and spontaneity — and find a rhythm that actually works for your life.",
+    duration: "25 min",
+    prompts: [
+      "How do you feel about the idea of scheduling intimate time together?",
+      "When we rely on spontaneity alone, what usually happens?",
+      "What would it look like to create intentional space for physical connection — without making it feel like an appointment?",
+      "Can we agree on a rhythm this week and try it with open hearts?"
+    ],
+    reflection: "You schedule what matters — meetings, workouts, date nights. Your intimate life deserves the same respect."
+  },
+  {
+    id: 682, day: 226, program: 'marriage-strengthening',
+    title: "The Erotic Imagination",
+    emoji: "🌌",
+    tagline: "Desire lives in the mind before it lives in the body.",
+    body: "Physical intimacy begins long before physical touch. It begins in the imagination — in the way you think about your partner throughout the day, the anticipation you build, the inner world of desire you cultivate. Tonight, talk about the role of imagination in your intimate life and how to nurture it intentionally.",
+    duration: "25 min",
+    prompts: [
+      "Do you think about me during the day in ways that build anticipation? How so?",
+      "What kind of mental or emotional foreplay works for you?",
+      "How can we build more anticipation and imagination into our intimate life?",
+      "What is one way I could help your desire start earlier in the day — not just in the moment?"
+    ],
+    reflection: "The mind is the most powerful intimate organ you possess. Feed it well, and the body will follow."
+  },
+  {
+    id: 683, day: 227, program: 'marriage-strengthening',
+    title: "Romance as a Practice",
+    emoji: "🌷",
+    tagline: "Romance is not a personality trait. It is a discipline.",
+    body: "Romance is not something you either have or you do not. It is a practice — a set of intentional actions that communicate desire, appreciation, and pursuit. Tonight, reclaim romance as a verb. Not grand gestures, but daily choices that say: I still choose you. I still see you. I still want you.",
+    duration: "25 min",
+    prompts: [
+      "What does romance look like to you at this stage of our life?",
+      "When was the last time you felt genuinely romanced by me?",
+      "What small romantic gesture would mean the world to you this week?",
+      "How can we make romance a daily practice instead of a rare event?"
+    ],
+    reflection: "The couples who stay in love are not the ones who feel romantic all the time. They are the ones who practice romance even when they do not feel it."
+  },
+  {
+    id: 684, day: 228, program: 'marriage-strengthening',
+    title: "Date Nights That Lead Somewhere",
+    emoji: "🍷",
+    tagline: "A date night without intention is just dinner.",
+    body: "Date nights matter — but not all date nights are created equal. The ones that deepen your connection are the ones with presence, flirtation, and the unspoken understanding that the night is not just about food. Tonight, reimagine your date nights as a pathway to deeper connection — emotional and physical.",
+    duration: "25 min",
+    prompts: [
+      "What makes a date night feel truly connected versus just going through the motions?",
+      "What kind of date night puts you in the mood for closeness?",
+      "How can we create date nights that build both emotional and physical anticipation?",
+      "Plan a date night this week that is designed to lead somewhere. Be specific."
+    ],
+    reflection: "The best date nights do not end at the restaurant. They end with two people who remembered why they chose each other."
+  },
+  {
+    id: 685, day: 229, program: 'marriage-strengthening',
+    title: "Physical Affection as Daily Bread",
+    emoji: "🤗",
+    tagline: "Touch is not a luxury. It is a necessity.",
+    body: "Physical affection — the kind that does not lead to the bedroom — is the daily bread of a thriving marriage. A hand on the back. A long hug. A kiss that lasts more than a second. These small acts of touch keep the nervous system regulated, the bond secure, and the desire warm between the bigger moments.",
+    duration: "25 min",
+    prompts: [
+      "How much non-sexual physical affection do we share on a typical day?",
+      "What kind of touch makes you feel most loved and connected?",
+      "Where have we let daily affection slip — and what replaced it?",
+      "Can we commit to one specific daily touch practice this week? Name it."
+    ],
+    reflection: "Six seconds. That is how long a hug needs to last to release oxytocin. Most couples stop at two. Hold on longer."
+  },
+  {
+    id: 686, day: 230, program: 'marriage-strengthening',
+    title: "Sexual Generosity",
+    emoji: "🎁",
+    tagline: "The best lovers are the most generous ones.",
+    body: "Sexual generosity means caring as much about your partner's pleasure, comfort, and experience as your own. It is the opposite of selfishness and performance. Tonight, explore what generosity looks like in your intimate life — and where each of you could grow in giving without keeping score.",
+    duration: "25 min",
+    prompts: [
+      "What does sexual generosity mean to you?",
+      "When have you felt most generously loved by me in our intimate life?",
+      "Where could I be more generous in how I love you physically?",
+      "How do we create a culture of giving in the bedroom — not obligation, but genuine delight in each other's pleasure?"
+    ],
+    reflection: "Generosity in the bedroom is not about doing things you hate. It is about delighting in your partner's delight. That is the difference."
+  },
+  {
+    id: 687, day: 231, program: 'marriage-strengthening',
+    title: "The Conversation You Have Never Had About Sex",
+    emoji: "🗝️",
+    tagline: "Somewhere inside you is something you have never said. Say it tonight.",
+    body: "Every person carries at least one unspoken truth about their intimate life — a desire, a fear, a wound, a fantasy, a frustration that has never been voiced. Tonight is a sacred space to say the unsaid. Not to shock or demand, but to trust your partner with the part of you that has been hiding.",
+    duration: "30 min",
+    prompts: [
+      "What is one thing about your experience of intimacy that I do not know?",
+      "What has been your biggest unspoken frustration or desire in our intimate life?",
+      "Is there a sexual wound or shame from your past that still affects you?",
+      "What do you need from me to feel safe enough to keep having conversations like this?"
+    ],
+    reflection: "The things you have never said hold the most power — to connect or to divide. Spoken with love, they almost always connect."
+  },
+  {
+    id: 688, day: 232, program: 'marriage-strengthening',
+    title: "Exploring Fantasies Together",
+    emoji: "✨",
+    tagline: "Curiosity is the bridge between routine and adventure.",
+    body: "Fantasy in marriage is not about escapism — it is about expansion. It is about being curious enough to explore the full landscape of your desire together, without shame or pressure. Tonight, approach this topic with playfulness and an open mind. Not every fantasy needs to be acted on. But every fantasy deserves to be heard.",
+    duration: "25 min",
+    prompts: [
+      "Is there something you have been curious about exploring together?",
+      "How do you feel about sharing fantasies — does it excite you, scare you, or both?",
+      "What is the difference between sharing a fantasy and making a demand?",
+      "How can we create a space where curiosity is always welcome — even if the answer is 'not for me'?"
+    ],
+    reflection: "A marriage where both partners can be curious without fear is a marriage that never gets bored. Stay curious together."
+  },
+  {
+    id: 689, day: 233, program: 'marriage-strengthening',
+    title: "The Language of Touch",
+    emoji: "🖐️",
+    tagline: "Your hands can say what your words cannot.",
+    body: "Touch is its own language, and like any language, fluency takes practice. Tonight, focus on the way you touch each other — not just where, but how. The pressure, the pace, the tenderness, the intention behind every point of contact. Learn to speak your partner's touch dialect with greater fluency.",
+    duration: "25 min",
+    prompts: [
+      "How would you describe my touch — and what do you love most about it?",
+      "Where on your body do you most enjoy being touched in non-sexual moments?",
+      "Is there a way I touch you that you would like me to adjust?",
+      "Tonight, spend five minutes simply touching each other with presence and intention. No agenda. Just connection."
+    ],
+    reflection: "The hands that have held your partner through every season deserve to keep learning what brings them comfort and joy."
+  },
+  {
+    id: 690, day: 234, program: 'marriage-strengthening',
+    title: "Desire Discrepancy with Grace",
+    emoji: "⚖️",
+    tagline: "Different levels of desire do not mean different levels of love.",
+    body: "Almost every couple experiences desire discrepancy — one partner wants more, the other wants less, and the gap creates tension. Tonight, address this reality with compassion instead of accusation. Desire discrepancy is not a flaw in your marriage. It is a feature of two unique humans learning to love each other well.",
+    duration: "30 min",
+    prompts: [
+      "Do we experience desire discrepancy? How does it show up in our marriage?",
+      "How does the higher-desire partner feel about initiating — and sometimes being turned down?",
+      "How does the lower-desire partner feel about the pressure — real or perceived?",
+      "What would a compassionate compromise look like that honors both of us?"
+    ],
+    reflection: "The goal is not matching desire levels. The goal is matching care levels. When both partners care deeply about the other's experience, the gap closes naturally."
+  },
+  {
+    id: 691, day: 235, program: 'marriage-strengthening',
+    title: "Sensuality Beyond the Bedroom",
+    emoji: "🌸",
+    tagline: "Engage all five senses. All day. Every day.",
+    body: "Sensuality is not just about sex. It is about engaging the senses — taste, touch, sight, smell, sound — in ways that awaken pleasure and presence throughout your daily life together. Tonight, explore how you can infuse your ordinary life with sensory richness that feeds your connection.",
+    duration: "25 min",
+    prompts: [
+      "Which of the five senses is most connected to desire for you?",
+      "What sensory experience do we share that makes you feel close to me?",
+      "How can we bring more beauty, texture, and sensory pleasure into our daily life?",
+      "Plan one sensory experience to share this week — a meal, a bath, music, a walk. Make it intentional."
+    ],
+    reflection: "A marriage rich in sensory experience is a marriage rich in presence. And presence is the soil where desire grows."
+  },
+  {
+    id: 692, day: 236, program: 'marriage-strengthening',
+    title: "The Atmosphere of Your Bedroom",
+    emoji: "🛏️",
+    tagline: "Your bedroom should feel like a sanctuary, not a storage unit.",
+    body: "The physical environment of your bedroom affects your intimate life more than you realize. Clutter, screens, laundry piles, harsh lighting — they all send signals to your nervous system that say 'this is not a place for connection.' Tonight, reimagine your bedroom as a sanctuary designed for rest, romance, and reunion.",
+    duration: "25 min",
+    prompts: [
+      "How does our bedroom currently feel — inviting or neglected?",
+      "What changes would make our bedroom feel more like a sanctuary?",
+      "What does not belong in our bedroom that we have been tolerating?",
+      "Choose one change to make this week that transforms the energy of the space."
+    ],
+    reflection: "You would not hold a sacred ceremony in a cluttered garage. Treat your bedroom with the reverence your intimacy deserves."
+  },
+  {
+    id: 693, day: 237, program: 'marriage-strengthening',
+    title: "Flirting with Your Spouse",
+    emoji: "😏",
+    tagline: "You courted each other once. Do it again.",
+    body: "Somewhere along the way, most couples stop flirting. The playful texts, the lingering looks, the teasing, the pursuit — it all fades into the background of responsibility. Tonight, bring it back. Flirting is not just for new relationships. It is the lifeline of long ones.",
+    duration: "25 min",
+    prompts: [
+      "When was the last time you flirted with me — really flirted?",
+      "What kind of flirting makes you feel most alive and desired?",
+      "Why did we stop flirting — and what would it take to start again?",
+      "Send each other one flirtatious text right now. Make it good."
+    ],
+    reflection: "Flirting says: I still see you. I still want you. I still choose to pursue you. Never stop saying that."
+  },
+  {
+    id: 694, day: 238, program: 'marriage-strengthening',
+    title: "Vulnerability and Arousal",
+    emoji: "💫",
+    tagline: "The deepest turn-on is being fully known.",
+    body: "There is a profound connection between emotional vulnerability and physical arousal. When you feel truly seen, truly known, truly safe — your body opens in ways that performance and technique can never achieve. Tonight, explore how emotional depth fuels physical connection in your marriage.",
+    duration: "25 min",
+    prompts: [
+      "When do you feel most emotionally open with me — and how does that affect your desire?",
+      "Is there a connection between our emotional closeness and our physical intimacy?",
+      "What makes you feel emotionally safe enough to be physically vulnerable?",
+      "How can we build more emotional depth into the hours before physical intimacy?"
+    ],
+    reflection: "The couples with the richest intimate lives are not the most skilled. They are the most vulnerable. Depth creates desire."
+  },
+  {
+    id: 695, day: 239, program: 'marriage-strengthening',
+    title: "Pleasure Without Pressure",
+    emoji: "🌿",
+    tagline: "Not every intimate moment needs to go all the way.",
+    body: "One of the most liberating things a couple can learn is that physical intimacy exists on a spectrum. Not every touch needs to lead to intercourse. Not every kiss needs to escalate. Tonight, explore what it means to share pleasure without the pressure of a specific outcome — and discover how freeing that can be.",
+    duration: "25 min",
+    prompts: [
+      "Do you ever feel pressure for physical affection to lead to a specific outcome?",
+      "What would it feel like to touch and be touched with no expectation?",
+      "How could removing pressure actually increase desire over time?",
+      "Tonight, share ten minutes of physical closeness with zero agenda. Just be present."
+    ],
+    reflection: "When you remove the pressure to perform, you create the space to connect. And connection is what desire has been looking for all along."
+  },
+  {
+    id: 696, day: 240, program: 'marriage-strengthening',
+    title: "Healing Sexual Wounds Together",
+    emoji: "🩹",
+    tagline: "Some wounds can only heal inside the safety of your marriage.",
+    body: "Many people carry sexual wounds — from past relationships, from shame, from trauma, from religious messaging, from cultural conditioning. These wounds do not disappear at the altar. They follow you into your marriage and affect your intimate life in ways both obvious and hidden. Tonight, hold space for each other's wounds with extraordinary tenderness.",
+    duration: "30 min",
+    prompts: [
+      "Is there a wound related to sexuality or intimacy that still affects you?",
+      "How has that wound shaped the way you experience our intimate life?",
+      "What do you need from me to feel safe in the healing process?",
+      "How can our marriage become a place where old wounds finally heal?"
+    ],
+    reflection: "You are not each other's therapists, but you are each other's safest place. Hold the wounds gently. Healing happens in safety."
+  },
+  {
+    id: 697, day: 241, program: 'marriage-strengthening',
+    title: "The Art of Anticipation",
+    emoji: "⏰",
+    tagline: "The best things in life are worth waiting for — and building toward.",
+    body: "Anticipation is one of the most underused tools in a married couple's intimate life. The slow build throughout the day — a look, a message, a whispered promise — creates a kind of desire that instant gratification can never match. Tonight, learn the art of building anticipation together.",
+    duration: "25 min",
+    prompts: [
+      "What builds anticipation for you — and what kills it?",
+      "How can we create more build-up throughout the day instead of going from zero to sixty?",
+      "What is one way you could signal desire to me hours before we are together?",
+      "Plan an evening later this week where anticipation is the entire strategy."
+    ],
+    reflection: "The meal you wait for all day tastes better than the one you grab on the go. Your intimate life works the same way."
+  },
+  {
+    id: 698, day: 242, program: 'marriage-strengthening',
+    title: "Laughter and Intimacy",
+    emoji: "😂",
+    tagline: "If you cannot laugh in bed, you are taking it too seriously.",
+    body: "Some of the most connected intimate moments between couples involve laughter — the awkward fumble, the unexpected sound, the moment something goes hilariously wrong. Laughter in the bedroom is not a failure. It is a sign of safety, playfulness, and deep trust. Tonight, celebrate the lighter side of your intimate life.",
+    duration: "25 min",
+    prompts: [
+      "What is the funniest thing that has ever happened during an intimate moment between us?",
+      "How comfortable are you with laughter during physical intimacy?",
+      "Does humor help you relax and connect — or does it take you out of the moment?",
+      "How can we bring more playfulness and lightness into the bedroom?"
+    ],
+    reflection: "A couple who can laugh together naked has reached a level of trust that most people never experience. Protect that gift."
+  },
+  {
+    id: 699, day: 243, program: 'marriage-strengthening',
+    title: "Reclaiming the Erotic in Your Marriage",
+    emoji: "🔮",
+    tagline: "The erotic is not separate from the sacred. It is part of it.",
+    body: "For too long, the erotic dimension of marriage has been minimized, shamed, or compartmentalized. But desire is not something to manage — it is something to celebrate. Tonight, reclaim the erotic as a legitimate, beautiful, sacred part of your marriage. Not separate from your love, but an expression of it.",
+    duration: "25 min",
+    prompts: [
+      "How has shame or cultural messaging affected the way you experience desire in our marriage?",
+      "What would it look like to fully embrace the erotic dimension of our relationship — without guilt?",
+      "How can we honor both the sacred and the sensual in our intimate life?",
+      "What permission do you need to give yourself to fully enjoy this part of our marriage?"
+    ],
+    reflection: "Your desire for each other is not something to apologize for. It is one of the most honest things about your marriage. Honor it."
+  },
+  {
+    id: 700, day: 244, program: 'marriage-strengthening',
+    title: "What You Never Learned About Sex",
+    emoji: "📖",
+    tagline: "Most of us were never properly taught. It is time to learn together.",
+    body: "Most people's sexual education was incomplete at best and harmful at worst. Tonight, talk about the gaps — what you wish you had been taught, what you had to unlearn, and what you are still figuring out. Then commit to learning together, without judgment, like students in the most important class you will ever take.",
+    duration: "25 min",
+    prompts: [
+      "What did your upbringing teach you about sex — and how much of it was helpful?",
+      "What have you had to unlearn in order to have a healthy intimate life?",
+      "What do you still feel uncertain or curious about?",
+      "What resource — a book, a course, a conversation — could help us learn and grow together?"
+    ],
+    reflection: "It is never too late to learn. The couples who stay curious about each other's bodies and desires are the ones who never stop growing."
+  },
+  {
+    id: 701, day: 245, program: 'marriage-strengthening',
+    title: "The Rhythm of Your Intimate Life",
+    emoji: "🥁",
+    tagline: "Find your rhythm. Protect your rhythm. Evolve your rhythm.",
+    body: "Every couple has a natural rhythm to their intimate life — sometimes it is weekly, sometimes it ebbs and flows with seasons, stress, and health. The key is not conforming to someone else's standard, but finding the rhythm that keeps both of you connected and fulfilled. Tonight, name your rhythm and decide if it is serving you.",
+    duration: "25 min",
+    prompts: [
+      "What is the natural rhythm of our intimate life right now?",
+      "Does that rhythm feel right to both of us — or does one of us want more or less?",
+      "What external factors most disrupt our rhythm?",
+      "What would our ideal rhythm look like — and what would it take to get there?"
+    ],
+    reflection: "There is no universal standard for how often. There is only what keeps you both feeling loved, desired, and connected. Find that number together."
+  },
+  {
+    id: 702, day: 246, program: 'marriage-strengthening',
+    title: "A Night of Presence",
+    emoji: "🕯️",
+    tagline: "Put everything down. Be here. Be together.",
+    body: "Tonight is not about conversation. It is about presence. Turn off the screens. Light a candle. Sit together in silence. Hold each other. Breathe. Let your bodies remember what your minds sometimes forget — that you are two human beings who chose each other, and that choice is still sacred.",
+    duration: "30 min",
+    prompts: [
+      "Can you feel my heartbeat right now?",
+      "What does it feel like to simply be held — with no words and no agenda?",
+      "When was the last time we were fully present with each other like this?",
+      "Stay here for ten more minutes. Let the silence speak."
+    ],
+    reflection: "In a world drowning in noise, the most intimate thing you can offer your partner is your undivided presence. Give it freely tonight."
+  },
+  {
+    id: 703, day: 247, program: 'marriage-strengthening',
+    title: "The Deepest Yes",
+    emoji: "💎",
+    tagline: "You have explored the depths. Now carry them forward.",
+    body: "Thirty days of exploring desire, vulnerability, communication, and physical connection have brought you to this moment. You have had the conversations most couples avoid for a lifetime. You have been honest about your bodies, your wounds, your fantasies, and your needs. Tonight, make one final promise: that the openness you cultivated here will not end with this mission. Say yes — the deepest yes — to a lifetime of intimate honesty, growth, and connection.",
+    duration: "30 min",
+    prompts: [
+      "What has this intimacy section taught you about yourself?",
+      "What has it taught you about us?",
+      "What is one practice from these thirty days that you want to carry forward permanently?",
+      "Hold each other. Say: 'I choose you — all of you — for the rest of my life.' Mean it."
+    ],
+    reflection: "The deepest yes is not the one you said at the altar. It is the one you say tonight — after seeing everything, knowing everything, and still choosing to stay."
+  },
+  {
+    id: 704, day: 248, program: 'marriage-strengthening',
+    title: "The Sacred in the Ordinary",
+    emoji: "🕯️",
+    tagline: "Holiness hides in the mundane moments you keep overlooking.",
+    body: "The most spiritual moments in your marriage are not the grand gestures. They are the mornings you pour coffee without being asked. The nights you roll over and reach for each other in the dark. Today, look at your ordinary routines — the dishes, the commute, the bedtime rituals — and find the sacred hidden inside them. When you treat the ordinary as holy ground, your entire marriage becomes a prayer.",
+    duration: "25 min",
+    prompts: [
+      "What ordinary moment in our daily life feels most sacred to you?",
+      "When do you feel closest to something spiritual in our marriage?",
+      "How can we bring more reverence to the small, repeated acts of our life together?",
+      "What would change if we treated every shared meal as communion?"
+    ],
+    reflection: "The couples who last are not the ones chasing mountaintop experiences. They are the ones who find God in the kitchen at 6 a.m."
+  },
+  {
+    id: 705, day: 249, program: 'marriage-strengthening',
+    title: "Praying Without Words",
+    emoji: "🙏",
+    tagline: "Sometimes the deepest prayer is simply sitting together in silence.",
+    body: "You do not need a script to pray together. You do not need a shared theology or even the same beliefs. What you need is willingness — the willingness to sit in silence, to hold hands, to breathe together, and to acknowledge that something larger than both of you is at work in this marriage. Tonight, pray without words. Let your presence be the offering.",
+    duration: "20 min",
+    prompts: [
+      "What does prayer or meditation mean to you personally?",
+      "Have you ever felt awkward about spiritual practices together? Why?",
+      "Can we sit in silence for five minutes right now — just breathing and being?",
+      "What did that silence feel like? What came up for you?"
+    ],
+    reflection: "The most powerful prayer two people can offer is their willingness to be still together and trust what they cannot see."
+  },
+  {
+    id: 706, day: 250, program: 'marriage-strengthening',
+    title: "Emotional Maturity in Marriage",
+    emoji: "🌳",
+    tagline: "Maturity is not the absence of emotion — it is the mastery of response.",
+    body: "Emotional maturity does not mean you stop feeling. It means you stop letting your feelings drive the car without your permission. In marriage, maturity looks like pausing before reacting, naming your emotions honestly, and refusing to weaponize your partner's vulnerabilities during conflict. Today, examine where you have grown emotionally — and where you still have room to stretch.",
+    duration: "25 min",
+    prompts: [
+      "Where have you seen the most emotional growth in yourself since we married?",
+      "What emotional pattern do you still struggle with the most?",
+      "When I am emotionally immature, how does it affect you?",
+      "What does emotional maturity look like in the version of us we are building toward?"
+    ],
+    reflection: "A mature marriage is not one without storms. It is one where both people have learned to anchor themselves before reaching for the other."
+  },
+  {
+    id: 707, day: 251, program: 'marriage-strengthening',
+    title: "Holding Space for Hard Feelings",
+    emoji: "🫂",
+    tagline: "Your partner does not need you to fix it. They need you to stay.",
+    body: "One of the rarest gifts in marriage is the ability to hold space — to sit with your partner in their pain without rushing to solve, minimize, or redirect. When your spouse is grieving, anxious, angry, or lost, they rarely need solutions. They need your steady, non-anxious presence. Today, practice the discipline of simply being with whatever arises, without flinching or fixing.",
+    duration: "25 min",
+    prompts: [
+      "When I am in pain, what do you instinctively want to do? Fix it, distract from it, or sit with it?",
+      "When have you felt most held by me during a difficult season?",
+      "What makes it hard for you to just be present with someone else's pain?",
+      "Can you hold space for me right now — for sixty seconds — while I share something that weighs on me?"
+    ],
+    reflection: "The strongest thing you can say to someone you love is not 'I will fix this.' It is 'I am not going anywhere.'"
+  },
+  {
+    id: 708, day: 252, program: 'marriage-strengthening',
+    title: "Grace in the Gap",
+    emoji: "🌿",
+    tagline: "The distance between who your partner is and who they are becoming is where grace lives.",
+    body: "Your spouse will never fully arrive. Neither will you. There will always be a gap between the person you married and the person they are trying to become. Grace is what fills that gap. It is the decision to extend kindness where judgment would be easier, to offer patience where frustration feels justified. Today, examine how freely you give grace — and how freely you receive it.",
+    duration: "25 min",
+    prompts: [
+      "Where do you most need grace from me right now?",
+      "Where do I most need grace from you?",
+      "Is it harder for you to give grace or receive it? Why?",
+      "What would our marriage feel like if we doubled the grace we extend to each other?"
+    ],
+    reflection: "Grace is not pretending your partner is perfect. It is loving them fiercely in the space between who they are and who they are becoming."
+  },
+  {
+    id: 709, day: 253, program: 'marriage-strengthening',
+    title: "Surrender vs. Control",
+    emoji: "🏳️",
+    tagline: "The tighter you grip your marriage, the more it slips through your fingers.",
+    body: "Control is fear dressed in productivity. In marriage, it shows up as micromanaging your partner's choices, scripting conversations before they happen, and refusing to let outcomes unfold naturally. Surrender is not passivity — it is the mature recognition that you cannot control another human being, and that trying to do so will destroy the very connection you are protecting. Today, identify where control has crept in and practice releasing your grip.",
+    duration: "25 min",
+    prompts: [
+      "Where in our marriage do you feel the urge to control outcomes?",
+      "What are you afraid will happen if you let go?",
+      "Have you ever felt controlled by me? What did that feel like?",
+      "What is one area where you can practice surrender this week?"
+    ],
+    reflection: "Surrender in marriage is not losing yourself. It is trusting your partner — and the process — enough to stop white-knuckling every outcome."
+  },
+  {
+    id: 710, day: 254, program: 'marriage-strengthening',
+    title: "Forgiveness as Daily Practice",
+    emoji: "🔄",
+    tagline: "Forgiveness is not a one-time event. It is a discipline you practice every single day.",
+    body: "You will hurt each other again. Not because you are bad people, but because you are human people living in relentless proximity. The question is not whether offense will come, but whether you will let it accumulate or release it. Forgiveness in a mature marriage is not dramatic — it is quiet, daily, and unglamorous. It is choosing not to keep score. It is letting yesterday stay in yesterday.",
+    duration: "25 min",
+    prompts: [
+      "Is there anything you are holding onto right now that you have not fully forgiven?",
+      "What makes forgiveness difficult for you — pride, pain, or fear of being hurt again?",
+      "How do you know when I have truly forgiven you versus when I am just suppressing it?",
+      "Can we establish a practice of clearing the air before bed each night?"
+    ],
+    reflection: "Forgiveness is not a feeling you wait for. It is a door you walk through every morning before your partner even wakes up."
+  },
+  {
+    id: 711, day: 255, program: 'marriage-strengthening',
+    title: "Faith and Doubt, Together",
+    emoji: "🌗",
+    tagline: "A marriage strong enough for faith is strong enough for doubt.",
+    body: "Your spiritual life will not move in a straight line. There will be seasons of deep faith and seasons of crushing doubt — and they will not always arrive for both of you at the same time. The test of a spiritually mature marriage is not shared certainty. It is the willingness to hold each other through the questions, the silences, and the dark nights of the soul without demanding that your partner believe exactly what you believe.",
+    duration: "25 min",
+    prompts: [
+      "Have you ever been through a season of spiritual doubt? What was that like?",
+      "Did you feel safe sharing that doubt with me, or did you hide it?",
+      "How can I support your spiritual journey even when it looks different from mine?",
+      "What would it mean to be each other's safe harbor during seasons of uncertainty?"
+    ],
+    reflection: "The couple that can hold both faith and doubt with open hands has built something no storm can dismantle."
+  },
+  {
+    id: 712, day: 256, program: 'marriage-strengthening',
+    title: "The Covenant You Keep Choosing",
+    emoji: "📜",
+    tagline: "A covenant is not something you made. It is something you make — every single day.",
+    body: "Your wedding vows were not a contract with terms and conditions. They were a covenant — a sacred, ongoing commitment that does not expire when circumstances change. But a covenant only lives if you actively choose it. Today, revisit the promises you made — spoken or unspoken — and ask yourself honestly: am I keeping them? Not perfectly, but intentionally. A covenant marriage is not one without cracks. It is one where both people keep showing up to repair them.",
+    duration: "30 min",
+    prompts: [
+      "Do you remember the vows you spoke on our wedding day? Can you recall them now?",
+      "Which vow has been the hardest to keep?",
+      "If you could add a new vow today — one you did not know you needed back then — what would it be?",
+      "Let us speak new vows to each other tonight. No script. Just truth."
+    ],
+    reflection: "A covenant is not the promise you made once. It is the promise you keep making every morning when you choose to stay."
+  },
+  {
+    id: 713, day: 257, program: 'marriage-strengthening',
+    title: "Finding the Divine Through Your Partner",
+    emoji: "✨",
+    tagline: "Your partner is not your god — but they may be your clearest mirror of the divine.",
+    body: "There is an ancient idea that the people closest to us are our greatest spiritual teachers. Your partner reflects back to you the parts of yourself you cannot see — your beauty and your shadows. When you look at your spouse with sacred eyes, you begin to see something more than a person. You see a mirror, a teacher, a co-pilgrim on the path. Today, look at your partner as if they were placed in your life for a purpose far deeper than companionship.",
+    duration: "25 min",
+    prompts: [
+      "What has our marriage taught you about yourself that nothing else could?",
+      "Do you see any spiritual purpose in our partnership?",
+      "What quality in me reflects something you are still learning about yourself?",
+      "If our marriage is a spiritual assignment, what is the lesson you think you are here to learn?"
+    ],
+    reflection: "The divine does not always speak through thunder and fire. Sometimes it speaks through the person asleep beside you."
+  },
+  {
+    id: 714, day: 258, program: 'marriage-strengthening',
+    title: "Emotional Generosity",
+    emoji: "💛",
+    tagline: "Give more than what is fair. That is how love compounds.",
+    body: "Emotional generosity is the practice of giving your partner more grace, more patience, more benefit of the doubt than strict fairness would require. It means interpreting their actions through the most charitable lens. It means offering warmth even when you feel depleted. This is not self-abandonment — it is an overflow that comes from a place of fullness, not emptiness. Today, examine your emotional generosity and look for places to expand it.",
+    duration: "25 min",
+    prompts: [
+      "When am I most emotionally generous with you? When am I most stingy?",
+      "Do you feel like our marriage operates on generosity or scorekeeping?",
+      "What would it look like to assume the best about each other by default?",
+      "Where can you be more emotionally generous with me this week — and where can I do the same for you?"
+    ],
+    reflection: "Love that keeps score eventually runs out of points. Love that gives freely never runs dry."
+  },
+  {
+    id: 715, day: 259, program: 'marriage-strengthening',
+    title: "Wisdom in Marriage",
+    emoji: "🦉",
+    tagline: "Knowledge is knowing what to say. Wisdom is knowing when not to.",
+    body: "Wisdom in marriage is not accumulated through years alone. It is earned through reflection, restraint, and the willingness to learn from every failure. A wise spouse knows when to speak and when to be silent, when to press in and when to pull back, when to lead and when to follow. Today, take stock of the wisdom your marriage has produced — and the lessons still waiting for you.",
+    duration: "25 min",
+    prompts: [
+      "What is the wisest thing our marriage has taught you?",
+      "Where do you still act foolishly in our relationship, even though you know better?",
+      "Who is a couple you admire for their wisdom, and what can we learn from them?",
+      "If you could give advice to us on our wedding day, knowing what you know now, what would you say?"
+    ],
+    reflection: "A wise marriage is not one that avoids mistakes. It is one that refuses to make the same mistake without learning from it first."
+  },
+  {
+    id: 716, day: 260, program: 'marriage-strengthening',
+    title: "Marriage as Spiritual Discipline",
+    emoji: "⚖️",
+    tagline: "Marriage is not a reward for being whole. It is the fire that forges you.",
+    body: "Monks have monasteries. Mystics have caves. You have marriage. And make no mistake — marriage is one of the most rigorous spiritual disciplines on earth. It demands patience you do not naturally have, forgiveness you do not want to give, and selflessness that goes against every survival instinct. But if you stay in the fire long enough, it does not destroy you. It refines you. Today, honor the discipline your marriage demands — and the person it is making you become.",
+    duration: "25 min",
+    prompts: [
+      "In what ways has marriage stretched you beyond what you thought you were capable of?",
+      "What spiritual quality has marriage forced you to develop — patience, humility, courage?",
+      "Do you view our marriage as a spiritual practice? Why or why not?",
+      "How can we approach our difficult seasons as growth rather than punishment?"
+    ],
+    reflection: "Marriage is not where you go to be comfortable. It is where you go to be transformed."
+  },
+  {
+    id: 717, day: 261, program: 'marriage-strengthening',
+    title: "Contemplation and Stillness Together",
+    emoji: "🧘",
+    tagline: "Be still — not alone, but together.",
+    body: "The world is loud. Your schedules are full. Your minds are racing. And in the chaos, the still, small voice of your marriage gets drowned out. Tonight, create space for contemplation — not solo, but shared. Sit together in silence. Light a candle. Close your eyes. Let go of the to-do lists and the unresolved arguments. Just be. Two people, fully present, breathing the same air, in no rush to be anywhere else.",
+    duration: "30 min",
+    prompts: [
+      "When was the last time we sat in complete stillness together?",
+      "What usually prevents us from being still — busyness, discomfort, or avoidance?",
+      "Let us practice ten minutes of shared silence right now. No phones, no agenda.",
+      "What surfaced during that stillness? Was it peace, anxiety, or something else entirely?"
+    ],
+    reflection: "Stillness is not emptiness. It is the space where everything that matters finally has room to speak."
+  },
+  {
+    id: 718, day: 262, program: 'marriage-strengthening',
+    title: "The Soul of Your Marriage",
+    emoji: "🔮",
+    tagline: "Beneath the logistics and the routines, your marriage has a soul. Have you listened to it lately?",
+    body: "Your marriage is more than a partnership of schedules and responsibilities. It has a pulse, a rhythm, a soul that hums beneath the surface of daily life. When that soul is nourished, everything else aligns. When it is neglected, even the good days feel hollow. Today, step back from the mechanics of your marriage and tend to its soul. Ask the deeper questions. Listen for the quieter answers.",
+    duration: "25 min",
+    prompts: [
+      "If our marriage had a soul, how would you describe its current state — thriving, tired, healing?",
+      "What nourishes the soul of our marriage the most?",
+      "What has been slowly draining it?",
+      "What is one thing we can do this week to feed the deepest part of our connection?"
+    ],
+    reflection: "A marriage can look perfect on the outside and be starving on the inside. Feed the soul first. Everything else follows."
+  },
+  {
+    id: 719, day: 263, program: 'marriage-strengthening',
+    title: "The Ministry of Midnight Conversations",
+    emoji: "🌙",
+    tagline: "The truest things are often whispered in the dark.",
+    body: "There is a particular kind of honesty that only emerges late at night — when the defenses are down, the masks are off, and two people lie in the dark sharing things they would never say in daylight. Those midnight conversations are not just pillow talk. They are ministry. They are the moments where real intimacy is forged. Tonight, stay up a little longer. Say the thing you have been holding back. Let the darkness hold it safely.",
+    duration: "30 min",
+    prompts: [
+      "What is something you have been wanting to say but have not found the right moment?",
+      "Do you feel safer being vulnerable in the dark? Why do you think that is?",
+      "What is one fear about our future that you have not spoken aloud?",
+      "What is one hope about our future that you have been carrying quietly?"
+    ],
+    reflection: "The conversations that save marriages are rarely held at the dinner table. They happen in the dark, in whispers, when both people are finally brave enough to stop performing."
+  },
+  {
+    id: 720, day: 264, program: 'marriage-strengthening',
+    title: "Sacred Rituals for Two",
+    emoji: "🕊️",
+    tagline: "Build rituals that anchor your marriage to something eternal.",
+    body: "Every strong marriage has rituals — not just habits, but intentional, repeated practices that carry meaning beyond the act itself. A Sunday morning walk. A prayer before meals. A monthly date where you check in on your souls, not just your schedules. Rituals create rhythm, and rhythm creates stability. Today, identify the rituals you already have and consider adding one that nourishes the spiritual dimension of your marriage.",
+    duration: "25 min",
+    prompts: [
+      "What rituals do we already have that feel sacred to you?",
+      "What ritual have we lost over time that you miss?",
+      "What new ritual could we create that honors the spiritual depth of our marriage?",
+      "How can we protect our rituals from being swallowed by busyness?"
+    ],
+    reflection: "Rituals are not routines. Routines keep your life running. Rituals keep your marriage breathing."
+  },
+  {
+    id: 721, day: 265, program: 'marriage-strengthening',
+    title: "The Weight You Carry for Each Other",
+    emoji: "🏋️",
+    tagline: "Love is not just feeling. It is bearing weight.",
+    body: "In marriage, you carry things for each other that no one else sees. You carry worry about their health, their dreams, their unspoken fears. You carry the emotional labor of anticipating needs before they are spoken. This weight is not a burden to resent — it is a privilege to honor. Today, acknowledge the invisible weight your partner carries for you, and let them know you see it.",
+    duration: "25 min",
+    prompts: [
+      "What invisible weight do you carry for me that I might not fully see?",
+      "What weight do you think I carry for you?",
+      "When does the weight of our marriage feel heaviest to you?",
+      "How can we share the load more evenly without keeping score?"
+    ],
+    reflection: "The strongest marriages are not the lightest ones. They are the ones where both people carry the weight together — and neither pretends it is not there."
+  },
+  {
+    id: 722, day: 266, program: 'marriage-strengthening',
+    title: "When God Feels Distant",
+    emoji: "🌫️",
+    tagline: "Sometimes the sacred feels far away. Your marriage can be the bridge back.",
+    body: "There will be seasons when faith feels thin, when prayers feel like they hit the ceiling, when the meaning you once found in spiritual practice seems to evaporate. In those seasons, your marriage can be the bridge back to the sacred. Your partner's faith can carry you when yours falters. Your shared history of surviving hard things becomes its own kind of scripture. Today, talk about the seasons when meaning felt distant — and how you found your way back.",
+    duration: "25 min",
+    prompts: [
+      "Have you been through a season where God, Spirit, or meaning felt far away?",
+      "Did our marriage help you through that season, or did it add to the distance?",
+      "How can I be a bridge back to meaning for you when you feel spiritually lost?",
+      "What anchors you when everything else feels uncertain?"
+    ],
+    reflection: "When the sacred feels distant, look at the person beside you. They may be the closest thing to holy ground you will find today."
+  },
+  {
+    id: 723, day: 267, program: 'marriage-strengthening',
+    title: "The Art of Blessing Your Partner",
+    emoji: "🌟",
+    tagline: "Speak life over the person you love. Do it out loud. Do it today.",
+    body: "A blessing is not a religious formality. It is a declaration of worth spoken over someone who may have forgotten their own. In marriage, you have the power to bless your partner every single day — not with grand ceremonies, but with words of affirmation, spoken intentionally and without agenda. Today, look your partner in the eyes and bless them. Tell them who they are. Tell them what they mean. Speak life into the places where life has been drained.",
+    duration: "25 min",
+    prompts: [
+      "When was the last time someone spoke a blessing over you?",
+      "What words from me carry the most weight in your heart?",
+      "Can you speak a blessing over me right now — something you see in me that I might not see in myself?",
+      "Let me bless you in return. Listen without deflecting."
+    ],
+    reflection: "Your words have power. The blessing you speak over your partner today may be the thing they hold onto for years."
+  },
+  {
+    id: 724, day: 268, program: 'marriage-strengthening',
+    title: "Grief You Have Shared",
+    emoji: "🥀",
+    tagline: "The losses you survived together forged something unbreakable.",
+    body: "Every marriage carries grief. The loss of parents, friends, pregnancies, dreams, careers, health. Some grief is sudden and shattering. Some is slow and quiet. But the grief you have walked through together — the funerals, the hospital rooms, the silent car rides home — those experiences have woven something into your marriage that nothing else could. Today, honor the grief you have shared and the bond it created.",
+    duration: "30 min",
+    prompts: [
+      "What is the hardest loss we have faced together?",
+      "How did that loss change our marriage — for better or worse?",
+      "Is there any grief you are still carrying that you have not fully processed with me?",
+      "How can we hold space for each other's ongoing grief without trying to rush through it?"
+    ],
+    reflection: "The marriages that endure are not the ones untouched by grief. They are the ones that let grief deepen them instead of divide them."
+  },
+  {
+    id: 725, day: 269, program: 'marriage-strengthening',
+    title: "Meditating on Your Vows",
+    emoji: "📿",
+    tagline: "Do not just remember your vows. Meditate on them until they reshape you.",
+    body: "You spoke words on your wedding day that may have been more prophetic than you realized. Those vows were not just promises — they were blueprints for the life you were building. Today, take your original vows — or write new ones if you cannot remember — and meditate on each line slowly. Let every phrase land. Let it interrogate you. Let it remind you of the life you committed to building.",
+    duration: "30 min",
+    prompts: [
+      "Can you write out your vows from memory? Try it now.",
+      "Which line of your vows has been tested the most?",
+      "Which line have you kept the best?",
+      "If your vows could speak back to you, what would they say about how you have lived them?"
+    ],
+    reflection: "Vows are not museum pieces to be admired from a distance. They are living documents that should challenge you every single day."
+  },
+  {
+    id: 726, day: 270, program: 'marriage-strengthening',
+    title: "The Holiness of Repair",
+    emoji: "🪡",
+    tagline: "Every rupture repaired makes the bond stronger than it was before.",
+    body: "In Japanese pottery, there is a practice called kintsugi — repairing broken pieces with gold, making the mended object more beautiful than the original. Your marriage works the same way. Every argument resolved, every betrayal forgiven, every wound tended with care — these are not scars to hide. They are gold seams that prove your love can survive anything. Today, honor the repairs you have made and the beauty they have created.",
+    duration: "25 min",
+    prompts: [
+      "What is the most significant repair we have made in our marriage?",
+      "How did that repair change us?",
+      "Is there a rupture that still needs attention — one we patched over but never truly healed?",
+      "How can we become better at repairing quickly instead of letting wounds fester?"
+    ],
+    reflection: "A marriage without rupture is a myth. A marriage with gold-seamed repairs is a masterpiece."
+  },
+  {
+    id: 727, day: 271, program: 'marriage-strengthening',
+    title: "Your Partner as Teacher",
+    emoji: "📖",
+    tagline: "The person you married has been teaching you something all along. Have you been listening?",
+    body: "Your partner is your most relentless teacher. They teach you patience by testing it. They teach you humility by seeing through your pretense. They teach you love by being imperfect and still showing up. The lessons are not always comfortable, and the teacher is not always gentle. But if you pay attention, the curriculum your marriage offers is more transformative than any classroom or seminar. Today, identify what your partner has been teaching you.",
+    duration: "25 min",
+    prompts: [
+      "What is the biggest lesson I have taught you — whether I meant to or not?",
+      "What lesson are you still resisting from me?",
+      "What have you taught me that I might not recognize?",
+      "How can we be more intentional about learning from each other instead of resisting each other?"
+    ],
+    reflection: "The partner who frustrates you the most may be teaching you the lesson you need the most. Pay attention."
+  },
+  {
+    id: 728, day: 272, program: 'marriage-strengthening',
+    title: "Spiritual Warfare in Marriage",
+    emoji: "🛡️",
+    tagline: "Your marriage has enemies. Name them. Fight them together.",
+    body: "Whether you frame it as spiritual warfare, psychological sabotage, or cultural pressure — your marriage has enemies. Distraction. Comparison. Resentment. Complacency. Infidelity of attention. These forces do not announce themselves. They creep in slowly and quietly until they have taken root. A wise couple names their enemies out loud and fights them together, side by side, rather than turning on each other.",
+    duration: "25 min",
+    prompts: [
+      "What is the biggest threat to our marriage right now — internal or external?",
+      "What subtle enemy have we been ignoring?",
+      "When have we accidentally fought each other instead of fighting the real problem?",
+      "How can we build a practice of identifying and confronting threats together?"
+    ],
+    reflection: "Your marriage is not just something to enjoy. It is something to defend. The couples who last are the ones who know what they are fighting for — and what they are fighting against."
+  },
+  {
+    id: 729, day: 273, program: 'marriage-strengthening',
+    title: "Awe and Wonder in Long Love",
+    emoji: "🌌",
+    tagline: "Familiarity does not have to kill wonder. Let yourself be astonished again.",
+    body: "In the early days, everything about your partner amazed you. Their laugh. Their mind. The way they moved through the world. Years later, familiarity can dull that wonder into routine. But wonder is not something you lose — it is something you stop practicing. Today, look at your partner with fresh eyes. Let yourself be surprised. Let yourself marvel at the fact that out of eight billion people, this is the one who stayed.",
+    duration: "25 min",
+    prompts: [
+      "What still amazes you about me after all this time?",
+      "When was the last time I genuinely surprised you?",
+      "What have you stopped noticing about me that you used to love?",
+      "How can we cultivate wonder in a marriage that has become familiar?"
+    ],
+    reflection: "Wonder is not the privilege of new love. It is the discipline of lasting love. Practice it daily."
+  },
+  {
+    id: 730, day: 274, program: 'marriage-strengthening',
+    title: "The Sacrament of Listening",
+    emoji: "👂",
+    tagline: "Listening — truly listening — is the most sacred act in marriage.",
+    body: "Most people listen to respond. In marriage, this habit is devastating. When your partner speaks, they are not just conveying information. They are offering you access to their inner world. Every time you half-listen, check your phone, or mentally rehearse your rebuttal, you reject that offering. Today, practice sacramental listening — the kind where you hear not just the words, but the longing beneath them.",
+    duration: "25 min",
+    prompts: [
+      "On a scale of one to ten, how well do you feel I listen to you?",
+      "When do you feel most heard by me? When do you feel least heard?",
+      "What is something you have been trying to tell me that I keep missing?",
+      "For the next five minutes, speak freely. I will only listen — no responses until you are done."
+    ],
+    reflection: "Listening is not waiting for your turn to talk. It is entering your partner's world and staying there long enough to understand it."
+  },
+  {
+    id: 731, day: 275, program: 'marriage-strengthening',
+    title: "The Marriage Altar",
+    emoji: "🔥",
+    tagline: "What have you placed on the altar of your marriage? What have you withheld?",
+    body: "An altar is a place of offering — where you bring the best of what you have and lay it down. Your marriage is an altar. Every day, you choose what to place on it: your time, your attention, your honesty, your vulnerability. But you also choose what to withhold. Today, take an honest inventory. What have you been generously offering your marriage? And what have you been quietly keeping back?",
+    duration: "25 min",
+    prompts: [
+      "What have you generously offered our marriage that you are proud of?",
+      "What have you withheld — intentionally or not?",
+      "What would it look like to hold nothing back?",
+      "What offering does our marriage need from you right now?"
+    ],
+    reflection: "A marriage that receives only your leftovers will eventually feel like leftovers. Bring your best to the altar. Every day."
+  },
+  {
+    id: 732, day: 276, program: 'marriage-strengthening',
+    title: "The Presence of the Eternal",
+    emoji: "♾️",
+    tagline: "Something eternal lives inside your marriage. Can you feel it?",
+    body: "There are moments in marriage that feel like they touch eternity — a look across the room, a hand on the small of the back, a shared silence so full it needs no words. These are not just chemical reactions or sentimental nostalgia. They are glimpses of something bigger. Something that transcends time and circumstance. Today, sit with your partner and try to touch that eternal dimension. Let yourselves feel how vast your love actually is.",
+    duration: "30 min",
+    prompts: [
+      "Have you ever had a moment in our marriage that felt eternal — beyond time?",
+      "What do you think exists between us that is bigger than both of us?",
+      "Do you believe our love has a spiritual dimension? What does that mean to you?",
+      "Sit together in silence for five minutes. Try to feel the presence of something larger than yourselves."
+    ],
+    reflection: "The eternal is not something you have to go searching for. It is already living in the space between you and the person you love."
+  },
+  {
+    id: 733, day: 277, program: 'marriage-strengthening',
+    title: "The Deep Well",
+    emoji: "🕳️",
+    tagline: "Your marriage is a well. You have spent thirty days digging deeper. Now drink.",
+    body: "For thirty days, you have explored the spiritual and emotional depths of your marriage. You have prayed together, sat in silence, confronted grief, practiced forgiveness, and touched something sacred. This well you have been digging is not dry — it is overflowing. Today, pause and drink from it. Celebrate how far you have come. Rest in the depth you have created. And commit to never letting this well go untended again.",
+    duration: "30 min",
+    prompts: [
+      "What has this season of spiritual depth revealed about our marriage?",
+      "What surprised you most about these past thirty days?",
+      "What practice do you want to carry forward permanently?",
+      "How do you feel about us right now — honestly and completely?"
+    ],
+    reflection: "You did not just complete a set of missions. You dug a well that will sustain your marriage for decades. Guard it. Draw from it. Never let it run dry."
+  },
+  {
+    id: 734, day: 278, program: 'marriage-strengthening',
+    title: "Leading Your Household Together",
+    emoji: "🏠",
+    tagline: "A house divided cannot stand. A house led together cannot fall.",
+    body: "Leadership in marriage is not about hierarchy. It is about partnership. The strongest households are led by two people who bring different strengths to the table and refuse to compete for the head of it. Today, examine how leadership functions in your home. Who leads in which areas? Where are there gaps? Where is there friction? The goal is not equal division — it is intentional collaboration.",
+    duration: "25 min",
+    prompts: [
+      "In what areas of our household do you feel like the primary leader?",
+      "In what areas do you wish I would step up more?",
+      "Where have our leadership styles clashed, and how did we resolve it?",
+      "What does healthy co-leadership look like for us specifically?"
+    ],
+    reflection: "The best-led homes are not the ones with the strongest leader. They are the ones with the strongest partnership."
+  },
+  {
+    id: 735, day: 279, program: 'marriage-strengthening',
+    title: "Decision-Making as a Team",
+    emoji: "🤝",
+    tagline: "Every major decision is a mirror of how you function as a unit.",
+    body: "How a couple makes decisions reveals everything about their marriage — who holds power, who defers, who avoids, who dominates. Mature couples have learned to make decisions together without one person steamrolling and the other silently resenting. Today, examine your decision-making process. Is it collaborative? Is it honest? Does every voice get heard — truly heard — before a direction is set?",
+    duration: "25 min",
+    prompts: [
+      "How do we typically make major decisions? Walk me through the process.",
+      "Have you ever felt unheard or overruled in a decision that mattered to you?",
+      "What was the best decision we ever made together? What made the process work?",
+      "How can we improve our decision-making so both of us feel ownership of the outcome?"
+    ],
+    reflection: "A decision made together — even if it is the wrong one — strengthens a marriage more than a right decision made alone."
+  },
+  {
+    id: 736, day: 280, program: 'marriage-strengthening',
+    title: "Serving Your Community as a Couple",
+    emoji: "🌍",
+    tagline: "Your marriage is not just for you. It is for everyone it touches.",
+    body: "A marriage that only serves itself will eventually suffocate. The healthiest couples have a shared mission that extends beyond their front door. They serve their neighborhood, their church, their community. They open their home. They mentor younger couples. They show up when others are in crisis. Today, talk about how your marriage can become a force for good in your community — not out of obligation, but out of overflow.",
+    duration: "25 min",
+    prompts: [
+      "How do we currently serve our community as a couple?",
+      "What cause or mission excites both of us?",
+      "Is there a couple or family in our circle who could use our support right now?",
+      "What would it look like to make service a regular part of our marriage rhythm?"
+    ],
+    reflection: "A marriage that pours into others never runs dry. The more you give together, the more you have to give."
+  },
+  {
+    id: 737, day: 281, program: 'marriage-strengthening',
+    title: "The Gift of Hospitality",
+    emoji: "🚪",
+    tagline: "Open your door. Open your table. Open your life.",
+    body: "Hospitality is not about having a clean house or a perfect meal. It is about creating space where people feel seen, welcomed, and nourished. As a couple, your home can be a sanctuary — not just for yourselves, but for everyone who enters. Today, talk about what hospitality means to you and how you can practice it together. The world is full of lonely people. Your dinner table might be the answer to someone's prayer.",
+    duration: "25 min",
+    prompts: [
+      "When was the last time we hosted someone in our home? How did it feel?",
+      "What does hospitality mean to each of us — and how do those definitions differ?",
+      "Is there someone in our life right now who needs to be invited to our table?",
+      "How can we make hospitality a natural expression of who we are as a couple?"
+    ],
+    reflection: "The most powerful thing a couple can do is open their door. You never know whose life will be changed by a seat at your table."
+  },
+  {
+    id: 738, day: 282, program: 'marriage-strengthening',
+    title: "Raising the Next Generation with Intention",
+    emoji: "🌱",
+    tagline: "Whether you have children or mentor them, your influence shapes the future.",
+    body: "If you have children, you know that parenting without intention produces chaos. If you do not have children, you still have influence — nieces, nephews, students, mentees, the young people who watch how you love. Today, talk about the values, principles, and lessons you want to pass on to the next generation. Your marriage is a classroom. What is it teaching?",
+    duration: "25 min",
+    prompts: [
+      "What values do we most want to pass on to the next generation?",
+      "What did we learn from our own parents — good and bad — that shapes how we lead?",
+      "Are we aligned on how we guide, discipline, and nurture the young people in our lives?",
+      "What is one area of our parenting or mentoring where we need to get on the same page?"
+    ],
+    reflection: "The next generation does not need perfect parents or mentors. They need honest ones who are willing to grow alongside them."
+  },
+  {
+    id: 739, day: 283, program: 'marriage-strengthening',
+    title: "Your Marriage as Mission",
+    emoji: "🧭",
+    tagline: "Your marriage is not your destination. It is your mission field.",
+    body: "What if your marriage is not just about the two of you? What if it has a mission — a purpose that extends into the world and outlasts your lifetime? The strongest couples are not the ones most focused on their own happiness. They are the ones who have discovered a shared mission that gives their marriage meaning beyond itself. Today, define your mission. What are you building together that matters?",
+    duration: "30 min",
+    prompts: [
+      "If our marriage had a mission statement, what would it be?",
+      "What impact do we want our marriage to have on the world around us?",
+      "Are we currently living in alignment with that mission, or have we drifted?",
+      "What is one concrete step we can take this month to live our mission more fully?"
+    ],
+    reflection: "A marriage with a mission never runs out of purpose. Find yours and pursue it together with everything you have."
+  },
+  {
+    id: 740, day: 284, program: 'marriage-strengthening',
+    title: "Financial Stewardship as Partners",
+    emoji: "💰",
+    tagline: "Money is not the root of your problems. Misalignment about money is.",
+    body: "More marriages are wounded by financial conflict than by infidelity. The issue is rarely the amount of money — it is the meaning each partner assigns to it. For one, money means security. For another, it means freedom. For another, it means worth. Today, have the money conversation you have been avoiding. Not about budgets and spreadsheets, but about values, fears, and dreams. Financial stewardship begins with financial honesty.",
+    duration: "30 min",
+    prompts: [
+      "What does money mean to you emotionally — security, freedom, status, or something else?",
+      "Where are we most aligned financially? Where are we most misaligned?",
+      "Is there a financial truth you have been avoiding or hiding?",
+      "What does healthy financial stewardship look like for our specific marriage?"
+    ],
+    reflection: "Financial intimacy is as vulnerable as physical intimacy. The couples who master it build something that lasts generations."
+  },
+  {
+    id: 741, day: 285, program: 'marriage-strengthening',
+    title: "Health and Wellness as a Couple",
+    emoji: "💪",
+    tagline: "You cannot love your partner well if you are running on empty.",
+    body: "Your body is the vehicle that carries you through your marriage. If it breaks down, everything suffers — your energy, your patience, your intimacy, your longevity together. Health is not vanity. It is stewardship of the years you have left together. Today, have an honest conversation about your physical health, your habits, and the ways you can support each other in building a life that lasts.",
+    duration: "25 min",
+    prompts: [
+      "How honest are we with each other about our health — physical and mental?",
+      "What health habit do you wish we could build together?",
+      "Is there a health concern you have been minimizing or ignoring?",
+      "How can we hold each other accountable with love rather than judgment?"
+    ],
+    reflection: "Taking care of your body is not selfish. It is one of the most loving things you can do for the person who wants to grow old beside you."
+  },
+  {
+    id: 742, day: 286, program: 'marriage-strengthening',
+    title: "Protecting Your Marriage from External Threats",
+    emoji: "🏰",
+    tagline: "Not everyone deserves access to the inner world of your marriage.",
+    body: "Your marriage is a fortress, and not everyone who approaches the gate should be let in. External threats come in many forms — toxic friendships, intrusive family members, social media comparison, workplace relationships that cross subtle boundaries. A mature couple learns to identify these threats early and address them together. Today, examine your perimeter. Who and what have you allowed too close to the sacred space of your marriage?",
+    duration: "25 min",
+    prompts: [
+      "Is there anyone in our life right now who has too much access to our marriage?",
+      "Have you ever felt that an outside influence was pulling us apart?",
+      "Where do we need stronger boundaries — with family, friends, or technology?",
+      "How can we address external threats without becoming isolated or paranoid?"
+    ],
+    reflection: "Protecting your marriage is not paranoia. It is wisdom. Guard the gate without building a prison."
+  },
+  {
+    id: 743, day: 287, program: 'marriage-strengthening',
+    title: "Setting Boundaries Together",
+    emoji: "🚧",
+    tagline: "A boundary is not a wall. It is a declaration of what you will protect.",
+    body: "Boundaries are not about keeping people out. They are about defining what is sacred and non-negotiable in your marriage. They protect your time, your energy, your intimacy, and your peace. But boundaries only work when both partners agree on them and enforce them consistently. Today, define the boundaries your marriage needs — and commit to holding them together.",
+    duration: "25 min",
+    prompts: [
+      "What boundaries do we currently have in place that are working well?",
+      "What boundary do we need that we have been reluctant to set?",
+      "Have I ever crossed a boundary you set? How did that feel?",
+      "How do we handle it when someone outside our marriage pushes against our boundaries?"
+    ],
+    reflection: "Boundaries are not the opposite of love. They are the infrastructure of it. Build them together, and you will build something that lasts."
+  },
+  {
+    id: 744, day: 288, program: 'marriage-strengthening',
+    title: "Handling Extended Family with Grace",
+    emoji: "👨‍👩‍👧‍👦",
+    tagline: "You married a person. You inherited a family. Navigate both with wisdom.",
+    body: "Extended family is one of the most common sources of marital tension. In-laws with opinions. Parents who do not respect boundaries. Siblings who create drama. The challenge is honoring your family of origin while protecting your family of creation. Today, talk honestly about the extended family dynamics that affect your marriage — and develop a strategy for handling them as a united front.",
+    duration: "25 min",
+    prompts: [
+      "Which extended family relationships are the most challenging for our marriage?",
+      "Have you ever felt that I chose my family of origin over you? What happened?",
+      "Where do we need to set clearer boundaries with extended family?",
+      "How can we honor our families while still prioritizing each other?"
+    ],
+    reflection: "Your first loyalty is to the marriage you built — not the family you came from. Love both, but never confuse the order."
+  },
+  {
+    id: 745, day: 289, program: 'marriage-strengthening',
+    title: "The United Front",
+    emoji: "⚔️",
+    tagline: "Disagree in private. Stand together in public. Always.",
+    body: "A united front does not mean you always agree. It means you never undermine each other where others can see. You hash out your differences behind closed doors, and when you walk into the world — with your children, your families, your community — you present a partnership that cannot be divided. Today, examine where your front has cracked and how to reinforce it.",
+    duration: "25 min",
+    prompts: [
+      "Have you ever felt undermined by me in front of others? When?",
+      "Have I ever felt undermined by you? How did that affect our unity?",
+      "What does a united front look like in practice — especially when we disagree?",
+      "How can we commit to always resolving conflict privately while standing together publicly?"
+    ],
+    reflection: "The world will test your marriage. Let it find a wall, not a crack."
+  },
+  {
+    id: 746, day: 290, program: 'marriage-strengthening',
+    title: "Your Marriage as a Lighthouse",
+    emoji: "🗼",
+    tagline: "In a world of broken relationships, your marriage can be the light others follow home.",
+    body: "You may not realize it, but people are watching your marriage. Your children. Your friends. Your coworkers. The couple sitting next to you at dinner. In a world full of cynicism about love, a strong marriage is a lighthouse — a visible proof that commitment, depth, and faithfulness are still possible. Today, consider the influence your marriage has on others and the responsibility that comes with it.",
+    duration: "25 min",
+    prompts: [
+      "Who do you think watches our marriage and is influenced by what they see?",
+      "What do you hope people see when they look at us?",
+      "Is there a younger couple we could intentionally pour into?",
+      "How does knowing that others are watching change the way you show up in our marriage?"
+    ],
+    reflection: "You may never know how many people your marriage has saved from giving up on love. Keep the light on."
+  },
+  {
+    id: 747, day: 291, program: 'marriage-strengthening',
+    title: "Building a Legacy of Love",
+    emoji: "🏛️",
+    tagline: "What you build together will outlive you. Build accordingly.",
+    body: "Legacy is not about wealth or fame. It is about the emotional, spiritual, and relational inheritance you leave behind. Your marriage is building a legacy every single day — in how you treat each other, how you resolve conflict, how you love your children, and how you serve your community. Today, think about the legacy your marriage is creating. Is it the one you want to leave?",
+    duration: "25 min",
+    prompts: [
+      "What legacy is our marriage currently building — whether we intended it or not?",
+      "What legacy do you want our marriage to be remembered for?",
+      "What needs to change for us to build the legacy we actually want?",
+      "What is one thing we can start doing today that our great-grandchildren will benefit from?"
+    ],
+    reflection: "Legacy is not built in a single grand gesture. It is built in ten thousand small choices made with love and intention."
+  },
+  {
+    id: 748, day: 292, program: 'marriage-strengthening',
+    title: "The Power of Shared Purpose",
+    emoji: "🎯",
+    tagline: "Couples who share a purpose do not drift apart. They are pulled forward together.",
+    body: "Drift is the silent killer of marriages. Not conflict — drift. Two people slowly moving in different directions, consumed by individual pursuits, until one day they look up and realize they are strangers. The antidote to drift is shared purpose. A project, a cause, a vision that requires both of you. Today, identify or create a shared purpose that will pull you forward together.",
+    duration: "25 min",
+    prompts: [
+      "Do we currently share a purpose beyond maintaining our household?",
+      "What excites both of us equally? Where do our passions overlap?",
+      "Have we been drifting toward separate lives without realizing it?",
+      "What shared project or goal can we commit to that would deepen our partnership?"
+    ],
+    reflection: "A shared purpose is not optional in marriage. It is the gravitational force that keeps two people orbiting together instead of flying apart."
+  },
+  {
+    id: 749, day: 293, program: 'marriage-strengthening',
+    title: "Conflict with Dignity",
+    emoji: "🤺",
+    tagline: "Fight for your marriage, not against your partner.",
+    body: "Conflict is inevitable. Cruelty is not. The way you fight reveals more about your marriage than the way you love. Do you fight to win or to understand? Do you fight with respect or with contempt? Do you fight to resolve or to destroy? Today, establish rules of engagement — principles that govern how you disagree so that every conflict leaves your marriage stronger, not scarred.",
+    duration: "25 min",
+    prompts: [
+      "What is our worst conflict habit — the one that causes the most damage?",
+      "What rules of engagement should we establish for future disagreements?",
+      "Has there ever been a conflict where we both walked away feeling respected? What made it work?",
+      "Can we commit to never using contempt, stonewalling, or name-calling — no matter how heated it gets?"
+    ],
+    reflection: "The goal of conflict in marriage is not victory. It is understanding. Fight accordingly."
+  },
+  {
+    id: 750, day: 294, program: 'marriage-strengthening',
+    title: "Rest as Resistance",
+    emoji: "🛌",
+    tagline: "In a culture that worships hustle, resting together is a revolutionary act.",
+    body: "You were not built to run at full speed forever, and neither was your marriage. Rest is not laziness — it is resistance against a culture that will consume every hour you let it. The couples who last are the ones who protect their rest with the same ferocity they protect their income. Today, evaluate how well you rest together — and whether you have given yourselves permission to slow down.",
+    duration: "25 min",
+    prompts: [
+      "When was the last time we truly rested together — no screens, no agenda?",
+      "Do you feel guilty when you rest? Where does that come from?",
+      "What does restful time together look like for each of us?",
+      "How can we build more intentional rest into our weekly rhythm?"
+    ],
+    reflection: "Rest is not the reward you earn after everything is done. It is the fuel that makes everything possible. Take it. Together."
+  },
+  {
+    id: 751, day: 295, program: 'marriage-strengthening',
+    title: "Protecting Your Inner Circle",
+    emoji: "🔐",
+    tagline: "Not every friend is a friend of your marriage. Choose wisely.",
+    body: "The people closest to you have influence over your marriage — whether you recognize it or not. Friends who mock commitment, coworkers who normalize infidelity, social media accounts that breed comparison — these voices shape your expectations and erode your contentment. Today, audit your inner circle. Who is speaking life into your marriage? Who is quietly undermining it? Protect your marriage by protecting who has access to your mind.",
+    duration: "25 min",
+    prompts: [
+      "Who in our circle actively supports and strengthens our marriage?",
+      "Is there anyone whose influence might be subtly harmful to how we see each other?",
+      "What media or social content has been shaping our expectations in unhealthy ways?",
+      "How can we curate an inner circle that builds us up rather than tears us down?"
+    ],
+    reflection: "You become the average of the five relationships closest to you. Make sure those relationships honor the marriage you are building."
+  },
+  {
+    id: 752, day: 296, program: 'marriage-strengthening',
+    title: "Financial Generosity as a Couple",
+    emoji: "🤲",
+    tagline: "Generous couples build generous lives. Open your hands together.",
+    body: "Financial generosity is not about the amount. It is about the posture. Couples who give together — to causes they believe in, to people in need, to their community — discover that generosity strengthens their bond in ways that accumulation never can. Giving together aligns your values, deepens your trust, and reminds you that your resources are meant to flow, not just accumulate. Today, talk about your giving life as a couple.",
+    duration: "25 min",
+    prompts: [
+      "How generous are we currently as a couple? Be honest.",
+      "What cause or organization would we both feel passionate about supporting?",
+      "Does the idea of giving more excite you or terrify you? Why?",
+      "What would it look like to make generosity a core value of our marriage?"
+    ],
+    reflection: "The tightest fist holds the most anxiety. The open hand holds the most peace. Give together and watch your marriage expand."
+  },
+  {
+    id: 753, day: 297, program: 'marriage-strengthening',
+    title: "Mentoring the Next Generation of Couples",
+    emoji: "🔦",
+    tagline: "The wisdom you have earned is not just for you. Pass it on.",
+    body: "You have walked through fire together. You have learned lessons that younger couples are desperate to hear but cannot access. The mentoring of younger couples is not about having a perfect marriage — it is about having an honest one. Today, consider how your marriage can serve as a resource for those coming behind you. Your scars are credentials. Your survival is a syllabus.",
+    duration: "25 min",
+    prompts: [
+      "Is there a younger couple in our life who could benefit from our experience?",
+      "What is the most important lesson we could share with a couple just starting out?",
+      "Would you be open to formally mentoring another couple? What would that look like?",
+      "What would we have given to have a mentor couple when we were starting out?"
+    ],
+    reflection: "The strongest generation of marriages is not the one that figured it out alone. It is the one that had someone ahead of them willing to be honest."
+  },
+  {
+    id: 754, day: 298, program: 'marriage-strengthening',
+    title: "The Couple That Heals Together",
+    emoji: "🩹",
+    tagline: "Your marriage is not just surviving. It is healing — you, each other, and the world around you.",
+    body: "You came into this marriage carrying wounds from before you ever met. Childhood scars, past relationship trauma, generational patterns of dysfunction. But here is the extraordinary truth: your marriage has the power to heal what came before it. Every act of patience rewrites an old script of abandonment. Every moment of faithfulness heals an old betrayal. Today, honor the healing your marriage has already done — and the healing that is still underway.",
+    duration: "25 min",
+    prompts: [
+      "What wound from your past has our marriage helped heal?",
+      "What wound is still in process — not yet fully healed?",
+      "How has healing together changed the way you see yourself?",
+      "What generational pattern are we breaking simply by staying committed to growth?"
+    ],
+    reflection: "Your marriage is not just about the two of you. It is healing backward into the generations that came before and forward into the ones that will come after."
+  },
+  {
+    id: 755, day: 299, program: 'marriage-strengthening',
+    title: "Preparing for the Milestone",
+    emoji: "🪜",
+    tagline: "Tomorrow marks three hundred days. Tonight, prepare your heart.",
+    body: "Tomorrow you will reach Day 300 — a milestone that most couples will never attempt, let alone achieve. But milestones are not just about the number. They are about the person you have become in the process of reaching them. Tonight, take a quiet inventory of who you were at Day 1 and who you are now. What has changed? What has deepened? What do you carry now that you did not carry before? Prepare your heart for what tomorrow will ask of you.",
+    duration: "25 min",
+    prompts: [
+      "Who were you when we started this journey, and who are you now?",
+      "What has this process demanded of you that you did not expect?",
+      "What are you most proud of as you approach Day 300?",
+      "What do you want to carry into the next chapter of our marriage?"
+    ],
+    reflection: "The milestone is not the destination. It is proof that you are the kind of couple that does not quit."
+  },
+  {
+    id: 756, day: 300, program: 'marriage-strengthening',
+    title: "Three Hundred Days — The Marriage That Chose Itself",
+    emoji: "👑",
+    tagline: "Three hundred days. You did not just survive your marriage. You chose it — again and again and again.",
+    body: "Three hundred days ago, you made a decision that most couples never make: to do the work. Not just the surface-level work of date nights and compliments, but the deep, soul-level work of confronting your shadows, healing your wounds, and building something extraordinary from the ground up. Today is not about celebration — it is about recognition. You are not the same couple who started this journey. You have been tested, stretched, broken open, and rebuilt. And through it all, your marriage kept choosing itself. That is not luck. That is not chemistry. That is the sacred, stubborn, relentless power of two people who refused to give up on each other.",
+    duration: "45 min",
+    prompts: [
+      "In three hundred days, what is the single most transformative thing that has happened in our marriage?",
+      "What moment almost broke us — and what kept us going?",
+      "If our marriage could speak, what would it say to us right now?",
+      "Look into each other's eyes. Say this: 'I chose you three hundred days ago. I choose you tonight. I will choose you tomorrow. This marriage chose itself — and I am honored to be part of it.'"
+    ],
+    reflection: "Three hundred days is not a number. It is a testament. You are living proof that love is not a feeling you fall into — it is a discipline you rise to meet, every single day."
+  },
+  {
+    id: 757, day: 301, program: 'marriage-strengthening',
+    title: "The Morning After the Milestone",
+    emoji: "🌅",
+    tagline: "The milestone is behind you. The mission continues.",
+    body: "Yesterday was extraordinary. Today is ordinary. And that is exactly the point. The true test of a transformed marriage is not how you celebrate the milestones — it is how you show up the morning after. The dishes still need washing. The bills still need paying. The conversations still need having. But you bring something different to the ordinary now. You bring three hundred days of depth, practice, and commitment. Let that change how you move through today.",
+    duration: "20 min",
+    prompts: [
+      "How do you feel today — the day after a major milestone?",
+      "What is different about our ordinary now compared to three hundred days ago?",
+      "How do we prevent the post-milestone letdown from dulling our momentum?",
+      "What is one ordinary thing you will do differently today because of everything we have built?"
+    ],
+    reflection: "Milestones are markers, not finish lines. The marriage you built yesterday still needs to be lived today."
+  },
+  {
+    id: 758, day: 302, program: 'marriage-strengthening',
+    title: "Your Marriage in a Broken World",
+    emoji: "🌎",
+    tagline: "The world is not kind to marriages. Yours can be the exception that gives others hope.",
+    body: "Look around. Divorce rates are climbing. Commitment is mocked. Loyalty is treated as naivety. In a world that has largely given up on the idea that two people can build something lasting, your marriage is a radical act of defiance. You are not naive — you are brave. Today, acknowledge the cultural headwinds your marriage faces and recommit to being the exception. The world needs to see that this is still possible.",
+    duration: "25 min",
+    prompts: [
+      "What cultural messages about marriage have been the hardest to resist?",
+      "How has the cynicism of the world affected your expectations of our marriage?",
+      "What makes our marriage countercultural — in the best sense of the word?",
+      "How can we be visible proof that deep, lasting love still exists?"
+    ],
+    reflection: "Your marriage is not just personal. It is prophetic. In a broken world, a strong couple is the most radical thing there is."
+  },
+  {
+    id: 759, day: 303, program: 'marriage-strengthening',
+    title: "The Power of Agreement",
+    emoji: "🔗",
+    tagline: "When two people agree — truly agree — mountains move.",
+    body: "There is exponential power in agreement. Not forced consensus or reluctant compliance, but genuine, deep alignment between two people who have done the work to understand each other. When you and your partner are truly in agreement — about your values, your direction, your non-negotiables — you become an unstoppable force. Today, identify where you are in agreement and where you still need to align.",
+    duration: "25 min",
+    prompts: [
+      "Where are we most deeply in agreement as a couple?",
+      "Where do we still have unresolved misalignment?",
+      "What would change if we were fully aligned on our top three priorities?",
+      "Can we draft a shared agreement — three to five statements that define who we are and what we stand for?"
+    ],
+    reflection: "Agreement is not the absence of disagreement. It is the presence of shared conviction that has been tested, debated, and chosen together."
+  },
+  {
+    id: 760, day: 304, program: 'marriage-strengthening',
+    title: "Sabbath for Your Marriage",
+    emoji: "☀️",
+    tagline: "Your marriage needs a day of rest. Give it one.",
+    body: "The concept of sabbath — a dedicated day of rest — is one of the oldest pieces of wisdom in human history. But sabbath is not just for individuals. Your marriage needs a sabbath too. A regular, protected time where you step off the treadmill of productivity and simply exist together. No errands. No difficult conversations. No agenda. Just the two of you, resting in what you have built. Today, plan your marriage sabbath.",
+    duration: "25 min",
+    prompts: [
+      "When was the last time our marriage had a true day of rest?",
+      "What would a marriage sabbath look like for us practically?",
+      "What keeps us from resting together — guilt, busyness, or something else?",
+      "Can we commit to one day or half-day each month that is a sabbath for our marriage?"
+    ],
+    reflection: "A marriage that never rests will eventually break. Sabbath is not a luxury. It is a necessity."
+  },
+  {
+    id: 761, day: 305, program: 'marriage-strengthening',
+    title: "Writing Your Marriage Manifesto",
+    emoji: "📝",
+    tagline: "Put it in writing. Declare who you are and what you stand for.",
+    body: "A manifesto is a public declaration of intentions, values, and principles. Your marriage deserves one. Not your wedding vows — those were made before you knew what you were getting into. This is different. This is a declaration made by two people who have done the hard work, faced the truth, and still chosen each other. Today, write your marriage manifesto together. Make it specific. Make it honest. Make it something you can return to when the storms come.",
+    duration: "30 min",
+    prompts: [
+      "What are the three core values that define our marriage?",
+      "What will we always fight for? What will we never tolerate?",
+      "What promise do we make to each other that goes beyond our wedding vows?",
+      "Write it down together. Read it aloud. Sign it if you want. This is your manifesto."
+    ],
+    reflection: "A manifesto is not just words on paper. It is a stake in the ground. Plant it deep and let it anchor everything you build."
+  },
+  {
+    id: 762, day: 306, program: 'marriage-strengthening',
+    title: "The Unfinished Work",
+    emoji: "🔨",
+    tagline: "You are not done. You will never be done. And that is the beauty of it.",
+    body: "Tomorrow is the last day of this section, but it is not the end of your work. Marriage is an unfinished project by design. There will always be more to learn, more to heal, more to build, more to forgive, more to celebrate. The couples who thrive are not the ones who finish the work — they are the ones who fall in love with the process of doing it. Today, honor the unfinished work and commit to continuing it long after this program ends.",
+    duration: "25 min",
+    prompts: [
+      "What work remains unfinished in our marriage?",
+      "Are you at peace with the idea that we will never be 'done' growing?",
+      "What area of growth do you want to focus on in our next season together?",
+      "How do we ensure this program does not become a memory, but a permanent shift?"
+    ],
+    reflection: "The most beautiful marriages are not the finished ones. They are the ones still under construction — with both builders still showing up every morning."
+  },
+  {
+    id: 763, day: 307, program: 'marriage-strengthening',
+    title: "The Couple That Stayed",
+    emoji: "🏔️",
+    tagline: "Sixty days of leadership, service, and soul. You stayed. You built. You became.",
+    body: "You have spent sixty days in the deepest waters of your marriage — exploring spiritual intimacy, emotional maturity, shared leadership, service, boundaries, legacy, and purpose. You have had conversations that most couples never have. You have built frameworks that most marriages never develop. And through it all, you stayed. Not because it was easy, but because you understood that the marriage worth having is the one worth fighting for. This is not the end. This is the launchpad. Everything you have built in these sixty days is a foundation for the decades ahead. Go build something extraordinary.",
+    duration: "30 min",
+    prompts: [
+      "What has this sixty-day journey meant to you?",
+      "What is the single most important thing you are taking with you?",
+      "How have you changed as a partner during this season?",
+      "Hold each other. Say this: 'We stayed. We built. We became. And we are only getting started.'"
+    ],
+    reflection: "The couples who change the world are not the ones who had it easy. They are the ones who had it hard — and stayed anyway. You stayed. Now go show the world what that looks like."
+  },
+  {
+    id: 764, day: 308, program: 'marriage-strengthening',
+    title: "Beyond Good Enough",
+    emoji: "🏛️",
+    tagline: "Good marriages survive. Extraordinary marriages transform.",
+    body: "Most couples settle for a marriage that works. It pays the bills, raises the children, keeps the peace. But you did not commit to a year of daily work to arrive at 'good enough.' Today you cross a threshold — from a marriage that functions to one that astonishes. The extraordinary marriage is not an accident. It is a daily decision to reject mediocrity in the way you love.",
+    duration: "25 min",
+    prompts: [
+      "Where have you been settling for 'good enough' in your marriage?",
+      "What would an extraordinary marriage look like in your daily life — not on vacation, but on a Tuesday?",
+      "What is one area where you have been coasting instead of investing?",
+      "Tell your partner: 'I did not choose you to build something ordinary.'"
+    ],
+    reflection: "The distance between a good marriage and a great one is not talent. It is intention — applied every single day."
+  },
+  {
+    id: 765, day: 309, program: 'marriage-strengthening',
+    title: "The Daily Practice of Excellence",
+    emoji: "⚒️",
+    tagline: "Excellence is not an event. It is a rhythm.",
+    body: "An extraordinary marriage is not built in grand gestures. It is built in the way you say good morning. The way you listen when you are tired. The way you reach for their hand without thinking. Excellence in marriage is a practice — repeated so often it becomes instinct. Today you examine your daily rhythms and ask whether they reflect the marriage you want to be known for.",
+    duration: "25 min",
+    prompts: [
+      "What does your average morning interaction with your partner look like — and what could it look like?",
+      "What small daily habit would most elevate your marriage if you committed to it?",
+      "Where do your daily rhythms reflect excellence, and where do they reflect autopilot?",
+      "Choose one micro-practice to commit to for the rest of this program."
+    ],
+    reflection: "You do not rise to the level of your wedding vows. You fall to the level of your daily habits."
+  },
+  {
+    id: 766, day: 310, program: 'marriage-strengthening',
+    title: "Choosing Your Partner Over Convenience",
+    emoji: "⚖️",
+    tagline: "Every shortcut you take is a deposit in the wrong account.",
+    body: "Convenience is the silent killer of great marriages. It is easier to scroll than to engage. Easier to assume than to ask. Easier to let it go than to have the conversation. But every time you choose the easier path over the deeper one, you choose comfort over your partner. Today you identify the places where convenience has replaced connection — and you make a different choice.",
+    duration: "25 min",
+    prompts: [
+      "Where have you chosen convenience over connection this week?",
+      "What conversation have you been avoiding because it feels inconvenient?",
+      "How does your partner experience it when you choose the easy path instead of them?",
+      "Name one inconvenient act of love you will do today — and do it."
+    ],
+    reflection: "Love is not efficient. It is not optimized. It is gloriously, beautifully inconvenient — and that is what makes it sacred."
+  },
+  {
+    id: 767, day: 311, program: 'marriage-strengthening',
+    title: "The Marriage That Inspires Others",
+    emoji: "🔥",
+    tagline: "Your marriage is a sermon the world is already watching.",
+    body: "Whether you know it or not, people are watching your marriage. Your children. Your friends. Your community. The way you treat each other in public and in private sends a message about what love can be. Today you consider the witness of your marriage — not for performance, but for purpose. What does your love say to the world about what is possible between two people?",
+    duration: "25 min",
+    prompts: [
+      "What message does your marriage currently send to those who observe it?",
+      "Who in your life needs to see a marriage that works — and are you showing them one?",
+      "What would change if you treated your marriage as a gift to the world, not just to each other?",
+      "Tell your partner: 'I want our love to be proof that extraordinary marriages still exist.'"
+    ],
+    reflection: "The most powerful testimony is not what you preach. It is how you love when you think no one is watching."
+  },
+  {
+    id: 768, day: 312, program: 'marriage-strengthening',
+    title: "Depth Over Comfort",
+    emoji: "🌊",
+    tagline: "Comfort keeps you warm. Depth keeps you alive.",
+    body: "Comfortable marriages are pleasant. Deep marriages are transformative. Comfort says, 'Let us not rock the boat.' Depth says, 'Let us explore what is underneath the water.' Today you choose depth — the kind that requires vulnerability, courage, and a willingness to see parts of each other that are not always pretty. This is where the real treasure lives.",
+    duration: "25 min",
+    prompts: [
+      "Where has your marriage become comfortable but shallow?",
+      "What question are you afraid to ask your partner — and why?",
+      "When was the last time you had a conversation that genuinely surprised you both?",
+      "Ask your partner one question you have never asked before. Listen without reacting."
+    ],
+    reflection: "Shallow water is safe. But no one has ever found a pearl in a puddle."
+  },
+  {
+    id: 769, day: 313, program: 'marriage-strengthening',
+    title: "The Hard Conversation That Deepens Love",
+    emoji: "🪨",
+    tagline: "The conversation you are avoiding is the one your marriage needs most.",
+    body: "Every marriage has a conversation that both partners have been circling but never landing. It might be about money. About intimacy. About a wound that never fully healed. Today you stop circling. You do not attack, blame, or defend. You simply sit together and say, 'There is something I have been carrying, and I trust you enough to share it.' Hard conversations do not break strong marriages. Silence does.",
+    duration: "30 min",
+    prompts: [
+      "What is the conversation you have been avoiding in your marriage?",
+      "What fear has kept you from having it?",
+      "How do you want your partner to receive what you share — and have you told them that?",
+      "Begin the conversation today. Even if you only open the door, that is enough."
+    ],
+    reflection: "The couples who last are not the ones who avoid hard conversations. They are the ones who have learned to hold each other through them."
+  },
+  {
+    id: 770, day: 314, program: 'marriage-strengthening',
+    title: "Radical Honesty",
+    emoji: "🪞",
+    tagline: "The truth does not threaten love. It is the only thing that can sustain it.",
+    body: "Radical honesty is not brutality. It is the courage to be fully known — to remove the masks, the performance, the curated version of yourself. It is saying, 'This is who I really am today — afraid, uncertain, hopeful, flawed — and I trust you to hold all of it.' Today you practice the kind of honesty that most people never risk, because you understand that half-truths build half-marriages.",
+    duration: "25 min",
+    prompts: [
+      "Where have you been editing yourself to keep the peace?",
+      "What truth about yourself have you been withholding from your partner?",
+      "How does it feel to be fully honest versus partially honest in your marriage?",
+      "Share one unedited truth with your partner today — with kindness, but without softening the core."
+    ],
+    reflection: "You cannot build an extraordinary marriage on a foundation of polite half-truths. Honesty is the bedrock. Everything else is sand."
+  },
+  {
+    id: 771, day: 315, program: 'marriage-strengthening',
+    title: "Choosing Growth Over Stagnation",
+    emoji: "🌱",
+    tagline: "A marriage that stops growing has already started dying.",
+    body: "Growth is uncomfortable. It demands change, vulnerability, and the willingness to admit that what worked last year may not work this year. Stagnation, on the other hand, is painless — until the day you look across the table and realize you are strangers sharing a mortgage. Today you choose growth. Not because it is easy, but because you refuse to let your marriage become a monument to who you used to be.",
+    duration: "25 min",
+    prompts: [
+      "Where has your marriage been stagnant — and how long have you known?",
+      "What would growth look like for you as a couple in the next ninety days?",
+      "What are you each willing to change to make that growth possible?",
+      "Make a growth commitment together. Write it down. Date it. Sign it."
+    ],
+    reflection: "The oak tree does not stop growing because it is tall. It grows because stopping is not in its nature. Let your marriage be the same."
+  },
+  {
+    id: 772, day: 316, program: 'marriage-strengthening',
+    title: "The Couple as Creative Force",
+    emoji: "🎨",
+    tagline: "Your marriage is not just a relationship. It is a creation.",
+    body: "Two people who love well become a creative force in the world. They build families, businesses, communities, traditions, and legacies that neither could build alone. Today you explore the creative potential of your partnership — not just what you maintain, but what you generate. What are you building together that did not exist before you chose each other?",
+    duration: "25 min",
+    prompts: [
+      "What have you created together that you are most proud of?",
+      "What do you dream of building together that you have not yet started?",
+      "How does your partnership make you more creative than you would be alone?",
+      "Name one project, tradition, or dream you will begin building together this month."
+    ],
+    reflection: "A marriage is not just a shelter from the storm. At its best, it is a studio — where two artists build something the world has never seen."
+  },
+  {
+    id: 773, day: 317, program: 'marriage-strengthening',
+    title: "Building Traditions That Outlast You",
+    emoji: "🕯️",
+    tagline: "The traditions you build today will warm generations you will never meet.",
+    body: "Every family has traditions — but few families build them intentionally. The meals you share, the holidays you honor, the phrases you repeat, the rituals you protect — these become the DNA of your family for generations. Today you do not leave tradition to accident. You choose, with purpose, the practices that will define your family long after you are gone.",
+    duration: "25 min",
+    prompts: [
+      "What traditions from your families of origin do you want to carry forward?",
+      "What new tradition have you built together that matters deeply to you?",
+      "What tradition do you wish you had — and what is stopping you from starting it today?",
+      "Design one new family tradition together. Name it. Schedule it. Protect it."
+    ],
+    reflection: "Your grandchildren will not remember your salary. They will remember the table you set and the songs you sang around it."
+  },
+  {
+    id: 774, day: 318, program: 'marriage-strengthening',
+    title: "The Marriage as a Work of Art",
+    emoji: "🖼️",
+    tagline: "You are not maintaining a marriage. You are composing one.",
+    body: "A great marriage is a work of art — layered, textured, surprising, and deeply intentional. It has light and shadow, tension and resolution, moments of breathtaking beauty and stretches of quiet patience. Like any masterpiece, it requires both skill and soul. Today you step back and look at the full canvas of your marriage. What do you see? And what do you want to paint next?",
+    duration: "25 min",
+    prompts: [
+      "If your marriage were a painting, what would it look like right now?",
+      "What colors are dominant — joy, tension, peace, passion, fatigue?",
+      "What is missing from the canvas that you want to add?",
+      "Tell your partner: 'I want to spend the rest of my life making this beautiful.'"
+    ],
+    reflection: "The Sistine Chapel was not painted in a day. And the artist did not stop because his neck hurt. He kept going — because the ceiling deserved it."
+  },
+  {
+    id: 775, day: 319, program: 'marriage-strengthening',
+    title: "The Standard You Refuse to Lower",
+    emoji: "📏",
+    tagline: "Your marriage will rise to the standard you set — or fall to the one you accept.",
+    body: "Exceptional couples hold a standard — not of perfection, but of effort. They refuse to let weeks pass without meaningful connection. They refuse to let conflict calcify into resentment. They refuse to let love become a noun when it was always meant to be a verb. Today you name your non-negotiable standard — the line below which your marriage will never fall, because you will not let it.",
+    duration: "25 min",
+    prompts: [
+      "What standard have you been quietly lowering in your marriage?",
+      "What is the minimum quality of connection you refuse to accept?",
+      "How do you lovingly hold each other accountable when the standard slips?",
+      "Together, write one sentence: 'In this marriage, we will never stop _________.'"
+    ],
+    reflection: "The standard you walk past is the standard you accept. Decide what you will never walk past again."
+  },
+  {
+    id: 776, day: 320, program: 'marriage-strengthening',
+    title: "The Art of Paying Attention",
+    emoji: "👁️",
+    tagline: "The greatest gift you can give your partner is your undivided attention.",
+    body: "In a world of infinite distractions, attention has become the rarest currency. To truly see your partner — to notice the shift in their tone, the weight behind their smile, the things they are not saying — is an act of profound love. Today you practice the lost art of paying attention. Not glancing. Not multitasking. Seeing. The kind of seeing that makes your partner feel like the most important person in every room.",
+    duration: "25 min",
+    prompts: [
+      "When was the last time you gave your partner your complete, undivided attention?",
+      "What do you notice about your partner that you have never told them?",
+      "How does your partner signal that they need to be seen — and do you catch it?",
+      "Spend ten minutes today doing nothing but looking at your partner and listening. No phones. No agenda."
+    ],
+    reflection: "Love is not proven by grand declarations. It is proven by the quiet act of noticing — again and again and again."
+  },
+  {
+    id: 777, day: 321, program: 'marriage-strengthening',
+    title: "The Extraordinary Ordinary",
+    emoji: "☕",
+    tagline: "Greatness lives in the ordinary moments you refuse to waste.",
+    body: "The extraordinary marriage is not defined by the highlight reel. It is defined by the Tuesday evenings, the Saturday mornings, the car rides and grocery runs and bedtime routines. These ordinary moments are the raw material of your legacy. Today you bring reverence to the mundane. You treat the ordinary day as what it truly is — the only canvas you are guaranteed.",
+    duration: "25 min",
+    prompts: [
+      "What ordinary moment in your marriage holds the most beauty?",
+      "How do you typically treat routine moments — as obligations or as opportunities?",
+      "What would change if you approached tonight's dinner as if it were your last together?",
+      "Choose one ordinary moment today and fill it with extraordinary presence."
+    ],
+    reflection: "The couples who build extraordinary marriages are not the ones with extraordinary circumstances. They are the ones who bring extraordinary intention to ordinary days."
+  },
+  {
+    id: 778, day: 322, program: 'marriage-strengthening',
+    title: "Protecting the Fire",
+    emoji: "🔥",
+    tagline: "Passion does not die on its own. It is neglected to death.",
+    body: "Every couple begins with fire. But fire requires tending — fuel, oxygen, attention. Left alone, even the fiercest flame becomes ash. Today you examine the passion in your marriage — not just physical, but emotional, intellectual, spiritual. Where is the fire burning strong? Where has it dimmed? And what are you willing to do to protect what remains and reignite what has cooled?",
+    duration: "25 min",
+    prompts: [
+      "On a scale of one to ten, how would you rate the passion in your marriage right now?",
+      "What used to ignite passion between you that you have stopped doing?",
+      "What new form of passion could you explore together at this stage of your lives?",
+      "Plan one act this week that is designed to reignite something between you."
+    ],
+    reflection: "You would not leave a campfire unattended and blame the wind when it goes out. Tend your fire. It is the only warmth you have."
+  },
+  {
+    id: 779, day: 323, program: 'marriage-strengthening',
+    title: "The Courage to Be Vulnerable Again",
+    emoji: "🛡️",
+    tagline: "Armor protects you from pain. It also protects you from love.",
+    body: "After years of marriage, many partners learn to protect themselves. Small walls go up. Certain topics become off-limits. Vulnerability feels too risky because it has been punished before. But a marriage without vulnerability is a marriage without intimacy. Today you choose courage over protection. You lower the shield — not because it is safe, but because the marriage you want cannot be built behind a wall.",
+    duration: "25 min",
+    prompts: [
+      "Where have you put up walls in your marriage — and when did it start?",
+      "What wound taught you that vulnerability was dangerous?",
+      "What would your partner need to do to make vulnerability feel safe again?",
+      "Share one thing today that feels risky. Let your partner hold it with care."
+    ],
+    reflection: "The bravest thing you will ever do in your marriage is not fighting for it. It is letting your guard down inside of it."
+  },
+  {
+    id: 780, day: 324, program: 'marriage-strengthening',
+    title: "Forgiveness as a Lifestyle",
+    emoji: "🕊️",
+    tagline: "Forgiveness is not an event. In a lasting marriage, it is a way of life.",
+    body: "You have practiced forgiveness before in this program. But today you go deeper. You explore forgiveness not as a response to a single offense, but as a posture — a daily orientation toward your partner that says, 'I will not hold today hostage to yesterday.' Extraordinary marriages are built by people who have made forgiveness a reflex, not a deliberation.",
+    duration: "25 min",
+    prompts: [
+      "What small resentment are you carrying right now that you could release?",
+      "How quickly do you move from offense to forgiveness — and what slows you down?",
+      "What would your marriage feel like if forgiveness were your default, not your last resort?",
+      "Tell your partner: 'I choose to release anything I have been holding. We start clean today.'"
+    ],
+    reflection: "Bitterness is a debt you charge your partner but pay yourself. Forgiveness is the only currency that frees you both."
+  },
+  {
+    id: 781, day: 325, program: 'marriage-strengthening',
+    title: "The Conversation About Money — Revisited",
+    emoji: "💰",
+    tagline: "Money is never just about money. It is about safety, power, and trust.",
+    body: "You have talked about money before. But at this stage of the journey, you are ready for a deeper conversation — one that goes beyond budgets and into beliefs. What does money represent to each of you? Where do your financial values align, and where do they quietly clash? Today you have the money conversation that most couples avoid — with the maturity and trust you have earned.",
+    duration: "30 min",
+    prompts: [
+      "What did your family of origin teach you about money — spoken and unspoken?",
+      "Where do your financial values align, and where do they create tension?",
+      "What financial decision would most benefit your marriage in the next year?",
+      "Create or revisit a shared financial vision statement together."
+    ],
+    reflection: "Couples who master money conversations are not the ones who agree on everything. They are the ones who trust each other enough to disagree and still build."
+  },
+  {
+    id: 782, day: 326, program: 'marriage-strengthening',
+    title: "The Way You Fight Now",
+    emoji: "⚔️",
+    tagline: "How you fight reveals how much you have grown.",
+    body: "Conflict is inevitable. But the way you handle it has transformed over this year. Early in your journey, you explored fair fighting and repair. Now, three hundred and twenty-six days in, your conflicts should look different — shorter, kinder, more productive. Today you evaluate how far your conflict style has come, and where it still needs refinement.",
+    duration: "25 min",
+    prompts: [
+      "How has the way you handle conflict changed since the beginning of this program?",
+      "What old pattern still shows up when you are stressed or tired?",
+      "What does your best conflict look like — the kind that actually brings you closer?",
+      "Thank your partner for one way they have grown in how they handle disagreements."
+    ],
+    reflection: "The measure of a marriage is not the absence of conflict. It is the quality of repair that follows."
+  },
+  {
+    id: 783, day: 327, program: 'marriage-strengthening',
+    title: "The Dream You Have Not Spoken",
+    emoji: "💭",
+    tagline: "The dream you keep to yourself is the one your marriage cannot support.",
+    body: "Everyone carries a dream they have not fully shared — a longing, a vision, a secret hope for their life. In marriage, unspoken dreams become invisible walls. Your partner cannot support what they do not know. Today you speak the dream. Not the safe one. The real one. The one that makes your voice shake a little when you say it out loud.",
+    duration: "25 min",
+    prompts: [
+      "What dream have you been carrying that you have not fully shared with your partner?",
+      "What has stopped you from speaking it until now?",
+      "How would it feel to have your partner fully behind this dream?",
+      "Share your dream today. Ask your partner to simply listen and say: 'I see that in you.'"
+    ],
+    reflection: "A dream spoken into a safe marriage does not shrink. It grows legs and starts to walk."
+  },
+  {
+    id: 784, day: 328, program: 'marriage-strengthening',
+    title: "The Gift of Being Known",
+    emoji: "🔑",
+    tagline: "To be fully known and fully loved is the deepest human need.",
+    body: "There is no greater gift than being truly known by another human being — your fears, your failures, your finest moments, and your most guarded corners — and being loved not in spite of them, but through them. Today you sit with the extraordinary privilege of being known. After three hundred and twenty-eight days of daily work, you know each other in ways that most couples never achieve. Honor that.",
+    duration: "25 min",
+    prompts: [
+      "What does your partner know about you that no one else in the world knows?",
+      "How does it feel to be fully known — and what parts still feel exposed?",
+      "What has being truly known by your partner taught you about yourself?",
+      "Tell your partner: 'You know me better than anyone alive. And I am grateful you stayed.'"
+    ],
+    reflection: "The garden of intimacy is not built by showing your best. It is built by showing your all — and finding that love does not flinch."
+  },
+  {
+    id: 785, day: 329, program: 'marriage-strengthening',
+    title: "The Partnership Audit",
+    emoji: "📋",
+    tagline: "A great partnership is not assumed. It is examined, refined, and chosen again.",
+    body: "Today you conduct a partnership audit — not with judgment, but with curiosity. You look at how you divide labor, make decisions, support each other's careers, manage the household, parent, plan, and dream. The question is not whether your partnership is perfect. It is whether it is equitable, sustainable, and life-giving for both of you.",
+    duration: "30 min",
+    prompts: [
+      "Where is your partnership most balanced and effective?",
+      "Where does one of you carry a disproportionate load — and how long has it been that way?",
+      "What adjustment would make your partnership feel more equitable?",
+      "Make one concrete change to the division of responsibility this week."
+    ],
+    reflection: "The best partnerships are not the ones where everything is equal. They are the ones where everything is seen, named, and chosen."
+  },
+  {
+    id: 786, day: 330, program: 'marriage-strengthening',
+    title: "Laughter as Medicine",
+    emoji: "😂",
+    tagline: "The couple that laughs together survives what the serious couples cannot.",
+    body: "Laughter is the most underestimated force in marriage. It breaks tension, builds connection, and reminds you that life — for all its weight — is also absurd and beautiful. Today you prioritize laughter. Not forced humor, but the genuine, belly-deep kind that comes from knowing someone so well that a single look can set you both off. Joy is not a luxury in marriage. It is a necessity.",
+    duration: "25 min",
+    prompts: [
+      "When was the last time you laughed so hard together that you could not breathe?",
+      "What inside joke captures the spirit of your marriage?",
+      "How do you use humor to navigate hard moments — and when does it help versus hurt?",
+      "Do something today with the sole purpose of making each other laugh."
+    ],
+    reflection: "The marriages that last are not always the most serious. They are the ones where two people still find each other delightful after all these years."
+  },
+  {
+    id: 787, day: 331, program: 'marriage-strengthening',
+    title: "Spiritual Alignment",
+    emoji: "🙏",
+    tagline: "A marriage rooted in shared meaning can survive anything.",
+    body: "Spiritual alignment does not require identical beliefs. It requires a shared sense that your marriage exists for something larger than comfort or convenience. Whether your foundation is faith, philosophy, nature, or a deep sense of purpose, today you explore the spiritual core of your marriage. What do you both believe about why you are here — together — in this life?",
+    duration: "25 min",
+    prompts: [
+      "What shared belief or value forms the spiritual center of your marriage?",
+      "How do you nurture that center — together and individually?",
+      "Where do your spiritual lives diverge, and how do you honor that difference?",
+      "Pray, meditate, or sit in silence together for five minutes. Let the stillness speak."
+    ],
+    reflection: "When two people share a sense of sacred purpose, even suffering becomes meaningful. That is the power of spiritual alignment."
+  },
+  {
+    id: 788, day: 332, program: 'marriage-strengthening',
+    title: "The Legacy Letter — Part One",
+    emoji: "✉️",
+    tagline: "What you write today may be read by someone you will never meet.",
+    body: "Today you begin writing a legacy letter — not to your partner, but to the future. To your children, grandchildren, or anyone who inherits the marriage you are building. In this letter, you describe what your marriage taught you, what it cost you, and what it gave you. This is Part One: your individual perspective. Tomorrow you will write it together.",
+    duration: "30 min",
+    prompts: [
+      "What has your marriage taught you that you could not have learned any other way?",
+      "What sacrifice did your marriage require — and was it worth it?",
+      "What do you want your descendants to know about how to love well?",
+      "Begin writing your legacy letter. You do not need to finish it today — just begin."
+    ],
+    reflection: "The letter you write today is a bridge across time. Someone you will never hold may one day hold your words — and find the courage to stay."
+  },
+  {
+    id: 789, day: 333, program: 'marriage-strengthening',
+    title: "The Legacy Letter — Part Two",
+    emoji: "📜",
+    tagline: "Write it together. Let the ink carry both your voices.",
+    body: "Yesterday you began your legacy letters individually. Today you come together to write one unified letter — from both of you, to the future. This is not a performance. It is a declaration. A record of what two people built when they chose each other every day for a year. Let it be honest. Let it be beautiful. Let it be something worth inheriting.",
+    duration: "30 min",
+    prompts: [
+      "Share what you wrote yesterday. Listen without editing each other's experience.",
+      "What themes appear in both of your letters?",
+      "Together, write the opening paragraph of your shared legacy letter.",
+      "Decide where this letter will live — and commit to finishing it before Day 365."
+    ],
+    reflection: "A legacy is not what you leave behind by accident. It is what you build on purpose — and write down so it cannot be forgotten."
+  },
+  {
+    id: 790, day: 334, program: 'marriage-strengthening',
+    title: "The Marriage You Almost Lost",
+    emoji: "⚓",
+    tagline: "Gratitude is sharpest when you remember what you almost threw away.",
+    body: "Most marriages that last have had at least one season where the ending felt closer than the beginning. A crisis. A betrayal. An exhaustion so deep that walking away seemed easier than staying. Today — if it is true for you — you honor the moment your marriage almost did not make it. Not to relive the pain, but to stand in awe of the fact that you are still here, still building, still choosing each other.",
+    duration: "25 min",
+    prompts: [
+      "Was there a moment when your marriage felt like it might not survive? What happened?",
+      "What kept you from giving up — and do you think your partner knows?",
+      "How did surviving that season change the foundation of your marriage?",
+      "If your marriage has never faced that kind of crisis, what has been your hardest season — and what did it teach you?"
+    ],
+    reflection: "The scar is not a sign of weakness. It is proof that something tried to break you — and failed."
+  },
+  {
+    id: 791, day: 335, program: 'marriage-strengthening',
+    title: "Generosity Without Scorekeeping",
+    emoji: "🤲",
+    tagline: "The moment you start counting, you have stopped loving.",
+    body: "Scorekeeping is the tax that mediocre marriages pay. 'I did this, so you should do that.' In extraordinary marriages, generosity flows without a ledger. You give because giving is who you are in this marriage — not because you expect a return. Today you examine where scorekeeping has quietly crept in and choose radical, unilateral generosity instead.",
+    duration: "25 min",
+    prompts: [
+      "Where have you been quietly keeping score in your marriage?",
+      "What would it feel like to give without any expectation of return — truly?",
+      "How does scorekeeping damage the trust between you?",
+      "Do one generous act today with zero expectation. Do not mention it. Just give."
+    ],
+    reflection: "Love that keeps score is a transaction. Love that gives freely is a revolution."
+  },
+  {
+    id: 792, day: 336, program: 'marriage-strengthening',
+    title: "The Couple Others Come To",
+    emoji: "🏠",
+    tagline: "Build a marriage so strong that others seek shelter in its shadow.",
+    body: "As your marriage has grown, you may have noticed something: people come to you. Friends ask for advice. Younger couples watch how you navigate difficulty. Your marriage has become a reference point — a quiet lighthouse in a culture of disposable relationships. Today you embrace this role. Not with arrogance, but with stewardship. The marriage you have built is a resource for the world.",
+    duration: "25 min",
+    prompts: [
+      "Has anyone ever come to you for marriage advice? What did you tell them?",
+      "What wisdom has your marriage earned that you feel called to share?",
+      "How do you balance being a resource for others while protecting your own marriage?",
+      "Identify one couple in your life who could benefit from your encouragement — and reach out."
+    ],
+    reflection: "The strongest marriages are not fortresses. They are lighthouses — built for the storm, shining for others."
+  },
+  {
+    id: 793, day: 337, program: 'marriage-strengthening',
+    title: "The Masterpiece in Progress",
+    emoji: "🎭",
+    tagline: "You are not finished. You are not supposed to be.",
+    body: "Today marks the end of the first arc of this final season — the exploration of what makes a marriage extraordinary. You have examined excellence, vulnerability, depth, creativity, legacy, and purpose. And the truth you have discovered is this: the extraordinary marriage is not a destination. It is a posture. A daily decision. A refusal to settle. You are a masterpiece in progress — and the brush is still in your hand.",
+    duration: "25 min",
+    prompts: [
+      "What has this season taught you about what makes a marriage extraordinary?",
+      "Which mission in this arc challenged you the most — and why?",
+      "How has your definition of a great marriage changed over this year?",
+      "Tell your partner: 'We are not finished. And that is the most beautiful part.'"
+    ],
+    reflection: "The masterpiece is never complete. The artist simply learns to love the process more than the product."
+  },
+  {
+    id: 794, day: 338, program: 'marriage-strengthening',
+    title: "Integration Begins",
+    emoji: "🧩",
+    tagline: "You have gathered the pieces. Now you assemble the whole.",
+    body: "For three hundred and thirty-seven days, you have explored every dimension of your marriage — communication, intimacy, conflict, forgiveness, legacy, purpose, and more. Now begins the integration. Not new lessons, but the weaving together of everything you have learned into a unified way of being. Today you take inventory. What has stuck? What has faded? What needs to be reclaimed?",
+    duration: "25 min",
+    prompts: [
+      "What are the three most transformative lessons from this entire year?",
+      "Which lesson did you learn but have not yet fully integrated into daily life?",
+      "What habit from this program has become second nature?",
+      "Make a list of your top five marriage commitments going forward."
+    ],
+    reflection: "Knowledge is what you learn. Wisdom is what remains after you stop trying to remember it."
+  },
+  {
+    id: 795, day: 339, program: 'marriage-strengthening',
+    title: "Revisiting the Beginning",
+    emoji: "🔄",
+    tagline: "Read your earliest entries with the eyes you have now.",
+    body: "Today you go back to the beginning. If you kept notes, journals, or memories from the first week of this program, revisit them. Notice how you spoke about your marriage then. Notice what worried you. Notice what you hoped for. The distance between who you were on Day 1 and who you are on Day 339 is the measure of your growth. Honor it.",
+    duration: "25 min",
+    prompts: [
+      "What was your marriage like on Day 1 of this program?",
+      "What were you most afraid of at the beginning?",
+      "What has changed the most — in your marriage, and in you as a partner?",
+      "Write a message to your Day 1 self. What would you tell them?"
+    ],
+    reflection: "You cannot see the mountain you have climbed while you are climbing it. Today, you turn around — and take in the view."
+  },
+  {
+    id: 796, day: 340, program: 'marriage-strengthening',
+    title: "The Communication Mastery You Have Earned",
+    emoji: "🗣️",
+    tagline: "You do not just talk now. You communicate.",
+    body: "Communication was one of the first skills you developed in this program — and it has deepened every day since. Today you assess your communication mastery. You are no longer two people learning to talk. You are two people who have learned to listen, to repair, to be honest, to be kind, and to say the hard thing without destroying the safe thing. That is mastery.",
+    duration: "25 min",
+    prompts: [
+      "How has your communication with your partner changed over this year?",
+      "What communication skill are you most proud of developing?",
+      "Where does your communication still break down — and what is the pattern?",
+      "Have a conversation today using every skill you have built. Be intentional about it."
+    ],
+    reflection: "Communication mastery is not the ability to say anything. It is the wisdom to know what to say, how to say it, and when silence says it better."
+  },
+  {
+    id: 797, day: 341, program: 'marriage-strengthening',
+    title: "The Intimacy You Have Cultivated",
+    emoji: "💞",
+    tagline: "This is not the intimacy you started with. It is the one you built.",
+    body: "The intimacy you share now is not the effortless chemistry of early love. It is something harder-won and more precious — intimacy that has survived conflict, fatigue, disappointment, and time. It is the kind of closeness that can only exist between two people who have done the work of truly knowing each other. Today you celebrate the intimacy you have cultivated, in all its forms.",
+    duration: "25 min",
+    prompts: [
+      "How has your emotional intimacy deepened over this year?",
+      "How has your physical intimacy evolved?",
+      "What form of intimacy surprised you most — one you did not expect to develop?",
+      "Create a moment of deep intimacy today. It does not have to be physical. It has to be real."
+    ],
+    reflection: "The deepest intimacy is not the kind that makes your heart race. It is the kind that makes your heart rest."
+  },
+  {
+    id: 798, day: 342, program: 'marriage-strengthening',
+    title: "The Resilience You Have Proven",
+    emoji: "🔩",
+    tagline: "You did not just survive this year. You proved what you are made of.",
+    body: "Three hundred and forty-two days of daily work. Through busy seasons and quiet ones. Through arguments and breakthroughs. Through days when you did not feel like showing up — and you showed up anyway. That is resilience. Not the motivational-poster kind. The real kind. The kind that is forged in the furnace of daily commitment when no one is watching and no one is clapping.",
+    duration: "25 min",
+    prompts: [
+      "What was the hardest stretch of this program — and how did you get through it?",
+      "What did your resilience as a couple teach you about your resilience as individuals?",
+      "When did you most want to quit — and what kept you going?",
+      "Tell your partner: 'I am proud of us for not giving up. Not once.'"
+    ],
+    reflection: "Resilience is not the absence of wanting to quit. It is the presence of something worth staying for."
+  },
+  {
+    id: 799, day: 343, program: 'marriage-strengthening',
+    title: "The Joy You Have Protected",
+    emoji: "🌈",
+    tagline: "Joy in marriage is not given. It is guarded.",
+    body: "Joy is fragile. It can be stolen by stress, eroded by routine, or buried under the weight of responsibility. But you have learned something this year: joy must be protected with the same ferocity you bring to protecting your family. Today you celebrate the joy you have kept alive — the laughter, the delight, the moments of pure happiness that exist because you refused to let the world take them.",
+    duration: "25 min",
+    prompts: [
+      "What brings you the most joy in your marriage right now?",
+      "How have you protected joy this year — even during hard times?",
+      "What threatens your joy most, and how do you guard against it?",
+      "Do something joyful together today. Not productive. Not meaningful. Just joyful."
+    ],
+    reflection: "The happiest marriages are not the ones with the fewest problems. They are the ones where joy is treated as sacred — and defended accordingly."
+  },
+  {
+    id: 800, day: 344, program: 'marriage-strengthening',
+    title: "The Legacy You Are Building",
+    emoji: "🏗️",
+    tagline: "You are not just living a marriage. You are building a legacy.",
+    body: "Every day of this program has been a brick in a structure that will outlast you. The way you love, the way you fight, the way you forgive, the way you dream — all of it is being watched, absorbed, and inherited by the people around you. Today you name the legacy. Not what you hope it will be. What it already is — based on the evidence of three hundred and forty-four days of intentional love.",
+    duration: "25 min",
+    prompts: [
+      "What legacy is your marriage already creating — whether you intended it or not?",
+      "What do you want your children or community to say about your marriage?",
+      "What part of your legacy needs more attention before this program ends?",
+      "Write one sentence that captures the legacy of your marriage. Read it to each other."
+    ],
+    reflection: "A legacy is not a speech given at a funeral. It is a life lived so well that the speech writes itself."
+  },
+  {
+    id: 801, day: 345, program: 'marriage-strengthening',
+    title: "Revisiting Forgiveness",
+    emoji: "🕊️",
+    tagline: "The deepest forgiveness is the one you offer without being asked.",
+    body: "You have explored forgiveness many times this year. But today you revisit it with the depth that only three hundred and forty-five days can provide. Is there anything left unforgiven? Any residue of resentment that clings to the edges? Today you do a final sweep — not because forgiveness is easy, but because carrying even a grain of bitterness into the final weeks of this journey would dishonor everything you have built.",
+    duration: "25 min",
+    prompts: [
+      "Is there anything — no matter how small — that you have not fully forgiven?",
+      "What would it take to release it completely?",
+      "How has your capacity for forgiveness grown over this year?",
+      "If there is something to release, release it today. Say it out loud. Let it go."
+    ],
+    reflection: "Forgiveness is not the end of pain. It is the decision to stop letting pain author your story."
+  },
+  {
+    id: 802, day: 346, program: 'marriage-strengthening',
+    title: "The Friendship Beneath the Marriage",
+    emoji: "🤝",
+    tagline: "Before you were spouses, you were friends. Never forget that.",
+    body: "Beneath every great marriage is a great friendship — the easy laughter, the genuine interest, the desire to spend time together not out of obligation but out of delight. Today you tend to the friendship. Not the romance. Not the partnership. The friendship. The part of your relationship that says, 'Even if we were not married, I would choose your company.'",
+    duration: "25 min",
+    prompts: [
+      "How strong is the friendship underneath your marriage?",
+      "When was the last time you did something together purely as friends — no agenda, no romance?",
+      "What do you enjoy about your partner that has nothing to do with marriage?",
+      "Spend time together today as friends. Go for a walk. Share a meal. Talk about anything but responsibilities."
+    ],
+    reflection: "The marriages that last the longest are not the most passionate. They are the ones built on a friendship that never stopped growing."
+  },
+  {
+    id: 803, day: 347, program: 'marriage-strengthening',
+    title: "Gratitude as a Daily Discipline",
+    emoji: "🌻",
+    tagline: "Gratitude is not a feeling. It is a practice that rewires everything.",
+    body: "You have practiced gratitude throughout this program. But today you elevate it from a practice to a discipline — something you do not because you feel grateful, but because you know that gratitude reshapes the way you see your partner, your marriage, and your life. The most extraordinary marriages are saturated with gratitude. Not because they are perfect, but because the partners inside them have trained their eyes to see the gold.",
+    duration: "25 min",
+    prompts: [
+      "Name five things about your partner you are grateful for that you rarely mention.",
+      "How has gratitude changed the way you experience your marriage?",
+      "What would happen if you expressed gratitude to your partner every single day for the rest of your life?",
+      "Tell your partner five specific things you are grateful for — right now, out loud."
+    ],
+    reflection: "Gratitude does not change what you have. It changes what you see. And when you see differently, everything changes."
+  },
+  {
+    id: 804, day: 348, program: 'marriage-strengthening',
+    title: "The Seasons of Marriage",
+    emoji: "🍂",
+    tagline: "Every season serves a purpose. Even winter.",
+    body: "Your marriage has moved through seasons this year — spring growth, summer energy, autumn reflection, and the quiet endurance of winter. Today you honor all the seasons, including the hard ones. The season of exhaustion taught you endurance. The season of conflict taught you repair. The season of distance taught you longing. Every season was a teacher — and you were wise enough to stay enrolled.",
+    duration: "25 min",
+    prompts: [
+      "What season is your marriage in right now?",
+      "Which season of this year was the hardest — and what did it teach you?",
+      "Which season brought the most growth?",
+      "How do you prepare for the next season, whatever it may be?"
+    ],
+    reflection: "The tree does not panic in autumn. It knows that what falls away makes room for what comes next."
+  },
+  {
+    id: 805, day: 349, program: 'marriage-strengthening',
+    title: "Your Shared Language",
+    emoji: "📖",
+    tagline: "Every great couple develops a language that only they speak.",
+    body: "Over the course of this year, you have developed a shared language — phrases that carry weight, inside jokes that hold history, shorthand that says in three words what would take a stranger thirty. This language is the living proof of your intimacy. Today you celebrate it, add to it, and recognize it as the private dialect of a love that no one else will ever fully understand.",
+    duration: "25 min",
+    prompts: [
+      "What phrases or words have become part of your private language?",
+      "What does your shared language say about the kind of marriage you have built?",
+      "Is there a phrase from this program that has entered your daily vocabulary?",
+      "Create a new phrase together — something that captures this season of your marriage."
+    ],
+    reflection: "The most intimate proof of love is not a ring or a vow. It is a language that only two people in the entire world can speak."
+  },
+  {
+    id: 806, day: 350, program: 'marriage-strengthening',
+    title: "Protecting What You Have Built",
+    emoji: "🛡️",
+    tagline: "Building is hard. Protecting what you built is harder.",
+    body: "You have built something extraordinary this year. But building is only half the work. The other half is protection — guarding what you have created against the slow erosion of neglect, distraction, and complacency. Today you identify the threats to your marriage and build a protection plan. Not out of fear, but out of reverence for what you have spent three hundred and fifty days building.",
+    duration: "25 min",
+    prompts: [
+      "What is the greatest threat to your marriage in the next year?",
+      "What safeguard can you put in place to protect against it?",
+      "How will you ensure that the habits you built this year do not fade?",
+      "Together, write a 'protection covenant' — three things you will always do to guard this marriage."
+    ],
+    reflection: "A castle without a guard is just a ruin in waiting. Protect what you have built. It cost you too much to lose."
+  },
+  {
+    id: 807, day: 351, program: 'marriage-strengthening',
+    title: "The Mentors and Models",
+    emoji: "🌳",
+    tagline: "No great marriage is built in isolation. Honor those who showed you the way.",
+    body: "Behind every strong marriage are the mentors, models, and examples who showed you what was possible. A grandparent who stayed. A friend who fought for their marriage. A couple who loved imperfectly but persistently. Today you name the people who shaped your understanding of marriage — and you honor them by continuing what they started.",
+    duration: "25 min",
+    prompts: [
+      "Who modeled healthy marriage for you — and what did they teach you?",
+      "Whose marriage warned you about what to avoid?",
+      "Have you thanked anyone for the role they played in shaping your marriage?",
+      "If there is someone to thank, reach out today. If they are gone, write them a letter anyway."
+    ],
+    reflection: "You are the sum of every marriage you ever witnessed. Choose carefully which ones you carry forward."
+  },
+  {
+    id: 808, day: 352, program: 'marriage-strengthening',
+    title: "The Power of Rituals",
+    emoji: "🕯️",
+    tagline: "Rituals are the heartbeat of a marriage that refuses to be ordinary.",
+    body: "Rituals transform routine into meaning. The morning coffee made a certain way. The Sunday walk. The annual trip. The way you always say goodnight. These are not habits — they are rituals, and they hold your marriage together in ways that words alone cannot. Today you evaluate your rituals and ensure they are alive, intentional, and worthy of the marriage you have built.",
+    duration: "25 min",
+    prompts: [
+      "What rituals define your marriage right now?",
+      "Which rituals have faded and need to be revived?",
+      "What new ritual could you create to mark this season of growth?",
+      "Perform one ritual together tonight — with full presence and intention."
+    ],
+    reflection: "A marriage without rituals is a house without walls. The love may be real, but it has nothing to hold it in place."
+  },
+  {
+    id: 809, day: 353, program: 'marriage-strengthening',
+    title: "The Quiet Strength of Commitment",
+    emoji: "💍",
+    tagline: "Commitment is not a cage. It is the soil in which freedom grows.",
+    body: "In a world that celebrates options, your commitment to one person for one year of daily work is countercultural. It is also the most powerful thing you have done. Commitment is not glamorous. It does not trend. It does not go viral. But it is the quiet force that held your marriage together on the days when love was not a feeling — it was a decision. Today you honor the power of that decision.",
+    duration: "25 min",
+    prompts: [
+      "What does commitment mean to you now, compared to when you started?",
+      "When was commitment hardest this year — and what did it teach you?",
+      "How has the security of your commitment allowed you to take risks in your marriage?",
+      "Reaffirm your commitment today — in your own words, looking into your partner's eyes."
+    ],
+    reflection: "The oak does not question whether to stay rooted. It simply grows — deeper, wider, stronger. That is commitment."
+  },
+  {
+    id: 810, day: 354, program: 'marriage-strengthening',
+    title: "What Your Marriage Has Survived",
+    emoji: "⚓",
+    tagline: "Look at what tried to break you. Look at you — still standing.",
+    body: "Today you take an honest inventory of everything your marriage has survived — not just this year, but across its entire lifetime. The losses. The moves. The financial stress. The parenting challenges. The seasons of disconnection. The moments when the world pressed in and your marriage absorbed the blow. You are still here. That is not luck. That is the result of two people who refused to let go.",
+    duration: "25 min",
+    prompts: [
+      "What is the hardest thing your marriage has ever survived?",
+      "How did surviving it change you as a couple?",
+      "What strength did you discover in each other through adversity?",
+      "Hold each other and say: 'We survived it all. And we are stronger for it.'"
+    ],
+    reflection: "A ship in harbor is safe. But that is not what ships are for. Your marriage was built for open water — and it has sailed through storms that would have sunk lesser vessels."
+  },
+  {
+    id: 811, day: 355, program: 'marriage-strengthening',
+    title: "The Gift You Give Each Other",
+    emoji: "🎁",
+    tagline: "The greatest gift is not what you give. It is who you become for each other.",
+    body: "Today you name the gift you are to each other. Not what you do. Who you are. The calm in the storm. The laughter in the silence. The hand in the dark. The voice that says, 'I believe in you' when no one else does. Your partner is a gift — one you chose, unwrapped, and have been discovering for years. Today you say it out loud.",
+    duration: "25 min",
+    prompts: [
+      "What gift does your partner bring to your life that no one else could?",
+      "How have you grown as a person because of who your partner is?",
+      "What do you offer your partner that you are most proud of?",
+      "Write a short note describing the gift your partner is to you. Read it aloud."
+    ],
+    reflection: "The greatest marriages are built by two people who see each other clearly — flaws and all — and still whisper, 'What a gift you are.'"
+  },
+  {
+    id: 812, day: 356, program: 'marriage-strengthening',
+    title: "The Wisdom You Now Carry",
+    emoji: "📿",
+    tagline: "You entered this year with hope. You leave it with wisdom.",
+    body: "Three hundred and fifty-six days ago, you began with hope and intention. Today you carry something deeper: wisdom. The wisdom of knowing that love is a verb. That conflict is not the enemy. That vulnerability is the price of intimacy. That forgiveness is the oxygen of marriage. That showing up on the hard days is worth more than any grand gesture. This wisdom is now yours — earned, not inherited.",
+    duration: "25 min",
+    prompts: [
+      "What is the single wisest thing you now know about marriage?",
+      "How would you advise a newly married couple based on what you have learned?",
+      "What wisdom from this year do you most need to remember in the years ahead?",
+      "Share your deepest piece of marriage wisdom with your partner."
+    ],
+    reflection: "Wisdom is not knowing the answers. It is having lived the questions long enough that your life becomes the answer."
+  },
+  {
+    id: 813, day: 357, program: 'marriage-strengthening',
+    title: "The Year in Review",
+    emoji: "📅",
+    tagline: "Three hundred and fifty-seven days. One marriage. Infinite growth.",
+    body: "Today you look back across the full arc of this year — from the earliest days of communication basics to the depths of spiritual intimacy, from fair fighting to radical forgiveness, from surviving to thriving. This is your year in review. Not a test. Not a grade. A celebration. You did something that most couples never attempt. You showed up, daily, for an entire year. That deserves to be honored.",
+    duration: "30 min",
+    prompts: [
+      "What phase of this program was most transformative for your marriage?",
+      "What was your greatest breakthrough as a couple?",
+      "What moment are you most proud of?",
+      "Tell your partner: 'Thank you for every single day of this year.'"
+    ],
+    reflection: "A year is a long time to do anything daily. A year of daily love is a monument. Stand back and look at what you built."
+  },
+  {
+    id: 814, day: 358, program: 'marriage-strengthening',
+    title: "The Integration Ceremony",
+    emoji: "🏆",
+    tagline: "Gather everything you have learned. Carry it forward as one.",
+    body: "Today you perform a symbolic integration — a ceremony of your own design. You take everything this year has taught you and you name it, claim it, and commit to carrying it forward. This is not a graduation. It is a coronation. You have earned the right to call your marriage extraordinary — not because it is perfect, but because you refused to stop building it.",
+    duration: "30 min",
+    prompts: [
+      "If you could distill this entire year into three principles, what would they be?",
+      "How will you carry these principles into the next year and beyond?",
+      "Design a small ceremony or ritual to mark this moment of integration.",
+      "Perform the ceremony together. Let it be simple, honest, and sacred to you."
+    ],
+    reflection: "Integration is not the end of learning. It is the moment when learning becomes identity — when what you practiced becomes who you are."
+  },
+  {
+    id: 815, day: 359, program: 'marriage-strengthening',
+    title: "A Letter to Your Marriage",
+    emoji: "💌",
+    tagline: "Write to the living thing between you. It deserves a letter.",
+    body: "Your marriage is not just a legal status. It is a living entity — the third presence in every room you share. It has moods, seasons, needs, and a personality all its own. Today you write a letter to your marriage itself. Thank it. Challenge it. Tell it what it has survived and what you dream for its future. This letter is for the thing you have both been building — the invisible masterpiece between you.",
+    duration: "30 min",
+    prompts: [
+      "If your marriage were a person, what would you say to it right now?",
+      "What has your marriage given you that you could never have found alone?",
+      "What do you want for your marriage in the year ahead?",
+      "Write the letter. Read it to each other. Let the words land."
+    ],
+    reflection: "Your marriage is alive. It breathes when you breathe into it. It grows when you tend it. Speak to it today — it has been listening all year."
+  },
+  {
+    id: 816, day: 360, program: 'marriage-strengthening',
+    title: "What You Know Now",
+    emoji: "🌅",
+    tagline: "You know things now that you could not have known before this year.",
+    body: "There are truths about love, marriage, and yourself that simply could not be understood before you lived them. They had to be earned through three hundred and sixty days of presence, effort, and surrender. Today you sit with what you know now — the hard-won truths that have been forged in the daily fire of showing up. These are not opinions. They are the bedrock of your marriage going forward.",
+    duration: "25 min",
+    prompts: [
+      "What do you know about love now that you did not know a year ago?",
+      "What do you know about yourself as a partner that surprised you?",
+      "What do you know about your spouse that deepened over this year?",
+      "Write down your three most important truths. Keep them somewhere you will see them."
+    ],
+    reflection: "The deepest truths are not learned in a classroom. They are learned in the daily act of loving someone imperfect — and discovering you are imperfect too."
+  },
+  {
+    id: 817, day: 361, program: 'marriage-strengthening',
+    title: "What You Will Carry Forward",
+    emoji: "🎒",
+    tagline: "You cannot take everything. Choose what matters most.",
+    body: "A year of daily missions has given you hundreds of tools, insights, and practices. But you will not carry them all. Today you choose — deliberately and wisely — what you will take with you into the next season of your marriage. The habits that changed you. The conversations that healed you. The practices that connected you. Pack light, but pack well. What you choose to carry forward is what will define the next chapter.",
+    duration: "25 min",
+    prompts: [
+      "What three habits from this program will you commit to continuing?",
+      "What conversation practice has been most valuable to your marriage?",
+      "What will you intentionally let go of — a pattern that no longer serves you?",
+      "Write your 'carry forward' list together. Post it where you will see it daily."
+    ],
+    reflection: "The traveler who packs everything carries nothing well. Choose wisely. Carry deeply. And trust that what you need will always be enough."
+  },
+  {
+    id: 818, day: 362, program: 'marriage-strengthening',
+    title: "Your Commitment for the Next Year",
+    emoji: "📝",
+    tagline: "This ending is a beginning disguised as a finish line.",
+    body: "Tomorrow is not the end. It is a transition. And transitions require intention. Today you write your commitment for the next year — not a resolution, but a covenant between two people who have proven they can show up daily. What will you protect? What will you build? What will you never go back to? This is your north star for the year ahead.",
+    duration: "30 min",
+    prompts: [
+      "What is your number one commitment to your marriage for the next twelve months?",
+      "What boundary will you protect to honor that commitment?",
+      "What does your partner need from you most in the year ahead?",
+      "Write your commitments to each other. Sign them. Date them. Keep them sacred."
+    ],
+    reflection: "A commitment written is a commitment witnessed — by yourself, by your partner, and by the future you are building together."
+  },
+  {
+    id: 819, day: 363, program: 'marriage-strengthening',
+    title: "Gratitude for the Journey",
+    emoji: "🙏",
+    tagline: "Before the final steps, pause. Look back. And give thanks.",
+    body: "You are two days from completing a full year of daily marriage work. That is extraordinary. Today is not for lessons or strategies. It is for gratitude — deep, overwhelming, tearful gratitude. For your partner, who walked every step. For yourself, for not giving up. For the marriage that held you both when the world tried to pull you apart. Today you simply say thank you.",
+    duration: "25 min",
+    prompts: [
+      "What are you most grateful for in this entire journey?",
+      "How has gratitude itself changed your marriage?",
+      "What moment from this year fills you with the deepest thankfulness?",
+      "Hold your partner. Say nothing for a full minute. Then say: 'Thank you for every single day.'"
+    ],
+    reflection: "Gratitude is the final language of love. When all the words run out, thank you is always enough."
+  },
+  {
+    id: 820, day: 364, program: 'marriage-strengthening',
+    title: "The Vow Renewed",
+    emoji: "💍",
+    tagline: "You said vows once. Now you say them knowing what they cost.",
+    body: "On your wedding day, you spoke vows filled with hope and innocence. You did not yet know what those words would cost. Now you do. You know the weight of 'for better or for worse.' You know the price of 'in sickness and in health.' You know what it means to forsake all others — not just people, but comfort, ego, and the temptation to quit. Today you renew your vows. Not with the innocence of the beginning, but with the wisdom of three hundred and sixty-four days of proof.",
+    duration: "30 min",
+    prompts: [
+      "Write new vows — not the ones you said at your wedding, but the ones you would say now.",
+      "What promise can you make today that you could not have made a year ago?",
+      "Read your renewed vows to each other. Let them be imperfect and honest.",
+      "Seal your vows with a gesture that is meaningful to you — a kiss, a ring exchange, a candle lit, a prayer spoken."
+    ],
+    reflection: "The first vow was a promise made in hope. This vow is a promise made in proof. You know exactly what it costs — and you choose it anyway."
+  },
+  {
+    id: 821, day: 365, program: 'marriage-strengthening',
+    title: "Day 365 — The Marriage That Chose Greatness",
+    emoji: "👑",
+    tagline: "Three hundred and sixty-five days. One marriage. One extraordinary choice — made again and again and again.",
+    body: "This is the final day. Not because your marriage is finished, but because you have completed something that will echo through every year that follows. For three hundred and sixty-five days, you chose each other. Not once, in a ceremony surrounded by flowers and applause — but daily, in the quiet crucible of real life, where love is not a feeling but a verb conjugated in the first person, present tense, every single morning. You have wept together, laughed together, fought and forgiven, broken and rebuilt, spoken the unspeakable and held the unholdable. You have done what most couples only dream of — you have taken your marriage apart, examined every beam and foundation stone, and put it back together stronger, deeper, and more beautiful than before. Today you do not simply finish a program. You stand at the summit of a year-long climb and look out at the life you have built — not perfect, but extraordinary. Not because it was easy, but because you refused to settle for anything less than a marriage worthy of the two people inside it.",
+    duration: "60 min",
+    prompts: [
+      "Each of you: write a final letter to your partner. Pour into it everything this year has meant — the gratitude, the growth, the moments that changed you. Hold nothing back.",
+      "Read your letters aloud to each other. Take your time. Let the tears come. Let the silence between sentences hold the weight of what words cannot carry.",
+      "Choose a symbol or ritual to mark this moment — light a candle, exchange a meaningful gift, plant something together, or return to the place where your journey began. Let it be something you will remember for the rest of your lives.",
+      "Look into each other's eyes and make one commitment for the year ahead. Not a list. One sacred promise. Speak it aloud. Let it be the first word of your next chapter."
+    ],
+    reflection: "You did it. Three hundred and sixty-five days of choosing love when it was hard, choosing growth when it was painful, choosing each other when the world offered a thousand easier paths. This is not the end of your story. It is the moment your marriage stopped being something that happened to you — and became something you built, on purpose, with your own hands and your whole hearts. Go now. Not as the couple you were. As the couple you have become. The world needs marriages like yours. Go show them what it looks like when two people choose greatness — and never, ever stop."
+  },
 ]
 
 export const getProgramMissions = (program: string) =>
