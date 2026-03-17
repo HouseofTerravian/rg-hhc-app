@@ -227,7 +227,7 @@ export default function TodayPage() {
               Unlock today's mission for both of you. Complete it together to earn your
               local reward coupon and a vacation credit toward HHC Travel.
             </p>
-            <div className="mission-unlock-price">$0.99</div>
+            <div className="mission-unlock-price">$1</div>
             <div className="mission-unlock-note">One unlock covers both partners · No auto-renewal</div>
             <button className="btn btn-primary btn-lg" onClick={handleUnlock}>
               Unlock Today's Mission

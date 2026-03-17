@@ -77,7 +77,7 @@ export default function CouponsPage() {
             </h3>
             <p style={{ color: 'var(--text-mid)', fontSize: '0.875rem', lineHeight: 1.65 }}>
               Complete a daily love mission to unlock your first local business coupon.
-              Partner brands are added as we grow — you'll always get something worth more than $0.99.
+              Partner brands are added as we grow — you'll always get something worth more than $1.
             </p>
           </div>
         ) : (

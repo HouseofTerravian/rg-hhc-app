@@ -48,7 +48,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     const amount = session.amount_total ?? 0
 
     // Daily mission unlock ($0.99 = 99 cents)
-    if (amount === 99) {
+    if (amount === 100) {
       await supabase
         .from('user_progress')
         .upsert(
