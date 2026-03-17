@@ -1,5 +1,5 @@
-import { useState, useEffect } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { useState, useEffect, useCallback } from 'react'
+import { useNavigate, useSearchParams } from 'react-router-dom'
 import { useAuth } from '../lib/AuthContext'
 import { db } from '../lib/db'
 import { getProgramMissions } from '../data/missions'
@@ -22,6 +22,7 @@ const PROGRAM_LABELS: Record<string, string> = {
 export default function TodayPage() {
   const { user } = useAuth()
   const navigate = useNavigate()
+  const [searchParams, setSearchParams] = useSearchParams()
   const [unlocked, setUnlocked]     = useState(false)
   const [completed, setCompleted]   = useState(false)
   const [dayIndex, setDayIndex]     = useState(0)
@@ -35,10 +36,26 @@ export default function TodayPage() {
 
   const mission: Mission | undefined = missions[dayIndex]
 
+  const markUnlocked = useCallback(async (userId: string) => {
+    const today = new Date().toISOString().split('T')[0]
+    await db.upsertProgress(userId, { last_unlocked_date: today })
+    setUnlocked(true)
+  }, [])
+
   useEffect(() => {
     if (!user) return
     loadProgress()
   }, [user])
+
+  // Handle return from Stripe payment
+  useEffect(() => {
+    if (!user) return
+    if (searchParams.get('payment') === 'success') {
+      // Remove the query param so refresh doesn't re-trigger
+      setSearchParams({}, { replace: true })
+      markUnlocked(user.id)
+    }
+  }, [user, searchParams, setSearchParams, markUnlocked])
 
   const loadProgress = async () => {
     const data = await db.getProgress(user!.id)
@@ -67,10 +84,10 @@ export default function TodayPage() {
 
   const handleUnlock = () => {
     if (isMock) {
-      setUnlocked(true)
+      markUnlocked(user!.id)
       return
     }
-    // Redirect to Stripe checkout — user returns to /today after payment
+    // Redirect to Stripe — after payment, Stripe redirects back to /today?payment=success
     window.location.href = 'https://buy.stripe.com/cNi7sK8hp4yRcPOh12bjW08'
   }
 
