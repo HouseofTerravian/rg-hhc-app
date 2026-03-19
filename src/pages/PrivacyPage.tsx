@@ -126,7 +126,7 @@ export default function PrivacyPage() {
             color: 'var(--text-dim)',
             textAlign: 'center',
           }}>
-            &copy; 2026 Chude Muonelo, MS, LPC. All rights reserved.<br />
+            &copy; 2026 Chude Muonelo. All rights reserved.<br />
             Operations by MCM Enterprises, a DBA of SlateRiver LLC.
           </div>
         </div>

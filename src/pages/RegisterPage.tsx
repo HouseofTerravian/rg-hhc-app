@@ -229,7 +229,7 @@ export default function RegisterPage() {
           textAlign: 'center',
           lineHeight: 1.4,
         }}>
-          &copy; 2026 Chude Muonelo, MS, LPC. All rights reserved.
+          &copy; 2026 Chude Muonelo. All rights reserved.
         </p>
       </div>
     </div>
