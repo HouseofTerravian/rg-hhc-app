@@ -22,6 +22,7 @@ export default function RegisterPage() {
   const [partnerEmail, setPartnerEmail] = useState('')
   const [partnerPhone, setPartnerPhone] = useState('')
 
+  const [agreed, setAgreed]   = useState(false)
   const [error, setError]     = useState('')
   const [loading, setLoading] = useState(false)
   const [step, setStep]       = useState<1 | 2>(1)
@@ -29,6 +30,7 @@ export default function RegisterPage() {
   const handleStep1 = (e: FormEvent) => {
     e.preventDefault()
     if (password.length < 8) { setError('Password must be at least 8 characters.'); return }
+    if (!agreed) { setError('You must agree to the Terms & Conditions to continue.'); return }
     setError('')
     setStep(2)
   }
@@ -75,7 +77,7 @@ export default function RegisterPage() {
           marginBottom: 16,
           justifyContent: 'center',
         }}>
-          🌐 &nbsp;Sign up with Noo World ID
+          &#127760; &nbsp;Sign up with Noo World ID
         </a>
 
         <div className="auth-divider">or create with email</div>
@@ -124,9 +126,35 @@ export default function RegisterPage() {
                   onChange={e => setPassword(e.target.value)}
                   placeholder="Min. 8 characters" required autoComplete="new-password" />
               </div>
+
+              {/* Terms agreement checkbox */}
+              <label style={{
+                display: 'flex',
+                alignItems: 'flex-start',
+                gap: 10,
+                marginBottom: 16,
+                fontSize: '0.82rem',
+                color: 'var(--text-secondary)',
+                lineHeight: 1.5,
+                cursor: 'pointer',
+              }}>
+                <input
+                  type="checkbox"
+                  checked={agreed}
+                  onChange={e => setAgreed(e.target.checked)}
+                  style={{ marginTop: 3, accentColor: 'var(--teal)', width: 16, height: 16, flexShrink: 0 }}
+                />
+                <span>
+                  I agree to the{' '}
+                  <Link to="/terms" style={{ color: 'var(--teal)', fontWeight: 600 }}>Terms &amp; Conditions</Link>
+                  {' '}and{' '}
+                  <Link to="/privacy" style={{ color: 'var(--teal)', fontWeight: 600 }}>Privacy Policy</Link>
+                </span>
+              </label>
+
               {error && <p className="form-error">{error}</p>}
               <button type="submit" className="btn btn-primary btn-full">
-                Continue →
+                Continue &rarr;
               </button>
             </form>
           </>
@@ -164,7 +192,7 @@ export default function RegisterPage() {
               {error && <p className="form-error">{error}</p>}
 
               <button type="submit" className="btn btn-primary btn-full" disabled={loading}>
-                {loading ? 'Creating account…' : 'Create Account'}
+                {loading ? 'Creating account\u2026' : 'Create Account'}
               </button>
 
               <button
@@ -174,7 +202,7 @@ export default function RegisterPage() {
                 onClick={handleSubmit as any}
                 disabled={loading}
               >
-                {loading ? '…' : 'Skip for now'}
+                {loading ? '\u2026' : 'Skip for now'}
               </button>
             </form>
           </>
@@ -184,12 +212,24 @@ export default function RegisterPage() {
           Already have an account? <Link to="/login">Sign in</Link>
         </div>
 
-        <p style={{ marginTop: 16, fontSize: '0.72rem', color: 'var(--text-dim)', textAlign: 'center', lineHeight: 1.5 }}>
-          By registering you agree to our{' '}
-          <a href="https://rg.hhc.travel/terms.html" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--teal)' }}>Terms</a>
-          {' '}and{' '}
-          <a href="https://rg.hhc.travel/privacy.html" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--teal)' }}>Privacy Policy</a>.
-          Not a therapy or counseling service.
+        <div style={{ marginTop: 16, display: 'flex', justifyContent: 'center', gap: 16, flexWrap: 'wrap' }}>
+          <Link to="/terms" style={{ fontSize: '0.75rem', color: 'var(--text-dim)' }}>Terms &amp; Conditions</Link>
+          <Link to="/privacy" style={{ fontSize: '0.75rem', color: 'var(--text-dim)' }}>Privacy Policy</Link>
+        </div>
+
+        <p style={{ marginTop: 12, fontSize: '0.72rem', color: 'var(--text-dim)', textAlign: 'center', lineHeight: 1.5 }}>
+          Not a therapy or counseling service. Use of this app does not
+          create a therapeutic or clinical relationship of any kind.
+        </p>
+
+        <p style={{
+          marginTop: 8,
+          fontSize: '0.7rem',
+          color: 'var(--text-dim)',
+          textAlign: 'center',
+          lineHeight: 1.4,
+        }}>
+          &copy; 2026 Chude Muonelo, MS, LPC. All rights reserved.
         </p>
       </div>
     </div>

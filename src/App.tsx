@@ -12,6 +12,9 @@ import AccountPage      from './pages/AccountPage'
 import ProgramsPage     from './pages/ProgramsPage'
 import IntegrationsPage from './pages/IntegrationsPage'
 import NooWorldCallbackPage from './pages/NooWorldCallbackPage'
+import ForgotPasswordPage from './pages/ForgotPasswordPage'
+import TermsPage   from './pages/TermsPage'
+import PrivacyPage from './pages/PrivacyPage'
 
 function ProtectedRoute({ children }: { children: React.ReactElement }) {
   const { user, loading } = useAuth()
@@ -29,7 +32,10 @@ function AppRoutes() {
         <Routes>
           <Route path="/"         element={<Navigate to={user ? '/today' : '/login'} replace />} />
           <Route path="/login"    element={user ? <Navigate to="/today" replace /> : <LoginPage />} />
-          <Route path="/register" element={user ? <Navigate to="/today" replace /> : <RegisterPage />} />
+          <Route path="/register"        element={user ? <Navigate to="/today" replace /> : <RegisterPage />} />
+          <Route path="/forgot-password" element={user ? <Navigate to="/today" replace /> : <ForgotPasswordPage />} />
+          <Route path="/terms"           element={<TermsPage />} />
+          <Route path="/privacy"         element={<PrivacyPage />} />
           <Route path="/programs" element={<ProtectedRoute><ProgramsPage /></ProtectedRoute>} />
           <Route path="/today"    element={<ProtectedRoute><TodayPage /></ProtectedRoute>} />
           <Route path="/history"  element={<ProtectedRoute><HistoryPage /></ProtectedRoute>} />
