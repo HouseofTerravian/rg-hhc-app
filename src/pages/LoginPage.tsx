@@ -28,7 +28,18 @@ export default function LoginPage() {
       <div className="auth-box">
         <div className="auth-logo">
           <div className="nav-logo-mark">RG</div>
-          Relationship Goals
+          <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start' }}>
+            <span>Relationship Goals</span>
+            {/* Style A: Subtle italic serif */}
+            <span style={{
+              fontSize: '0.65rem',
+              color: 'var(--text-dim)',
+              fontFamily: 'Georgia, serif',
+              fontStyle: 'italic',
+              fontWeight: 400,
+              marginTop: 1,
+            }}>by HHC Travel&#8482;</span>
+          </div>
         </div>
 
         {/* Noo World SSO */}

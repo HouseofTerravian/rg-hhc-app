@@ -67,7 +67,18 @@ export default function RegisterPage() {
       <div className="auth-box">
         <div className="auth-logo">
           <div className="nav-logo-mark">RG</div>
-          Relationship Goals
+          <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start' }}>
+            <span>Relationship Goals</span>
+            {/* Style B: Uppercase tracking (luxury brand feel) */}
+            <span style={{
+              fontSize: '0.55rem',
+              color: 'var(--teal)',
+              fontWeight: 700,
+              textTransform: 'uppercase',
+              letterSpacing: '0.18em',
+              marginTop: 2,
+            }}>by HHC Travel&#8482;</span>
+          </div>
         </div>
 
         {/* Noo World SSO */}

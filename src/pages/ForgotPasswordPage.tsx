@@ -37,7 +37,21 @@ export default function ForgotPasswordPage() {
       <div className="auth-box">
         <div className="auth-logo">
           <div className="nav-logo-mark">RG</div>
-          Relationship Goals
+          <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start' }}>
+            <span>Relationship Goals</span>
+            {/* Style C: Pill badge */}
+            <span style={{
+              fontSize: '0.58rem',
+              color: 'var(--teal)',
+              fontWeight: 600,
+              marginTop: 4,
+              background: 'var(--teal)' + '12',
+              border: '1px solid var(--teal)' + '30',
+              padding: '2px 10px',
+              borderRadius: 100,
+              letterSpacing: '0.04em',
+            }}>by HHC Travel&#8482;</span>
+          </div>
         </div>
 
         {sent ? (
