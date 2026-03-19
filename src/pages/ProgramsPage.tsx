@@ -61,6 +61,13 @@ const PROGRAMS = [
     days: 365,
     description: "A year-long daily commitment to deepening everything: intimacy, trust, shared meaning, and lasting connection. Build something extraordinary — one day at a time.",
   },
+  {
+    slug: 'faith-based',
+    emoji: '🕊️',
+    title: 'Faith-Based',
+    days: 30,
+    description: "For couples of all faith orientations — Christian, Muslim, Jewish, Buddhist, Hindu, Indigenous, spiritual-but-not-religious, and interfaith. Explore how your beliefs shape your love, build shared spiritual practices, and honor what is sacred in each other's traditions.",
+  },
 ]
 
 export default function ProgramsPage() {
