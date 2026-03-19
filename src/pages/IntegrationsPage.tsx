@@ -15,20 +15,31 @@ interface EcosystemApp {
 
 const ECOSYSTEM: EcosystemApp[] = [
   {
-    id: 'crystallize-lovers',
-    name: 'Crystallize Lovers',
-    tagline: 'The membership community behind Relationship Goals',
+    id: 'hhc-travel',
+    name: 'HHC Travel\u2122',
+    tagline: 'The official travel destination of couples who travel',
     description:
-      'Go deeper. Crystallize Lovers is the full membership experience — community, courses, events, and relationship coaching programs. Relationship Goals is your daily practice. Crystallize Lovers is the movement.',
-    icon: '💎',
+      'HHC Travel\u2122 is the parent brand behind Relationship Goals, Happy Holiday Couples, and Crystallized Lovers\u2122. Browse curated couple destinations, cruises, and all-inclusive getaways — earn your way there through daily missions.',
+    icon: '✈️',
     color: '#0E7C7B',
-    url: 'https://crystallizelovers.com',
-    cta: 'Explore Crystallize Lovers',
+    url: 'https://hhc.travel',
+    cta: 'Explore HHC Travel\u2122',
     badge: 'Parent Brand',
   },
   {
+    id: 'crystallized-lovers',
+    name: 'Crystallized Lovers\u2122',
+    tagline: 'The membership community behind Relationship Goals',
+    description:
+      'Go deeper. Crystallized Lovers\u2122 is the full membership experience — community, courses, events, and relationship coaching programs. Relationship Goals is your daily practice. Crystallized Lovers\u2122 is the movement.',
+    icon: '💎',
+    color: '#E8603C',
+    url: 'https://crystallizelovers.com',
+    cta: 'Explore Crystallized Lovers\u2122',
+  },
+  {
     id: 'support-groups',
-    name: 'Support Groups Online',
+    name: 'SupportGroups.online',
     tagline: 'Find or host a support group for anything',
     description:
       'Moderated virtual support groups for every life challenge — grief, addiction recovery, relationship issues, mental health, and more. Find a group, join a session, or host your own.',
@@ -39,26 +50,37 @@ const ECOSYSTEM: EcosystemApp[] = [
   },
   {
     id: 'win-the-hour',
-    name: 'Win The Hour!™',
+    name: 'Win The Hour!\u2122',
     tagline: 'The daily hour-by-hour time ownership app',
     description:
-      'Win The Hour! helps individuals track, rate, and own every hour of the day. Daily check-ins, Beast Mode, and identity-building streaks. If you\'re doing the relationship work, do the personal work too.',
+      'Win The Hour!\u2122 helps individuals track, rate, and own every hour of the day. Daily check-ins, Beast Mode, and identity-building streaks. If you\'re doing the relationship work, do the personal work too.',
     icon: '⏱',
     color: '#FF5E1A',
     url: 'https://winthehour.app',
-    cta: 'Download Win The Hour!',
+    cta: 'Download Win The Hour!\u2122',
     badge: 'iOS + Android',
   },
   {
     id: 'own-the-hour',
-    name: 'Own The Hour',
+    name: 'Own The Hour\u2122',
     tagline: 'Master your time. Own your life.',
     description:
-      'Own The Hour is the professional and team-facing companion to Win The Hour! — built for focus, accountability, and high-performance daily execution.',
+      'Own The Hour\u2122 is the professional and team-facing companion to Win The Hour!\u2122 — built for focus, accountability, and high-performance daily execution.',
     icon: '🏆',
     color: '#1B3A6B',
     url: 'https://ownthehour.app',
-    cta: 'Explore Own The Hour',
+    cta: 'Explore Own The Hour\u2122',
+  },
+  {
+    id: 'step-league',
+    name: 'Step League\u2122',
+    tagline: 'Gamified step competitions for couples and teams',
+    description:
+      'Step League\u2122 turns your daily steps into a competitive sport. Compete with your partner, friends, or teams in weekly step challenges. Walk together, win together.',
+    icon: '👟',
+    color: '#00A896',
+    url: 'https://stepleague.online',
+    cta: 'Join Step League\u2122',
   },
 ]
 
@@ -196,7 +218,7 @@ export default function IntegrationsPage() {
 
         <p style={{ fontSize: '0.75rem', color: 'var(--text-dim)', textAlign: 'center', marginTop: 8, lineHeight: 1.6 }}>
           All platforms are part of the Terravian ecosystem.<br />
-          © 2026 Chude Muonelo · Crystallize Lovers, a DBA of SlateRiver LLC
+          © 2026 Chude Muonelo · Crystallized Lovers&#8482;, a DBA of SlateRiver LLC
         </p>
       </div>
 

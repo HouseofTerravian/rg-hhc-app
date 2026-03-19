@@ -23,7 +23,10 @@ export default function AppNav() {
       <nav className="top-nav">
         <div className="nav-logo">
           <div className="nav-logo-mark">RG</div>
-          <span>Relationship Goals</span>
+          <span style={{ display: 'flex', flexDirection: 'column', lineHeight: 1.2 }}>
+            <span>Relationship Goals</span>
+            <span style={{ fontSize: '0.6rem', color: 'var(--text-dim)', fontWeight: 400, letterSpacing: '0.02em' }}>by HHC Travel&#8482;</span>
+          </span>
         </div>
         <div className="nav-right">
           <a
