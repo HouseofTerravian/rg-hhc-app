@@ -7,6 +7,7 @@ const progressKey = (uid: string) => `rg_progress_${uid}`
 const historyKey  = (uid: string) => `rg_history_${uid}`
 const couponsKey  = (uid: string) => `rg_coupons_${uid}`
 const profileKey  = (uid: string) => `rg_profile_${uid}`
+const paidMissionsKey = (uid: string) => `rg_paid_missions_${uid}`
 
 function seedCoupons(userId: string) {
   if (localStorage.getItem(couponsKey(userId))) return
@@ -155,5 +156,31 @@ export const db = {
     await supabase
       .from('user_profiles')
       .upsert({ user_id: userId, ...data }, { onConflict: 'user_id' })
+  },
+
+  async getPaidMissions(userId: string): Promise<string[]> {
+    if (isMock) {
+      const raw = localStorage.getItem(paidMissionsKey(userId))
+      return raw ? JSON.parse(raw) : []
+    }
+    const { data } = await supabase
+      .from('paid_missions')
+      .select('mission_key')
+      .eq('user_id', userId)
+    return data?.map((r: { mission_key: string }) => r.mission_key) ?? []
+  },
+
+  async markMissionPaid(userId: string, missionKey: string) {
+    if (isMock) {
+      const paid = await db.getPaidMissions(userId)
+      if (!paid.includes(missionKey)) {
+        paid.push(missionKey)
+        localStorage.setItem(paidMissionsKey(userId), JSON.stringify(paid))
+      }
+      return
+    }
+    await supabase
+      .from('paid_missions')
+      .upsert({ user_id: userId, mission_key: missionKey, paid_at: new Date().toISOString() }, { onConflict: 'user_id,mission_key' })
   },
 }

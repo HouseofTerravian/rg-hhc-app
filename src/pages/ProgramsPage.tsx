@@ -74,28 +74,27 @@ export default function ProgramsPage() {
   const { user } = useAuth()
   const navigate = useNavigate()
   const [currentProgram, setCurrentProgram] = useState<string | null>(null)
+  const [currentDay, setCurrentDay] = useState(0)
+  const [programLength, setProgramLength] = useState(0)
   const [loading, setLoading] = useState(true)
+
+  const programComplete = currentProgram !== null && currentDay >= programLength
 
   useEffect(() => {
     if (!user) return
     db.getProgress(user.id).then(data => {
       setCurrentProgram(data?.program ?? null)
+      setCurrentDay(data?.current_day ?? 0)
+      if (data?.program) {
+        const match = PROGRAMS.find(p => p.slug === data.program)
+        setProgramLength(match?.days ?? 0)
+      }
       setLoading(false)
     })
   }, [user])
 
   const selectProgram = async (slug: string) => {
     if (!user) return
-    await db.upsertProgress(user.id, { program: slug, current_day: 0 })
-    navigate('/today')
-  }
-
-  const switchProgram = async (slug: string) => {
-    if (!user) return
-    const confirmed = window.confirm(
-      "Switching programs will reset your daily progress to Day 1 of the new program. Your history and credits are kept. Continue?"
-    )
-    if (!confirmed) return
     await db.upsertProgress(user.id, { program: slug, current_day: 0 })
     navigate('/today')
   }
@@ -114,9 +113,11 @@ export default function ProgramsPage() {
             Choose Your Program
           </h2>
           <p style={{ fontSize: '0.85rem', color: 'var(--text-mid)', margin: 0 }}>
-            {currentProgram
-              ? "Switch to a new program or continue your current journey."
-              : "Start where you are. Every program is built for a specific challenge."}
+            {!currentProgram
+              ? "Start where you are. Every program is built for a specific challenge."
+              : programComplete
+                ? "You completed your program! Choose your next journey."
+                : "Finish your current program to unlock new ones."}
           </p>
         </div>
       </div>
@@ -173,12 +174,20 @@ export default function ProgramsPage() {
                   >
                     Continue Program →
                   </button>
+                ) : currentProgram && !programComplete ? (
+                  <button
+                    className="btn btn-sm"
+                    disabled
+                    style={{ opacity: 0.5, cursor: 'not-allowed' }}
+                  >
+                    🔒 Finish Current Program First
+                  </button>
                 ) : (
                   <button
                     className="btn btn-primary btn-sm"
-                    onClick={() => currentProgram ? switchProgram(p.slug) : selectProgram(p.slug)}
+                    onClick={() => selectProgram(p.slug)}
                   >
-                    {currentProgram ? 'Switch to This Program' : 'Start This Program'}
+                    Start This Program
                   </button>
                 )}
               </div>

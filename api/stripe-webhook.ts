@@ -47,15 +47,24 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     const today = new Date().toISOString().split('T')[0]
     const amount = session.amount_total ?? 0
 
-    // Daily mission unlock ($0.99 = 99 cents)
+    // Daily mission unlock ($1 = 100 cents)
     if (amount === 100) {
+      const missionKey = session.metadata?.mission_key
       await supabase
         .from('user_progress')
         .upsert(
           { user_id: userId, last_unlocked_date: today },
           { onConflict: 'user_id' },
         )
-      console.log(`Mission unlocked for user ${userId} on ${today}`)
+      if (missionKey) {
+        await supabase
+          .from('paid_missions')
+          .upsert(
+            { user_id: userId, mission_key: missionKey, paid_at: new Date().toISOString() },
+            { onConflict: 'user_id,mission_key' },
+          )
+      }
+      console.log(`Mission ${missionKey ?? 'unknown'} unlocked for user ${userId} on ${today}`)
     }
 
     // 365-Day Pledge ($299 = 29900 cents)

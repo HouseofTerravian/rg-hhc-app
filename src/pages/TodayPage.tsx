@@ -33,11 +33,13 @@ export default function TodayPage() {
   const [activePrompt, setActivePrompt] = useState<number | null>(null)
   const [program, setProgram]       = useState<string>('reconnect')
   const [missions, setMissions]     = useState<Mission[]>([])
-
   const mission: Mission | undefined = missions[dayIndex]
+  // Unique key for the current mission: "program:day"
+  const missionKey = mission ? `${program}:${dayIndex}` : ''
 
-  const markUnlocked = useCallback(async (userId: string) => {
+  const markUnlocked = useCallback(async (userId: string, key: string) => {
     const today = new Date().toISOString().split('T')[0]
+    await db.markMissionPaid(userId, key)
     await db.upsertProgress(userId, { last_unlocked_date: today })
     setUnlocked(true)
   }, [])
@@ -49,13 +51,13 @@ export default function TodayPage() {
 
   // Handle return from Stripe payment
   useEffect(() => {
-    if (!user) return
+    if (!user || !missionKey) return
     if (searchParams.get('payment') === 'success') {
       // Remove the query param so refresh doesn't re-trigger
       setSearchParams({}, { replace: true })
-      markUnlocked(user.id)
+      markUnlocked(user.id, missionKey)
     }
-  }, [user, searchParams, setSearchParams, markUnlocked])
+  }, [user, missionKey, searchParams, setSearchParams, markUnlocked])
 
   const loadProgress = async () => {
     const data = await db.getProgress(user!.id)
@@ -68,13 +70,23 @@ export default function TodayPage() {
       setProgram(data.program)
       const programMissions = getProgramMissions(data.program)
       setMissions(programMissions)
-      setDayIndex(data.current_day ?? 0)
+      const day = data.current_day ?? 0
+      setDayIndex(day)
       setStreak(data.streak ?? 0)
       setTotalDone(data.total_completed ?? 0)
       setCredits(data.vacation_credits ?? 0)
       const today = new Date().toISOString().split('T')[0]
-      setUnlocked(data.last_unlocked_date === today)
       setCompleted(data.last_completed_date === today)
+
+      // Check if this specific mission has been paid for (or user has pledge)
+      if (data.pledge_type === 'annual') {
+        // Pledge holders: unlocked if not already completed today
+        setUnlocked(data.last_completed_date !== today)
+      } else {
+        const currentKey = `${data.program}:${day}`
+        const paidMissions = await db.getPaidMissions(user!.id)
+        setUnlocked(paidMissions.includes(currentKey))
+      }
     } else {
       navigate('/programs', { replace: true })
       return
@@ -84,7 +96,7 @@ export default function TodayPage() {
 
   const handleUnlock = () => {
     if (isMock) {
-      markUnlocked(user!.id)
+      markUnlocked(user!.id, missionKey)
       return
     }
     // Redirect to Stripe — after payment, Stripe redirects back to /today?payment=success
@@ -187,20 +199,6 @@ export default function TodayPage() {
           <span style={{ fontSize: '0.8rem', color: 'var(--teal-dark)', fontWeight: 600 }}>
             {PROGRAM_LABELS[program] ?? program} — Day {dayIndex + 1} of {missions.length}
           </span>
-          <button
-            onClick={() => navigate('/programs')}
-            style={{
-              background: 'none',
-              border: 'none',
-              color: 'var(--teal)',
-              fontSize: '0.75rem',
-              fontWeight: 600,
-              cursor: 'pointer',
-              padding: 0,
-            }}
-          >
-            Switch ↗
-          </button>
         </div>
 
         {/* Mission card */}
